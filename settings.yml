@@ -20,7 +20,7 @@ global:
   # Short domain name for the landscape (usually this would change 'l' for 'landscape'
   short_domain: l.camaraproject.org
   # Your project's website
-  company_url: https://camaraproject
+  company_url: https://camaraproject.org
   # General contact email for the landscape
   email: operations@camaraproject.org
   # Crunchbase entry for your project - fill in 
@@ -50,11 +50,11 @@ twitter:
   text: CAMARA Fund
 # Complete this section for identifying hosted projects of your project, along with member projects
 relation:
-  label: PROJECTNAME Relation
-  url: todo
+  label: CAMARA Relation
+  url: todo # Unsure
   values:
     - id: hosted
-      label: PROJECTNAME Projects
+      label: CAMARA Projects
       # children to identify maturity levels ( incubation, active, etc ). If there aren't multiple levels, then just complete like below.
       children:
         - id: foundationproject
@@ -78,10 +78,23 @@ relation:
 # membership levels
 membership:
   # category for project members
+  Premier:
+    name: CAMARA
+    label: Premier Member
+    end_user_label: Primer Memmber
+    funding: Premier
+    is_large: true
   General:
-    name: PROJECTNAME
-    label: Member
+    name: CAMARA
+    label: General Member
+    end_user_label: General Memmber
     funding: General
+    is_large: true
+  Associate: 
+    name: CAMARA
+    label: Associate Member
+    end_user_label: Associate Memmber
+    funding: Associate
   # category for LF members
   linux_foundation:
     name: LF
@@ -93,7 +106,7 @@ membership:
 home:
   # update to change the header text
   header: >
-    <h1>LANDSCAPENAME</h1> The LANDSCAPENAME (<a target="_blank" href="images/landscape.png">png</a>, <a target="_blank"
+    <h1>LANDSCAPENAME</h1> The CAMARA (<a target="_blank" href="images/landscape.png">png</a>, <a target="_blank"
     href="images/landscape.pdf">pdf</a>) is dynamically generated below. It is modeled after the <a href="http://landscape.cncf.io">CNCF landscape</a> and based
     on the same open source code.
   # don't change this
@@ -125,12 +138,12 @@ big_picture:
     tab_index: -1
     url: landscape
     name: Landscape
-    title: LANDSCAPENAME
-    fullscreen_header: See the interactive landscape at l.DOMAINNAME
+    title: CAMARA
+    fullscreen_header: See the interactive landscape at l.camaraproject.org
     # add one element for each category in landscape.yml
     elements:
       - type: HorizontalCategory
-        category: PROJECTNAME Member
+        category: CAMARA Member
         rows: 4
         width: 650
         height: 150
@@ -147,7 +160,7 @@ big_picture:
         children:
           - type: text
             text: |
-              This landscape is intended as a map to explore the PROJECTNAME community, and also shows the member organizations of the PROJECTNAME.
+              This landscape is intended as a map to explore the CAMARA community, and also shows the member organizations of the PROJECTNAME.
             top: 45
             left: 140
             right: 10
