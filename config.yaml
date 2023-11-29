@@ -1,5 +1,5 @@
-# landscape short name
-landscapeName: CAMARA
+# landscape short name use slug from PCC
+landscapeName: camarafund
 # Update with your membership structure
 landscapeMemberClasses:
    - name: Premier Membership
