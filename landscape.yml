@@ -8,61 +8,61 @@ landscape:
       - item: 
         name: Accenture Global Solutions Ltd.
         homepage_url: https://accenture.com
-        logo:
+        logo: accenture.png
         twitter:
         crunchbase:
       - item: 
         name: Telefonica S.A.
         homepage_url: telefonica.com
-        logo:
+        logo: telefonica.png
         twitter:
         crunchbase:
       - item: 
         name: Nokia Corp.
         homepage_url: https://nokia.com
-        logo:
+        logo: nokia.png
         twitter:
         crunchbase:
       - item: 
         name: Ericsson
         homepage_url: https://ericsson.com
-        logo:
+        logo: ericsson.png
         twitter:
         crunchbase:
       - item: 
         name: Orange SA
         homepage_url: https://orange.com
-        logo:
+        logo: orange.png
         twitter:
         crunchbase:
       - item: 
         name: Vodafone
         homepage_url: https://vodafone.com
-        logo:
+        logo: vodafone.png
         twitter:
         crunchbase:
       - item: 
         name: Verizon
         homepage_url: https://verizon.com
-        logo:
+        logo: verizon.png
         twitter:
         crunchbase:
       - item: 
         name: Microsoft
         homepage_url: https://microsoft.com
-        logo:
+        logo: microsoft.png
         twitter:
         crunchbase:
       - item: 
         name: T-Mobile PCS
         homepage_url: https://t-mobile.com
-        logo:
+        logo: t-mobile.png
         twitter:
         crunchbase:
       - item: 
         name: Deutsche Telekom AG
         homepage_url: https://telekom.com
-        logo:
+        logo: dt.png
         twitter:
         crunchbase:
     - subcategory:
@@ -71,37 +71,37 @@ landscape:
       - item: 
         name: Charter Communications
         homepage_url: https://spectrum.com
-        logo:
+        logo: charter.png
         twitter:
         crunchbase:
       - item: 
         name: Invia
         homepage_url: https://invia.com.au
-        logo:
+        logo: invia.png
         twitter:
         crunchbase:
       - item: 
         name: Scenera Inc
         homepage_url: https://scenera.net
-        logo:
+        logo: scerna.png
         twitter:
         crunchbase:
       - item: 
         name: Cable Television Laboratories Inc.
         homepage_url: https://cablelabs.com
-        logo:
+        logo: cablelabs.png
         twitter:
         crunchbase:
       - item: 
         name: Centillion
         homepage_url: https://centillion.ai
-        logo:
+        logo: centillion.png
         twitter:
         crunchbase:
       - item: 
         name: Shabodi
         homepage_url: https://shabodi.com
-        logo:
+        logo: shabodi.png
         twitter:
         crunchbase:
     - subcategory:
@@ -110,7 +110,7 @@ landscape:
       - item:
         name: OpenID Foundation
         homepage_url: https://openid.org
-        logo:
+        logo: openid.png
         twitter:
         crunchbase:
   - category:
