@@ -1,1 +1,121 @@
 landscape:
+  - category:
+  name: Members
+  subcategories:
+    - subcategory:
+    name: Premier
+    items:
+      - item: 
+        name: Accenture Global Solutions Ltd.
+        homepage_url: https://accenture.com
+        logo:
+        twitter:
+        crunchbase:
+      - item: 
+        name: Telefonica S.A.
+        homepage_url: telefonica.com
+        logo:
+        twitter:
+        crunchbase:
+      - item: 
+        name: Nokia Corp.
+        homepage_url: https://nokia.com
+        logo:
+        twitter:
+        crunchbase:
+      - item: 
+        name: Ericsson
+        homepage_url: https://ericsson.com
+        logo:
+        twitter:
+        crunchbase:
+      - item: 
+        name: Orange SA
+        homepage_url: https://orange.com
+        logo:
+        twitter:
+        crunchbase:
+      - item: 
+        name: Vodafone
+        homepage_url: https://vodafone.com
+        logo:
+        twitter:
+        crunchbase:
+      - item: 
+        name: Verizon
+        homepage_url: https://verizon.com
+        logo:
+        twitter:
+        crunchbase:
+      - item: 
+        name: Microsoft
+        homepage_url: https://microsoft.com
+        logo:
+        twitter:
+        crunchbase:
+      - item: 
+        name: T-Mobile PCS
+        homepage_url: https://t-mobile.com
+        logo:
+        twitter:
+        crunchbase:
+      - item: 
+        name: Deutsche Telekom AG
+        homepage_url: https://telekom.com
+        logo:
+        twitter:
+        crunchbase:
+    - subcategory:
+    name: General
+    items:
+      - item: 
+        name: Charter Communications
+        homepage_url: https://spectrum.com
+        logo:
+        twitter:
+        crunchbase:
+      - item: 
+        name: Invia
+        homepage_url: https://invia.com.au
+        logo:
+        twitter:
+        crunchbase:
+      - item: 
+        name: Scenera Inc
+        homepage_url: https://scenera.net
+        logo:
+        twitter:
+        crunchbase:
+      - item: 
+        name: Cable Television Laboratories Inc.
+        homepage_url: https://cablelabs.com
+        logo:
+        twitter:
+        crunchbase:
+      - item: 
+        name: Centillion
+        homepage_url: https://centillion.ai
+        logo:
+        twitter:
+        crunchbase:
+      - item: 
+        name: Shabodi
+        homepage_url: https://shabodi.com
+        logo:
+        twitter:
+        crunchbase:
+    - subcategory:
+    name: Associate Membership
+    items:
+      - item:
+        name: OpenID Foundation
+        homepage_url: https://openid.org
+        logo:
+        twitter:
+        crunchbase:
+  - category:
+  name: Participating Organizations 
+  items:
+    - item:
+      name:
+  
