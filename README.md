@@ -70,6 +70,14 @@ Additional keys that can be set are defined below:
   slack_url: 
   chat_channel:
   clomonitor_name:
+  maling_list_url:
+  summary_tags:
+  summary_use_case:
+  summary_business_use_case:
+  summary_release_date:
+  summary_integrations:
+  summary_intro_url:
+  clomonitor_name:
 ```
 
 For some of the key, there is some guidance as listed below.
