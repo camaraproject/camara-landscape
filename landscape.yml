@@ -117,6 +117,16 @@ landscape:
         logo: acldigital.svg
         crunchbase: https://www.crunchbase.com/organization/alten-calsoft-labs
       - item:
+        name: Akross
+        homepage_url: https://www.akross.com.br/pt/
+        logo: akross.svg
+        crunchbase: https://www.crunchbase.com/organization/akross
+      - item:
+        name: Amantya
+        homepage_url: 
+        logo: amantya.svg
+        crunchbase: https://www.crunchbase.com/organization/amantya-technologies
+      - item:
         name: Amdocs
         homepage_url: https://www.amdocs.com/
         logo: amdocs.svg
@@ -175,6 +185,26 @@ landscape:
         homepage_url: https://www.cisco.com/
         logo: cisco.svg
         crunchbase: https://www.crunchbase.com/organization/cisco
+      - item:
+        name: CKH CK Hutchison Holdings
+        homepage_url: http://www.ckh.com.hk/
+        logo: ckh.svg
+        crunchbase: https://www.crunchbase.com/organization/ck-investments
+      - item:
+        name: CloudoniX
+        homepage_url: https://www.cloudonix.com/
+        logo: cloudonix.svg
+        crunchbase: https://www.crunchbase.com/organization/cloudonix-io
+      - item:
+        name: CodeB
+        homepage_url: codeb.io
+        logo: codeb.svg
+        crunchbase: 
+      - item:
+        name: Colony
+        homepage_url: https://www.colonynetworks.com/
+        logo: 
+        crunchbase: https://www.crunchbase.com/organization/colony-networks
       - item:
         name: Cognizant
         homepage_url: https://www.cognizant.com/
@@ -322,6 +352,15 @@ landscape:
         homepage_url: https://www.mavenir.com/
         logo: mavenir.svg
       - item:
+        name: Nabstract.io
+        homepage_url: https://nabstract.io
+        logo: nabstract.svg
+      - item:
+        name: Nearby Computing
+        homepage_url: https://nearbycomputing.com/
+        logo: nearbycomputing.svg
+        crunchbase: https://www.crunchbase.com/organization/nearby-computing
+      - item:
         name: Netcracker
         homepage_url: https://www.netcracker.com/
         logo: netcracker.svg
@@ -389,6 +428,11 @@ landscape:
         name: Summit
         homepage_url: https://www.summit-tech.ca/
         logo: summit.svg
+      - item:
+        name: Swisscom
+        homepage_url: https://www.swisscom.ch/
+        logo: swisscom.svg
+        crunchbase: https://www.crunchbase.com/organization/swisscom
       - item:
         name: Syniverse
         homepage_url: https://www.syniverse.com/
