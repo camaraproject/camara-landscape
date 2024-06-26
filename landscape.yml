@@ -103,6 +103,11 @@ landscape:
       name: Participating Organizations
       items:
       - item:
+        name: 1NCE
+        homepage_url: https://1nce.com/
+        logo: 1nce.svg
+        crunchbase: https://www.crunchbase.com/organization/1nce-gmbh
+      - item:
         name: 5GFF
         homepage_url: https://www.5gff.org/
         logo: 5gff.svg
@@ -334,6 +339,11 @@ landscape:
         name: KDDI
         homepage_url: https://www.kddi.com/
         logo: kddi.svg
+      - item:
+        name: LatenceTech
+        homepage_url: https://www.latencetech.com/
+        logo: latencetech.svg
+        crunchbase: https://www.crunchbase.com/organization/latence-technologies
       - item:
         name: Lenovo
         homepage_url: https://www.lenovo.com/
