@@ -1,6 +1,18 @@
 ## Quick Info:
-+ To edit the Landscape, please follow the instructions below
-+ CAMARA Landscape Settings https://github.com/cncf/landscape2-sites/blob/main/camara/settings.yml
+
++ Landscape is used to maintain Member and project information on our website
++ To edit the Landscape, please follow the instructions below:
+  + Logos must be added to the `hosted_logos` folder in `.svg` format
+  + The `landscape.yml` file is separated into 2 sections: Members and Participating Organizations. To add a new entry, add the following to the appropriate section of `landscape.yml`:
+    ```yaml
+    - item:
+        name: <name of your organization>
+        homepage_url: <organization webpage>
+        logo: <name of .svg image uploaded to the hosted_logos folder>
+        crunchbase: <URL to Crunchbase reference landing page for your Org>
+    ```
++ CAMARA Landscape Settings: https://github.com/cncf/landscape2-sites/blob/main/camara/settings.yml
+
 
 # How it works
 Landscape2 is a CLI tool that generates static websites from the information available in the data sources provided. These data sources are passed to the tool via arguments, usually in the form of urls or local paths, and are as follows:
