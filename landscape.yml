@@ -405,6 +405,7 @@ landscape:
         name: Red Hat
         homepage_url: https://www.redhat.com/
         logo: redhat.svg
+        crunchbase: https://www.crunchbase.com/organization/red-hat
       - item:
         name: Reply
         homepage_url: https://www.reply.com/
