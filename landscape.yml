@@ -402,6 +402,10 @@ landscape:
         homepage_url: https://www.radisys.com/
         logo: radisys.svg
       - item:
+        name: Red Hat
+        homepage_url: https://www.redhat.com/
+        logo: redhat.svg
+      - item:
         name: Reply
         homepage_url: https://www.reply.com/
         logo: replylive.svg
