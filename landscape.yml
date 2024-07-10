@@ -274,6 +274,11 @@ landscape:
         homepage_url: https://www.etiya.com/
         logo: etiya.svg
       - item:
+        name: Eviden
+        homepage_url: https://eviden.com/
+        logo: eviden.svg
+        crunchbase: https://www.crunchbase.com/organization/eviden
+      - item:
         name: F5
         homepage_url: https://www.f5.com/
         logo: f5.svg
@@ -340,6 +345,11 @@ landscape:
         homepage_url: https://www.iquall.net/
         logo: iquall.svg
       - item:
+        name: Italtel
+        homepage_url: http://www.italtel.com/
+        logo: italtel.svg
+        crunchbase: https://www.crunchbase.com/organization/italtel
+      - item:
         name: KDDI
         homepage_url: https://www.kddi.com/
         logo: kddi.svg
@@ -394,6 +404,11 @@ landscape:
         homepage_url: https://www.opensesame.com/
         logo: opensesame.svg
       - item:
+        name: Optiva
+        homepage_url: https://www.optiva.com/
+        logo: optiva.svg
+        crunchbase: https://www.crunchbase.com/organization/optiva
+      - item:
         name: Oracle
         homepage_url: https://www.oracle.com/
         logo: oracle.svg
@@ -439,6 +454,11 @@ landscape:
         homepage_url: https://www.spryfoxnetworks.com/
         logo: spryfox.svg
       - item:
+        name: Startelelogic
+        homepage_url: https://www.startelelogic.com/
+        logo: startelelogic.svg
+        crunchbase: https://www.crunchbase.com/organization/startele-logic
+      - item:
         name: StarHub
         homepage_url: https://www.starhub.com/
         logo: starhub.svg
@@ -467,6 +487,10 @@ landscape:
         name: TIM
         homepage_url: https://www.tim.com.br/
         logo: tim.svg
+      - item:
+        name: TruSense
+        homepage_url: https://trusense.id/
+        logo: trusense.svg
       - item:
         name: VROMBR
         homepage_url: https://vrombr.games
