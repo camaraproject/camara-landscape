@@ -363,6 +363,11 @@ landscape:
         homepage_url: https://www.lenovo.com/
         logo: lenovo.svg
       - item:
+        name: Linux Foundation
+        homepage_url: https://www.linuxfoundation.org
+        logo: lfcolor.svg
+        crunchbase: https://www.crunchbase.com/organization/linux-foundation
+      - item:
         name: LotusFlare
         homepage_url: https://www.lotusflare.com/
         logo: lotusflare.svg
