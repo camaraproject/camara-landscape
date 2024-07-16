@@ -122,6 +122,21 @@ landscape:
         logo: acldigital.svg
         crunchbase: https://www.crunchbase.com/organization/alten-calsoft-labs
       - item:
+        name: Akross
+        homepage_url: https://www.akross.com.br/pt/
+        logo: akross.svg
+        crunchbase: https://www.crunchbase.com/organization/akross
+      - item:
+        name: Amdocs
+        homepage_url: https://www.amdocs.com/
+        logo: amdocs.svg
+        crunchbase: https://www.crunchbase.com/organization/amdocs
+      - item:
+        name: Amantya
+        homepage_url: https://amantyatech.com/
+        logo: amantya.svg
+        crunchbase: https://www.crunchbase.com/organization/amantya-technologies
+      - item:
         name: AT&T
         homepage_url: https://www.att.com/
         logo: att.svg
@@ -141,29 +156,14 @@ landscape:
         logo: axiatadigitallabs.svg
         crunchbase: https://www.crunchbase.com/organization/axiata-digital-labs
       - item:
-        name: Akross
-        homepage_url: https://www.akross.com.br/pt/
-        logo: akross.svg
-        crunchbase: https://www.crunchbase.com/organization/akross
-      - item:
-        name: Amantya
-        homepage_url: https://amantyatech.com/
-        logo: amantya.svg
-        crunchbase: https://www.crunchbase.com/organization/amantya-technologies
-      - item:
-        name: Amdocs
-        homepage_url: https://www.amdocs.com/
-        logo: amdocs.svg
-        crunchbase: https://www.crunchbase.com/organization/amdocs
+        name: BCTI - A Network API Company
+        homepage_url: https://www.brianchin.co
+        logo: bcti.svg
       - item:
         name: BearingPoint
         homepage_url: https://www.bearingpoint.com/
         logo: bearingpoint.svg
         crunchbase: https://www.crunchbase.com/organization/bearingpoint
-      - item:
-        name: BCTI - A Network API Company
-        homepage_url: https://www.brianchin.co
-        logo: bcti.svg
       - item:
         name: Bridge Alliance
         homepage_url: https://www.bridgealliance.us/
@@ -243,10 +243,6 @@ landscape:
         logo: detecon.svg
         crunchbase: https://www.crunchbase.com/organization/detecon-international-consulting
       - item:
-        name: National Centre of Scientific Research - Demokritos
-        homepage_url: https://www.demokritos.gr/
-        logo: demokritos.svg
-      - item:
         name: Domos
         homepage_url: https://www.joindomos.com/
         logo: domos.svg
@@ -305,13 +301,13 @@ landscape:
         homepage_url: https://www.hcltechsw.com/
         logo: hcl.svg
       - item:
-        name: HKT
-        homepage_url: https://www.hkt.com/
-        logo: hkt.svg
-      - item:
         name: Hewlett Packard Enterprise
         homepage_url: https://www.hpe.com/
         logo: hpe.svg
+      - item:
+        name: HKT
+        homepage_url: https://www.hkt.com/
+        logo: hkt.svg
       - item:
         name: Huawei
         homepage_url: https://www.huawei.com/
@@ -433,6 +429,10 @@ landscape:
         homepage_url: https://www.nos.pt/
         logo: nos.svg
       - item:
+        name: National Centre of Scientific Research - Demokritos
+        homepage_url: https://www.demokritos.gr/
+        logo: demokritos.svg
+      - item:
         name: NTT DATA
         homepage_url: https://www.nttdata.com/
         logo: nttdata.svg
@@ -491,14 +491,14 @@ landscape:
         homepage_url: https://www.spryfoxnetworks.com/
         logo: spryfox.svg
       - item:
+        name: StarHub
+        homepage_url: https://www.starhub.com/
+        logo: starhub.svg
+      - item:
         name: Startelelogic
         homepage_url: https://www.startelelogic.com/
         logo: startelelogic.svg
         crunchbase: https://www.crunchbase.com/organization/startele-logic
-      - item:
-        name: StarHub
-        homepage_url: https://www.starhub.com/
-        logo: starhub.svg
       - item:
         name: Summit
         homepage_url: https://www.summit-tech.ca/
