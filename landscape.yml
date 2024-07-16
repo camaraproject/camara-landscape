@@ -421,6 +421,10 @@ landscape:
         homepage_url: https://www.netcracker.com/
         logo: netcracker.svg
       - item:
+        name: NetoAI
+        homepage_url: https://netoai.org/
+        logo: netoai.svg
+      - item:
         name: NGMN Alliance
         homepage_url: https://www.ngmn.org/
         logo: ngmn.svg
