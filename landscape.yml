@@ -394,7 +394,6 @@ landscape:
             mailing_list_url: https://github.com/orgs/microcks/discussions
             slack_url: https://cloud-native.slack.com/messages/microcks
             youtube_url: https://youtube.com/c/Microcks
-            summary_tags: api,mocking,testing,openapi,graphql,grpc,asyncapi
             summary_personas: API Owners, Developers, Architects, QA Testers, Quality Assurance Engineer, SREs, Platform Engineers, DevOps Engineer, DevOps practitioners
             summary_tags: API, mocking, testing, openapi, graphql, grpc, asyncapi
             summary_use_case: >-
