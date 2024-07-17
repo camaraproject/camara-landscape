@@ -36,15 +36,15 @@ landscape:
           logo: orange.svg
           crunchbase: https://www.crunchbase.com/organization/orange
         - item:
-          name: Telefonica S.A.
-          homepage_url: https://www.telefonica.com/
-          logo: telefonica.svg
-          crunchbase: https://www.crunchbase.com/organization/telefonica
-        - item:
           name: T-Mobile PCS
           homepage_url: https://t-mobile.com
           logo: t-mobile.svg
           crunchbase: https://www.crunchbase.com/organization/t-mobile
+        - item:
+          name: Telefonica S.A.
+          homepage_url: https://www.telefonica.com/
+          logo: telefonica.svg
+          crunchbase: https://www.crunchbase.com/organization/telefonica
         - item:
           name: Verizon
           homepage_url: https://verizon.com
@@ -127,15 +127,15 @@ landscape:
         logo: akross.svg
         crunchbase: https://www.crunchbase.com/organization/akross
       - item:
-        name: Amdocs
-        homepage_url: https://www.amdocs.com/
-        logo: amdocs.svg
-        crunchbase: https://www.crunchbase.com/organization/amdocs
-      - item:
         name: Amantya
         homepage_url: https://amantyatech.com/
         logo: amantya.svg
         crunchbase: https://www.crunchbase.com/organization/amantya-technologies
+      - item:
+        name: Amdocs
+        homepage_url: https://www.amdocs.com/
+        logo: amdocs.svg
+        crunchbase: https://www.crunchbase.com/organization/amdocs
       - item:
         name: AT&T
         homepage_url: https://www.att.com/
@@ -408,6 +408,10 @@ landscape:
         homepage_url: https://nabstract.io
         logo: nabstract.svg
       - item:
+        name: National Centre of Scientific Research - Demokritos
+        homepage_url: https://www.demokritos.gr/
+        logo: demokritos.svg
+      - item:
         name: Nearby Computing
         homepage_url: https://nearbycomputing.com/
         logo: nearbycomputing.svg
@@ -428,10 +432,6 @@ landscape:
         name: NOS
         homepage_url: https://www.nos.pt/
         logo: nos.svg
-      - item:
-        name: National Centre of Scientific Research - Demokritos
-        homepage_url: https://www.demokritos.gr/
-        logo: demokritos.svg
       - item:
         name: NTT DATA
         homepage_url: https://www.nttdata.com/
