@@ -238,6 +238,10 @@ landscape:
         logo: cthingsco.svg
         crunchbase: https://www.crunchbase.com/organization/cthings-co
       - item:
+        name: DataCurve
+        homepage_url: https://datacurve.io/
+        logo: datacurve.svg
+      - item:
         name: Detecon Consulting
         homepage_url: https://www.detecon.com/
         logo: detecon.svg
