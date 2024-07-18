@@ -1,6 +1,7 @@
 ## Quick Info:
 
 + Landscape is used to maintain Member and project information on our website
++ To view the landscape, go to https://camara.landscape2.io
 + To edit the Landscape, please follow the instructions below:
   + Logos must be added to the `hosted_logos` folder in `.svg` format
   + The `landscape.yml` file is separated into 2 sections: Members and Participating Organizations. To add a new entry, add the following to the appropriate section of `landscape.yml`:
