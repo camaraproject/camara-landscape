@@ -1,6 +1,6 @@
 ## Quick Info:
 
-+ Landscape is used to maintain Member and project information on our website
++ Landscape is used to maintain Member and project information on our [website](https://camaraproject.org)
 + To view the landscape, go to https://camara.landscape2.io
 + To edit the Landscape, please follow the instructions below:
   + Logos must be added to the `hosted_logos` folder in `.svg` format
