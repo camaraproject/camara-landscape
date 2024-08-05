@@ -408,6 +408,10 @@ landscape:
             summary_intro_url: https://www.youtube.com/watch?v=E8rjUwznO-Q
             clomonitor_name: microcks
       - item:
+        name: MQUEST Technologies
+        homepage_url: https://mquest-technologies.com
+        logo: mquest.svg
+      - item:
         name: Nabstract.io
         homepage_url: https://nabstract.io
         logo: nabstract.svg
