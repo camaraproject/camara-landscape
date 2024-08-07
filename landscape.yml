@@ -59,6 +59,11 @@ landscape:
       name: General
       items:
         - item:
+          name: Aleph Zero
+          homepage_url: https://alephzero.org
+          logo: alephzero.svg
+          crunchbase: https://www.crunchbase.com/organization/aleph-zero
+        - item:
           name: Cable Television Laboratories Inc.
           homepage_url: https://cablelabs.com
           logo: cablelabs.svg
