@@ -142,6 +142,10 @@ landscape:
         logo: amdocs.svg
         crunchbase: https://www.crunchbase.com/organization/amdocs
       - item:
+        name: Argela
+        homepage_url: https://www.argela.com.tr/en
+        logo: argela.svg
+      - item:
         name: AT&T
         homepage_url: https://www.att.com/
         logo: att.svg
