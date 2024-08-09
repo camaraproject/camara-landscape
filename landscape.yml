@@ -467,6 +467,10 @@ landscape:
         homepage_url: https://www.oracle.com/
         logo: oracle.svg
       - item:
+        name: phine.tech GmbH
+        homepage_url: https://phine.tech/
+        logo: phinetech.svg
+      - item:
         name: Quobis
         homepage_url: https://www.quobis.com/
         logo: quobis.svg
