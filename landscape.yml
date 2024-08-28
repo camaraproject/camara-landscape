@@ -79,6 +79,11 @@ landscape:
           logo: charter.svg
           crunchbase: https://www.crunchbase.com/organization/charter-communications
         - item:
+          name: IndyKite
+          homepage_url: https://www.indykite.com/
+          logo: indykite.svg
+          crunchbase: https://www.crunchbase.com/organization/indykite
+        - item:
           name: Invia
           homepage_url: https://invia.com.au
           logo: invia.svg
