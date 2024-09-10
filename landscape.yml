@@ -377,6 +377,10 @@ landscape:
         homepage_url: https://www.lenovo.com/
         logo: lenovo.svg
       - item:
+        name: LFOD
+        homepage_url: https://lfod.io/
+        logo: lfod.svg
+      - item:
         name: Linux Foundation
         homepage_url: https://www.linuxfoundation.org
         logo: lfcolor.svg
