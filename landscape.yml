@@ -488,6 +488,10 @@ landscape:
         homepage_url: https://plusmo.com/
         logo: plusmo.svg
       - item:
+        name: Pryvx
+        homepage_url: https://www.pryvx.com/
+        logo: pryvx.svg
+      - item:
         name: Quobis
         homepage_url: https://www.quobis.com/
         logo: quobis.svg
