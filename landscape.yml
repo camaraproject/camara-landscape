@@ -525,6 +525,11 @@ landscape:
         homepage_url: https://www.siptel.com.sg/
         logo: simptel.svg
       - item:
+        name: Sinch
+        homepage_url: https://sinch.com
+        logo: sinch.svg
+        crunchbase: https://www.crunchbase.com/organization/sinch
+      - item:
         name: Singtel
         homepage_url: https://www.singtel.com/
         logo: singtel.svg
