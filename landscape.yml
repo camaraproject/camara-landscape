@@ -568,6 +568,10 @@ landscape:
         homepage_url: https://www.tcs.com/
         logo: tata.svg
       - item:
+        name: Tata Elxsi
+        homepage_url: https://www.tataelxsi.com/
+        logo: tata_elxsi.svg
+      - item:
         name: TELUS
         homepage_url: https://www.telus.com/
         logo: telus.svg
