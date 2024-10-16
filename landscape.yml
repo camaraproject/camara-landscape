@@ -584,6 +584,10 @@ landscape:
         homepage_url: https://trusense.id/
         logo: trusense.svg
       - item:
+        name: VIRTUS - Research, Development and Innovation Center
+        homepage_url: https://www.virtus.ufcg.edu.br
+        logo: virtus.svg
+      - item:
         name: VROMBR
         homepage_url: https://vrombr.games
         logo: vrombr.svg
