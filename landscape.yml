@@ -572,6 +572,10 @@ landscape:
         homepage_url: https://www.tataelxsi.com/
         logo: tata_elxsi.svg
       - item:
+        name: Telstra
+        homepage_url: https://www.telstra.com.au/
+        logo: telstra.svg
+      - item:
         name: TELUS
         homepage_url: https://www.telus.com/
         logo: telus.svg
