@@ -381,6 +381,10 @@ landscape:
         homepage_url: https://lfod.io/
         logo: lfod.svg
       - item:
+        name: LG U+
+        homepage_url: https://www.lguplus.com/
+        logo: lgu+.svg
+      - item:
         name: Linux Foundation
         homepage_url: https://www.linuxfoundation.org
         logo: lfcolor.svg
