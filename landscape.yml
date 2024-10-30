@@ -365,8 +365,12 @@ landscape:
         crunchbase: https://www.crunchbase.com/organization/italtel
       - item:
         name: KDDI
-        homepage_url: https://www.kddi.com/
+        homepage_url: https://www.kt.com/
         logo: kddi.svg
+      - item:
+        name: KT
+        homepage_url: https://www.kddi.com/
+        logo: kt.svg
       - item:
         name: LatenceTech
         homepage_url: https://www.latencetech.com/
