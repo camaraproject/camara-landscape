@@ -604,9 +604,17 @@ landscape:
         homepage_url: https://vrombr.games
         logo: vrombr.svg
       - item:
+        name: WCG
+        homepage_url: https://www.wraycastle.com/
+        logo: wcg.svg
+      - item:
         name: Whale Cloud
         homepage_url: https://www.whalecloud.com/
         logo: whalecloud.svg
+      - item:
+        name: Xecurity Pulse
+        homepage_url: https://www.xecuritypulse.com/
+        logo: xecurity-pulse.svg
       - item:
         name: ZTE Corporation
         homepage_url: https://www.zte.com.cn/
