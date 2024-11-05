@@ -194,6 +194,10 @@ landscape:
         logo: capgemini.svg
         crunchbase: https://www.crunchbase.com/organization/cap-gemini
       - item:
+        name: Chenosis
+        homepage_url: https://chenosis.io/
+        logo: chenosis.svg
+      - item:
         name: China Telecom
         homepage_url: https://www.chinatelecomglobal.com/
         logo: chinatelecom.svg
@@ -611,6 +615,10 @@ landscape:
         name: Whale Cloud
         homepage_url: https://www.whalecloud.com/
         logo: whalecloud.svg
+      - item:
+        name: Xacria
+        homepage_url: https://www.xacria.com/
+        logo: xacria.svg
       - item:
         name: Xecurity Pulse
         homepage_url: https://www.xecuritypulse.com/
