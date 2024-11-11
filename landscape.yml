@@ -491,6 +491,10 @@ landscape:
         homepage_url: https://www.opensesame.com/
         logo: opensesame.svg
       - item:
+        name: Optare Solutions
+        homepage_url: https://optaresolutions.com/
+        logo: optare.svg
+      - item:
         name: Optiva
         homepage_url: https://www.optiva.com/
         logo: optiva.svg
