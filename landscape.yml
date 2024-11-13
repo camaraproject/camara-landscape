@@ -571,6 +571,10 @@ landscape:
         logo: startelelogic.svg
         crunchbase: https://www.crunchbase.com/organization/startele-logic
       - item:
+        name: Stechs
+        homepage_url: https://www.stechs.io/
+        logo: stechs.svg
+      - item:
         name: Summit
         homepage_url: https://www.summit-tech.ca/
         logo: summit.svg
