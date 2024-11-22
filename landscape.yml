@@ -372,6 +372,10 @@ landscape:
         logo: italtel.svg
         crunchbase: https://www.crunchbase.com/organization/italtel
       - item:
+        name: JIO Platforms
+        homepage_url: https://www.jio.com/platforms/
+        logo: jio.svg
+      - item:
         name: KDDI
         homepage_url: https://www.kt.com/
         logo: kddi.svg
