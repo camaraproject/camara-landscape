@@ -179,6 +179,10 @@ landscape:
         logo: bearingpoint.svg
         crunchbase: https://www.crunchbase.com/organization/bearingpoint
       - item:
+        name: Bharti Airtel
+        homepage_url: https://www.airtel.com/
+        logo: airtel.svg
+      - item:
         name: Bridge Alliance
         homepage_url: https://www.bridgealliance.us/
         logo: bridgealliance.svg
