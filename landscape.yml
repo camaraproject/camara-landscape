@@ -417,6 +417,7 @@ landscape:
         name: Lytn
         homepage_url: https://www.lytn.io/
         logo: lytn.svg
+        crunchbase: https://www.crunchbase.com/organization/lytn
       - item:
         name: M1
         homepage_url: https://www.m1.com.sg/
