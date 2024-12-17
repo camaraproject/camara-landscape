@@ -118,10 +118,6 @@ landscape:
         logo: 1nce.svg
         crunchbase: https://www.crunchbase.com/organization/1nce-gmbh
       - item:
-        name: 5GFF
-        homepage_url: https://www.5gff.org/
-        logo: 5gff.svg
-      - item:
         name: A1
         homepage_url: http://www.a1.net/
         logo: a1.svg
