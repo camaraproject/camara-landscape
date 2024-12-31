@@ -645,6 +645,10 @@ landscape:
         homepage_url: https://www.xecuritypulse.com/
         logo: xecurity-pulse.svg
       - item:
+        name: XFlow Software Technology LLC
+        homepage_url: https://www.xflowresearch.com/
+        logo: xflow.svg
+      - item:
         name: ZTE Corporation
         homepage_url: https://www.zte.com.cn/
         logo: zte.svg
