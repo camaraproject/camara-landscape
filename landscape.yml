@@ -143,6 +143,10 @@ landscape:
         logo: amdocs.svg
         crunchbase: https://www.crunchbase.com/organization/amdocs
       - item:
+        name: ApisTraining
+        homepage_url: https://apistraining.com/
+        logo: apistraining.svg
+      - item:
         name: Argela
         homepage_url: https://www.argela.com.tr/en
         logo: argela.svg
