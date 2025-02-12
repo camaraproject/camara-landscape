@@ -188,6 +188,10 @@ landscape:
         logo: bridgealliance.svg
         crunchbase: https://www.crunchbase.com/organization/bridge
       - item:
+        name: British Telecom
+        homepage_url: https://www.bt.com/
+        logo: bt.svg
+      - item:
         name: Broadpeak
         homepage_url: https://broadpeak.tv/
         logo: broadpeak.svg
