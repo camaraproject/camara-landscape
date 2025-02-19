@@ -542,6 +542,10 @@ landscape:
         logo: redhat.svg
         crunchbase: https://www.crunchbase.com/organization/red-hat
       - item:
+        name: Reevolute
+        homepage_url: https://www.reevolute.com/
+        logo: reevolute.svg
+      - item:
         name: Reply
         homepage_url: https://www.reply.com/
         logo: replylive.svg
