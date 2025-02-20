@@ -427,7 +427,11 @@ landscape:
         homepage_url: https://www.m1.com.sg/
         logo: m1.svg
       - item:
-        name: Matrix Software
+        name: M800
+        homepage_url: https://www.m800.com 
+        logo: m800.svg
+      - item:
+        name: Matrixx Software
         homepage_url: https://www.matrixx.com/
         logo: matrixx.svg
       - item:
