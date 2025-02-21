@@ -216,6 +216,10 @@ landscape:
         logo: chinaunicom.svg
         crunchbase: https://www.crunchbase.com/organization/china-unicom
       - item:
+        name: CINNOX
+        homepage_url: https://www.cinnox.com/
+        logo: cinnox.svg
+      - item:
         name: Cisco
         homepage_url: https://www.cisco.com/
         logo: cisco.svg
