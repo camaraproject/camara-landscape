@@ -392,6 +392,10 @@ landscape:
         homepage_url: https://www.kt.com/
         logo: kddi.svg
       - item:
+        name: KPN
+        homepage_url: https://www.kpn.com/
+        logo: kpn.svg
+      - item:
         name: KT
         homepage_url: https://www.kddi.com/
         logo: kt.svg
