@@ -291,6 +291,10 @@ landscape:
         logo: eantc.svg
         crunchbase: https://www.crunchbase.com/organization/european-advanced-networking-test-center
       - item:
+        name: EdgeContinuum
+        homepage_url: https://www.edgecontinuum.com
+        logo: edgecontinuum.svg
+      - item:
         name: EdgeXR
         homepage_url: https://www.edgexr.net
         logo: edgexr.svg
@@ -474,6 +478,10 @@ landscape:
               Keycloak, Operator framework, Helm, Backstage.io, Tekton, CloudEvents, Prometheus, OpenTelemetry, Docker, Podman, Testcontainers
             summary_intro_url: https://www.youtube.com/watch?v=E8rjUwznO-Q
             clomonitor_name: microcks
+      - item:
+        name: MojoAuth
+        homepage_url: https://mojoauth.com
+        logo: mojoauth.svg
       - item:
         name: MQUEST Technologies
         homepage_url: https://mquest-technologies.com
