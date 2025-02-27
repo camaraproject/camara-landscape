@@ -633,6 +633,10 @@ landscape:
         homepage_url: https://www.tataelxsi.com/
         logo: tata_elxsi.svg
       - item:
+        name: Telkomsel
+        homepage_url: https://www.telkomsel.com/
+        logo: telkomsel.svg
+      - item:
         name: Telstra
         homepage_url: https://www.telstra.com.au/
         logo: telstra.svg
