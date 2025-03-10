@@ -520,6 +520,10 @@ landscape:
         homepage_url: https://www.nttdata.com/
         logo: nttdata.svg
       - item:
+        name: Openexpand
+        homepage_url: https://openxpand.com/
+        logo: openexpand.svg
+      - item:
         name: Open Sesame
         homepage_url: https://www.opensesame.com/
         logo: opensesame.svg
@@ -620,6 +624,10 @@ landscape:
         homepage_url: https://www.swisscom.ch/
         logo: swisscom.svg
         crunchbase: https://www.crunchbase.com/organization/swisscom
+      - item:
+        name: Symponica
+        homepage_url: https://symphonica.com/
+        logo: symphonica.svg
       - item:
         name: Syniverse
         homepage_url: https://www.syniverse.com/
