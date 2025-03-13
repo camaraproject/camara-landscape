@@ -697,6 +697,10 @@ landscape:
         homepage_url: https://www.xflowresearch.com/
         logo: xflow.svg
       - item:
+        name: Yaana
+        homepage_url: https://www.yaanatech.com/
+        logo: yaana.svg
+      - item:
         name: ZTE Corporation
         homepage_url: https://www.zte.com.cn/
         logo: zte.svg
