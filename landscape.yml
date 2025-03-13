@@ -218,6 +218,8 @@ landscape:
       - item:
         name: CINNOX
         homepage_url: https://www.cinnox.com/
+        linkedin: https://www.linkedin.com/company/cinnoxhq
+        description: CINNOX is an all-in-one cloud contact center platform that enhances customer engagement through seamless voice, messaging, and AI-powered interactions.
         logo: cinnox.svg
       - item:
         name: Cisco
@@ -440,7 +442,9 @@ landscape:
         logo: m1.svg
       - item:
         name: M800
-        homepage_url: https://www.m800.com 
+        homepage_url: https://www.m800.com
+        linkedin: https://www.linkedin.com/company/m800/
+        description: M800 is a global telecommunication and cloud communications provider specializing in secure and reliable enterprise solutions.
         logo: m800.svg
       - item:
         name: Matrixx Software
