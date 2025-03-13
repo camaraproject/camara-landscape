@@ -377,6 +377,10 @@ landscape:
         homepage_url: https://www.intel.com/
         logo: intel.svg
       - item:
+        name: Intracom Single Member S. A. Telecom Solutions
+        homepage_url: https://www.intracom-telecom.com/
+        logo: intracom-telecom.svg
+      - item:
         name: IPification
         homepage_url: https://www.ipification.com/
         logo: ipification.svg
