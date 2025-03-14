@@ -379,8 +379,9 @@ landscape:
       - item:
         name: Intracom Single Member S. A. Telecom Solutions
         homepage_url: https://www.intracom-telecom.com/
-        description: Intracom Telecom is a global technology systems and solutions provider operating for over 45 years in the market located in Peania, Greece. The company has successfully participated in major ICT projects worldwide and has received awards and distinctions for its technologies and work environment. Today, Intracom Telecom employs over 1,600 highly-skilled professionals, maintains its own R&D and production facilities, and operates subsidiaries worldwide. Intracom Telecom has extensive know-how and a proven track record in the telecommunications market, serving more than 100 renowned customers in over 70 countries. The company develops and provides products, solutions and professional services primarily for fixed and mobile telecom operators, public authorities and large public and private enterprises. The company's core business offerings include: (1) Wireless Access & Transmission, (2) Telco & Enterprise Software Solutions, (3) ICT - Smart City & Surveillance Solutions, and (4) Energy Solutions.
+        description: Intracom Telecom is a global technology systems and solutions provider operating for over 45 years in the market located in Peania, Greece.
         logo: intracom-telecom.svg
+        crunchbase: https://www.crunchbase.com/organization/intracom-telecom
       - item:
         name: IPification
         homepage_url: https://www.ipification.com/
