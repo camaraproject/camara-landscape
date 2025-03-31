@@ -409,8 +409,12 @@ landscape:
         logo: kpn.svg
       - item:
         name: KT
-        homepage_url: https://www.kddi.com/
+        homepage_url: https://www.kt.com/
         logo: kt.svg
+      - item:
+        name: Kubermatic
+        homepage_url: https://kubermatic.com
+        logo: kubermatic.svg
       - item:
         name: LatenceTech
         homepage_url: https://www.latencetech.com/
