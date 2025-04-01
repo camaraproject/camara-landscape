@@ -438,6 +438,10 @@ landscape:
         logo: lfcolor.svg
         crunchbase: https://www.crunchbase.com/organization/linux-foundation
       - item:
+        name: LocationGuru
+        homepage_url: https://locationguru.com/
+        logo: locationguru.svg
+      - item:
         name: LotusFlare
         homepage_url: https://www.lotusflare.com/
         logo: lotusflare.svg
