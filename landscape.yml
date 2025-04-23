@@ -600,6 +600,10 @@ landscape:
         homepage_url: https://www.reply.com/
         logo: replylive.svg
       - item:
+        name: Rogers
+        homepage_url: https://www.rogers.com/
+        logo: rogers.svg
+      - item:
         name: Saudi Telecom Company (STC)
         homepage_url: https://www.stc.com.sa/
         logo: stc.svg
