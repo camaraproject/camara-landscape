@@ -128,6 +128,10 @@ landscape:
         logo: acldigital.svg
         crunchbase: https://www.crunchbase.com/organization/alten-calsoft-labs
       - item:
+        name: America Movil
+        homepage_url: https://www.americamovil.com/
+        logo: americamovil.svg
+      - item:
         name: ANDdigital
         homepage_url: https://www.and.digital/
         logo: anddigital.svg
