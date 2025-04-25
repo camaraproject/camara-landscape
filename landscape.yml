@@ -361,6 +361,10 @@ landscape:
         homepage_url: https://www.huawei.com/
         logo: huawei.svg
       - item:
+        name: IamCrypto
+        homepage_url: https://iamcrypto.com/
+        logo: iamcrypto.svg
+      - item:
         name: IBM
         homepage_url: https://www.ibm.com/
         logo: ibm.svg
