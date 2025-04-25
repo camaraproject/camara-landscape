@@ -214,6 +214,10 @@ landscape:
         homepage_url: https://chenosis.io/
         logo: chenosis.svg
       - item:
+        name: China Mobile
+        homepage_url: https://www.chinamobileltd.com/
+        logo: chinamobile.svg
+      - item:
         name: China Telecom
         homepage_url: https://www.chinatelecomglobal.com/
         logo: chinatelecom.svg
