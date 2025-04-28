@@ -583,6 +583,10 @@ landscape:
         homepage_url: https://plusmo.com/
         logo: plusmo.svg
       - item:
+        name: Proximus
+        homepage_url: https://www.proximus.com/
+        logo: proximus.svg
+      - item:
         name: Pryvx
         homepage_url: https://www.pryvx.com/
         logo: pryvx.svg
