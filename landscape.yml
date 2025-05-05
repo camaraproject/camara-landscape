@@ -191,6 +191,10 @@ landscape:
         homepage_url: https://www.airtel.com/
         logo: airtel.svg
       - item:
+        name: Bouygues Telecom
+        homepage_url: https://www.bouyguestelecom.fr/
+        logo: bouygues.svg
+      - item:
         name: Bridge Alliance
         homepage_url: https://www.bridgealliance.us/
         logo: bridgealliance.svg
