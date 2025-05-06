@@ -691,6 +691,10 @@ landscape:
         homepage_url: https://www.tataelxsi.com/
         logo: tata_elxsi.svg
       - item:
+        name: Telenor
+        homepage_url: https://www.telenor.com/
+        logo: telenor.svg
+      - item:
         name: Telkomsel
         homepage_url: https://www.telkomsel.com/
         logo: telkomsel.svg
