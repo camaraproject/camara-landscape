@@ -69,11 +69,6 @@ landscape:
           logo: cablelabs.svg
           crunchbase: https://www.crunchbase.com/organization/cablelabs
         - item:
-          name: Centillion
-          homepage_url: https://centillion.ai
-          logo: centillion.svg
-          crunchbase: https://www.crunchbase.com/organization/centillion-group-inc
-        - item:
           name: Charter Communications
           homepage_url: https://spectrum.com
           logo: charter.svg
@@ -83,16 +78,6 @@ landscape:
           homepage_url: https://www.indykite.com/
           logo: indykite.svg
           crunchbase: https://www.crunchbase.com/organization/indykite
-        - item:
-          name: Invia
-          homepage_url: https://invia.com.au
-          logo: invia.svg
-          crunchbase: https://www.crunchbase.com/organization/invia-51e5
-        - item:
-          name: Scenera Inc
-          homepage_url: https://scenera.net
-          logo: scenera.svg
-          crunchbase: https://www.crunchbase.com/organization/scenera-inc
         - item:
           name: Shabodi
           homepage_url: https://shabodi.com
@@ -213,6 +198,11 @@ landscape:
         homepage_url: https://www.capgemini.com/
         logo: capgemini.svg
         crunchbase: https://www.crunchbase.com/organization/cap-gemini
+      - item:
+        name: Centillion.ai
+        homepage_url: https://centillion.ai
+        logo: centillion.svg
+        crunchbase: https://www.crunchbase.com/organization/centillion-group-inc
       - item:
         name: Chenosis
         homepage_url: https://chenosis.io/
