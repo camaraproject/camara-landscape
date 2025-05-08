@@ -272,6 +272,10 @@ landscape:
         logo: comviva.svg
         crunchbase: https://www.crunchbase.com/organization/comviva
       - item:
+        name: Coure
+        homepage_url: https://coure-tech.com/
+        logo: coure.svg
+      - item:
         name: CPaasAA
         homepage_url: https://cpaasaa.com/
         logo: cpaasaa.svg
