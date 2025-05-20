@@ -1,0 +1,36 @@
+slug: camarafund
+landscapeMemberClasses:
+   - name: Platinum Membership
+     category: Platinum
+   - name: General Membership
+     category: General
+   - name: Associate Membership
+     category: Associate
+project: a092M00001KWykQQAT # CAMARA Fund
+landscapeMemberCategory: CAMARA Member Company
+landscapefile: landscape.yml
+missingcsvfile: missing.csv
+landscapeProjectsCategory: CAMARA Projects
+landscapeProjectsLevels:
+  - level: graduated
+    name: Active
+  - level: incubating
+    name: Incubating
+  - level: sandbox
+    name: Sandbox
+  - level: working-group
+    name: Working Group
+  - level: archived
+    name: Emeritus
+landscapeProjectsSubcategories:
+  - name: Active
+    category: Active
+  - name: Incubating
+    category: Incubating
+  - name: Sandbox
+    category: Sandbox
+  - name: Working Group
+    category: Working Group
+projectsDefaultCrunchbase: https://www.crunchbase.com/organization/camara-project
+tacAgendaProjectUrl: https://lf-camaraproject.atlassian.net/wiki/x/0RDe
+# artworkRepoUrl: "https://artwork.openmainframeproject.org/projects/{slug}"
