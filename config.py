@@ -18,9 +18,9 @@ import requests_cache
 
 class Config:
 
-    project = None
+    project = CAMARA
     view = 'members'
-    slug = None
+    slug = camarafund
     landscapeMembersCategory = 'Members'
     landscapeMembersSubcategories = [
         {"name": "Premier Membership", "category": "Premier"},
