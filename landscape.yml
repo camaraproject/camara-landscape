@@ -2,768 +2,782 @@ landscape:
   - category:
     name: Members
     subcategories:
-    - subcategory:
-      name: Premier
-      items:
-        - item:
-          name: Accenture Global Solutions Ltd.
-          homepage_url: https://accenture.com
-          logo: accenture.svg
-          crunchbase: https://www.crunchbase.com/organization/accenture
-        - item:
-          name: Deutsche Telekom AG
-          homepage_url: https://telekom.com
-          logo: dt.svg
-          crunchbase: https://www.crunchbase.com/organization/deutsche-telekom
-        - item:
-          name: Ericsson
-          homepage_url: https://ericsson.com
-          logo: ericsson.svg
-          crunchbase: https://www.crunchbase.com/organization/ericsson
-        - item:
-          name: Microsoft
-          homepage_url: https://microsoft.com
-          logo: microsoft.svg
-          crunchbase: https://www.crunchbase.com/organization/microsoft
-        - item:
-          name: Nokia Corp.
-          homepage_url: https://nokia.com
-          logo: nokia.svg
-          crunchbase: https://www.crunchbase.com/organization/nokia
-        - item:
-          name: Orange SA
-          homepage_url: https://orange.com
-          logo: orange.svg
-          crunchbase: https://www.crunchbase.com/organization/orange
-        - item:
-          name: T-Mobile PCS
-          homepage_url: https://t-mobile.com
-          logo: t-mobile.svg
-          crunchbase: https://www.crunchbase.com/organization/t-mobile
-        - item:
-          name: Telefonica S.A.
-          homepage_url: https://www.telefonica.com/
-          logo: telefonica.svg
-          crunchbase: https://www.crunchbase.com/organization/telefonica
-        - item:
-          name: Verizon
-          homepage_url: https://verizon.com
-          logo: verizon.svg
-          crunchbase: https://www.crunchbase.com/organization/verizon-communications
-        - item:
-          name: Vodafone
-          homepage_url: https://vodafone.com
-          logo: vodafone.svg
-          crunchbase: https://www.crunchbase.com/organization/vodafone
-    - subcategory:
-      name: General
-      items:
-        - item:
-          name: Aleph Zero
-          homepage_url: https://alephzero.org
-          logo: alephzero.svg
-          crunchbase: https://www.crunchbase.com/organization/aleph-zero
-        - item:
-          name: Cable Television Laboratories Inc.
-          homepage_url: https://cablelabs.com
-          logo: cablelabs.svg
-          crunchbase: https://www.crunchbase.com/organization/cablelabs
-        - item:
-          name: Centillion
-          homepage_url: https://centillion.ai
-          logo: centillion.svg
-          crunchbase: https://www.crunchbase.com/organization/centillion-group-inc
-        - item:
-          name: Charter Communications
-          homepage_url: https://spectrum.com
-          logo: charter.svg
-          crunchbase: https://www.crunchbase.com/organization/charter-communications
-        - item:
-          name: IndyKite
-          homepage_url: https://www.indykite.com/
-          logo: indykite.svg
-          crunchbase: https://www.crunchbase.com/organization/indykite
-        - item:
-          name: Invia
-          homepage_url: https://invia.com.au
-          logo: invia.svg
-          crunchbase: https://www.crunchbase.com/organization/invia-51e5
-        - item:
-          name: Scenera Inc
-          homepage_url: https://scenera.net
-          logo: scenera.svg
-          crunchbase: https://www.crunchbase.com/organization/scenera-inc
-        - item:
-          name: Shabodi
-          homepage_url: https://shabodi.com
-          logo: shabodi.svg
-          crunchbase: https://www.crunchbase.com/organization/shabodi
-    - subcategory:
-      name: Associate Membership
-      items:
-        - item:
-          name: OpenID Foundation
-          homepage_url: https://openid.org
-          logo: openid.svg
-          crunchbase: https://www.crunchbase.com/organization/openid-foundation
+      - subcategory:
+        name: Premier
+        items:
+          - item:
+            name: Accenture Global Solutions Ltd.
+            homepage_url: https://accenture.com
+            logo: accenture.svg
+            crunchbase: https://www.crunchbase.com/organization/accenture
+          - item:
+            name: Deutsche Telekom AG
+            homepage_url: https://telekom.com
+            logo: dt.svg
+            crunchbase: https://www.crunchbase.com/organization/deutsche-telekom
+          - item:
+            name: Ericsson
+            homepage_url: https://ericsson.com
+            logo: ericsson.svg
+            crunchbase: https://www.crunchbase.com/organization/ericsson
+          - item:
+            name: Microsoft
+            homepage_url: https://microsoft.com
+            logo: microsoft.svg
+            crunchbase: https://www.crunchbase.com/organization/microsoft
+          - item:
+            name: Nokia Corp.
+            homepage_url: https://nokia.com
+            logo: nokia.svg
+            crunchbase: https://www.crunchbase.com/organization/nokia
+          - item:
+            name: Orange SA
+            homepage_url: https://orange.com
+            logo: orange.svg
+            crunchbase: https://www.crunchbase.com/organization/orange
+          - item:
+            name: T-Mobile PCS
+            homepage_url: https://t-mobile.com
+            logo: t-mobile.svg
+            crunchbase: https://www.crunchbase.com/organization/t-mobile
+          - item:
+            name: Telefonica S.A.
+            homepage_url: https://www.telefonica.com/
+            logo: telefonica.svg
+            crunchbase: https://www.crunchbase.com/organization/telefonica
+          - item:
+            name: Verizon
+            homepage_url: https://verizon.com
+            logo: verizon.svg
+            crunchbase: https://www.crunchbase.com/organization/verizon-communications
+          - item:
+            name: Vodafone
+            homepage_url: https://vodafone.com
+            logo: vodafone.svg
+            crunchbase: https://www.crunchbase.com/organization/vodafone
+      - subcategory:
+        name: General
+        items:
+          - item:
+            name: Aleph Zero
+            homepage_url: https://alephzero.org
+            logo: alephzero.svg
+            crunchbase: https://www.crunchbase.com/organization/aleph-zero
+          - item:
+            name: Cable Television Laboratories Inc.
+            homepage_url: https://cablelabs.com
+            logo: cablelabs.svg
+            crunchbase: https://www.crunchbase.com/organization/cablelabs
+          - item:
+            name: Centillion
+            homepage_url: https://centillion.ai
+            logo: centillion.svg
+            crunchbase: https://www.crunchbase.com/organization/centillion-group-inc
+          - item:
+            name: Charter Communications
+            homepage_url: https://spectrum.com
+            logo: charter.svg
+            crunchbase: https://www.crunchbase.com/organization/charter-communications
+          - item:
+            name: IndyKite
+            homepage_url: https://www.indykite.com/
+            logo: indykite.svg
+            crunchbase: https://www.crunchbase.com/organization/indykite
+          - item:
+            name: Invia
+            homepage_url: https://invia.com.au
+            logo: invia.svg
+            crunchbase: https://www.crunchbase.com/organization/invia-51e5
+          - item:
+            name: Scenera Inc
+            homepage_url: https://scenera.net
+            logo: scenera.svg
+            crunchbase: https://www.crunchbase.com/organization/scenera-inc
+          - item:
+            name: Shabodi
+            homepage_url: https://shabodi.com
+            logo: shabodi.svg
+            crunchbase: https://www.crunchbase.com/organization/shabodi
+      - subcategory:
+        name: Associate Membership
+        items:
+          - item:
+            name: OpenID Foundation
+            homepage_url: https://openid.org
+            logo: openid.svg
+            crunchbase: https://www.crunchbase.com/organization/openid-foundation
   - category:
     name: Participating Organizations
     subcategories:
-    - subcategory:
-      name: Participating Organizations
-      items:
-      - item:
-        name: 1NCE
-        homepage_url: https://1nce.com/
-        logo: 1nce.svg
-        crunchbase: https://www.crunchbase.com/organization/1nce-gmbh
-      - item:
-        name: A1
-        homepage_url: http://www.a1.net/
-        logo: a1.svg
-        crunchbase: https://www.crunchbase.com/organization/a1-telekom-austria-ag
-      - item:
-        name: ACL Digital
-        homepage_url: https://www.acldigital.com/
-        logo: acldigital.svg
-        crunchbase: https://www.crunchbase.com/organization/alten-calsoft-labs
-      - item:
-        name: America Movil
-        homepage_url: https://www.americamovil.com/
-        logo: americamovil.svg
-      - item:
-        name: ANDdigital
-        homepage_url: https://www.and.digital/
-        logo: anddigital.svg
-      - item:
-        name: Akross
-        homepage_url: https://www.akross.com.br/pt/
-        logo: akross.svg
-        crunchbase: https://www.crunchbase.com/organization/akross
-      - item:
-        name: Amantya
-        homepage_url: https://amantyatech.com/
-        logo: amantya.svg
-        crunchbase: https://www.crunchbase.com/organization/amantya-technologies
-      - item:
-        name: Amdocs
-        homepage_url: https://www.amdocs.com/
-        logo: amdocs.svg
-        crunchbase: https://www.crunchbase.com/organization/amdocs
-      - item:
-        name: ApisTraining
-        homepage_url: https://apistraining.com/
-        logo: apistraining.svg
-      - item:
-        name: Argela
-        homepage_url: https://www.argela.com.tr/en
-        logo: argela.svg
-      - item:
-        name: AT&T
-        homepage_url: https://www.att.com/
-        logo: att.svg
-        crunchbase: https://www.crunchbase.com/organization/at-t
-      - item:
-        name: AWS (Amazon Web Services)
-        homepage_url: https://aws.amazon.com/
-        logo: aws.svg
-      - item:
-        name: Axiata
-        homepage_url: https://www.axiata.com/
-        logo: axiata.svg
-        crunchbase: https://www.crunchbase.com/organization/axiata
-      - item:
-        name: Axiata Digital Labs
-        homepage_url: https://www.axiatadigitallabs.com/
-        logo: axiatadigitallabs.svg
-        crunchbase: https://www.crunchbase.com/organization/axiata-digital-labs
-      - item:
-        name: BCTI - A Network API Company
-        homepage_url: https://www.brianchin.co
-        logo: bcti.svg
-      - item:
-        name: BearingPoint
-        homepage_url: https://www.bearingpoint.com/
-        logo: bearingpoint.svg
-        crunchbase: https://www.crunchbase.com/organization/bearingpoint
-      - item:
-        name: Bharti Airtel
-        homepage_url: https://www.airtel.com/
-        logo: airtel.svg
-      - item:
-        name: Bouygues Telecom
-        homepage_url: https://www.bouyguestelecom.fr/
-        logo: bouygues.svg
-      - item:
-        name: Bridge Alliance
-        homepage_url: https://www.bridgealliance.us/
-        logo: bridgealliance.svg
-        crunchbase: https://www.crunchbase.com/organization/bridge
-      - item:
-        name: British Telecom
-        homepage_url: https://www.bt.com/
-        logo: bt.svg
-      - item:
-        name: Broadpeak
-        homepage_url: https://broadpeak.tv/
-        logo: broadpeak.svg
-        crunchbase: https://www.crunchbase.com/organization/broadpeak
-      - item:
-        name: Capgemini
-        homepage_url: https://www.capgemini.com/
-        logo: capgemini.svg
-        crunchbase: https://www.crunchbase.com/organization/cap-gemini
-      - item:
-        name: Chenosis
-        homepage_url: https://chenosis.io/
-        logo: chenosis.svg
-      - item:
-        name: China Mobile
-        homepage_url: https://www.chinamobileltd.com/
-        logo: chinamobile.svg
-      - item:
-        name: China Telecom
-        homepage_url: https://www.chinatelecomglobal.com/
-        logo: chinatelecom.svg
-        crunchbase: https://www.crunchbase.com/organization/china-telcom
-      - item:
-        name: China Unicom
-        homepage_url: https://www.chinaunicom.com.hk/
-        logo: chinaunicom.svg
-        crunchbase: https://www.crunchbase.com/organization/china-unicom
-      - item:
-        name: CINNOX
-        homepage_url: https://www.cinnox.com/
-        linkedin: https://www.linkedin.com/company/cinnoxhq
-        description: CINNOX is an all-in-one cloud contact center platform that enhances customer engagement through seamless voice, messaging, and AI-powered interactions.
-        logo: cinnox.svg
-      - item:
-        name: Cisco
-        homepage_url: https://www.cisco.com/
-        logo: cisco.svg
-        crunchbase: https://www.crunchbase.com/organization/cisco
-      - item:
-        name: CK Hutchison Holdings
-        homepage_url: http://www.ckh.com.hk/
-        logo: ckh.svg
-        crunchbase: https://www.crunchbase.com/organization/ck-investments
-      - item:
-        name: CloudoniX
-        homepage_url: https://www.cloudonix.com/
-        logo: cloudonix.svg
-        crunchbase: https://www.crunchbase.com/organization/cloudonix-io
-      - item:
-        name: CodeB
-        homepage_url: https://www.codeb.io/
-        logo: codeb.svg
-      - item:
-        name: Cognizant
-        homepage_url: https://www.cognizant.com/
-        logo: cognizant.svg
-        crunchbase: https://www.crunchbase.com/organization/cognizant-technology-solutions
-      - item:
-        name: Colony
-        homepage_url: https://www.colonynetworks.com/
-        logo: colonynetworks.svg
-        crunchbase: https://www.crunchbase.com/organization/colony-networks
-      - item:
-        name: Comviva
-        homepage_url: https://www.comviva.com/
-        logo: comviva.svg
-        crunchbase: https://www.crunchbase.com/organization/comviva
-      - item:
-        name: Coure
-        homepage_url: https://coure-tech.com/
-        logo: coure.svg
-      - item:
-        name: CPaasAA
-        homepage_url: https://cpaasaa.com/
-        logo: cpaasaa.svg
-      - item:
-        name: CSL
-        homepage_url: https://www.hkcsl.com/
-        logo: csl.svg
-        crunchbase: https://www.crunchbase.com/organization/csl
-      - item:
-        name: CThingsCo
-        homepage_url: https://www.cthings.co/
-        logo: cthingsco.svg
-        crunchbase: https://www.crunchbase.com/organization/cthings-co
-      - item:
-        name: DataCurve
-        homepage_url: https://datacurve.io/
-        logo: datacurve.svg
-      - item:
-        name: Detecon Consulting
-        homepage_url: https://www.detecon.com/
-        logo: detecon.svg
-        crunchbase: https://www.crunchbase.com/organization/detecon-international-consulting
-      - item:
-        name: Domos
-        homepage_url: https://www.joindomos.com/
-        logo: domos.svg
-        crunchbase: https://www.crunchbase.com/organization/domos-labs
-      - item:
-        name: DriveU.auto
-        homepage_url: https://driveu.auto/
-        logo: driveu.svg
-      - item:
-        name: EANTC
-        homepage_url: https://eantc.de/
-        logo: eantc.svg
-        crunchbase: https://www.crunchbase.com/organization/european-advanced-networking-test-center
-      - item:
-        name: EdgeContinuum
-        homepage_url: https://www.edgecontinuum.com
-        logo: edgecontinuum.svg
-      - item:
-        name: EdgeXR
-        homepage_url: https://www.edgexr.net
-        logo: edgexr.svg
-      - item:
-        name: Etisalat
-        homepage_url: https://www.etisalat.com/
-        logo: etisalat.svg
-        crunchbase: https://www.crunchbase.com/organization/etisalat
-      - item:
-        name: Etiya
-        homepage_url: https://www.etiya.com/
-        logo: etiya.svg
-      - item:
-        name: Eviden
-        homepage_url: https://eviden.com/
-        logo: eviden.svg
-        crunchbase: https://www.crunchbase.com/organization/eviden
-      - item:
-        name: F5
-        homepage_url: https://www.f5.com/
-        logo: f5.svg
-        crunchbase: https://www.crunchbase.com/organization/f5-networks
-      - item:
-        name: Fujitsu
-        homepage_url: https://www.fujitsu.com/
-        logo: fujitsu.svg
-        crunchbase: https://www.crunchbase.com/organization/fujitsu
-      - item:
-        name: Gapask
-        homepage_url: https://www.gapask.com
-        logo: gapask.svg
-      - item:
-        name: Google Cloud
-        homepage_url: https://cloud.google.com/
-        logo: googlecloud.svg
-      - item:
-        name: GSMA
-        homepage_url: https://www.gsma.com/
-        logo: gsma.svg
-      - item:
-        name: HCL Software
-        homepage_url: https://www.hcltechsw.com/
-        logo: hcl.svg
-      - item:
-        name: Hewlett Packard Enterprise
-        homepage_url: https://www.hpe.com/
-        logo: hpe.svg
-      - item:
-        name: HKT
-        homepage_url: https://www.hkt.com/
-        logo: hkt.svg
-      - item:
-        name: Huawei
-        homepage_url: https://www.huawei.com/
-        logo: huawei.svg
-      - item:
-        name: IamCrypto
-        homepage_url: https://iamcrypto.com/
-        logo: iamcrypto.svg
-      - item:
-        name: IBM
-        homepage_url: https://www.ibm.com/
-        logo: ibm.svg
-      - item:
-        name: IEEE 5G6G Testbed
-        homepage_url: https://testbed.ieee.org/
-        logo: IEEE5G6GTestbed.svg.svg
-      - item:
-        name: Infobip
-        homepage_url: https://www.infobip.com/
-        logo: infobip.svg
-      - item:
-        name: InfoLysis
-        homepage_url: http://www.infolysis.com/
-        logo: infolysis.svg
-      - item:
-        name: Infosys
-        homepage_url: https://www.infosys.com/
-        logo: infosys.svg
-      - item:
-        name: Intel
-        homepage_url: https://www.intel.com/
-        logo: intel.svg
-      - item:
-        name: Intracom Single Member S. A. Telecom Solutions
-        homepage_url: https://www.intracom-telecom.com/
-        description: Intracom Telecom is a global technology systems and solutions provider operating for over 45 years in the market located in Peania, Greece.
-        logo: intracom-telecom.svg
-        crunchbase: https://www.crunchbase.com/organization/intracom-telecom
-      - item:
-        name: IPification
-        homepage_url: https://www.ipification.com/
-        logo: ipification.svg
-      - item:
-        name: Iquall Networks
-        homepage_url: https://www.iquall.net/
-        logo: iquall.svg
-      - item:
-        name: Italtel
-        homepage_url: http://www.italtel.com/
-        logo: italtel.svg
-        crunchbase: https://www.crunchbase.com/organization/italtel
-      - item:
-        name: JIO Platforms
-        homepage_url: https://www.jio.com/platforms/
-        logo: jio.svg
-      - item:
-        name: KDDI
-        homepage_url: https://www.kt.com/
-        logo: kddi.svg
-      - item:
-        name: KPN
-        homepage_url: https://www.kpn.com/
-        logo: kpn.svg
-      - item:
-        name: KT
-        homepage_url: https://www.kt.com/
-        logo: kt.svg
-      - item:
-        name: Kubermatic
-        homepage_url: https://kubermatic.com
-        logo: kubermatic.svg
-      - item:
-        name: LatenceTech
-        homepage_url: https://www.latencetech.com/
-        logo: latencetech.svg
-        crunchbase: https://www.crunchbase.com/organization/latence-technologies
-      - item:
-        name: Lenovo
-        homepage_url: https://www.lenovo.com/
-        logo: lenovo.svg
-      - item:
-        name: LFOD
-        homepage_url: https://lfod.io/
-        logo: lfod.svg
-      - item:
-        name: LG U+
-        homepage_url: https://www.lguplus.com/
-        logo: lgu+.svg
-      - item:
-        name: Linux Foundation
-        homepage_url: https://www.linuxfoundation.org
-        logo: lfcolor.svg
-        crunchbase: https://www.crunchbase.com/organization/linux-foundation
-      - item:
-        name: LocationGuru
-        homepage_url: https://locationguru.com/
-        logo: locationguru.svg
-      - item:
-        name: LotusFlare
-        homepage_url: https://www.lotusflare.com/
-        logo: lotusflare.svg
-      - item:
-        name: Lytn
-        homepage_url: https://www.lytn.io/
-        logo: lytn.svg
-        crunchbase: https://www.crunchbase.com/organization/lytn
-      - item:
-        name: M1
-        homepage_url: https://www.m1.com.sg/
-        logo: m1.svg
-      - item:
-        name: M800
-        homepage_url: https://www.m800.com
-        linkedin: https://www.linkedin.com/company/m800/
-        description: M800 is a global telecommunication and cloud communications provider specializing in secure and reliable enterprise solutions.
-        logo: m800.svg
-      - item:
-        name: Matrixx Software
-        homepage_url: https://www.matrixx.com/
-        logo: matrixx.svg
-      - item:
-        name: MEO
-        homepage_url: https://www.meo.pt/
-        logo: meo.svg
-      - item:
-        name: Mavenir
-        homepage_url: https://www.mavenir.com/
-        logo: mavenir.svg
-      - item:
-        name: Microcks
-        homepage_url: https://microcks.io
-        project_org: https://github.com/microcks
-        repo_url: https://github.com/microcks/microcks
-        logo: microcks.svg
-        twitter: https://twitter.com/microcksio
-        crunchbase: https://www.crunchbase.com/organization/microcks
-        extra:
-            dev_stats_url: https://microcks.devstats.cncf.io/
-            artwork_url: https://github.com/cncf/artwork/blob/master/examples/sandbox.md#microcks-logos
-            blog_url: https://microcks.io/blog/
-            mailing_list_url: https://github.com/orgs/microcks/discussions
-            slack_url: https://cloud-native.slack.com/messages/microcks
-            youtube_url: https://youtube.com/c/Microcks
-            summary_personas: API Owners, Developers, Architects, QA Testers, Quality Assurance Engineer, SREs, Platform Engineers, DevOps Engineer, DevOps practitioners
-            summary_tags: API, mocking, testing, openapi, graphql, grpc, asyncapi
-            summary_use_case: >-
-              Microcks is a tool for mocking and testing your APIs and microservices. It leverages API standards to provide a uniform and multi-protocol
-              approach for simulating complex distributed environments and validating service components in isolation.
-            summary_business_use_case: >-
-              Microcks facilitates rapid simulation generation, automated API testing, and seamless CI/CD integration, streamlining development and 
-              deployment processes. Microcks empowers teams to optimize services and accelerate product releases, gaining a competitive edge.
-            summary_release_rate: New release every 2 to 3 months.
-            summary_integrations: >-
-              Keycloak, Operator framework, Helm, Backstage.io, Tekton, CloudEvents, Prometheus, OpenTelemetry, Docker, Podman, Testcontainers
-            summary_intro_url: https://www.youtube.com/watch?v=E8rjUwznO-Q
-            clomonitor_name: microcks
-      - item:
-        name: MojoAuth
-        homepage_url: https://mojoauth.com
-        logo: mojoauth.svg
-      - item:
-        name: MQUEST Technologies
-        homepage_url: https://mquest-technologies.com
-        logo: mquest.svg
-      - item:
-        name: Nabstract.io
-        homepage_url: https://nabstract.io
-        logo: nabstract.svg
-      - item:
-        name: National Centre of Scientific Research - Demokritos
-        homepage_url: https://www.demokritos.gr/
-        logo: demokritos.svg
-      - item:
-        name: Nearby Computing
-        homepage_url: https://nearbycomputing.com/
-        logo: nearbycomputing.svg
-        crunchbase: https://www.crunchbase.com/organization/nearby-computing
-      - item:
-        name: Netcracker
-        homepage_url: https://www.netcracker.com/
-        logo: netcracker.svg
-      - item:
-        name: NetoAI
-        homepage_url: https://netoai.org/
-        logo: netoai.svg
-      - item:
-        name: NGMN Alliance
-        homepage_url: https://www.ngmn.org/
-        logo: ngmn.svg
-      - item:
-        name: NOS
-        homepage_url: https://www.nos.pt/
-        logo: nos.svg
-      - item:
-        name: NTT DATA
-        homepage_url: https://www.nttdata.com/
-        logo: nttdata.svg
-      - item:
-        name: Openexpand
-        homepage_url: https://openxpand.com/
-        logo: openexpand.svg
-      - item:
-        name: Open Sesame
-        homepage_url: https://www.opensesame.com/
-        logo: opensesame.svg
-      - item:
-        name: Optare Solutions
-        homepage_url: https://optaresolutions.com/
-        logo: optare.svg
-      - item:
-        name: Optiva
-        homepage_url: https://www.optiva.com/
-        logo: optiva.svg
-        crunchbase: https://www.crunchbase.com/organization/optiva
-      - item:
-        name: Oracle
-        homepage_url: https://www.oracle.com/
-        logo: oracle.svg
-      - item:
-        name: phine.tech GmbH
-        homepage_url: https://phine.tech/
-        logo: phinetech.svg
-      - item:
-        name: plusmo
-        homepage_url: https://plusmo.com/
-        logo: plusmo.svg
-      - item:
-        name: Proximus
-        homepage_url: https://www.proximus.com/
-        logo: proximus.svg
-      - item:
-        name: Pryvx
-        homepage_url: https://www.pryvx.com/
-        logo: pryvx.svg
-      - item:
-        name: Quobis
-        homepage_url: https://www.quobis.com/
-        logo: quobis.svg
-      - item:
-        name: Radisys
-        homepage_url: https://www.radisys.com/
-        logo: radisys.svg
-      - item:
-        name: Red Hat
-        homepage_url: https://www.redhat.com/
-        logo: redhat.svg
-        crunchbase: https://www.crunchbase.com/organization/red-hat
-      - item:
-        name: Reevolute
-        homepage_url: https://www.reevolute.com/
-        logo: reevolute.svg
-      - item:
-        name: Reply
-        homepage_url: https://www.reply.com/
-        logo: replylive.svg
-      - item:
-        name: Rogers
-        homepage_url: https://www.rogers.com/
-        logo: rogers.svg
-      - item:
-        name: Saudi Telecom Company (STC)
-        homepage_url: https://www.stc.com.sa/
-        logo: stc.svg
-      - item:
-        name: Sekura
-        homepage_url: https://www.sekura.com/
-        logo: sekura.svg
-      - item:
-        name: Simptel
-        homepage_url: https://www.siptel.com.sg/
-        logo: simptel.svg
-      - item:
-        name: Sinch
-        homepage_url: https://sinch.com
-        logo: sinch.svg
-        crunchbase: https://www.crunchbase.com/organization/sinch
-      - item:
-        name: Singtel
-        homepage_url: https://www.singtel.com/
-        logo: singtel.svg
-      - item:
-        name: SK Telecom
-        homepage_url: https://www.sktelecom.com/
-        logo: sktelecom.svg
-      - item:
-        name: Spry Fox Networks
-        homepage_url: https://www.spryfoxnetworks.com/
-        logo: spryfox.svg
-      - item:
-        name: StarHub
-        homepage_url: https://www.starhub.com/
-        logo: starhub.svg
-      - item:
-        name: Startelelogic
-        homepage_url: https://www.startelelogic.com/
-        logo: startelelogic.svg
-        crunchbase: https://www.crunchbase.com/organization/startele-logic
-      - item:
-        name: Stechs
-        homepage_url: https://www.stechs.io/
-        logo: stechs.svg
-      - item:
-        name: Summit
-        homepage_url: https://www.summit-tech.ca/
-        logo: summit.svg
-      - item:
-        name: Swisscom
-        homepage_url: https://www.swisscom.ch/
-        logo: swisscom.svg
-        crunchbase: https://www.crunchbase.com/organization/swisscom
-      - item:
-        name: Symponica
-        homepage_url: https://symphonica.com/
-        logo: symphonica.svg
-      - item:
-        name: Syniverse
-        homepage_url: https://www.syniverse.com/
-        logo: syniverse.svg
-      - item:
-        name: Tata Consultancy Services (TCS)
-        homepage_url: https://www.tcs.com/
-        logo: tata.svg
-      - item:
-        name: Tata Elxsi
-        homepage_url: https://www.tataelxsi.com/
-        logo: tata_elxsi.svg
-      - item:
-        name: Telenor
-        homepage_url: https://www.telenor.com/
-        logo: telenor.svg
-      - item:
-        name: Telkomsel
-        homepage_url: https://www.telkomsel.com/
-        logo: telkomsel.svg
-      - item:
-        name: Telstra
-        homepage_url: https://www.telstra.com.au/
-        logo: telstra.svg
-      - item:
-        name: TELUS
-        homepage_url: https://www.telus.com/
-        logo: telus.svg
-      - item:
-        name: TIM
-        homepage_url: https://www.tim.com.br/
-        logo: tim.svg
-      - item:
-        name: TruSense
-        homepage_url: https://trusense.id/
-        logo: trusense.svg
-      - item:
-        name: Unryo
-        homepage_url: https://www.unryo.com/
-        logo: unryo.svg
-      - item:
-        name: UTH UK Limited
-        homepage_url: https://www.uth-uk.com/
-        logo: uth.svg
-      - item:
-        name: VIAVI Solutions
-        homepage_url: https://www.viavisolutions.com/
-        logo: viavi.svg
-        description: VIAVI is a global provider of network test, monitoring and assurance solutions for telecommunications, cloud, enterprises, first responders, military, aerospace and railway. VIAVI is also a leader in light management technologies for 3D sensing, anti-counterfeiting, consumer electronics, industrial, automotive, government and aerospace applications.
-      - item:
-        name: VIRTUS - Research, Development and Innovation Center
-        homepage_url: https://www.virtus.ufcg.edu.br
-        logo: virtus.svg
-      - item:
-        name: VROMBR
-        homepage_url: https://vrombr.games
-        logo: vrombr.svg
-      - item:
-        name: WCG
-        homepage_url: https://www.wraycastle.com/
-        logo: wcg.svg
-      - item:
-        name: Whale Cloud
-        homepage_url: https://www.whalecloud.com/
-        logo: whalecloud.svg
-      - item:
-        name: Xacria
-        homepage_url: https://www.xacria.com/
-        logo: xacria.svg
-      - item:
-        name: Xecurity Pulse
-        homepage_url: https://www.xecuritypulse.com/
-        logo: xecurity-pulse.svg
-      - item:
-        name: XFlow Software Technology LLC
-        homepage_url: https://www.xflowresearch.com/
-        logo: xflow.svg
-      - item:
-        name: Yaana
-        homepage_url: https://www.yaanatech.com/
-        logo: yaana.svg
-      - item:
-        name: ZTE Corporation
-        homepage_url: https://www.zte.com.cn/
-        logo: zte.svg
+      - subcategory:
+        name: Participating Organizations
+        items:
+          - item:
+            name: 1NCE
+            homepage_url: https://1nce.com/
+            logo: 1nce.svg
+            crunchbase: https://www.crunchbase.com/organization/1nce-gmbh
+          - item:
+            name: A1
+            homepage_url: http://www.a1.net/
+            logo: a1.svg
+            crunchbase: https://www.crunchbase.com/organization/a1-telekom-austria-ag
+          - item:
+            name: ACL Digital
+            homepage_url: https://www.acldigital.com/
+            logo: acldigital.svg
+            crunchbase: https://www.crunchbase.com/organization/alten-calsoft-labs
+          - item:
+            name: America Movil
+            homepage_url: https://www.americamovil.com/
+            logo: americamovil.svg
+          - item:
+            name: ANDdigital
+            homepage_url: https://www.and.digital/
+            logo: anddigital.svg
+          - item:
+            name: Akross
+            homepage_url: https://www.akross.com.br/pt/
+            logo: akross.svg
+            crunchbase: https://www.crunchbase.com/organization/akross
+          - item:
+            name: Amantya
+            homepage_url: https://amantyatech.com/
+            logo: amantya.svg
+            crunchbase: https://www.crunchbase.com/organization/amantya-technologies
+          - item:
+            name: Amdocs
+            homepage_url: https://www.amdocs.com/
+            logo: amdocs.svg
+            crunchbase: https://www.crunchbase.com/organization/amdocs
+          - item:
+            name: ApisTraining
+            homepage_url: https://apistraining.com/
+            logo: apistraining.svg
+          - item:
+            name: Argela
+            homepage_url: https://www.argela.com.tr/en
+            logo: argela.svg
+          - item:
+            name: AT&T
+            homepage_url: https://www.att.com/
+            logo: att.svg
+            crunchbase: https://www.crunchbase.com/organization/at-t
+          - item:
+            name: AWS (Amazon Web Services)
+            homepage_url: https://aws.amazon.com/
+            logo: aws.svg
+          - item:
+            name: Axiata
+            homepage_url: https://www.axiata.com/
+            logo: axiata.svg
+            crunchbase: https://www.crunchbase.com/organization/axiata
+          - item:
+            name: Axiata Digital Labs
+            homepage_url: https://www.axiatadigitallabs.com/
+            logo: axiatadigitallabs.svg
+            crunchbase: https://www.crunchbase.com/organization/axiata-digital-labs
+          - item:
+            name: BCTI - A Network API Company
+            homepage_url: https://www.brianchin.co
+            logo: bcti.svg
+          - item:
+            name: BearingPoint
+            homepage_url: https://www.bearingpoint.com/
+            logo: bearingpoint.svg
+            crunchbase: https://www.crunchbase.com/organization/bearingpoint
+          - item:
+            name: Bharti Airtel
+            homepage_url: https://www.airtel.com/
+            logo: airtel.svg
+          - item:
+            name: Bouygues Telecom
+            homepage_url: https://www.bouyguestelecom.fr/
+            logo: bouygues.svg
+          - item:
+            name: Bridge Alliance
+            homepage_url: https://www.bridgealliance.us/
+            logo: bridgealliance.svg
+            crunchbase: https://www.crunchbase.com/organization/bridge
+          - item:
+            name: British Telecom
+            homepage_url: https://www.bt.com/
+            logo: bt.svg
+          - item:
+            name: Broadpeak
+            homepage_url: https://broadpeak.tv/
+            logo: broadpeak.svg
+            crunchbase: https://www.crunchbase.com/organization/broadpeak
+          - item:
+            name: Capgemini
+            homepage_url: https://www.capgemini.com/
+            logo: capgemini.svg
+            crunchbase: https://www.crunchbase.com/organization/cap-gemini
+          - item:
+            name: Chenosis
+            homepage_url: https://chenosis.io/
+            logo: chenosis.svg
+          - item:
+            name: China Mobile
+            homepage_url: https://www.chinamobileltd.com/
+            logo: chinamobile.svg
+          - item:
+            name: China Telecom
+            homepage_url: https://www.chinatelecomglobal.com/
+            logo: chinatelecom.svg
+            crunchbase: https://www.crunchbase.com/organization/china-telcom
+          - item:
+            name: China Unicom
+            homepage_url: https://www.chinaunicom.com.hk/
+            logo: chinaunicom.svg
+            crunchbase: https://www.crunchbase.com/organization/china-unicom
+          - item:
+            name: CINNOX
+            homepage_url: https://www.cinnox.com/
+            linkedin: https://www.linkedin.com/company/cinnoxhq
+            description: CINNOX is an all-in-one cloud contact center platform that enhances customer engagement through seamless voice, messaging, and AI-powered interactions.
+            logo: cinnox.svg
+          - item:
+            name: Cisco
+            homepage_url: https://www.cisco.com/
+            logo: cisco.svg
+            crunchbase: https://www.crunchbase.com/organization/cisco
+          - item:
+            name: CK Hutchison Holdings
+            homepage_url: http://www.ckh.com.hk/
+            logo: ckh.svg
+            crunchbase: https://www.crunchbase.com/organization/ck-investments
+          - item:
+            name: CloudoniX
+            homepage_url: https://www.cloudonix.com/
+            logo: cloudonix.svg
+            crunchbase: https://www.crunchbase.com/organization/cloudonix-io
+          - item:
+            name: CodeB
+            homepage_url: https://www.codeb.io/
+            logo: codeb.svg
+          - item:
+            name: Cognizant
+            homepage_url: https://www.cognizant.com/
+            logo: cognizant.svg
+            crunchbase: https://www.crunchbase.com/organization/cognizant-technology-solutions
+          - item:
+            name: Colony
+            homepage_url: https://www.colonynetworks.com/
+            logo: colonynetworks.svg
+            crunchbase: https://www.crunchbase.com/organization/colony-networks
+          - item:
+            name: Comviva
+            homepage_url: https://www.comviva.com/
+            logo: comviva.svg
+            crunchbase: https://www.crunchbase.com/organization/comviva
+          - item:
+            name: Coure
+            homepage_url: https://coure-tech.com/
+            logo: coure.svg
+          - item:
+            name: CPaasAA
+            homepage_url: https://cpaasaa.com/
+            logo: cpaasaa.svg
+          - item:
+            name: CSL
+            homepage_url: https://www.hkcsl.com/
+            logo: csl.svg
+            crunchbase: https://www.crunchbase.com/organization/csl
+          - item:
+            name: CThingsCo
+            homepage_url: https://www.cthings.co/
+            logo: cthingsco.svg
+            crunchbase: https://www.crunchbase.com/organization/cthings-co
+          - item:
+            name: DataCurve
+            homepage_url: https://datacurve.io/
+            logo: datacurve.svg
+          - item:
+            name: Detecon Consulting
+            homepage_url: https://www.detecon.com/
+            logo: detecon.svg
+            crunchbase: https://www.crunchbase.com/organization/detecon-international-consulting
+          - item:
+            name: Domos
+            homepage_url: https://www.joindomos.com/
+            logo: domos.svg
+            crunchbase: https://www.crunchbase.com/organization/domos-labs
+          - item:
+            name: DriveU.auto
+            homepage_url: https://driveu.auto/
+            logo: driveu.svg
+          - item:
+            name: EANTC
+            homepage_url: https://eantc.de/
+            logo: eantc.svg
+            crunchbase: https://www.crunchbase.com/organization/european-advanced-networking-test-center
+          - item:
+            name: EdgeContinuum
+            homepage_url: https://www.edgecontinuum.com
+            logo: edgecontinuum.svg
+          - item:
+            name: EdgeXR
+            homepage_url: https://www.edgexr.net
+            logo: edgexr.svg
+          - item:
+            name: Etisalat
+            homepage_url: https://www.etisalat.com/
+            logo: etisalat.svg
+            crunchbase: https://www.crunchbase.com/organization/etisalat
+          - item:
+            name: Etiya
+            homepage_url: https://www.etiya.com/
+            logo: etiya.svg
+          - item:
+            name: Eviden
+            homepage_url: https://eviden.com/
+            logo: eviden.svg
+            crunchbase: https://www.crunchbase.com/organization/eviden
+          - item:
+            name: F5
+            homepage_url: https://www.f5.com/
+            logo: f5.svg
+            crunchbase: https://www.crunchbase.com/organization/f5-networks
+          - item:
+            name: Fujitsu
+            homepage_url: https://www.fujitsu.com/
+            logo: fujitsu.svg
+            crunchbase: https://www.crunchbase.com/organization/fujitsu
+          - item:
+            name: Gapask
+            homepage_url: https://www.gapask.com
+            logo: gapask.svg
+          - item:
+            name: Google Cloud
+            homepage_url: https://cloud.google.com/
+            logo: googlecloud.svg
+          - item:
+            name: GSMA
+            homepage_url: https://www.gsma.com/
+            logo: gsma.svg
+          - item:
+            name: HCL Software
+            homepage_url: https://www.hcltechsw.com/
+            logo: hcl.svg
+          - item:
+            name: Hewlett Packard Enterprise
+            homepage_url: https://www.hpe.com/
+            logo: hpe.svg
+          - item:
+            name: HKT
+            homepage_url: https://www.hkt.com/
+            logo: hkt.svg
+          - item:
+            name: Huawei
+            homepage_url: https://www.huawei.com/
+            logo: huawei.svg
+          - item:
+            name: IamCrypto
+            homepage_url: https://iamcrypto.com/
+            logo: iamcrypto.svg
+          - item:
+            name: IBM
+            homepage_url: https://www.ibm.com/
+            logo: ibm.svg
+          - item:
+            name: IEEE 5G6G Testbed
+            homepage_url: https://testbed.ieee.org/
+            logo: IEEE5G6GTestbed.svg.svg
+          - item:
+            name: Infobip
+            homepage_url: https://www.infobip.com/
+            logo: infobip.svg
+          - item:
+            name: InfoLysis
+            homepage_url: http://www.infolysis.com/
+            logo: infolysis.svg
+          - item:
+            name: Infosys
+            homepage_url: https://www.infosys.com/
+            logo: infosys.svg
+          - item:
+            name: Intel
+            homepage_url: https://www.intel.com/
+            logo: intel.svg
+          - item:
+            name: Intracom Single Member S. A. Telecom Solutions
+            homepage_url: https://www.intracom-telecom.com/
+            description: Intracom Telecom is a global technology systems and solutions provider operating for over 45 years in the market located in Peania, Greece.
+            logo: intracom-telecom.svg
+            crunchbase: https://www.crunchbase.com/organization/intracom-telecom
+          - item:
+            name: IPification
+            homepage_url: https://www.ipification.com/
+            logo: ipification.svg
+          - item:
+            name: Iquall Networks
+            homepage_url: https://www.iquall.net/
+            logo: iquall.svg
+          - item:
+            name: Italtel
+            homepage_url: http://www.italtel.com/
+            logo: italtel.svg
+            crunchbase: https://www.crunchbase.com/organization/italtel
+          - item:
+            name: JIO Platforms
+            homepage_url: https://www.jio.com/platforms/
+            logo: jio.svg
+          - item:
+            name: KDDI
+            homepage_url: https://www.kt.com/
+            logo: kddi.svg
+          - item:
+            name: KPN
+            homepage_url: https://www.kpn.com/
+            logo: kpn.svg
+          - item:
+            name: KT
+            homepage_url: https://www.kt.com/
+            logo: kt.svg
+          - item:
+            name: Kubermatic
+            homepage_url: https://kubermatic.com
+            logo: kubermatic.svg
+          - item:
+            name: LatenceTech
+            homepage_url: https://www.latencetech.com/
+            logo: latencetech.svg
+            crunchbase: https://www.crunchbase.com/organization/latence-technologies
+          - item:
+            name: Lenovo
+            homepage_url: https://www.lenovo.com/
+            logo: lenovo.svg
+          - item:
+            name: LFOD
+            homepage_url: https://lfod.io/
+            logo: lfod.svg
+          - item:
+            name: LG U+
+            homepage_url: https://www.lguplus.com/
+            logo: lgu+.svg
+          - item:
+            name: Linux Foundation
+            homepage_url: https://www.linuxfoundation.org
+            logo: lfcolor.svg
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+          - item:
+            name: LocationGuru
+            homepage_url: https://locationguru.com/
+            logo: locationguru.svg
+          - item:
+            name: LotusFlare
+            homepage_url: https://www.lotusflare.com/
+            logo: lotusflare.svg
+          - item:
+            name: Lytn
+            homepage_url: https://www.lytn.io/
+            logo: lytn.svg
+            crunchbase: https://www.crunchbase.com/organization/lytn
+          - item:
+            name: M1
+            homepage_url: https://www.m1.com.sg/
+            logo: m1.svg
+          - item:
+            name: M800
+            homepage_url: https://www.m800.com
+            linkedin: https://www.linkedin.com/company/m800/
+            description: M800 is a global telecommunication and cloud communications provider specializing in secure and reliable enterprise solutions.
+            logo: m800.svg
+          - item:
+            name: Matrixx Software
+            homepage_url: https://www.matrixx.com/
+            logo: matrixx.svg
+          - item:
+            name: MEO
+            homepage_url: https://www.meo.pt/
+            logo: meo.svg
+          - item:
+            name: Mavenir
+            homepage_url: https://www.mavenir.com/
+            logo: mavenir.svg
+          - item:
+            name: Microcks
+            homepage_url: https://microcks.io
+            project_org: https://github.com/microcks
+            repo_url: https://github.com/microcks/microcks
+            logo: microcks.svg
+            twitter: https://twitter.com/microcksio
+            crunchbase: https://www.crunchbase.com/organization/microcks
+            extra:
+              dev_stats_url: https://microcks.devstats.cncf.io/
+              artwork_url: https://github.com/cncf/artwork/blob/master/examples/sandbox.md#microcks-logos
+              blog_url: https://microcks.io/blog/
+              mailing_list_url: https://github.com/orgs/microcks/discussions
+              slack_url: https://cloud-native.slack.com/messages/microcks
+              youtube_url: https://youtube.com/c/Microcks
+              summary_personas: API Owners, Developers, Architects, QA Testers, Quality Assurance Engineer, SREs, Platform Engineers, DevOps Engineer, DevOps practitioners
+              summary_tags: API, mocking, testing, openapi, graphql, grpc, asyncapi
+              summary_use_case: >-
+                Microcks is a tool for mocking and testing your APIs and microservices. It leverages API standards to provide a uniform and multi-protocol
+                approach for simulating complex distributed environments and validating service components in isolation.
+              summary_business_use_case: >-
+                Microcks facilitates rapid simulation generation, automated API testing, and seamless CI/CD integration, streamlining development and  deployment processes. Microcks
+                empowers teams to optimize services and accelerate product releases, gaining a competitive edge.
+              summary_release_rate: New release every 2 to 3 months.
+              summary_integrations: >-
+                Keycloak, Operator framework, Helm, Backstage.io, Tekton, CloudEvents, Prometheus, OpenTelemetry, Docker, Podman, Testcontainers
+              summary_intro_url: https://www.youtube.com/watch?v=E8rjUwznO-Q
+              clomonitor_name: microcks
+          - item:
+            name: MojoAuth
+            homepage_url: https://mojoauth.com
+            logo: mojoauth.svg
+          - item:
+            name: MQUEST Technologies
+            homepage_url: https://mquest-technologies.com
+            logo: mquest.svg
+          - item:
+            name: Nabstract.io
+            homepage_url: https://nabstract.io
+            logo: nabstract.svg
+          - item:
+            name: National Centre of Scientific Research - Demokritos
+            homepage_url: https://www.demokritos.gr/
+            logo: demokritos.svg
+          - item:
+            name: Nearby Computing
+            homepage_url: https://nearbycomputing.com/
+            logo: nearbycomputing.svg
+            crunchbase: https://www.crunchbase.com/organization/nearby-computing
+          - item:
+            name: Netcracker
+            homepage_url: https://www.netcracker.com/
+            logo: netcracker.svg
+          - item:
+            name: NetoAI
+            homepage_url: https://netoai.org/
+            logo: netoai.svg
+          - item:
+            name: NGMN Alliance
+            homepage_url: https://www.ngmn.org/
+            logo: ngmn.svg
+          - item:
+            name: NOS
+            homepage_url: https://www.nos.pt/
+            logo: nos.svg
+          - item:
+            name: NTT DATA
+            homepage_url: https://www.nttdata.com/
+            logo: nttdata.svg
+          - item:
+            name: Openexpand
+            homepage_url: https://openxpand.com/
+            logo: openexpand.svg
+          - item:
+            name: Open Sesame
+            homepage_url: https://www.opensesame.com/
+            logo: opensesame.svg
+          - item:
+            name: Optare Solutions
+            homepage_url: https://optaresolutions.com/
+            logo: optare.svg
+          - item:
+            name: Optiva
+            homepage_url: https://www.optiva.com/
+            logo: optiva.svg
+            crunchbase: https://www.crunchbase.com/organization/optiva
+          - item:
+            name: Oracle
+            homepage_url: https://www.oracle.com/
+            logo: oracle.svg
+          - item:
+            name: phine.tech GmbH
+            homepage_url: https://phine.tech/
+            logo: phinetech.svg
+          - item:
+            name: plusmo
+            homepage_url: https://plusmo.com/
+            logo: plusmo.svg
+          - item:
+            name: Proximus
+            homepage_url: https://www.proximus.com/
+            logo: proximus.svg
+          - item:
+            name: Pryvx
+            homepage_url: https://www.pryvx.com/
+            logo: pryvx.svg
+          - item:
+            name: Quobis
+            homepage_url: https://www.quobis.com/
+            logo: quobis.svg
+          - item:
+            name: Radisys
+            homepage_url: https://www.radisys.com/
+            logo: radisys.svg
+          - item:
+            name: Red Hat
+            homepage_url: https://www.redhat.com/
+            logo: redhat.svg
+            crunchbase: https://www.crunchbase.com/organization/red-hat
+          - item:
+            name: Reevolute
+            homepage_url: https://www.reevolute.com/
+            logo: reevolute.svg
+          - item:
+            name: Reply
+            homepage_url: https://www.reply.com/
+            logo: replylive.svg
+          - item:
+            name: Rogers
+            homepage_url: https://www.rogers.com/
+            logo: rogers.svg
+          - item:
+            name: Saudi Telecom Company (STC)
+            homepage_url: https://www.stc.com.sa/
+            logo: stc.svg
+          - item:
+            name: Sekura
+            homepage_url: https://www.sekura.com/
+            logo: sekura.svg
+          - item:
+            name: Simptel
+            homepage_url: https://www.siptel.com.sg/
+            logo: simptel.svg
+          - item:
+            name: Sinch
+            homepage_url: https://sinch.com
+            logo: sinch.svg
+            crunchbase: https://www.crunchbase.com/organization/sinch
+          - item:
+            name: Singtel
+            homepage_url: https://www.singtel.com/
+            logo: singtel.svg
+          - item:
+            name: SK Telecom
+            homepage_url: https://www.sktelecom.com/
+            logo: sktelecom.svg
+          - item:
+            name: Spry Fox Networks
+            homepage_url: https://www.spryfoxnetworks.com/
+            logo: spryfox.svg
+          - item:
+            name: StarHub
+            homepage_url: https://www.starhub.com/
+            logo: starhub.svg
+          - item:
+            name: Startelelogic
+            homepage_url: https://www.startelelogic.com/
+            logo: startelelogic.svg
+            crunchbase: https://www.crunchbase.com/organization/startele-logic
+          - item:
+            name: Stechs
+            homepage_url: https://www.stechs.io/
+            logo: stechs.svg
+          - item:
+            name: Summit
+            homepage_url: https://www.summit-tech.ca/
+            logo: summit.svg
+          - item:
+            name: Swisscom
+            homepage_url: https://www.swisscom.ch/
+            logo: swisscom.svg
+            crunchbase: https://www.crunchbase.com/organization/swisscom
+          - item:
+            name: Symponica
+            homepage_url: https://symphonica.com/
+            logo: symphonica.svg
+          - item:
+            name: Syniverse
+            homepage_url: https://www.syniverse.com/
+            logo: syniverse.svg
+          - item:
+            name: Tata Consultancy Services (TCS)
+            homepage_url: https://www.tcs.com/
+            logo: tata.svg
+          - item:
+            name: Tata Elxsi
+            homepage_url: https://www.tataelxsi.com/
+            logo: tata_elxsi.svg
+          - item:
+            name: Telenor
+            homepage_url: https://www.telenor.com/
+            logo: telenor.svg
+          - item:
+            name: Telkomsel
+            homepage_url: https://www.telkomsel.com/
+            logo: telkomsel.svg
+          - item:
+            name: Telstra
+            homepage_url: https://www.telstra.com.au/
+            logo: telstra.svg
+          - item:
+            name: TELUS
+            homepage_url: https://www.telus.com/
+            logo: telus.svg
+          - item:
+            name: TIM
+            homepage_url: https://www.tim.com.br/
+            logo: tim.svg
+          - item:
+            name: TruSense
+            homepage_url: https://trusense.id/
+            logo: trusense.svg
+          - item:
+            name: Unryo
+            homepage_url: https://www.unryo.com/
+            logo: unryo.svg
+          - item:
+            name: UTH UK Limited
+            homepage_url: https://www.uth-uk.com/
+            logo: uth.svg
+          - item:
+            name: VIAVI Solutions
+            homepage_url: https://www.viavisolutions.com/
+            logo: viavi.svg
+            description: VIAVI is a global provider of network test, monitoring and assurance solutions for telecommunications, cloud, enterprises, first responders, military, aerospace
+              and railway. VIAVI is also a leader in light management technologies for 3D sensing, anti-counterfeiting, consumer electronics, industrial, automotive, government and aerospace
+              applications.
+          - item:
+            name: VIRTUS - Research, Development and Innovation Center
+            homepage_url: https://www.virtus.ufcg.edu.br
+            logo: virtus.svg
+          - item:
+            name: VROMBR
+            homepage_url: https://vrombr.games
+            logo: vrombr.svg
+          - item:
+            name: WCG
+            homepage_url: https://www.wraycastle.com/
+            logo: wcg.svg
+          - item:
+            name: Whale Cloud
+            homepage_url: https://www.whalecloud.com/
+            logo: whalecloud.svg
+          - item:
+            name: Xacria
+            homepage_url: https://www.xacria.com/
+            logo: xacria.svg
+          - item:
+            name: Xecurity Pulse
+            homepage_url: https://www.xecuritypulse.com/
+            logo: xecurity-pulse.svg
+          - item:
+            name: XFlow Software Technology LLC
+            homepage_url: https://www.xflowresearch.com/
+            logo: xflow.svg
+          - item:
+            name: Yaana
+            homepage_url: https://www.yaanatech.com/
+            logo: yaana.svg
+          - item:
+            name: ZTE Corporation
+            homepage_url: https://www.zte.com.cn/
+            logo: zte.svg
+  - category:
+    name: CAMARA Member Company
+    subcategories:
+      - subcategory:
+        name: Platinum
+        items: []
+      - subcategory:
+        name: General
+        items: []
+      - subcategory:
+        name: Associate
+        items: []
