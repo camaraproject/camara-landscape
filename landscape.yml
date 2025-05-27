@@ -701,6 +701,10 @@ landscape:
             homepage_url: https://www.radisys.com/
             logo: radisys.svg
           - item:
+            name: Rakuten
+            homepage_url: https://www.rakuten.com/
+            logo: rakuten.svg
+          - item:
             name: Red Hat
             homepage_url: https://www.redhat.com/
             logo: redhat.svg
