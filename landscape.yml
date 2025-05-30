@@ -1659,48 +1659,48 @@ landscape:
               version: "In progress"
               camara_release_meta: "No releases yet"
               camara_status_detail: "Upcoming API, In progress, Sandbox repository, no releases yet"
-    - category:
-      name: CAMARA Governance Bodies
-      subcategories:
-        - subcategory:
-          name: Governance Leadership
-          items:
-            - name: Governing Board
-              homepage_url: https://camaraproject.org/governing-board/
-              repo_url: https://github.com/camaraproject/Governance # For related documents
-              logo: camara_project_logo.svg
-              description: "Responsible for budget approvals, nomination and elections of Officers of the Directed Fund, and outreach activities for the CAMARA project."
-              crunchbase: https://www.crunchbase.com/organization/linux-foundation
-              extra:
-                wg_type: "Governance"
-                chair_lead: "Nathan Rader (Chair), Dennis Wukovits (Treasurer), Herbert Damker (Technical Lead), Markus Kümmerle (Outreach Committee contact)"
-                meeting_info_url: "Meeting information not explicitly listed on the public website."
-                key_deliverables_list: "Budget approvals; Officer nominations and elections; Outreach activities oversight; CAMARA Fund Charter (https://lf-camaraproject.atlassian.net/wiki/pages/viewpageattachments.action?pageId=14558707&preview=/14558707/14582376/CAMARA%20Fund%20Participation%20Agreement%20and%20Funding%20Charter%206-08-2023.pdf)"
-            - name: Technical Steering Committee (TSC)
-              homepage_url: https://github.com/camaraproject/Governance # Primary source for its documented role and meeting links
-              repo_url: https://github.com/camaraproject/Governance # For related documents like Technical Charter
-              logo: camara_project_logo.svg
-              description: "The oversight body for the technical aspects of the CAMARA Project, responsible for the overall technical direction, approval of API subprojects, and ensuring technical consistency."
-              crunchbase: https://www.crunchbase.com/organization/linux-foundation
-              extra:
-                wg_type: "Governance"
-                chair_lead: "Herbert Damker (Chair)"
-                meeting_info_url: |
-                  Meeting (1st Thursday 10:00 CET): https://zoom-lfx.platform.linuxfoundation.org/meeting/92417990884?password=09b06279-320c-4149-82e2-209769197ab8
-                  Meeting (3rd Thursday 16:00 CET): https://zoom-lfx.platform.linuxfoundation.org/meeting/95086949070?password=90a393e8-cc8a-4b24-bd82-905913ebe60a
-                  Minutes: https://lf-camaraproject.atlassian.net/wiki/spaces/CAM/pages/14563031/TSC+Meeting+Minutes
-                key_deliverables_list: "Technical Charter (https://github.com/camaraproject/Governance/blob/main/ProjectCharter.md); API Subproject Approval; Technical Direction Setting; Promotion of APIs to different maturity stages"
-            - name: End User Council
-              homepage_url: https://camaraproject.org/end-user-council/
-              repo_url: "" # No specific repository
-              logo: camara_project_logo.svg
-              description: "Composed of end users of CAMARA APIs, providing feedback and insights on API usability, functionality, and market relevance from an end-user perspective."
-              crunchbase: https://www.crunchbase.com/organization/linux-foundation
-              extra:
-                wg_type: "Community Outreach"
-                chair_lead: "Not explicitly listed. TSC Representatives: Doug Makishima, Massimiliano Troiani, Nicholas Venezia."
-                meeting_info_url: "Meeting information not explicitly listed on the public website."
-                key_deliverables_list: "End-user feedback on APIs; Use case validation; Input on API requirements"
+  - category:
+    name: CAMARA Governance Bodies
+    subcategories:
+      - subcategory:
+        name: Governance Leadership
+        items:
+          - name: Governing Board
+            homepage_url: https://camaraproject.org/governing-board/
+            repo_url: https://github.com/camaraproject/Governance # For related documents
+            logo: camara_project_logo.svg
+            description: "Responsible for budget approvals, nomination and elections of Officers of the Directed Fund, and outreach activities for the CAMARA project."
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              wg_type: "Governance"
+              chair_lead: "Nathan Rader (Chair), Dennis Wukovits (Treasurer), Herbert Damker (Technical Lead), Markus Kümmerle (Outreach Committee contact)"
+              meeting_info_url: "Meeting information not explicitly listed on the public website."
+              key_deliverables_list: "Budget approvals; Officer nominations and elections; Outreach activities oversight; CAMARA Fund Charter (https://lf-camaraproject.atlassian.net/wiki/pages/viewpageattachments.action?pageId=14558707&preview=/14558707/14582376/CAMARA%20Fund%20Participation%20Agreement%20and%20Funding%20Charter%206-08-2023.pdf)"
+          - name: Technical Steering Committee (TSC)
+            homepage_url: https://github.com/camaraproject/Governance # Primary source for its documented role and meeting links
+            repo_url: https://github.com/camaraproject/Governance # For related documents like Technical Charter
+            logo: camara_project_logo.svg
+            description: "The oversight body for the technical aspects of the CAMARA Project, responsible for the overall technical direction, approval of API subprojects, and ensuring technical consistency."
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              wg_type: "Governance"
+              chair_lead: "Herbert Damker (Chair)"
+              meeting_info_url: |
+                Meeting (1st Thursday 10:00 CET): https://zoom-lfx.platform.linuxfoundation.org/meeting/92417990884?password=09b06279-320c-4149-82e2-209769197ab8
+                Meeting (3rd Thursday 16:00 CET): https://zoom-lfx.platform.linuxfoundation.org/meeting/95086949070?password=90a393e8-cc8a-4b24-bd82-905913ebe60a
+                Minutes: https://lf-camaraproject.atlassian.net/wiki/spaces/CAM/pages/14563031/TSC+Meeting+Minutes
+              key_deliverables_list: "Technical Charter (https://github.com/camaraproject/Governance/blob/main/ProjectCharter.md); API Subproject Approval; Technical Direction Setting; Promotion of APIs to different maturity stages"
+          - name: End User Council
+            homepage_url: https://camaraproject.org/end-user-council/
+            repo_url: "" # No specific repository
+            logo: camara_project_logo.svg
+            description: "Composed of end users of CAMARA APIs, providing feedback and insights on API usability, functionality, and market relevance from an end-user perspective."
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              wg_type: "Community Outreach"
+              chair_lead: "Not explicitly listed. TSC Representatives: Doug Makishima, Massimiliano Troiani, Nicholas Venezia."
+              meeting_info_url: "Meeting information not explicitly listed on the public website."
+              key_deliverables_list: "End-user feedback on APIs; Use case validation; Input on API requirements"
   - category:
     name: CAMARA Working Groups
     subcategories:
