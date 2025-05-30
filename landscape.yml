@@ -813,10 +813,6 @@ landscape:
             homepage_url: https://trusense.id/
             logo: trusense.svg
           - item:
-            name: Unryo
-            homepage_url: https://www.unryo.com/
-            logo: unryo.svg
-          - item:
             name: UTH UK Limited
             homepage_url: https://www.uth-uk.com/
             logo: uth.svg
