@@ -878,162 +878,162 @@ landscape:
               version: "v0.3.0"
               camara_release_meta: "Spring25"
               camara_status_detail: "Mature API as per Spring25 Release (06.03.2025)"
-            - item:
-              name: Customer Insights API
-              homepage_url: https://camaraproject.org/customer-insights/
-              repo_url: https://github.com/camaraproject/CustomerInsights
-              logo: customer_insights_api.svg
-              project: Mature
-              description: "Provides financial institutions with additional insights into their customers’ behavior based on their interactions with telecom operators."
-              crunchbase: https://www.crunchbase.com/organization/linux-foundation
-              extra:
-                api_family: Authentication and Fraud Prevention
-                version: "v0.1.1"
-                camara_release_meta: "Spring25"
-                camara_status_detail: "Mature API as per Spring25 Release (March 20, 2025)"
-            - item:
-              name: Device Swap API
-              homepage_url: https://camaraproject.org/device-swap/
-              repo_url: https://github.com/camaraproject/DeviceSwap
-              logo: device_swap_api.svg
-              project: Mature
-              description: "Provides real-time insights into whether a SIM card associated with a user’s phone number has been transferred to a different physical device."
-              crunchbase: https://www.crunchbase.com/organization/linux-foundation
-              extra:
-                api_family: Authentication and Fraud Prevention
-                version: "v0.2.0"
-                camara_release_meta: "Spring25"
-                camara_status_detail: "Mature API as per Spring25 Release (March 13, 2025)"
-            - item:
-              name: Know Your Customer Age Verification API
-              homepage_url: https://camaraproject.org/know-your-customer-age-verification/
-              repo_url: https://github.com/camaraproject/KnowYourCustomer
-              logo: kyc_age_verification_api.svg
-              project: Mature
-              description: "Verifies if a mobile subscriber is above a certain age, leveraging telecommunications operators' existing verified user data."
-              crunchbase: https://www.crunchbase.com/organization/linux-foundation
-              extra:
-                api_family: Authentication and Fraud Prevention
-                version: "v0.1.0" # Specific to Age Verification within KYC project
-                camara_release_meta: "Spring25"
-                camara_status_detail: "Mature API as per Spring25 Release (March 10, 2025)"
-            - item:
-              name: Know Your Customer Fill In API
-              homepage_url: https://github.com/camaraproject/KnowYourCustomer # Specific page was inaccessible
-              repo_url: https://github.com/camaraproject/KnowYourCustomer
-              logo: kyc_fill_in_api.svg
-              project: Mature
-              description: "Allows a Service Provider to request and receive information for a particular user that is on file (and verified) by the user's Operator."
-              crunchbase: https://www.crunchbase.com/organization/linux-foundation
-              extra:
-                api_family: Authentication and Fraud Prevention
-                version: "Part of KnowYourCustomer r2.2" # Check kyc-fill-in.yaml in repo for specific version if available
-                camara_release_meta: "Spring25"
-                camara_status_detail: "Mature API as per Spring25 Release (KnowYourCustomer project release March 10, 2025)"
-            - item:
-              name: Know Your Customer Match API
-              homepage_url: https://github.com/camaraproject/KnowYourCustomer # Specific page was inaccessible
-              repo_url: https://github.com/camaraproject/KnowYourCustomer
-              logo: kyc_match_api.svg
-              project: Mature
-              description: "Enables a Service Provider to compare information it possesses for a user with the information on file by the user's Operator."
-              crunchbase: https://www.crunchbase.com/organization/linux-foundation
-              extra:
-                api_family: Authentication and Fraud Prevention
-                version: "Part of KnowYourCustomer r2.2" # Check kyc-match.yaml in repo for specific version if available
-                camara_release_meta: "Spring25"
-                camara_status_detail: "Mature API as per Spring25 Release (KnowYourCustomer project release March 10, 2025)"
-            - item:
-              name: Know Your Customer Tenure API
-              homepage_url: https://camaraproject.org/know-your-customer-tenure/
-              repo_url: https://github.com/camaraproject/Tenure # Note: Repo is 'Tenure', but part of KYC family
-              logo: kyc_tenure_api.svg
-              project: Mature
-              description: "Verifies the length of time a phone number has been associated with a specific user and their current mobile operator."
-              crunchbase: https://www.crunchbase.com/organization/linux-foundation
-              extra:
-                api_family: Authentication and Fraud Prevention
-                version: "v0.1.0"
-                camara_release_meta: "Spring25"
-                camara_status_detail: "Mature API as per Spring25 Release (March 11, 2025)"
-            - item:
-              name: Number Recycling API
-              homepage_url: https://camaraproject.org/number-recycling/
-              repo_url: https://github.com/camaraproject/NumberRecycling
-              logo: number_recycling_api.svg
-              project: Mature
-              description: "Allows businesses to verify if a phone number's ownership has changed since a specified date."
-              crunchbase: https://www.crunchbase.com/organization/linux-foundation
-              extra:
-                api_family: Authentication and Fraud Prevention
-                version: "v0.1.1"
-                camara_release_meta: "Spring25" # Page mentions May 6, 2025 as release date
-                camara_status_detail: "Mature API as per Spring25 meta-release (May 6, 2025)"
-            - item:
-              name: Number Verification API
-              homepage_url: https://camaraproject.org/number-verification/
-              repo_url: https://github.com/camaraproject/NumberVerification
-              logo: number_verification_api.svg
-              project: Mature
-              description: "Confirms mobile phone number ownership and retrieves the number directly from a user's device."
-              crunchbase: https://www.crunchbase.com/organization/linux-foundation
-              extra:
-                api_family: Authentication and Fraud Prevention
-                version: "v2.0.0"
-                camara_release_meta: "Spring25"
-                camara_status_detail: "Mature API as per Spring25 Release (March 20, 2025)"
-            - item:
-              name: One Time Password SMS API
-              homepage_url: https://github.com/camaraproject/OTPValidation # Confluence page also exists, GitHub more direct for spec
-              repo_url: https://github.com/camaraproject/OTPValidation
-              logo: one_time_password_sms_api.svg
-              project: Mature
-              description: "Performs real-time checks to verify possession of a device by delivering an OTP via SMS and validating it."
-              crunchbase: https://www.crunchbase.com/organization/linux-foundation
-              extra:
-                api_family: Authentication and Fraud Prevention
-                version: "1.1.0" # From OTPValidation project release r2.3
-                camara_release_meta: "Spring25"
-                camara_status_detail: "Mature API, version 1.1.0 as per Spring25 Release (March 11, 2025)"
-            - item:
-              name: Scam Signal API
-              homepage_url: https://www.gsma.com/solutions-and-impact/gsma-open-gateway/gsma-open-gateway-api-descriptions/ # Points to GSMA
-              repo_url: "Private GSMA Repository" # Not publicly available via CAMARA
-              logo: scam_signal_api.svg
-              project: Mature
-              description: "Allows businesses to protect their customers from impersonation scams, particularly Authorized Pushed Payment (APP) fraud."
-              crunchbase: https://www.crunchbase.com/organization/linux-foundation
-              extra:
-                api_family: Authentication and Fraud Prevention
-                version: "N/A via CAMARA"
-                camara_release_meta: "Managed by GSMA"
-                camara_status_detail: "Mature API, details managed by GSMA, private repository."
-            - item:
-              name: Sim Swap API
-              homepage_url: https://camaraproject.org/sim-swap/
-              repo_url: https://github.com/camaraproject/SimSwap
-              logo: sim_swap_api.svg
-              project: Mature
-              description: "Monitors and detects changes in the SIM card associated with a mobile number, providing insights into recent swaps."
-              crunchbase: https://www.crunchbase.com/organization/linux-foundation
-              extra:
-                api_family: Authentication and Fraud Prevention
-                version: "v2.0.0"
-                camara_release_meta: "Spring25"
-                camara_status_detail: "Mature API as per Spring25 Release (March 13, 2025)"
-            - item:
-              name: Sim Swap Subscriptions API
-              homepage_url: https://camaraproject.org/sim-swap-subscriptions/
-              repo_url: https://github.com/camaraproject/SimSwap
-              logo: sim_swap_subscriptions_api.svg
-              project: Mature
-              description: "Allows application developers to manage and monitor SIM card swaps by subscribing to real-time notifications."
-              crunchbase: https://www.crunchbase.com/organization/linux-foundation
-              extra:
-                api_family: Authentication and Fraud Prevention
-                version: "v0.2.0" # SimSwap project release r2.2
-                camara_release_meta: "Spring25"
-                camara_status_detail: "Mature API as per Spring25 Release (March 13, 2025)"
+          - item:
+            name: Customer Insights API
+            homepage_url: https://camaraproject.org/customer-insights/
+            repo_url: https://github.com/camaraproject/CustomerInsights
+            logo: customer_insights_api.svg
+            project: Mature
+            description: "Provides financial institutions with additional insights into their customers’ behavior based on their interactions with telecom operators."
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              api_family: Authentication and Fraud Prevention
+              version: "v0.1.1"
+              camara_release_meta: "Spring25"
+              camara_status_detail: "Mature API as per Spring25 Release (March 20, 2025)"
+          - item:
+            name: Device Swap API
+            homepage_url: https://camaraproject.org/device-swap/
+            repo_url: https://github.com/camaraproject/DeviceSwap
+            logo: device_swap_api.svg
+            project: Mature
+            description: "Provides real-time insights into whether a SIM card associated with a user’s phone number has been transferred to a different physical device."
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              api_family: Authentication and Fraud Prevention
+              version: "v0.2.0"
+              camara_release_meta: "Spring25"
+              camara_status_detail: "Mature API as per Spring25 Release (March 13, 2025)"
+          - item:
+            name: Know Your Customer Age Verification API
+            homepage_url: https://camaraproject.org/know-your-customer-age-verification/
+            repo_url: https://github.com/camaraproject/KnowYourCustomer
+            logo: kyc_age_verification_api.svg
+            project: Mature
+            description: "Verifies if a mobile subscriber is above a certain age, leveraging telecommunications operators' existing verified user data."
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              api_family: Authentication and Fraud Prevention
+              version: "v0.1.0" # Specific to Age Verification within KYC project
+              camara_release_meta: "Spring25"
+              camara_status_detail: "Mature API as per Spring25 Release (March 10, 2025)"
+          - item:
+            name: Know Your Customer Fill In API
+            homepage_url: https://github.com/camaraproject/KnowYourCustomer # Specific page was inaccessible
+            repo_url: https://github.com/camaraproject/KnowYourCustomer
+            logo: kyc_fill_in_api.svg
+            project: Mature
+            description: "Allows a Service Provider to request and receive information for a particular user that is on file (and verified) by the user's Operator."
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              api_family: Authentication and Fraud Prevention
+              version: "Part of KnowYourCustomer r2.2" # Check kyc-fill-in.yaml in repo for specific version if available
+              camara_release_meta: "Spring25"
+              camara_status_detail: "Mature API as per Spring25 Release (KnowYourCustomer project release March 10, 2025)"
+          - item:
+            name: Know Your Customer Match API
+            homepage_url: https://github.com/camaraproject/KnowYourCustomer # Specific page was inaccessible
+            repo_url: https://github.com/camaraproject/KnowYourCustomer
+            logo: kyc_match_api.svg
+            project: Mature
+            description: "Enables a Service Provider to compare information it possesses for a user with the information on file by the user's Operator."
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              api_family: Authentication and Fraud Prevention
+              version: "Part of KnowYourCustomer r2.2" # Check kyc-match.yaml in repo for specific version if available
+              camara_release_meta: "Spring25"
+              camara_status_detail: "Mature API as per Spring25 Release (KnowYourCustomer project release March 10, 2025)"
+          - item:
+            name: Know Your Customer Tenure API
+            homepage_url: https://camaraproject.org/know-your-customer-tenure/
+            repo_url: https://github.com/camaraproject/Tenure # Note: Repo is 'Tenure', but part of KYC family
+            logo: kyc_tenure_api.svg
+            project: Mature
+            description: "Verifies the length of time a phone number has been associated with a specific user and their current mobile operator."
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              api_family: Authentication and Fraud Prevention
+              version: "v0.1.0"
+              camara_release_meta: "Spring25"
+              camara_status_detail: "Mature API as per Spring25 Release (March 11, 2025)"
+          - item:
+            name: Number Recycling API
+            homepage_url: https://camaraproject.org/number-recycling/
+            repo_url: https://github.com/camaraproject/NumberRecycling
+            logo: number_recycling_api.svg
+            project: Mature
+            description: "Allows businesses to verify if a phone number's ownership has changed since a specified date."
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              api_family: Authentication and Fraud Prevention
+              version: "v0.1.1"
+              camara_release_meta: "Spring25" # Page mentions May 6, 2025 as release date
+              camara_status_detail: "Mature API as per Spring25 meta-release (May 6, 2025)"
+          - item:
+            name: Number Verification API
+            homepage_url: https://camaraproject.org/number-verification/
+            repo_url: https://github.com/camaraproject/NumberVerification
+            logo: number_verification_api.svg
+            project: Mature
+            description: "Confirms mobile phone number ownership and retrieves the number directly from a user's device."
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              api_family: Authentication and Fraud Prevention
+              version: "v2.0.0"
+              camara_release_meta: "Spring25"
+              camara_status_detail: "Mature API as per Spring25 Release (March 20, 2025)"
+          - item:
+            name: One Time Password SMS API
+            homepage_url: https://github.com/camaraproject/OTPValidation # Confluence page also exists, GitHub more direct for spec
+            repo_url: https://github.com/camaraproject/OTPValidation
+            logo: one_time_password_sms_api.svg
+            project: Mature
+            description: "Performs real-time checks to verify possession of a device by delivering an OTP via SMS and validating it."
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              api_family: Authentication and Fraud Prevention
+              version: "1.1.0" # From OTPValidation project release r2.3
+              camara_release_meta: "Spring25"
+              camara_status_detail: "Mature API, version 1.1.0 as per Spring25 Release (March 11, 2025)"
+          - item:
+            name: Scam Signal API
+            homepage_url: https://www.gsma.com/solutions-and-impact/gsma-open-gateway/gsma-open-gateway-api-descriptions/ # Points to GSMA
+            repo_url: "Private GSMA Repository" # Not publicly available via CAMARA
+            logo: scam_signal_api.svg
+            project: Mature
+            description: "Allows businesses to protect their customers from impersonation scams, particularly Authorized Pushed Payment (APP) fraud."
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              api_family: Authentication and Fraud Prevention
+              version: "N/A via CAMARA"
+              camara_release_meta: "Managed by GSMA"
+              camara_status_detail: "Mature API, details managed by GSMA, private repository."
+          - item:
+            name: Sim Swap API
+            homepage_url: https://camaraproject.org/sim-swap/
+            repo_url: https://github.com/camaraproject/SimSwap
+            logo: sim_swap_api.svg
+            project: Mature
+            description: "Monitors and detects changes in the SIM card associated with a mobile number, providing insights into recent swaps."
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              api_family: Authentication and Fraud Prevention
+              version: "v2.0.0"
+              camara_release_meta: "Spring25"
+              camara_status_detail: "Mature API as per Spring25 Release (March 13, 2025)"
+          - item:
+            name: Sim Swap Subscriptions API
+            homepage_url: https://camaraproject.org/sim-swap-subscriptions/
+            repo_url: https://github.com/camaraproject/SimSwap
+            logo: sim_swap_subscriptions_api.svg
+            project: Mature
+            description: "Allows application developers to manage and monitor SIM card swaps by subscribing to real-time notifications."
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              api_family: Authentication and Fraud Prevention
+              version: "v0.2.0" # SimSwap project release r2.2
+              camara_release_meta: "Spring25"
+              camara_status_detail: "Mature API as per Spring25 Release (March 13, 2025)"
       - subcategory:
         name: Location Services
         items:
