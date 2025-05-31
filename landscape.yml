@@ -996,19 +996,6 @@ landscape:
               camara_release_meta: "Spring25"
               camara_status_detail: "Mature API, version 1.1.0 as per Spring25 Release (March 11, 2025)"
           - item:
-            name: Scam Signal API
-            homepage_url: https://www.gsma.com/solutions-and-impact/gsma-open-gateway/gsma-open-gateway-api-descriptions/ # Points to GSMA
-            repo_url: "Private GSMA Repository" # Not publicly available via CAMARA
-            logo: scam_signal_api.svg
-            project: Mature
-            description: "Allows businesses to protect their customers from impersonation scams, particularly Authorized Pushed Payment (APP) fraud."
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              api_family: Authentication and Fraud Prevention
-              version: "N/A via CAMARA"
-              camara_release_meta: "Managed by GSMA"
-              camara_status_detail: "Mature API, details managed by GSMA, private repository."
-          - item:
             name: Sim Swap API
             homepage_url: https://camaraproject.org/sim-swap/
             repo_url: https://github.com/camaraproject/SimSwap
