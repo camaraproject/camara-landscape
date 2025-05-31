@@ -196,669 +196,2590 @@ landscape:
             twitter: https://twitter.com/openid
             extra:
               linkedin_url: https://www.linkedin.com/company/openid-foundation
-  - category:
+category:
+name: Participating Organizations
+subcategories:
+  - subcategory:
     name: Participating Organizations
-    subcategories:
-      - subcategory:
-        name: Participating Organizations
-        items:
-          - item:
-            name: 1NCE
-            homepage_url: https://1nce.com/
-            logo: 1nce.svg
-            crunchbase: https://www.crunchbase.com/organization/1nce-gmbh
-          - item:
-            name: A1
-            homepage_url: http://www.a1.net/
-            logo: a1.svg
-            crunchbase: https://www.crunchbase.com/organization/a1-telekom-austria-ag
-          - item:
-            name: ACL Digital
-            homepage_url: https://www.acldigital.com/
-            logo: acldigital.svg
-            crunchbase: https://www.crunchbase.com/organization/alten-calsoft-labs
-          - item:
-            name: America Movil
-            homepage_url: https://www.americamovil.com/
-            logo: americamovil.svg
-          - item:
-            name: ANDdigital
-            homepage_url: https://www.and.digital/
-            logo: anddigital.svg
-          - item:
-            name: Akross
-            homepage_url: https://www.akross.com.br/pt/
-            logo: akross.svg
-            crunchbase: https://www.crunchbase.com/organization/akross
-          - item:
-            name: Amantya
-            homepage_url: https://amantyatech.com/
-            logo: amantya.svg
-            crunchbase: https://www.crunchbase.com/organization/amantya-technologies
-          - item:
-            name: Amdocs
-            homepage_url: https://www.amdocs.com/
-            logo: amdocs.svg
-            crunchbase: https://www.crunchbase.com/organization/amdocs
-          - item:
-            name: ApisTraining
-            homepage_url: https://apistraining.com/
-            logo: apistraining.svg
-          - item:
-            name: Argela
-            homepage_url: https://www.argela.com.tr/en
-            logo: argela.svg
-          - item:
-            name: AT&T
-            homepage_url: https://www.att.com/
-            logo: att.svg
-            crunchbase: https://www.crunchbase.com/organization/at-t
-          - item:
-            name: AWS (Amazon Web Services)
-            homepage_url: https://aws.amazon.com/
-            logo: aws.svg
-          - item:
-            name: Axiata
-            homepage_url: https://www.axiata.com/
-            logo: axiata.svg
-            crunchbase: https://www.crunchbase.com/organization/axiata
-          - item:
-            name: Axiata Digital Labs
-            homepage_url: https://www.axiatadigitallabs.com/
-            logo: axiatadigitallabs.svg
-            crunchbase: https://www.crunchbase.com/organization/axiata-digital-labs
-          - item:
-            name: BCTI - A Network API Company
-            homepage_url: https://www.brianchin.co
-            logo: bcti.svg
-          - item:
-            name: BearingPoint
-            homepage_url: https://www.bearingpoint.com/
-            logo: bearingpoint.svg
-            crunchbase: https://www.crunchbase.com/organization/bearingpoint
-          - item:
-            name: Bharti Airtel
-            homepage_url: https://www.airtel.com/
-            logo: airtel.svg
-          - item:
-            name: Bouygues Telecom
-            homepage_url: https://www.bouyguestelecom.fr/
-            logo: bouygues.svg
-          - item:
-            name: Bridge Alliance
-            homepage_url: https://www.bridgealliance.us/
-            logo: bridgealliance.svg
-            crunchbase: https://www.crunchbase.com/organization/bridge
-          - item:
-            name: British Telecom
-            homepage_url: https://www.bt.com/
-            logo: bt.svg
-          - item:
-            name: Broadpeak
-            homepage_url: https://broadpeak.tv/
-            logo: broadpeak.svg
-            crunchbase: https://www.crunchbase.com/organization/broadpeak
-          - item:
-            name: Capgemini
-            homepage_url: https://www.capgemini.com/
-            logo: capgemini.svg
-            crunchbase: https://www.crunchbase.com/organization/cap-gemini
-          - item:
-            name: Chenosis
-            homepage_url: https://chenosis.io/
-            logo: chenosis.svg
-          - item:
-            name: China Mobile
-            homepage_url: https://www.chinamobileltd.com/
-            logo: chinamobile.svg
-          - item:
-            name: China Telecom
-            homepage_url: https://www.chinatelecomglobal.com/
-            logo: chinatelecom.svg
-            crunchbase: https://www.crunchbase.com/organization/china-telcom
-          - item:
-            name: China Unicom
-            homepage_url: https://www.chinaunicom.com.hk/
-            logo: chinaunicom.svg
-            crunchbase: https://www.crunchbase.com/organization/china-unicom
-          - item:
-            name: CINNOX
-            homepage_url: https://www.cinnox.com/
-            linkedin: https://www.linkedin.com/company/cinnoxhq
-            description: CINNOX is an all-in-one cloud contact center platform that enhances customer engagement through seamless voice, messaging, and AI-powered interactions.
-            logo: cinnox.svg
-          - item:
-            name: Cisco
-            homepage_url: https://www.cisco.com/
-            logo: cisco.svg
-            crunchbase: https://www.crunchbase.com/organization/cisco
-          - item:
-            name: CK Hutchison Holdings
-            homepage_url: http://www.ckh.com.hk/
-            logo: ckh.svg
-            crunchbase: https://www.crunchbase.com/organization/ck-investments
-          - item:
-            name: CloudoniX
-            homepage_url: https://www.cloudonix.com/
-            logo: cloudonix.svg
-            crunchbase: https://www.crunchbase.com/organization/cloudonix-io
-          - item:
-            name: CodeB
-            homepage_url: https://www.codeb.io/
-            logo: codeb.svg
-          - item:
-            name: Cognizant
-            homepage_url: https://www.cognizant.com/
-            logo: cognizant.svg
-            crunchbase: https://www.crunchbase.com/organization/cognizant-technology-solutions
-          - item:
-            name: Colony
-            homepage_url: https://www.colonynetworks.com/
-            logo: colonynetworks.svg
-            crunchbase: https://www.crunchbase.com/organization/colony-networks
-          - item:
-            name: Comviva
-            homepage_url: https://www.comviva.com/
-            logo: comviva.svg
-            crunchbase: https://www.crunchbase.com/organization/comviva
-          - item:
-            name: Coure
-            homepage_url: https://coure-tech.com/
-            logo: coure.svg
-          - item:
-            name: CPaasAA
-            homepage_url: https://cpaasaa.com/
-            logo: cpaasaa.svg
-          - item:
-            name: CSL
-            homepage_url: https://www.hkcsl.com/
-            logo: csl.svg
-            crunchbase: https://www.crunchbase.com/organization/csl
-          - item:
-            name: CThingsCo
-            homepage_url: https://www.cthings.co/
-            logo: cthingsco.svg
-            crunchbase: https://www.crunchbase.com/organization/cthings-co
-          - item:
-            name: DataCurve
-            homepage_url: https://datacurve.io/
-            logo: datacurve.svg
-          - item:
-            name: Detecon Consulting
-            homepage_url: https://www.detecon.com/
-            logo: detecon.svg
-            crunchbase: https://www.crunchbase.com/organization/detecon-international-consulting
-          - item:
-            name: Domos
-            homepage_url: https://www.joindomos.com/
-            logo: domos.svg
-            crunchbase: https://www.crunchbase.com/organization/domos-labs
-          - item:
-            name: DriveU.auto
-            homepage_url: https://driveu.auto/
-            logo: driveu.svg
-          - item:
-            name: EANTC
-            homepage_url: https://eantc.de/
-            logo: eantc.svg
-            crunchbase: https://www.crunchbase.com/organization/european-advanced-networking-test-center
-          - item:
-            name: EdgeContinuum
-            homepage_url: https://www.edgecontinuum.com
-            logo: edgecontinuum.svg
-          - item:
-            name: EdgeXR
-            homepage_url: https://www.edgexr.net
-            logo: edgexr.svg
-          - item:
-            name: Etisalat
-            homepage_url: https://www.etisalat.com/
-            logo: etisalat.svg
-            crunchbase: https://www.crunchbase.com/organization/etisalat
-          - item:
-            name: Etiya
-            homepage_url: https://www.etiya.com/
-            logo: etiya.svg
-          - item:
-            name: Eviden
-            homepage_url: https://eviden.com/
-            logo: eviden.svg
-            crunchbase: https://www.crunchbase.com/organization/eviden
-          - item:
-            name: F5
-            homepage_url: https://www.f5.com/
-            logo: f5.svg
-            crunchbase: https://www.crunchbase.com/organization/f5-networks
-          - item:
-            name: Fujitsu
-            homepage_url: https://www.fujitsu.com/
-            logo: fujitsu.svg
-            crunchbase: https://www.crunchbase.com/organization/fujitsu
-          - item:
-            name: Gapask
-            homepage_url: https://www.gapask.com
-            logo: gapask.svg
-          - item:
-            name: Google Cloud
-            homepage_url: https://cloud.google.com/
-            logo: googlecloud.svg
-          - item:
-            name: GSMA
-            homepage_url: https://www.gsma.com/
-            logo: gsma.svg
-          - item:
-            name: HCL Software
-            homepage_url: https://www.hcltechsw.com/
-            logo: hcl.svg
-          - item:
-            name: Hewlett Packard Enterprise
-            homepage_url: https://www.hpe.com/
-            logo: hpe.svg
-          - item:
-            name: HKT
-            homepage_url: https://www.hkt.com/
-            logo: hkt.svg
-          - item:
-            name: Huawei
-            homepage_url: https://www.huawei.com/
-            logo: huawei.svg
-          - item:
-            name: IamCrypto
-            homepage_url: https://iamcrypto.com/
-            logo: iamcrypto.svg
-          - item:
-            name: IBM
-            homepage_url: https://www.ibm.com/
-            logo: ibm.svg
-          - item:
-            name: IEEE 5G6G Testbed
-            homepage_url: https://testbed.ieee.org/
-            logo: IEEE5G6GTestbed.svg.svg
-          - item:
-            name: Infobip
-            homepage_url: https://www.infobip.com/
-            logo: infobip.svg
-          - item:
-            name: InfoLysis
-            homepage_url: http://www.infolysis.com/
-            logo: infolysis.svg
-          - item:
-            name: Infosys
-            homepage_url: https://www.infosys.com/
-            logo: infosys.svg
-          - item:
-            name: Intel
-            homepage_url: https://www.intel.com/
-            logo: intel.svg
-          - item:
-            name: Intracom Single Member S. A. Telecom Solutions
-            homepage_url: https://www.intracom-telecom.com/
-            description: Intracom Telecom is a global technology systems and solutions provider operating for over 45 years in the market located in Peania, Greece.
-            logo: intracom-telecom.svg
-            crunchbase: https://www.crunchbase.com/organization/intracom-telecom
-          - item:
-            name: IPification
-            homepage_url: https://www.ipification.com/
-            logo: ipification.svg
-          - item:
-            name: Iquall Networks
-            homepage_url: https://www.iquall.net/
-            logo: iquall.svg
-          - item:
-            name: Italtel
-            homepage_url: http://www.italtel.com/
-            logo: italtel.svg
-            crunchbase: https://www.crunchbase.com/organization/italtel
-          - item:
-            name: JIO Platforms
-            homepage_url: https://www.jio.com/platforms/
-            logo: jio.svg
-          - item:
-            name: KDDI
-            homepage_url: https://www.kt.com/
-            logo: kddi.svg
-          - item:
-            name: KPN
-            homepage_url: https://www.kpn.com/
-            logo: kpn.svg
-          - item:
-            name: KT
-            homepage_url: https://www.kt.com/
-            logo: kt.svg
-          - item:
-            name: Kubermatic
-            homepage_url: https://kubermatic.com
-            logo: kubermatic.svg
-          - item:
-            name: LatenceTech
-            homepage_url: https://www.latencetech.com/
-            logo: latencetech.svg
-            crunchbase: https://www.crunchbase.com/organization/latence-technologies
-          - item:
-            name: Lenovo
-            homepage_url: https://www.lenovo.com/
-            logo: lenovo.svg
-          - item:
-            name: LFOD
-            homepage_url: https://lfod.io/
-            logo: lfod.svg
-          - item:
-            name: LG U+
-            homepage_url: https://www.lguplus.com/
-            logo: lgu+.svg
-          - item:
-            name: Linux Foundation
-            homepage_url: https://www.linuxfoundation.org
-            logo: lfcolor.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-          - item:
-            name: LocationGuru
-            homepage_url: https://locationguru.com/
-            logo: locationguru.svg
-          - item:
-            name: LotusFlare
-            homepage_url: https://www.lotusflare.com/
-            logo: lotusflare.svg
-          - item:
-            name: Lytn
-            homepage_url: https://www.lytn.io/
-            logo: lytn.svg
-            crunchbase: https://www.crunchbase.com/organization/lytn
-          - item:
-            name: M1
-            homepage_url: https://www.m1.com.sg/
-            logo: m1.svg
-          - item:
-            name: M800
-            homepage_url: https://www.m800.com
-            linkedin: https://www.linkedin.com/company/m800/
-            description: M800 is a global telecommunication and cloud communications provider specializing in secure and reliable enterprise solutions.
-            logo: m800.svg
-          - item:
-            name: Matrixx Software
-            homepage_url: https://www.matrixx.com/
-            logo: matrixx.svg
-          - item:
-            name: MEO
-            homepage_url: https://www.meo.pt/
-            logo: meo.svg
-          - item:
-            name: Mavenir
-            homepage_url: https://www.mavenir.com/
-            logo: mavenir.svg
-          - item:
-            name: Microcks
-            homepage_url: https://microcks.io
-            project_org: https://github.com/microcks
-            repo_url: https://github.com/microcks/microcks
-            logo: microcks.svg
-            twitter: https://twitter.com/microcksio
-            crunchbase: https://www.crunchbase.com/organization/microcks
-            extra:
-              dev_stats_url: https://microcks.devstats.cncf.io/
-              artwork_url: https://github.com/cncf/artwork/blob/master/examples/sandbox.md#microcks-logos
-              blog_url: https://microcks.io/blog/
-              mailing_list_url: https://github.com/orgs/microcks/discussions
-              slack_url: https://cloud-native.slack.com/messages/microcks
-              youtube_url: https://youtube.com/c/Microcks
-              summary_personas: API Owners, Developers, Architects, QA Testers, Quality Assurance Engineer, SREs, Platform Engineers, DevOps Engineer, DevOps practitioners
-              summary_tags: API, mocking, testing, openapi, graphql, grpc, asyncapi
-              summary_use_case: >-
-                Microcks is a tool for mocking and testing your APIs and microservices. It leverages API standards to provide a uniform and multi-protocol
-                approach for simulating complex distributed environments and validating service components in isolation.
-              summary_business_use_case: >-
-                Microcks facilitates rapid simulation generation, automated API testing, and seamless CI/CD integration, streamlining development and  deployment processes. Microcks
-                empowers teams to optimize services and accelerate product releases, gaining a competitive edge.
-              summary_release_rate: New release every 2 to 3 months.
-              summary_integrations: >-
-                Keycloak, Operator framework, Helm, Backstage.io, Tekton, CloudEvents, Prometheus, OpenTelemetry, Docker, Podman, Testcontainers
-              summary_intro_url: https://www.youtube.com/watch?v=E8rjUwznO-Q
-              clomonitor_name: microcks
-          - item:
-            name: MojoAuth
-            homepage_url: https://mojoauth.com
-            logo: mojoauth.svg
-          - item:
-            name: MQUEST Technologies
-            homepage_url: https://mquest-technologies.com
-            logo: mquest.svg
-          - item:
-            name: Nabstract.io
-            homepage_url: https://nabstract.io
-            logo: nabstract.svg
-          - item:
-            name: National Centre of Scientific Research - Demokritos
-            homepage_url: https://www.demokritos.gr/
-            logo: demokritos.svg
-          - item:
-            name: Nearby Computing
-            homepage_url: https://nearbycomputing.com/
-            logo: nearbycomputing.svg
-            crunchbase: https://www.crunchbase.com/organization/nearby-computing
-          - item:
-            name: Netcracker
-            homepage_url: https://www.netcracker.com/
-            logo: netcracker.svg
-          - item:
-            name: NetoAI
-            homepage_url: https://netoai.org/
-            logo: netoai.svg
-          - item:
-            name: NGMN Alliance
-            homepage_url: https://www.ngmn.org/
-            logo: ngmn.svg
-          - item:
-            name: NOS
-            homepage_url: https://www.nos.pt/
-            logo: nos.svg
-          - item:
-            name: NTT DATA
-            homepage_url: https://www.nttdata.com/
-            logo: nttdata.svg
-          - item:
-            name: Openexpand
-            homepage_url: https://openxpand.com/
-            logo: openexpand.svg
-          - item:
-            name: Open Sesame
-            homepage_url: https://www.opensesame.com/
-            logo: opensesame.svg
-          - item:
-            name: Optare Solutions
-            homepage_url: https://optaresolutions.com/
-            logo: optare.svg
-          - item:
-            name: Optiva
-            homepage_url: https://www.optiva.com/
-            logo: optiva.svg
-            crunchbase: https://www.crunchbase.com/organization/optiva
-          - item:
-            name: Oracle
-            homepage_url: https://www.oracle.com/
-            logo: oracle.svg
-          - item:
-            name: phine.tech GmbH
-            homepage_url: https://phine.tech/
-            logo: phinetech.svg
-          - item:
-            name: plusmo
-            homepage_url: https://plusmo.com/
-            logo: plusmo.svg
-          - item:
-            name: Proximus
-            homepage_url: https://www.proximus.com/
-            logo: proximus.svg
-          - item:
-            name: Pryvx
-            homepage_url: https://www.pryvx.com/
-            logo: pryvx.svg
-          - item:
-            name: Quobis
-            homepage_url: https://www.quobis.com/
-            logo: quobis.svg
-          - item:
-            name: Radisys
-            homepage_url: https://www.radisys.com/
-            logo: radisys.svg
-          - item:
-            name: Rakuten
-            homepage_url: https://www.rakuten.com/
-            logo: rakuten.svg
-          - item:
-            name: Red Hat
-            homepage_url: https://www.redhat.com/
-            logo: redhat.svg
-            crunchbase: https://www.crunchbase.com/organization/red-hat
-          - item:
-            name: Reevolute
-            homepage_url: https://www.reevolute.com/
-            logo: reevolute.svg
-          - item:
-            name: Reply
-            homepage_url: https://www.reply.com/
-            logo: replylive.svg
-          - item:
-            name: Rogers
-            homepage_url: https://www.rogers.com/
-            logo: rogers.svg
-          - item:
-            name: Saudi Telecom Company (STC)
-            homepage_url: https://www.stc.com.sa/
-            logo: stc.svg
-          - item:
-            name: Sekura
-            homepage_url: https://www.sekura.com/
-            logo: sekura.svg
-          - item:
-            name: Simptel
-            homepage_url: https://www.siptel.com.sg/
-            logo: simptel.svg
-          - item:
-            name: Sinch
-            homepage_url: https://sinch.com
-            logo: sinch.svg
-            crunchbase: https://www.crunchbase.com/organization/sinch
-          - item:
-            name: Singtel
-            homepage_url: https://www.singtel.com/
-            logo: singtel.svg
-          - item:
-            name: SK Telecom
-            homepage_url: https://www.sktelecom.com/
-            logo: sktelecom.svg
-          - item:
-            name: Spry Fox Networks
-            homepage_url: https://www.spryfoxnetworks.com/
-            logo: spryfox.svg
-          - item:
-            name: StarHub
-            homepage_url: https://www.starhub.com/
-            logo: starhub.svg
-          - item:
-            name: Startelelogic
-            homepage_url: https://www.startelelogic.com/
-            logo: startelelogic.svg
-            crunchbase: https://www.crunchbase.com/organization/startele-logic
-          - item:
-            name: Stechs
-            homepage_url: https://www.stechs.io/
-            logo: stechs.svg
-          - item:
-            name: Summit
-            homepage_url: https://www.summit-tech.ca/
-            logo: summit.svg
-          - item:
-            name: Swisscom
-            homepage_url: https://www.swisscom.ch/
-            logo: swisscom.svg
-            crunchbase: https://www.crunchbase.com/organization/swisscom
-          - item:
-            name: Symponica
-            homepage_url: https://symphonica.com/
-            logo: symphonica.svg
-          - item:
-            name: Syniverse
-            homepage_url: https://www.syniverse.com/
-            logo: syniverse.svg
-          - item:
-            name: Tata Consultancy Services (TCS)
-            homepage_url: https://www.tcs.com/
-            logo: tata.svg
-          - item:
-            name: Tata Elxsi
-            homepage_url: https://www.tataelxsi.com/
-            logo: tata_elxsi.svg
-          - item:
-            name: Telenor
-            homepage_url: https://www.telenor.com/
-            logo: telenor.svg
-          - item:
-            name: Telkomsel
-            homepage_url: https://www.telkomsel.com/
-            logo: telkomsel.svg
-          - item:
-            name: Telstra
-            homepage_url: https://www.telstra.com.au/
-            logo: telstra.svg
-          - item:
-            name: TELUS
-            homepage_url: https://www.telus.com/
-            logo: telus.svg
-          - item:
-            name: TIM
-            homepage_url: https://www.tim.com.br/
-            logo: tim.svg
-          - item:
-            name: TruSense
-            homepage_url: https://trusense.id/
-            logo: trusense.svg
-          - item:
-            name: UTH UK Limited
-            homepage_url: https://www.uth-uk.com/
-            logo: uth.svg
-          - item:
-            name: VIAVI Solutions
-            homepage_url: https://www.viavisolutions.com/
-            logo: viavi.svg
-            description: VIAVI is a global provider of network test, monitoring and assurance solutions for telecommunications, cloud, enterprises, first responders, military, aerospace
-              and railway. VIAVI is also a leader in light management technologies for 3D sensing, anti-counterfeiting, consumer electronics, industrial, automotive, government and aerospace
-              applications.
-          - item:
-            name: VIRTUS - Research, Development and Innovation Center
-            homepage_url: https://www.virtus.ufcg.edu.br
-            logo: virtus.svg
-          - item:
-            name: VROMBR
-            homepage_url: https://vrombr.games
-            logo: vrombr.svg
-          - item:
-            name: WCG
-            homepage_url: https://www.wraycastle.com/
-            logo: wcg.svg
-          - item:
-            name: Whale Cloud
-            homepage_url: https://www.whalecloud.com/
-            logo: whalecloud.svg
-          - item:
-            name: Xacria
-            homepage_url: https://www.xacria.com/
-            logo: xacria.svg
-          - item:
-            name: Xecurity Pulse
-            homepage_url: https://www.xecuritypulse.com/
-            logo: xecurity-pulse.svg
-          - item:
-            name: XFlow Software Technology LLC
-            homepage_url: https://www.xflowresearch.com/
-            logo: xflow.svg
-          - item:
-            name: Yaana
-            homepage_url: https://www.yaanatech.com/
-            logo: yaana.svg
-          - item:
-            name: ZTE Corporation
-            homepage_url: https://www.zte.com.cn/
-            logo: zte.svg
+    items:
+      - item:
+        name: 1NCE
+        homepage_url: https://1nce.com/
+        logo: 1nce.svg
+        crunchbase: https://tracxn.com/d/companies/1nce/__cZc93GJdiSOMps2VXLNGgKJA9ApDZ7YFz8NXw6RfSWU
+        twitter: Not Found
+        project_org: Not Found
+        description: 1NCE is a global Tier-1 IoT carrier specializing in providing
+          managed connectivity services and software for low-bandwidth IoT applications.
+          Founded in 2017 in Cologne, Germany, as a joint venture with Deutsche
+          Telekom AG, 1NCE offers a disruptive 'IoT Lifetime Flat' pricing model
+          for long-term, affordable IoT deployments.
+        content: '1NCE''s core offerings include 1NCE Connect, which provides global
+          IoT connectivity with support for 2G, 3G, 4G/LTE-M, and NB-IoT across
+          173 countries. Their 1NCE OS serves as an IoT software platform, complete
+          with its own architecture and software tools. The company is known for
+          its IoT SIM Cards, available in Business, Industrial, and Chip variants,
+          often bundled with their signature ''IoT Lifetime Flat'' rate. To support
+          developers, 1NCE maintains a comprehensive Developer Hub, offering API
+          access for SIM management, order processing, and interaction with 1NCE
+          OS functionalities. The company''s disruptive pricing model is a key market
+          differentiator. No direct evidence of 1NCE participation in CAMARA project
+          working groups or API development was found in the provided information;
+          their focus appears to be on their proprietary ecosystem and its associated
+          APIs. The Developer Hub underscores a commitment to enabling developers
+          to build on the 1NCE platform, rather than contributing to external, cross-operator
+          API standards.'
+        keywords:
+          - IoT
+          - Connectivity
+          - IoT SIM
+          - Lifetime Flat
+          - Global IoT
+          - LPWAN
+          - NB-IoT
+          - LTE-M
+          - 1NCE OS
+          - IoT Platform
+          - M2M
+        extra:
+          role_type: Network Capability Solution Provider
+          blog_url: https://www.1nce.com/en-us/resources/news/blog
+          summary_use_case: Primarily focused on proprietary IoT platform APIs.
+            Potential CAMARA use cases could involve exposing network information
+            for enhanced IoT device management, but no active CAMARA development
+            by 1NCE is evident from available information.
+          summary_business_use_case: Leveraging its IoT platform to offer simplified,
+            low-cost global IoT connectivity. CAMARA adoption could broaden service
+            interoperability if pursued by 1NCE.
+          summary_integrations: Integrations are primarily within the 1NCE OS and
+            its partner ecosystem. No specific CAMARA API integrations by 1NCE detailed
+            in available information.
+          summary_intro_url: https://help.1nce.com/dev-hub/
+          summary_tags:
+            - IoT
+            - LPWAN
+            - Proprietary API
+            - Global Connectivity
+      - item:
+        name: A1 Telekom Austria Group
+        homepage_url: https://a1.group/
+        logo: a1telekom.svg
+        crunchbase: https://tracxn.com/d/companies/a1-telekom-austria-group/__J3JNpXCiHlQ0poTieMGULbyd29ShJoge51HK6ETPkWs
+        twitter: https://twitter.com/TA_Group
+        project_org: Not Found
+        description: A1 Telekom Austria Group is a prominent provider of digital
+          services and communications solutions in Central and Eastern Europe (CEE),
+          with operations in seven countries. As the European unit of América Móvil,
+          it delivers a comprehensive portfolio including voice telephony, broadband
+          Internet, mobile and home entertainment, IoT solutions, data and IT services,
+          and payment solutions.
+        content: 'The group''s offerings span core telecommunication services (mobile
+          and fixed-line) and an array of digital services, including ICT, cloud
+          solutions, and notably, IoT services provided through its A1 Digital arm.
+          A1 maintains a robust network infrastructure supporting 3G, 4G/LTE-A Pro,
+          5G, and NB-IoT technologies. Its engagement with the GSMA Open Gateway
+          initiative, which leverages CAMARA standards, is primarily through its
+          parent company, América Móvil. A1 Digital actively develops and showcases
+          numerous IoT use cases across various industries. While direct code contributions
+          to CAMARA from A1 itself are not highly visible in the provided information,
+          their strategic alignment with América Móvil''s Open Gateway participation
+          indicates an operational and implementation role for CAMARA-compliant
+          APIs. The group''s investment in network modernization establishes the
+          foundation for exposing advanced network functionalities.'
+        keywords:
+          - Telecommunications
+          - Digital Services
+          - CEE
+          - Mobile
+          - Broadband
+          - IoT
+          - 5G
+          - A1 Digital
+          - Open Gateway
+          - CAMARA
+        extra:
+          role_type: Operator API Exposure Platform Solution Provider
+          blog_url: https://newsroom.a1.group/
+          summary_use_case: Leveraging CAMARA APIs via GSMA Open Gateway (through
+            América Móvil) for enhanced digital services, particularly for IoT solutions
+            developed by A1 Digital.
+          summary_business_use_case: Expanding digital service offerings and improving
+            customer experience by enabling third-party developers to access network
+            capabilities through standardized APIs, fostering innovation in the CEE
+            region.
+          summary_integrations: Integration with GSMA Open Gateway framework. Specific
+            CAMARA API integration details would be via América Móvil's platform.
+          summary_intro_url: https://www.a1.digital/iot-a1-digital/
+          summary_tags:
+            - Open Gateway
+            - CAMARA
+            - IoT
+            - Digital Services
+            - CEE
+            - 5G
+      - item:
+        name: ACL Digital
+        homepage_url: https://www.acldigital.com/
+        logo: acldigital.svg
+        crunchbase: https://tracxn.com/d/companies/acl-digital/___ggnMDWSTgcT8pfIb9uxF8imcMnwXlSblGNdyl-V1SI
+        twitter: https://twitter.com/ACL_Digital/
+        project_org: Not Found
+        description: 'ACL Digital, a subsidiary of the ALTEN Group, is a digital
+          engineering and transformation company. It specializes in delivering AI-driven
+          solutions that span from Chip to Cloud, leveraging over three decades
+          of experience in software product engineering, embedded systems, artificial
+          intelligence, cloud computing, managed IT services, and talent solutions.'
+        content: ACL Digital provides an extensive array of services, including
+          digital transformation, comprehensive engineering services, AI/ML solutions,
+          cloud services, IoT implementations, and network modernization. The company
+          is an active participant in the CAMARA project, contributing to research
+          and development and proof-of-concepts. They also publish insights on the
+          importance of CAMARA and GSMA Open Gateway for monetizing 5G and transforming
+          telecommunication networks. Their engagement suggests a role in enabling
+          both telcos to expose CAMARA APIs and enterprises to consume these APIs
+          effectively. Collaborations, such as with Symphonica, demonstrate their
+          ecosystem approach to delivering CAMARA-based solutions.
+        keywords:
+          - Digital Transformation
+          - Product Engineering
+          - System Integration
+          - AI
+          - Cloud
+          - IoT
+          - 5G
+          - CAMARA
+          - Open Gateway
+          - Alten Group
+        extra:
+          role_type: System Integrators
+          blog_url: https://www.acldigital.com/what-we-think
+          summary_use_case: Developing and integrating CAMARA-based solutions for
+            telcos and enterprises, contributing to CAMARA PoCs and R&D. Facilitating
+            the adoption of network APIs for various industry applications.
+          summary_business_use_case: Enabling telecommunication providers to monetize
+            their 5G network investments and helping enterprises leverage network
+            APIs for innovative services through system integration and digital
+            transformation expertise.
+          summary_integrations: Actively contributes to CAMARA PoCs and collaborates
+            with partners (e.g., Symphonica) to deliver solutions leveraging CAMARA
+            APIs.
+          summary_intro_url: https://www.acldigital.com/industries/communication-service-providers/
+          summary_tags:
+            - System Integration
+            - CAMARA
+            - Open Gateway
+            - 5G Monetization
+            - Digital Transformation
+            - PoC
+      - item:
+        name: Akross
+        homepage_url: https://akross.com/
+        logo: akross.svg
+        crunchbase: https://www.crunchbase.com/organization/akross-inc
+        twitter: https://twitter.com/AkrossInc
+        project_org: Not Found
+        description: Akross is a technology company specializing in providing a
+          platform for Communication Service Providers (CSPs) to expose, manage,
+          and monetize their network APIs. They focus on enabling telcos to transform
+          into digital service enablers by leveraging initiatives like GSMA Open
+          Gateway and CAMARA.
+        content: Akross offers the 'Telco Network API Monetization Platform,' designed
+          to help CSPs participate in the network API economy. Their platform supports
+          the exposure of CAMARA-compliant APIs, enabling developers to access network
+          capabilities. Akross emphasizes simplifying the integration process for
+          telcos and fostering an ecosystem for new digital services. They highlight
+          use cases such as fraud prevention, enhanced customer experiences, and
+          new service creation through network API exposure. Akross actively promotes
+          its alignment with GSMA Open Gateway and CAMARA standards.
+        keywords:
+          - Network API Monetization
+          - CSP Platform
+          - GSMA Open Gateway
+          - CAMARA
+          - Telco API
+          - Digital Services
+          - API Management
+        extra:
+          role_type: Operator API Exposure Platform Solution Provider
+          blog_url: https://akross.com/blog/
+          summary_use_case: Providing a platform for CSPs to expose CAMARA-compliant
+            network APIs (e.g., for identity, security, network quality) to developers,
+            facilitating the creation of new digital services.
+          summary_business_use_case: Enabling CSPs to monetize their network assets
+            by transforming into API-driven digital service providers, fostering
+            innovation and creating new revenue streams through the Open Gateway
+            initiative.
+          summary_integrations: Platform designed for integration with telco networks
+            to expose CAMARA APIs. Focuses on enabling CSPs to participate in the
+            GSMA Open Gateway ecosystem.
+          summary_intro_url: https://akross.com/platform/
+          summary_tags:
+            - CAMARA
+            - Open Gateway
+            - API Monetization
+            - CSP
+            - Platform Provider
+      - item:
+        name: Amantya Technologies
+        homepage_url: https://www.amantyatech.com/
+        logo: amantyatech.svg
+        crunchbase: https://www.crunchbase.com/organization/amantya-technologies
+        twitter: https://twitter.com/AmantyaTech
+        project_org: https://github.com/Amantya
+        description: Amantya Technologies is a global product engineering and system
+          integration company providing services in 5G, IoT, AI/ML, cloud, and enterprise
+          digital transformation. They offer solutions for various industries, including
+          telecommunications, automotive, and smart cities.
+        content: Amantya offers a range_of services including 5G network solutions
+          (Core, RAN, NFs), IoT product development, and AI/ML application development.
+          They have expertise in developing and integrating solutions that can leverage
+          network APIs. While specific contributions to CAMARA itself are not highly
+          detailed in readily available public information, Amantya's focus on 5G
+          and their capabilities in building network functions and applications
+          position them to support the implementation and utilization of CAMARA
+          APIs. They offer services for creating private 5G networks and developing
+          applications that could benefit from standardized network exposure.
+        keywords:
+          - 5G
+          - IoT
+          - AI/ML
+          - Cloud
+          - System Integration
+          - Product Engineering
+          - Network Solutions
+          - Digital Transformation
+        extra:
+          role_type: System Integrators
+          blog_url: https://www.amantyatech.com/insights
+          summary_use_case: Developing and integrating 5G and IoT solutions that
+            could consume or facilitate the exposure of CAMARA APIs, for example,
+            in private networks or for specialized enterprise applications requiring
+            network intelligence.
+          summary_business_use_case: Enabling enterprises and telcos to build and
+            deploy next-generation applications and services by leveraging advancements
+            in 5G and network programmability, where CAMARA APIs can play a role
+            in standardization.
+          summary_integrations: Focus on system integration for 5G and IoT projects.
+            Potential to integrate CAMARA APIs into custom solutions for clients
+            or within their 5G network function offerings.
+          summary_intro_url: https://www.amantyatech.com/5g
+          summary_tags:
+            - 5G
+            - IoT
+            - System Integration
+            - Network Functions
+            - Private Networks
+      - item:
+        name: Amdocs
+        homepage_url: https://www.amdocs.com/
+        logo: amdocs.svg
+        crunchbase: https://www.crunchbase.com/organization/amdocs
+        twitter: https://twitter.com/Amdocs
+        project_org: https://github.com/Amdocs
+        description: Amdocs is a leading provider of software and services to communications
+          and media companies. They offer solutions for customer experience, network
+          automation, digitalization, and monetization, including a focus on 5G
+          and cloud technologies.
+        content: Amdocs provides a comprehensive suite of solutions for CSPs, including
+          BSS/OSS, network control, automation, and monetization platforms. They
+          are actively involved in enabling 5G transformation and helping telcos
+          leverage new opportunities, such as network API exposure. Amdocs' offerings
+          include their 'Network Exposure Function' (NEF) and API exposure platforms
+          that can support initiatives like GSMA Open Gateway and CAMARA. They emphasize
+          enabling CSPs to create new revenue streams by exposing network capabilities
+          to developers and enterprises. Amdocs is a TM Forum member and aligns
+          with industry standards.
+        keywords:
+          - BSS
+          - OSS
+          - Network Automation
+          - 5G Monetization
+          - Cloud
+          - Digital Transformation
+          - API Exposure
+          - CSP Solutions
+          - TM Forum
+        extra:
+          role_type: Operator API Exposure Platform Solution Provider
+          blog_url: https://www.amdocs.com/insights
+          summary_use_case: Providing platforms and solutions (e.g., NEF, API management)
+            that enable CSPs to expose network capabilities through standardized
+            APIs like CAMARA, supporting use cases in areas like network quality
+            on demand, fraud prevention, and location-based services.
+          summary_business_use_case: Helping CSPs monetize their 5G investments,
+            accelerate innovation, and create new digital service ecosystems by
+            simplifying the exposure and consumption of network APIs, aligning
+            with GSMA Open Gateway principles.
+          summary_integrations: Offers solutions that integrate with CSP networks
+            to expose APIs. Their platforms are designed to be compliant with industry
+            standards like those from TM Forum and can support CAMARA API implementation.
+          summary_intro_url: https://www.amdocs.com/solutions/5g-and-network
+          summary_tags:
+            - CAMARA
+            - Open Gateway
+            - API Exposure
+            - 5G Monetization
+            - CSP Platform
+            - NEF
+      - item:
+        name: America Movil
+        homepage_url: https://www.americamovil.com/
+        logo: americamovil.svg
+        crunchbase: https://tracxn.com/d/companies/america-movil/__fZ3XIg0mM_I3j-OS3kIp1LDLW4jPwjc8XGnYvqKZ6fM
+        twitter: Not Found
+        project_org: Not Found
+        description: América Móvil is a leading integrated telecommunications services
+          company primarily operating in Latin America, and is one of the largest
+          mobile network operators globally by subscription numbers. Established
+          in 2000 and headquartered in Mexico City, the company provides a wide
+          array of services across 22 countries.
+        content: América Móvil delivers a vast range of telecommunication services
+          through brands like Telcel, Telmex Infinitum, Claro, and A1. The company
+          is significantly involved in the GSMA Open Gateway initiative, particularly
+          in Mexico, where it has launched CAMARA-compliant APIs such as SIM Swap,
+          Device Location, and Number Verification via Telcel. This strategic adoption
+          aims to simplify application development and bolster security for various
+          industries, with a notable focus on banking and fintech sectors. The collaborative
+          launch in Mexico highlights the industry understanding of the amplified
+          value of standardized APIs available across multiple networks.
+        keywords:
+          - Telecommunications
+          - Latin America
+          - Mobile Operator
+          - GSMA Open Gateway
+          - CAMARA
+          - Telcel
+          - Claro
+          - Network APIs
+          - 5G
+        extra:
+          role_type: Operator API Exposure Platform Solution Provider
+          blog_url: https://www.americamovil.com/press-room/default.aspx
+          summary_use_case: Launching CAMARA-compliant APIs (e.g., SIM Swap, Device
+            Location, Number Verification) through GSMA Open Gateway in markets
+            like Mexico to enhance security and enable new services for developers,
+            particularly in fintech.
+          summary_business_use_case: Monetizing network capabilities by exposing
+            them through standardized APIs, fostering innovation, simplifying digital
+            service development, and enhancing security for end-users and businesses.
+          summary_integrations: Participant in GSMA Open Gateway, launching CAMARA
+            APIs. Integrations focus on providing these APIs to developers and application
+            providers.
+          summary_intro_url: https://www.gsma.com/newsroom/press-release/america-movil-att-telefonica-and-vodafone-launch-gsma-open-gateway-in-mexico/
+          summary_tags:
+            - Open Gateway
+            - CAMARA
+            - Latin America
+            - Network API
+            - Fintech
+            - Security
+      - item:
+        name: AND Digital
+        homepage_url: https://and.digital/
+        logo: anddigital.svg
+        crunchbase: https://www.cbinsights.com/company/and-digital
+        twitter: https://x.com/AND_Digital
+        project_org: Not Found
+        description: Founded in 2014 and headquartered in London, AND Digital is
+          a digital consulting agency dedicated to accelerating clients' digital
+          transformation and capabilities. The company offers solutions including
+          product strategy, software engineering, experience design, AI implementation,
+          cloud services, and data solutions.
+        content: AND Digital employs a distinctive 'Guide, Build, Equip' model.
+          This involves guiding clients, collaboratively building applications,
+          APIs, websites, and cloud/data platforms, and equipping client teams.
+          Their service portfolio includes consulting, AI, software engineering,
+          experience design, cloud, data, mobile app development, and product strategy.
+          While direct participation in CAMARA working groups is not explicitly
+          mentioned in available information, AND Digital's expertise in API development
+          and digital product creation positions them as potential integrators or
+          advisors for enterprises looking to utilize CAMARA APIs. For instance,
+          services for ad-tech leveraging CAMARA device location for consent and
+          measurement align with their offerings. Their focus on capability building
+          is relevant for emerging paradigms like CAMARA.
+        keywords:
+          - Digital Consulting
+          - IT Transformation
+          - Software Engineering
+          - UX Design
+          - Cloud
+          - Data
+          - AI
+          - Agile Coaching
+        extra:
+          role_type: System Integrators
+          blog_url: https://www.and.digital/spotlight
+          summary_use_case: Advising on and integrating CAMARA APIs for enterprises
+            to build innovative digital products and services, potentially in areas
+            like ad-tech or personalized experiences leveraging network capabilities.
+          summary_business_use_case: Helping businesses accelerate their digital
+            transformation by leveraging new API ecosystems like CAMARA, improving
+            customer engagement, and creating new revenue streams through enhanced
+            digital products.
+          summary_integrations: Focus on integrating third-party APIs (including
+            potential CAMARA APIs) into client solutions rather than direct CAMARA
+            API development contributions from available information.
+          summary_intro_url: https://and.digital/what-we-do/apis-and-integration
+          summary_tags:
+            - Digital Consulting
+            - API Integration
+            - System Integrator
+            - AdTech
+            - Product Development
+      - item:
+        name: ApisTraining
+        homepage_url: https://apistraining.com/
+        logo: apistraining.svg
+        crunchbase: Not Found
+        twitter: Not Found
+        project_org: Not Found
+        description: Apis Training is a vendor-neutral knowledge partner with over
+          30 years of experience, specializing in expert-led technical training
+          for the telecommunications industry. They provide courses covering technologies
+          from 2G/3G/4G to 5G, IoT, AI, Cloud/NFV/SDN, and APIs in Telecom, including
+          CAMARA and GSMA Open Gateway.
+        content: Apis Training offers various training solutions, including 'Apis+,'
+          an eLearning catalog, and 'Learning Paths.' A key offering is their 'APIs
+          in Telecom' course, covering TMForum Open APIs, GSMA Open Gateway, and
+          the CAMARA project. This course details CAMARA's architecture, its stable
+          APIs (e.g., Device Location, Number Verification, Sim Swap), and includes
+          hands-on exercises with CAMARA mock implementations. The curriculum also
+          addresses CAMARA's evolution. Their role as a member of the CAMARA Project
+          and their specialized training offerings underscore their contribution
+          to ecosystem enablement through education, ensuring participants develop
+          tangible skills for API integration.
+        keywords:
+          - Telecom Training
+          - 5G Training
+          - API Training
+          - CAMARA
+          - Open Gateway
+          - TMForum Open APIs
+          - IoT
+          - eLearning
+        extra:
+          role_type: Ecosystem Consultants
+          blog_url: https://apistraining.com/resources/
+          summary_use_case: Providing specialized training on CAMARA APIs, GSMA
+            Open Gateway, and TMForum Open APIs to upskill professionals in the
+            telecommunications industry, enabling them to understand, develop, and
+            integrate network APIs.
+          summary_business_use_case: Facilitating the adoption and successful implementation
+            of CAMARA and other telecom API standards by educating the ecosystem,
+            thereby accelerating innovation and the development of new services.
+          summary_integrations: Provides hands-on exercises with CAMARA mock implementations
+            as part of their training courses; member of the CAMARA Project.
+          summary_intro_url: https://apistraining.com/telecom-training-courses/apis-in-telecom/
+          summary_tags:
+            - Training
+            - Education
+            - CAMARA
+            - Open Gateway
+            - Ecosystem Enablement
+            - Telecom APIs
+      - item:
+        name: Argela
+        homepage_url: https://www.argela.com.tr/en
+        logo: argela.svg
+        crunchbase: https://www.crunchbase.com/organization/argela
+        twitter: https://twitter.com/ArgelaTech
+        project_org: Not Found
+        description: Argela, a subsidiary of Türk Telekom, is a telecommunications
+          solutions provider specializing in 5G technologies, programmable networks,
+          and network performance management. They focus on developing innovative
+          solutions for network slicing, RAN intelligence, and telecom-specific
+          applications.
+        content: Argela develops a range of solutions for 5G networks, including
+          programmable RAN (RIC), network slicing, and service orchestration. Their
+          work in network programmability and creating platforms for network applications
+          aligns with the goals of initiatives like CAMARA, which aim to expose
+          network capabilities. While direct, explicit contributions to CAMARA API
+          development are not as prominent in public information, Argela's expertise
+          in 5G core and RAN technologies positions them to implement or enable
+          services that could leverage CAMARA APIs within a telco environment. They
+          have a strong R&D focus, often participating in international research
+          projects.
+        keywords:
+          - 5G
+          - Telecommunication Solutions
+          - Programmable Networks
+          - RAN Intelligence
+          - Network Slicing
+          - Türk Telekom
+          - RIC
+        extra:
+          role_type: Network Capability Solution Provider
+          blog_url: https://www.argela.com.tr/en/category/blog-en/
+          summary_use_case: Developing solutions for 5G network programmability
+            (e.g., RIC applications, network slicing) that could potentially interface
+            with or utilize CAMARA APIs to expose network intelligence or capabilities
+            to third-party applications.
+          summary_business_use_case: Enhancing the value of 5G networks for operators
+            like Türk Telekom by enabling new services and operational efficiencies
+            through advanced network control and programmability, where CAMARA could
+            offer standardized interfaces.
+          summary_integrations: Focus on integrating their solutions within the 5G
+            network architecture. Potential to integrate with CAMARA-compliant API
+            exposure platforms or NEFs within an operator's network.
+          summary_intro_url: https://www.argela.com.tr/en/solutions/
+          summary_tags:
+            - 5G
+            - RAN
+            - Network Slicing
+            - Programmable Networks
+            - RIC
+      - item:
+        name: AT&T
+        homepage_url: https://www.att.com/
+        logo: att.svg
+        crunchbase: https://www.crunchbase.com/organization/at-t
+        twitter: https://twitter.com/ATT
+        description: AT&T is a prominent global telecommunications corporation
+          dedicated to connecting individuals and enterprises through its extensive,
+          high-speed, reliable, and secure 5G network, complemented by an expanding
+          multi-gigabit fiber internet service. With a legacy extending over 145
+          years, AT&T endeavors to be a premier connectivity provider, facilitating
+          a diverse array of applications ranging from smart homes and intelligent
+          cities to remote healthcare solutions and sophisticated workplace collaboration
+          tools. The company also demonstrates a significant commitment to mitigating
+          the digital divide through substantial investments in accessibility and
+          literacy programs.
+        content: AT&T is a key stakeholder in the CAMARA ecosystem and the closely
+          related GSMA Open Gateway initiative. The company is proactively working
+          to expose a range of network capabilities via standardized APIs, including
+          critical functions such as SIM Swap, Quality on Demand (QoD), device status,
+          and number verification. AT&T is a venture partner in Aduna, a collaborative
+          platform established for the aggregation and commercialization of CAMARA-compliant
+          network APIs from a consortium of multiple global operators. Furthermore,
+          AT&T has instituted a Network API Accelerator Program, which invites developers
+          to trial and provide feedback on pre-release versions of both AT&T-exclusive
+          and CAMARA industry-standard APIs, thereby fostering a collaborative development
+          environment.
+        keywords: telecom, MNO, USA, API, 5G, developer program, network transformation,
+          Open Gateway, Aduna, QoD, SIM Swap, Number Verification
+        extra:
+          role_type: Operator API Exposure Platform Solution Provider
+          blog_url: https://developer.att.com/blog
+          summary_use_case: AT&T is providing CAMARA-compliant APIs for functionalities
+            such as Number Verification and SIM Swap, which are designed to significantly
+            enhance security measures, improve fraud detection capabilities, and
+            enrich user experiences for both developers and enterprise clients. Additionally,
+            the company is enabling Quality on Demand (QoD) and device location
+            APIs. These APIs support a variety of practical applications, including
+            robust secure authentication processes, reduction of fraud risks in
+            sensitive sectors like financial services and e-commerce, and the enablement
+            of new operational capabilities for advanced applications such as drone
+            management and logistics.
+          summary_business_use_case: AT&T's strategy involves leveraging CAMARA
+            standards to expose its network capabilities, thereby aiming to generate
+            new revenue streams and cultivate a more vibrant innovation ecosystem
+            among developers and enterprises. Through its participation in initiatives
+            like Aduna, AT&T seeks to simplify and broaden access to its network
+            APIs for a global developer audience. This approach is intended to accelerate
+            the overall transformation of the telecommunications sector and enhance
+            the monetization potential of 5G networks. The overarching business
+            goal is to co-create new areas of customer value and enable the development
+            of innovative solutions by third-party application service providers
+            that integrate with AT&T's network.
+          summary_integrations: AT&T is facilitating the integration of CAMARA APIs
+            through its Network API Accelerator Program and its participation in
+            the Aduna platform. Aduna provides a unified mechanism for accessing
+            APIs from multiple participating operators. AT&T is also involved in
+            cross-carrier API interoperability tests that are based on the CAMARA
+            open-source project and the GSMA Open Gateway framework. Specific CAMARA
+            APIs, including SIM Swap, QoD, Device Status, and Number Verification,
+            form part of AT&T's current and planned offerings.
+          summary_intro_url: https://developer.att.com/
+          summary_tags: CAMARA, NetworkAPIs, QoD, Location, SIM Swap, Number Verification,
+            Open Gateway, Aduna, 5G, Developer Program
+      - item:
+        name: AWS (Amazon Web Services)
+        homepage_url: https://aws.amazon.com/
+        logo: aws.svg
+        crunchbase: ''
+        twitter: https://twitter.com/AWSCloud
+        description: Amazon Web Services (AWS) provides a comprehensive and widely
+          adopted cloud computing platform, delivering over 200 fully featured services
+          from a global network of data centers. Established in 2006, AWS offers
+          a diverse array of cloud solutions, encompassing computing power, storage
+          options, databases, machine learning capabilities, analytics tools, and
+          more. It serves a multitude of industries, including automotive, education,
+          energy, gaming, and life sciences. Within the telecommunications sector,
+          AWS enables operators to fundamentally transform how their networks are
+          constructed, deployed, and managed, addressing all facets of network evolution
+          with purpose-built infrastructure and compute instances optimized for
+          telecom workloads.
+        content: AWS is recognized within CAMARA project documentation as a potential
+          "Aggregator" of CAMARA APIs. There is a clear strategic alignment, with
+          the CAMARA project actively endeavoring to "Open the power of telecom
+          networks to AWS developers". AWS provides foundational technologies, such
+          as its API Gateway service, which are instrumental in building and managing
+          CAMARA API exposures. Furthermore, AWS offers illustrative sample projects,
+          a notable example being 'bedrock-agent-and-telecom-apis'. This project
+          demonstrates how AWS services, including Amazon Bedrock (for generative
+          AI) and Amazon Location Service, can effectively integrate with and leverage
+          Telco CAMARA APIs (specifically, a Location Retrieval API in the example)
+          to create innovative and value-added applications.
+        keywords: cloud, hyperscaler, API gateway, telecom cloud, edge computing,
+          aggregator, developer platform, generative AI, IoT
+        extra:
+          role_type: Hyperscaler, (CPaaS) Aggregators
+          blog_url: https://aws.amazon.com/blogs/industries/category/industries/telecommunications/
+          summary_use_case: AWS provides the robust infrastructure and diverse services
+            necessary for telecommunications operators to deploy CAMARA-compliant
+            API gateways efficiently and at scale. A concrete use case is demonstrated
+            through an AI-powered customer chatbot, built using Amazon Bedrock Agents,
+            which integrates with a simulated Telco CAMARA Location Retrieval API
+            and Amazon Location Service to provide real-time parcel tracking information.
+            This example effectively showcases how AWS enables the development of
+            applications that consume CAMARA APIs to deliver enhanced functionality
+            and improved customer experiences.
+          summary_business_use_case: AWS aims to expedite the transformation of
+            telecommunications operators and facilitate the monetization of their
+            5G network investments through the adoption of cloud-native CAMARA implementations.
+            By empowering developers within its extensive platform ecosystem to
+            access standardized telecom APIs, AWS can cultivate a broader ecosystem
+            of innovative applications. This, in turn, drives demand for both telecom
+            network services and AWS's own cloud offerings. In its capacity as an
+            aggregator, AWS can simplify access to multi-operator CAMARA APIs, thereby
+            creating new and compelling value propositions for enterprises and developers
+            alike.
+          summary_integrations: AWS services, notably the Amazon API Gateway, can
+            be employed to construct and manage CAMARA API exposures. AWS demonstrates
+            practical integration patterns through sample projects where its advanced
+            AI/ML services (e.g., Amazon Bedrock) interact with CAMARA APIs (for
+            instance, a Location Retrieval API simulated via an API Gateway and
+            Lambda function setup). AWS's designated role as a potential aggregator
+            inherently implies its capability to integrate with the CAMARA API platforms
+            of multiple operators.
+          summary_intro_url: https://camaraproject.org/2024/02/22/opening-the-power-of-telecom-networks-to-aws-developers/
+          summary_tags: CAMARA, CloudProvider, Infrastructure, API Gateway, Hyperscaler,
+            Aggregator, DeveloperEcosystem, AI, IoT
+      - item:
+        name: Axiata
+        homepage_url: https://www.axiata.com/
+        logo: axiata.svg
+        crunchbase: https://www.crunchbase.com/organization/axiata
+        twitter: ''
+        description: Axiata Group Berhad stands as a major telecommunications group,
+          guided by its vision to become "The Next Generation Digital Champion"
+          and a core purpose of "Advancing Asia". The group operates extensively
+          across ASEAN and South Asian nations, serving millions of customers through
+          its distinct business arms: Digital Telcos, Digital Businesses, and Infrastructure.
+          Axiata is deeply committed to the strategic integration of Artificial
+          Intelligence (AI), data analytics, and digital platforms throughout its
+          operations, as part of its evolution into a "Telco-TechCo".
+        content: Axiata Group, through its constituent operating companies (e.g.,
+          Smart Axiata in Cambodia) and its digital technology subsidiary (Axiata
+          Digital Labs), is an active participant in the CAMARA ecosystem and the
+          GSMA Open Gateway initiative. Smart Axiata is specifically collaborating
+          on the deployment of federated CAMARA APIs within its market. Axiata Digital
+          Labs contributes by providing solutions such as the Axonect Digital Telco
+          Enabler, a platform explicitly designed to support CAMARA APIs. The group's
+          overarching A3 strategy for developing autonomous AI-driven networks includes
+          the concept of a Network API Gateway (NAG). This NAG is envisioned to
+          expose network monetization capabilities, a goal that is highly congruent
+          with the core principles and aims of the CAMARA project.
+        keywords: telecom, MNO, Asia, API, digital transformation, Telco-TechCo,
+          Open Gateway, Network API Gateway, 5G, AI
+        extra:
+          role_type: Operator API Exposure Platform Solution Provider
+          blog_url: https://www.axiata.com/innovations/insights/
+          summary_use_case: Through Smart Axiata's active involvement in the GSMA
+            Open Gateway program, the primary use cases being addressed revolve
+            around enhancing digital security, effectively combating online fraud,
+            and improving identity verification processes. These objectives are
+            pursued through the deployment of federated CAMARA APIs. This initiative
+            is designed to enable entities in sectors such as fintech, e-commerce,
+            and other digital service providers to launch their solutions with greater
+            efficiency, underpinned by secure transaction capabilities and robust
+            user protection mechanisms.
+          summary_business_use_case: Axiata's strategic intent is to empower its
+            operating companies, as well as potentially other telecommunications
+            operators, to rapidly deploy and effectively monetize CAMARA-based network
+            services. For the Axiata Group as a whole, participation in the Open
+            Gateway and CAMARA initiatives facilitates the harmonization of network
+            APIs across its diverse Asian operational footprint. This harmonization
+            can simplify service deployment for multinational clients and foster
+            a more fertile ground for innovation. The Network API Gateway (NAG)
+            component of Axiata's A3 strategy is specifically designed for network
+            monetization, which directly aligns with CAMARA's overarching business
+            objective of enabling telcos to create new revenue streams from their
+            exposed network capabilities.
+          summary_integrations: Smart Axiata is actively deploying federated CAMARA
+            APIs in collaboration with other telecommunications operators in Cambodia,
+            under the umbrella of the GSMA Open Gateway initiative. Axiata Digital
+            Labs' Axonect Digital Telco Enabler platform offers support for over
+            50 prebuilt Open APIs compliant with both TM Forum ODA and CAMARA standards,
+            thereby facilitating easier integration for adopting telcos.
+          summary_intro_url: https://www.axiata.com/innovations/insights/
+          summary_tags: CAMARA, NetworkAPIs, AsiaTelco, Open Gateway, DigitalTransformation,
+            A3Strategy, FederatedAPIs
+      - item:
+        name: Axiata Digital Labs (ADL)
+        homepage_url: https://www.axiatadigitallabs.com/
+        logo: axiatadigitallabs.svg
+        crunchbase: https://www.crunchbase.com/organization/axiata-digital-labs
+        twitter: ''
+        description: Axiata Digital Labs (ADL) functions as an innovative software
+          service provider and serves as the central technology hub for the Axiata
+          Group. The company specializes in delivering telco-focused digital and
+          IT solutions. With a substantial team of engineers and technology professionals,
+          ADL offers a portfolio of cutting-edge digital transformation products
+          and services. These are designed to empower individuals, enterprises,
+          and society at large, with a particular focus on areas such as Telco Business
+          Support Systems/Operational Support Systems (BSS/OSS), Financial Technology
+          (FinTech), and broader enterprise solutions.
+        content: Axiata Digital Labs is deeply integrated into the CAMARA initiative
+          through its flagship Axonect product suite. Specifically, the Axonect
+          Digital Telco Enabler (DTE) offers a library of over 50 prebuilt Open
+          APIs that are compliant with both TM Forum ODA and CAMARA standards. This
+          DTE is engineered to accelerate service delivery and drive digital transformation
+          for telecommunications operators. ADL has also engaged in strategic partnerships,
+          such as with Chenosis (an MTN Group Company) and Dialog Axiata, to launch
+          the Chenosis Developer Accelerator Platform. This platform leverages ADL's
+          Axonect suite, and notably, all collaborating parties are participants
+          in the GSMA Open Gateway initiative, which itself utilizes CAMARA APIs.
+          Furthermore, ADL's Axonect API Management platform is specifically tailored
+          for telcos and enterprises, enabling them to efficiently create, manage,
+          and publish APIs.
+        keywords: digital solutions, API development, telecom software, innovation,
+          Axonect, TM Forum ODA, Open Gateway, API Management, digital transformation,
+          FinTech
+        extra:
+          role_type: CAMARA Transformation Function Solution Provider
+          blog_url: https://www.axiatadigitallabs.com/blog/
+          summary_use_case: Axiata Digital Labs empowers telecommunications operators
+            to construct robust API gateway platforms and develop applications that
+            can both consume and expose CAMARA APIs. This is achieved through its
+            comprehensive Axonect suite of products. For instance, the Axonect Digital
+            Telco Enabler significantly reduces the development time and complexity
+            for services that leverage CAMARA APIs by providing a rich set of prebuilt,
+            compliant API components and accelerators. This enables telcos to more
+            rapidly bring CAMARA-enabled services to market.
+          summary_business_use_case: ADL's core business proposition in the CAMARA
+            context is to enable Axiata's operating companies, as well as other
+            telecommunications operators, to swiftly deploy and effectively monetize
+            CAMARA-based network services. This is accomplished by providing the
+            necessary sophisticated software platforms and deep integration expertise.
+            By doing so, ADL helps these telcos accelerate their digital transformation
+            journeys, maintain competitiveness in a rapidly evolving market, and
+            unlock new revenue streams through the creation of an API-driven ecosystem.
+          summary_integrations: ADL's Axonect platform offers a substantial library
+            of pre-built Open APIs that are compliant with both TM Forum ODA and
+            CAMARA standards, thereby facilitating smoother and faster integration
+            into existing telco environments. The Axonect Enterprise Enabler (AEE)
+            component is specifically designed for microservices architecture and
+            API-based integrations, adhering to critical industry standards like
+            TM Forum ODA, which is highly complementary to the CAMARA framework.
+            ADL's involvement in the Chenosis platform with MTN Group further demonstrates
+            its capability in integrating with other major telco groups that are
+            also leveraging CAMARA principles.
+          summary_intro_url: https://www.axiatadigitallabs.com/our-products/
+          summary_tags: CAMARA, APIPlatform, SoftwareDevelopment, Axonect, TMForumODA,
+            DigitalTransformation, TelcoSolutions
+      - item:
+        name: BCTI - A Network API Company
+        homepage_url: https://www.brianchin.co
+        logo: bcti.svg
+        crunchbase: ''
+        twitter: ''
+        description: Brian Chin Technologies Inc. (BCTI) identifies as "The Network
+          API Company," specializing in collaboration with Telecom Operators and
+          Enterprises to navigate the profound transformations occurring within
+          the telecommunications sector. These transformations include the shift
+          from 4G to 5G, the evolution from hardware-centric to software-defined
+          spaces, virtualization, the proliferation of IoT connectivity, the integration
+          of Artificial Intelligence, and addressing enhanced security and privacy
+          requirements. BCTI's core mission is to assist these entities in capitalizing
+          on the opportunities presented by Digital Transformation, 5G, and AI by
+          unlocking the full potential of API developers to drive revenue growth
+          and foster innovation.
+        content: The available information does not contain explicit mentions of
+          BCTI's direct, formal involvement with the CAMARA project by its official
+          name. However, BCTI's entire service portfolio is built around the strategic
+          importance of network APIs. They focus on enabling interoperability, facilitating
+          the development of 5G-driven applications, and assisting telecom operators
+          in expanding their revenue streams through the effective use of various
+          APIs, including those for location services, payment processing, and IoT
+          device management. This body of work is directly congruent with the objectives
+          and problem domain that CAMARA addresses. BCTI notably emphasizes helping
+          operators position themselves as indispensable partners to enterprises
+          through the strategic exposure and utilization of APIs.
+        keywords: network API, consulting, telecom, 5G, IoT, API strategy, interoperability,
+          digital transformation, revenue generation
+        extra:
+          role_type: Ecosystem Consultants
+          blog_url: https://brianchin.co/resources
+          summary_use_case: While not explicitly referencing CAMARA, BCTI provides
+            advisory services on use cases that are directly relevant to CAMARA
+            API families. These include multi-factor authentication, comprehensive
+            identity management solutions, the development of 5G-driven applications
+            (such as mobile gaming enhancements and reliable drone management leveraging
+            low-latency video and precise location services), IoT device management,
+            and the strategic utilization of location and payment-related APIs to
+            create new revenue opportunities. For example, CAMARA's Quality on Demand
+            (QoD), Location Retrieval, SIM Swap, and Number Verification APIs would
+            be instrumental in supporting these types of use cases.
+          summary_business_use_case: BCTI's services are fundamentally aimed at
+            assisting telecom operators in generating new revenue streams and enhancing
+            existing ones through the strategic leverage of network APIs, particularly
+            within the context of 5G network capabilities. They guide operators
+            in evolving into essential partners for enterprises that are undergoing
+            their own digital transformations, primarily by enabling the exposure
+            and consumption of valuable network capabilities. This business objective
+            aligns closely with CAMARA's overarching goal of facilitating telco
+            monetization through standardized API exposure.
+          summary_integrations: BCTI's core focus includes enabling interoperability
+            and seamless connectivity by assisting telcos in integrating their systems
+            with third-party applications and by facilitating multi-network services.
+            This implies a consultative or facilitative role in the integration
+            of various APIs. Should an operator adopt CAMARA standards, BCTI's services
+            would naturally extend to advising on or supporting the integration
+            of these standardized APIs into the operator's ecosystem and with enterprise
+            consumers.
+          summary_intro_url: https://brianchin.co/technologies/for-telecoms/use-cases
+          summary_tags: CAMARA-aligned, Consulting, Strategy, NetworkAPI, 5GMonetization,
+            IoT, Interoperability
+      - item:
+        name: BearingPoint
+        homepage_url: https://www.bearingpoint.com/
+        logo: bearingpoint.svg
+        crunchbase: https://www.crunchbase.com/organization/bearingpoint
+        twitter: https://twitter.com/BearingPoint
+        description: BearingPoint is an independent management and technology consultancy
+          with European origins and a significant global presence, operating in
+          over 70 countries and employing approximately 13,000 people. The firm
+          is structured into three main business units: Consulting, Products, and
+          Capital. Its core focus is on assisting clients with complex transformations,
+          enhancing sustainability, building resilience, and fostering innovation,
+          which includes the adoption and integration of Artificial Intelligence.
+        content: The available information does not explicitly detail BearingPoint's
+          direct, formal involvement with the CAMARA project or the GSMA Open Gateway
+          initiative by name. However, their specialized network technology consulting
+          services are highly pertinent. These services include advising on strategies
+          for 5G monetization, assisting in the establishment of partner ecosystems
+          designed for scale and flexibility, and helping telecommunications operators
+          design new business models and use cases that leverage advanced network
+          capabilities. These activities are inherently supportive of and directly
+          relevant to fostering a CAMARA-driven ecosystem, as they address the strategic
+          and operational prerequisites for telcos to successfully participate in
+          and benefit from such initiatives.
+        keywords: consulting, digital transformation, telecom, API strategy, 5G
+          monetization, partner ecosystem, IT transformation, business models, AI
+        extra:
+          role_type: Ecosystem Consultants
+          blog_url: https://www.bearingpoint.com/en/insights-events/insights/
+          summary_use_case: BearingPoint assists its clients in designing robust
+            business models and identifying compelling use cases for the monetization
+            of 5G and other advanced network capabilities. This consultancy work
+            would naturally involve assessing how CAMARA APIs—such as Quality on
+            Demand (QoD), Edge Discovery, and various Location services—can be effectively
+            leveraged by industry-specific companies (e.g., for deploying campus
+            networks in manufacturing) or to enable new public and enterprise services
+            in smart city environments. Essentially, BearingPoint helps translate
+            raw technological capabilities, including those exposed via CAMARA,
+            into tangible and valuable business applications.
+          summary_business_use_case: BearingPoint provides support to telecommunications
+            operators throughout their transformation journeys, aiding them in evolving
+            into multifaceted service providers capable of achieving sustainable
+            growth and profitability. This support encompasses optimizing network
+            return on investment (ROI), enhancing overall customer experience, and
+            establishing high-performance service organizations. By assisting telcos
+            in defining effective strategies for 5G monetization and in constructing
+            collaborative partner ecosystems, BearingPoint enables them to capitalize
+            on initiatives like CAMARA. This, in turn, helps unlock new revenue
+            streams and allows them to compete more effectively in the dynamic digital
+            age.
+          summary_integrations: BearingPoint's role concerning integrations is primarily
+            strategic and advisory. The firm assists in the setup of partner ecosystems
+            designed for scale and flexibility, which inherently involves advising
+            on the necessary API strategies and integration frameworks required
+            to connect various players within that ecosystem. They also provide
+            consultancy on broader IT transformation initiatives, which would naturally
+            encompass the integration of new API platforms (potentially those based
+            on CAMARA standards) into existing, often complex, telco operational
+            and business support landscapes.
+          summary_intro_url: https://www.bearingpoint.com/en-us/industries/telecommunications/network-technology-consulting/
+          summary_tags: CAMARA-aligned, Consulting, BusinessTransformation, 5GMonetization,
+            APIStrategy, TelecomConsulting, PartnerEcosystem
+      - item:
+        name: Bharti Airtel
+        homepage_url: https://www.airtel.in/
+        logo: airtel.svg
+        crunchbase: ''
+        twitter: https://twitter.com/airtelindia
+        description: Bharti Airtel Limited is a global communications solutions
+          provider with operational presence in 17 to 18 countries across South
+          Asia and Africa, with its headquarters located in India. The company is
+          ranked among the top three mobile operators globally by subscriber base.
+          Airtel offers a comprehensive suite of services including 2G, 3G, 4G,
+          and 5G wireless connectivity, mobile commerce solutions, fixed-line services,
+          high-speed home broadband, Direct-to-Home (DTH) television, and a range
+          of enterprise solutions such as secure connectivity, cloud services, and
+          Internet of Things (IoT) capabilities.
+        content: Bharti Airtel is actively involved as a signatory to the GSMA Open
+          Gateway initiative, which defines, develops, and publishes its APIs within
+          the CAMARA framework. Airtel maintains its own "Airtel API Marketplace",
+          through which it offers APIs such as SIM Swap and Location APIs—these
+          are common API families also addressed by CAMARA. Aduna, a collaborative
+          venture focused on providing CAMARA-based network APIs from multiple global
+          operators, lists Bharti Airtel as one of its key venture partners. Additionally,
+          Bharti Airtel is noted as a contributor to several API proposals within
+          the CAMARA API backlog on GitHub, including for SIM Swap, Number Verification,
+          OTP Validation, and Carrier Billing APIs. Gopal Vittal, the Managing Director
+          & CEO of Bharti Airtel, has also held the position of Chairman of the
+          GSMA Board, where he has overseen strategic directions including the GSMA
+          Open Gateway initiative.
+        keywords: telecom, MNO, India, Africa, API, 5G, Open Gateway, API Marketplace,
+          SIM Swap, Location API, IoT, Aduna
+        extra:
+          role_type: Operator API Exposure Platform Solution Provider
+          blog_url: https://www.airtel.in/b2b/insights/blogs/cpaas/
+          summary_use_case: The Airtel API Marketplace offers SIM Swap APIs, which
+            are crucial for enhancing security (e.g., by preventing fraudulent
+            SIM card replacements), and Location APIs, which enable the tracking
+            of device or asset locations, thereby augmenting Internet of Things
+            (IoT) use cases, even for devices without inherent GPS capabilities.
+            These offerings align closely with CAMARA API families such as SIM Swap
+            and Location Retrieval/Verification. Airtel's involvement with Aduna
+            further suggests the broader availability of CAMARA APIs for use cases
+            including Know Your Customer (KYC) procedures and advanced fraud prevention
+            mechanisms.
+          summary_business_use_case: Through its active participation in the GSMA
+            Open Gateway initiative and the Aduna consortium, and by offering APIs
+            via its proprietary marketplace, Bharti Airtel aims to cultivate innovation
+            and foster strategic partnerships. This strategy enables third-party
+            services to seamlessly integrate with its network infrastructure. The
+            overarching business objective is to create new and diverse revenue
+            streams, enhance enterprise solution offerings (e.g., for IoT applications
+            and secure authentication services), and effectively monetize its 5G
+            network capabilities through the adoption and exposure of standardized
+            CAMARA APIs.
+          summary_integrations: Bharti Airtel provides direct access to its APIs
+            (such as SIM Swap and Location) via the Airtel API Marketplace, which
+            employs OAuth token-based authentication for security. As a partner
+            in the Aduna venture, Airtel's CAMARA-compliant APIs are set to be aggregated
+            and made accessible through Aduna's global platform, thereby simplifying
+            access for developers worldwide. The company's contribution to the development
+            of CAMARA APIs is also documented in the official API backlog.
+          summary_intro_url: https://developers.airtel.in/
+          summary_tags: CAMARA, NetworkAPIs, IndiaTelco, AfricaTelco, Open Gateway,
+            API Marketplace, SIM Swap, LocationAPI, Aduna
+      - item:
+        name: Bouygues Telecom
+        homepage_url: https://www.bouyguestelecom.fr/
+        logo: bouygues.svg
+        crunchbase: ''
+        twitter: https://twitter.com/bouyguestelecom
+        description: Bouygues Telecom S.A. is a significant French telecommunications
+          company, operating as a mobile phone service provider, an Internet service
+          provider (ISP), and an IPTV company. It is a subsidiary of the larger
+          Bouygues group. As one of the principal mobile network operators in France,
+          Bouygues Telecom delivers a comprehensive range of services across 2G,
+          3G, 4G, and 5G network technologies. The company's stated mission is to
+          leverage technology to foster human relationships, and it places a strong
+          emphasis on delivering high-quality customer experiences.
+        content: Bouygues Telecom is engaged in a collaborative effort with other
+          leading French operators—Free, Orange, and SFR—under the GSMA Open Gateway
+          initiative. This collaboration is focused on reducing fraud through the
+          deployment of network APIs, including KYC Match and SIM Swap. Lina Taguengayte,
+          who holds the position of Head of Innovation Projects at Bouygues Telecom,
+          was instrumental in developing the company's initial CAMARA APIs and now
+          coordinates their API go-to-market strategy. Additionally, Bouygues Telecom
+          has partnered with Aduna and is planning to launch CAMARA-based SIM Swap
+          and KYC APIs in the French market through this venture. The company's
+          developer portal, accessible at developer.bouyguestelecom-entreprises.fr,
+          provides resources and lists available APIs.
+        keywords: telecom, MNO, France, API, 5G, Open Gateway, CAMARA, Aduna, KYC,
+          SIM Swap, Developer Portal
+        extra:
+          role_type: Operator API Exposure Platform Solution Provider
+          blog_url: https://developer.bouyguestelecom.fr/publications
+          summary_use_case: Bouygues Telecom's initial focus for CAMARA API deployment
+            centers on functionalities like KYC (Know Your Customer) Match and SIM
+            Swap. These APIs are primarily aimed at combating online fraud and enhancing
+            digital identity verification processes. The intended use cases are
+            designed to protect consumers and businesses against digital identity
+            theft and to support the development of more secure enterprise solutions
+            that rely on trusted identity information.
+          summary_business_use_case: By collaborating with other French telecommunications
+            operators and partnering with Aduna for the deployment of CAMARA APIs,
+            Bouygues Telecom aims to unlock new opportunities for digital innovation
+            across various industries, both within France and potentially beyond.
+            This strategic approach is designed to facilitate a more secure digital
+            environment, foster innovation by making network capabilities more accessible,
+            and support the company's overall API go-to-market strategy. The ultimate
+            business goal is to drive digital transformation and provide scalable,
+            innovative services that leverage the unique capabilities of their network.
+          summary_integrations: Bouygues Telecom is integrating CAMARA APIs into
+            its offerings through active participation in the GSMA Open Gateway
+            initiative alongside other French operators, and via its strategic partnership
+            with Aduna. The company's developer portal, developer.bouyguestelecom-entreprises.fr,
+            serves as the primary platform for exposing these APIs to developers
+            and enterprises. The initial set of CAMARA APIs slated for launch includes
+            SIM Swap and KYC functionalities.
+          summary_intro_url: https://developer.bouyguestelecom-entreprises.fr/
+          summary_tags: CAMARA, NetworkAPIs, FranceTelco, Open Gateway, Aduna, KYC,
+            SIM Swap, DeveloperPortal
+      - item:
+        name: Bridge Alliance
+        homepage_url: https://www.bridgealliance.com/
+        logo: bridgealliance.svg
+        crunchbase: ''
+        twitter: ''
+        description: Bridge Alliance is a leading business alliance comprising 34-35
+          major mobile telecommunications companies across Asia, Australia, Africa,
+          and the Middle East. Formed in 2004, the alliance focuses on leveraging
+          connectivity and a suite of integrated value-added services, including
+          Internet of Things (IoT)/Machine-to-Machine (M2M) solutions, optimization
+          services, and enterprise mobility offerings, for the collective benefit
+          of its members' subscribers. Their goal is to enable seamless roaming
+          experiences and provide multi-market enterprise solutions.
+        content: Bridge Alliance is actively promoting the adoption and development
+          of CAMARA APIs through its Bridge Alliance API Exchange (BAEx). BAEx,
+          launched in 2024 and powered by Singtel's Paragon orchestration platform,
+          aggregates member operators' CAMARA APIs, simplifying access with a unified
+          integration and commercial framework. As of February 2025, 14 operators
+          had committed to BAEx, which offers APIs such as Number Verification and
+          SIM Swap. Notably, BAEx's Number Verify API received GSMA Open Gateway
+          Certification in January 2025. Bridge Alliance is also co-hosting the
+          Open Gateway Global Use Case Innovation Challenge with China Unicom Global
+          and the GSMA to identify innovative proposals tapping into CAMARA APIs.
+          Furthermore, Bridge Alliance has formed a strategic partnership with Aduna
+          to accelerate global network API access and drive the development of a
+          broader ecosystem of CAMARA APIs.
+        keywords: mobile alliance, telecom, Asia-Pacific, API federation, BAEx,
+          CAMARA, Open Gateway, IoT, M2M, Number Verification, SIM Swap, Aduna
+        extra:
+          role_type: Hyperscaler, (CPaaS) Aggregators
+          blog_url: ''
+          summary_use_case: Bridge Alliance, through its BAEx platform, enables
+            developers and enterprises to access harmonized network APIs, such as
+            Number Verification and SIM Swap, across multiple member MNOs spanning
+            different countries. These APIs are crucial for use cases related to
+            enhancing digital security, combating fraud (e.g., preventing account
+            takeover), and streamlining identity verification for services in fintech,
+            e-commerce, and other digital domains. For example, CPaaS provider
+            Soprano Design will leverage BAEx's Number Verify API for secure authentication
+            flows, and Glide Identity will use Number Verify and SIM Swap APIs to
+            strengthen their authentication solutions.
+          summary_business_use_case: The primary business use case for Bridge Alliance
+            in the CAMARA context is to simplify enterprise access to regional network
+            capabilities through standardized CAMARA interfaces, all accessible
+            via a single integration point provided by BAEx. This approach reduces
+            complexity and cost for businesses operating across multiple markets
+            within the Alliance's footprint. It also aims to foster the co-creation
+            of new, relevant use cases by providing a streamlined technical and
+            commercial framework for consuming telco APIs, thereby driving innovation
+            and creating new value for both member operators and enterprise customers.
+          summary_integrations: The Bridge Alliance API Exchange (BAEx) serves as
+            the central integration point, aggregating CAMARA APIs from its member
+            operators. As of early 2025, 14 operators had endorsed BAEx. This platform
+            provides a common API framework, simplifying how enterprises and developers
+            connect to and utilize network capabilities across diverse regions.
+            Furthermore, Bridge Alliance has established a strategic partnership
+            with Aduna. This collaboration aims to provide Aduna with expanded reach
+            in Asia-Pacific via BAEx, while Bridge Alliance members gain access
+            to Aduna's global network API ecosystem, effectively creating a multi-tiered
+            aggregation and integration model.
+          summary_intro_url: https://www.bridgealliance.com/baex
+          summary_tags: CAMARA, Federation, APIAggregation, BAEx, AsiaPacific, OpenGateway,
+            MultiOperator, AdunaPartner
+      - item:
+        name: British Telecom (BT Group)
+        homepage_url: https://www.bt.com/
+        logo: bt.svg
+        crunchbase: ''
+        twitter: https://twitter.com/bt_uk
+        description: BT Group plc, formerly British Telecom, is a British multinational
+          telecommunications holding company headquartered in London. It operates
+          in approximately 180 countries and is the largest provider of fixed-line,
+          broadband, and mobile services in the UK. BT also offers subscription
+          television and IT services. The company's origins trace back to the Electric
+          Telegraph Company, founded in 1846. BT Group's divisions include Consumer,
+          Business (formerly Enterprise and Global), and Openreach, which manages
+          the UK's fixed access infrastructure.
+        content: BT Group is actively collaborating with Vodafone, Virgin Media
+          O2, and Three, the other main UK mobile operators, on the development
+          and deployment of CAMARA APIs. This collaboration is part of the global
+          GSMA Open Gateway initiative and is initially focused on APIs aimed at
+          consumer safeguarding and combating online fraud, such as SIM Swap, Tenure
+          API, and Age Verify API. BT Group is also undertaking a significant digital
+          transformation, part of which involves modernizing its API ecosystem.
+          To this end, they have partnered with Kong Inc., utilizing the Kong Konnect
+          platform to streamline their API management, enhance governance, and establish
+          a self-service model for developers. BT's developer portal (developer.bt.com)
+          showcases a range of APIs including those for Digital Identity (SIM Swap,
+          KYC, Call Divert) and Charging and Crediting (Direct Carrier Billing).
+          BT Wholesale also offers APIs for its services, complying with TeleManagement
+          Forum (TMF) standards.
+        keywords: telecom, MNO, UK, API, 5G, Open Gateway, CAMARA, fraud prevention,
+          API management, SIM Swap, KYC, Developer Portal
+        extra:
+          role_type: Operator API Exposure Platform Solution Provider
+          blog_url: https://newsroom.bt.com/blogs/
+          summary_use_case: BT Group is focusing on exposing network APIs such as
+            SIM Swap, Tenure API, and Age Verify API through CAMARA standards. These
+            APIs are designed to combat financial crime by verifying SIM card integrity
+            and tenure, and to provide a frictionless and secure age verification
+            experience for access to age-restricted products and services. The SIM
+            Swap API, for example, helps businesses identify if a SIM card has been
+            recently swapped, a common indicator of potential fraud.
+          summary_business_use_case: By participating in the collaborative CAMARA
+            API initiative in the UK, BT Group aims to enhance enterprise solutions
+            and foster the development of new digital services. The primary business
+            driver is to improve customer trust and safety online by opening up
+            network capabilities for security and identity verification. Modernizing
+            their API management with platforms like Kong Konnect is also intended
+            to improve time-to-market for new services, generate cost savings, and
+            enhance the developer experience for BT engineers, ultimately supporting
+            their digital transformation goals.
+          summary_integrations: BT Group is collaborating with other UK mobile operators
+            for the coordinated deployment of CAMARA APIs, ensuring cross-network
+            utility for developers. Internally, BT is integrating Kong Konnect as
+            its API lifecycle platform to centralize API management, improve governance,
+            and enable a self-service model for developers working with these APIs.
+            The BT Developer Portal (developer.bt.com) already offers several APIs,
+            including SIM Swap and KYC, which are aligned with CAMARA API families.
+            BT Wholesale APIs also adhere to TMF standards, which are complementary
+            to CAMARA.
+          summary_intro_url: https://developer.bt.com/
+          summary_tags: CAMARA, NetworkAPIs, UKTelco, OpenGateway, FraudPrevention,
+            APIManagement, DigitalIdentity, Kong
+      - item:
+        name: Broadpeak
+        homepage_url: https://broadpeak.tv/
+        logo: broadpeak.svg
+        crunchbase: https://www.crunchbase.com/organization/broadpeak
+        twitter: https://twitter.com/broadpeak
+        description: Broadpeak designs and manufactures video delivery components
+          for content providers and network service providers deploying IPTV, cable,
+          OTT, and mobile services. Its portfolio of solutions and technologies
+          powers the delivery of movies, television programming, and other video
+          content over managed networks and the internet for viewing on any type
+          of device. Broadpeak focuses on improving subscriber loyalty with superior
+          quality of experience through advanced CDN, cloud PVR, multicast ABR,
+          and ad insertion innovations.
+        content: Broadpeak is an active participant in leveraging CAMARA APIs to
+          enhance video streaming services. They have notably collaborated with
+          Deutsche Telekom Global Carrier and Microsoft Azure, and Orange to integrate
+          CAMARA Quality on Demand (QoD) APIs into their streaming software. This
+          allows for dynamic requests of bandwidth boosts from mobile networks when
+          video delivery indicators signal deteriorating conditions, ensuring the
+          highest possible streaming quality for 4G and 5G users, particularly
+          during network congestion or for live events. Broadpeak's solutions aim
+          to ensure optimal network conditions for premium video delivery, showcasing
+          the practical benefits of network APIs.
+        keywords: video delivery, CDN, streaming, QoE, SSAI, multicast ABR, CAMARA,
+          QoD, 5G streaming, network APIs
+        extra:
+          role_type: Network Capability Solution Provider
+          blog_url: https://broadpeak.tv/blog/
+          summary_use_case: Integrating Broadpeak's video streaming software with
+            CAMARA Quality on Demand (QoD) APIs to dynamically request bandwidth
+            boosts from mobile networks (e.g., Deutsche Telekom, Orange) when video
+            delivery indicators signal deteriorating conditions. This ensures the
+            highest possible streaming quality for 4G and 5G users, minimizing
+            issues like low video quality, long startup times, or buffering, particularly
+            during network congestion or for live events.
+          summary_business_use_case: Improving Quality of Experience (QoE) for video
+            services by dynamically requesting and securing enhanced network resources
+            via CAMARA APIs. This leads to higher customer satisfaction, reduced
+            subscriber churn for video service providers, and enables new monetization
+            opportunities for premium video content delivered over telco networks.
+            It also allows Broadpeak to offer differentiated, network-aware video
+            delivery solutions.
+          summary_integrations: Broadpeak's streaming software is designed to integrate
+            with CAMARA Quality on Demand APIs, as demonstrated in projects with
+            Deutsche Telekom/Microsoft Azure and Orange. Their advanced CDN solutions
+            and the broadpeak.io SaaS platform (for SSAI) can utilize network intelligence
+            exposed by various CAMARA APIs to optimize video delivery and personalization.
+            They participate in CAMARA showcases, highlighting these integrations.
+          summary_intro_url: https://broadpeak.tv/our-solutions/
+          summary_tags: CAMARA, VideoStreaming, QoD, ContentDelivery, NetworkAPIs,
+            QoE, SSAI
+      - item:
+        name: Capgemini
+        homepage_url: https://www.capgemini.com/
+        logo: capgemini.svg
+        crunchbase: https://www.crunchbase.com/organization/cap-gemini
+        twitter: https://twitter.com/Capgemini
+        description: Capgemini is a global leader in partnering with companies
+          to transform and manage their business by harnessing the power of technology.
+          The Group is guided everyday by its purpose of unleashing human energy
+          through technology for an inclusive and sustainable future. It is a responsible
+          and diverse organization of 340,000 team members in more than 50 countries.
+          With its strong 50-year heritage and deep industry expertise, Capgemini
+          is trusted by its clients to address the entire breadth of their business
+          needs, from strategy and design to operations, fueled by the fast evolving
+          and innovative world of cloud, data, AI, connectivity, software, digital
+          engineering and platforms.
+        content: Capgemini is a supporter of the CAMARA open-source project, viewing
+          it as a crucial enabler for Communications Service Provider (CSP) transformation
+          and 5G monetization. They assist telcos and enterprises in developing
+          API strategies, integrating CAMARA APIs, and aligning with Open Digital
+          Architecture (ODA) and TM Forum standards. Capgemini's services aim to
+          accelerate clients' adoption of network APIs for enhanced connectivity,
+          new service creation, and overall digital transformation, helping them
+          unlock new revenue streams and improve operational efficiency.
+        keywords: consulting, system integration, digital transformation, telecom,
+          API strategy, CAMARA, Open Gateway, ODA, 5G monetization, CSP transformation
+        extra:
+          role_type: System Integrators
+          blog_url: https://www.capgemini.com/au-en/insights/expert-perspectives/whats-next-for-telecoms-7-key-trends-and-takeaways-from-mwc-2025/
+          summary_use_case: Designing, developing, and implementing solutions for
+            telecommunication clients and enterprises that leverage CAMARA APIs
+            for enhanced connectivity, new service creation, and digital transformation.
+            This includes integrating CAMARA APIs into existing enterprise systems
+            and operational workflows, and helping CSPs to build and expose network
+            capabilities through standardized interfaces compliant with CAMARA and
+            TM Forum's Open Digital Architecture.
+          summary_business_use_case: Accelerating clients' journey towards network
+            monetization, operational efficiency, and service innovation by leveraging
+            CAMARA standards and Open APIs. Capgemini helps businesses define their
+            API strategy, modernize their integration platforms, and implement API-led
+            architectures to unlock the value of their digital transformation initiatives
+            and achieve measurable business outcomes, such as faster time-to-market
+            for new services and improved customer experiences.
+          summary_integrations: Capgemini provides comprehensive API strategy and
+            delivery services, including integration platform modernization and
+            the development of 'Business APIs for Telco' based on TM Forum Open
+            APIs, which are complementary to CAMARA. They assist CSPs in reducing
+            IT complexity by adopting standardized APIs and enabling B2B2X digital
+            ecosystems critical for 5G and edge computing monetization. Their expertise
+            covers service integration across multi-sourcing environments and connecting
+            diverse subsystems via API-led and Event-Driven Architectures (EDA).
+          summary_intro_url: https://www.capgemini.com/solutions/business-apis-and-application-integration/
+          summary_tags: CAMARA, SystemIntegrator, Consulting, APIStrategy, DigitalTransformation,
+            Telecom, OpenGateway, ODA, TMForum
+      - item:
+        name: Chenosis
+        homepage_url: https://chenosis.io/
+        logo: chenosis.svg
+        crunchbase: ''
+        twitter: ''
+        description: Chenosis, an initiative by MTN Group, is a pan-African API
+          marketplace and digital transformation accelerator. It provides a platform
+          for developers, entrepreneurs, and enterprises to discover, subscribe
+          to, and publish a diverse range of APIs, including telecommunication,
+          mobile identity, fraud prevention, KYC, financial services, health, and
+          government APIs, aiming to foster innovation across the African continent.
+        content: Chenosis is actively involved in the GSMA Open Gateway initiative
+          and CAMARA, with its CEO Saad Syed stating that 'Camara and Open Gateway
+          is core to what we are doing'. The platform aims to expose mobile operator
+          network capabilities through universal CAMARA APIs. Chenosis has partnered
+          with Axiata Digital Labs and Dialog Axiata to launch the Chenosis Developer
+          Accelerator Platform, leveraging ADL's Axonect Enterprise Enabler to further
+          this goal. They also contribute to CAMARA API development, for example,
+          through proposals like the IMEI Fraud Check API.
+        keywords: API marketplace, telecom APIs, Africa, developer platform, MTN,
+          CAMARA, Open Gateway, digital transformation, fintech APIs, identity APIs
+        extra:
+          role_type: Operator API Exposure Platform Solution Provider
+          blog_url: https://chenosis.io/blog
+          summary_use_case: Providing a centralized API marketplace for developers
+            and businesses across Africa to access and integrate CAMARA-compliant
+            APIs from MTN and other partners. Use cases enabled include mobile identity
+            verification (KYC Verify API, Sim Swap Date API), fraud prevention (IMEI
+            Fraud Check API proposal), and location-based services, facilitating
+            the creation of innovative digital applications tailored for the African
+            market.
+          summary_business_use_case: Driving digital innovation, financial inclusion,
+            and economic growth in Africa by making telecommunication network capabilities
+            and other digital services readily accessible through standardized
+            CAMARA APIs on its marketplace. This strategy aims to create new revenue
+            streams for MTN and its API publishing partners, while significantly
+            reducing time-to-market and development costs for African developers
+            and businesses seeking to build new digital solutions.
+          summary_integrations: Chenosis hosts a variety of APIs, including MTN-owned
+            APIs (e.g., Sim Swap Date, Sim Active, KYC Verify, Date of Birth Verify)
+            and is part of the GSMA Open Gateway initiative, indicating future support
+            for a broader range of CAMARA-standardized APIs. The Chenosis Developer
+            Accelerator Platform, developed with Axiata Digital Labs (ADL) and Dialog
+            Axiata, utilizes ADL's Axonect Enterprise Enabler for its architecture.
+            MTN, through Chenosis, has proposed APIs such as the IMEI Fraud Check
+            to the CAMARA project.
+          summary_intro_url: https://chenosis.io/
+          summary_tags: CAMARA, APIMarketplace, Africa, DeveloperEnablement, MTN,
+            OpenGateway, DigitalInnovation, FinancialInclusion
+      - item:
+        name: China Mobile
+        homepage_url: https://www.chinamobileltd.com/
+        logo: chinamobile.svg
+        crunchbase: https://www.crunchbase.com/organization/china-mobile
+        twitter: ''
+        description: China Mobile Limited is the leading information and communications
+          technology (ICT) services provider in mainland China and globally the
+          largest mobile network operator by total subscribers. The company offers
+          a comprehensive range of services including mobile voice and data, 5G
+          network services, wireline broadband, Internet of Things (IoT), cloud
+          computing, and dedicated ICT solutions for individual, household, corporate,
+          and new emerging ('CHBN') markets.
+        content: China Mobile is a key global proponent and early adopter of the
+          GSMA Open Gateway initiative and the CAMARA project. They have developed
+          one of the world's largest Open Gateway platforms, enabling the exposure
+          of network capabilities through standardized CAMARA APIs. A notable example
+          is their AaaS Open Gateway solution, created with Alibaba Cloud and ZTE,
+          which utilizes CAMARA-compliant APIs like Quality on Demand (QoD) to enhance
+          services such as Alipay mobile payments. China Mobile actively contributes
+          to the CAMARA API development pipeline, with proposals including '5G New
+          Calling' and 'IP High-throughput Elastic Network'.
+        keywords: telecom, MNO, China, 5G, API platform, Open Gateway, CAMARA, QoD,
+          IoT, Cloud, AaaS
+        extra:
+          role_type: Operator API Exposure Platform Solution Provider
+          blog_url: ''
+          summary_use_case: Utilizing the CAMARA Quality on Demand (QoD) API, integrated
+            into their AaaS Open Gateway platform (developed with Alibaba Cloud
+            and ZTE), to dynamically enhance wireless network performance for Alipay
+            mobile payment users, especially in areas with weak network coverage,
+            reducing transaction times and failure rates. Another CAMARA use case
+            involves leveraging a location API to build an Uber-like service for
+            seniors using feature phones, powered by voice-driven AI. China Mobile
+            also proposes new APIs to CAMARA, such as '5G New Calling'.
+          summary_business_use_case: Driving the commercialization of its 5G network
+            and creating new revenue streams by transforming its network into a
+            programmable platform that exposes capabilities through standardized
+            CAMARA APIs. This strategy aims to enhance user experience for critical
+            third-party applications (e.g., mobile payments), enable a wide range
+            of new service scenarios, and foster a larger developer ecosystem, thereby
+            increasing the overall value and monetization potential of its extensive
+            network infrastructure.
+          summary_integrations: China Mobile has developed and commercially deployed
+            a Quality on Demand (QoD) API based on CAMARA standards in collaboration
+            with ZTE. Their AaaS Open Gateway platform integrates this QoD API with
+            Alibaba Cloud to optimize Alipay payment services. The company's CT
+            (Communications Technology) middleware platform is leveraged to expose
+            a 'QoS Acceleration Capability'. China Mobile is an active participant
+            in CAMARA API development, with proposals for '5G New Calling' and 'IP
+            High-throughput Elastic Network' under discussion in the API backlog.
+          summary_intro_url: https://www.chinamobileltd.com/en/ir/home.php
+          summary_tags: CAMARA, OperatorPlatform, OpenGateway, 5G, QoD, NetworkAPIs,
+            ChinaTelco, AaaS, Alipay
+      - item:
+        name: China Telecom
+        homepage_url: https://www.chinatelecomglobal.com/
+        logo: chinatelecom.svg
+        crunchbase: https://www.crunchbase.com/organization/china-telcom
+        twitter: https://twitter.com/chinateleglobal
+        description: China Telecom Corporation Limited is a leading global provider
+          of integrated intelligent information services. It offers a comprehensive
+          suite of telecommunications solutions, including mobile communications
+          (4G/5G), wireline broadband access, Internet of Things (IoT), cloud computing
+          (eSurfing Cloud/Tianyi Cloud), data center services, and ICT solutions
+          to customers worldwide. The company is actively pursuing a 'Cloudification
+          and Digital Transformation' strategy.
+        content: China Telecom is a key participant in the CAMARA project and the
+          GSMA Open Gateway initiative. Their Network as a Service (NaaS) strategy,
+          underpinned by their Cloud and Network Operating System (CNOS), is designed
+          to expose differentiated network capabilities—such as connectivity, network
+          perception, and cloud-network convergence—through standardized CAMARA
+          APIs. China Telecom actively showcases and promotes CAMARA APIs like IoTAntiFraud,
+          Device Status, and Quality on Demand (QoD) at developer events, and has
+          successfully implemented QoD use cases with partners like Tencent Games
+          and Kuaishou to enhance application performance. They also contribute
+          to CAMARA API development through proposals for IoT Device Management
+          and IoT SIM Fraud Prevention.
+        keywords: telecom, MNO, China, 5G, NaaS, Cloud, Open Gateway, CAMARA, QoD,
+          IoT, CNOS, ICT
+        extra:
+          role_type: Operator API Exposure Platform Solution Provider
+          blog_url: ''
+          summary_use_case: Implementing CAMARA Quality on Demand (QoD) API to significantly
+            improve user experience for Tencent Games (e.g., Honor of Kings) and
+            Kuaishou live streaming services by reducing network latency and stuttering,
+            particularly under challenging network conditions. China Telecom also
+            actively proposes and supports the development of new CAMARA APIs, including
+            those for IoT Device Management (covering communication function management,
+            device subscription state, real-time monitoring) and IoT SIM Fraud Prevention
+            (device-SIM binding, area restriction, fraud detection).
+          summary_business_use_case: Driving digital transformation for enterprise
+            customers and creating new value-added services by exposing network
+            capabilities through its NaaS platform and standardized CAMARA APIs.
+            This strategy aims to generate new revenue streams from API consumption
+            (e.g., their 5G QoD API calls reportedly reached 570 million in 2023,
+            generating tens of millions in revenue), improve customer experience
+            for partnered applications (gaming, live streaming), and foster an ecosystem
+            for application innovation on their network.
+          summary_integrations: China Telecom's Cloud and Network Operating System
+            (CNOS) and NaaS layer serve as the integration platform for exposing
+            network capabilities via CAMARA APIs. They have successfully integrated
+            the QoD API with major application partners like Tencent Games and Kuaishou.
+            The company is an active contributor to the CAMARA API backlog, with
+            proposals for IoT Device Management and IoT SIM Fraud Prevention APIs,
+            sometimes in collaboration with other operators like Verizon. Their
+            CNOS framework is designed to align with the GSMA Open Gateway reference
+            model, facilitating interoperability.
+          summary_intro_url: https://www.chinatelecom-h.com/en/global/home.php
+          summary_tags: CAMARA, OperatorPlatform, OpenGateway, 5G, QoD, NaaS, NetworkAPIs,
+            ChinaTelco, IoT, CNOS
+      - item:
+        name: China Unicom
+        homepage_url: https://www.chinaunicom.com.hk/
+        logo: chinaunicom.svg
+        crunchbase: https://www.crunchbase.com/organization/china-unicom
+        twitter: ''
+        description: China Unicom (Hong Kong) Limited is a leading telecommunications
+          operator in the People's Republic of China, providing a comprehensive
+          range of telecommunication services, including mobile voice and data,
+          5G network services, fixed-line broadband, data communications, Internet
+          of Things (IoT) connectivity, and various value-added services to individual,
+          business, and government customers. The company is committed to technological
+          innovation and digital transformation.
+        content: China Unicom is an active proponent of the GSMA Open Gateway initiative
+          and CAMARA. They have launched the 'Open Gateway Network Capability Open
+          Platform' (OGNCOP) to provide standardized access to their network capabilities
+          using CAMARA APIs such as Number Verification, RegionDeviceCount, OTP,
+          and Quality on Demand. China Unicom encourages the development of innovative
+          applications on this platform through initiatives like the 'Open Gateway
+          Global Use Case Innovation Challenge' and aligns its 'AI Unites All' strategy
+          with Open Gateway goals.
+        keywords: telecom, MNO, China, 5G, API platform, Open Gateway, CAMARA, Number
+          Verification, IoT, AI
+        extra:
+          role_type: Operator API Exposure Platform Solution Provider
+          blog_url: ''
+          summary_use_case: Exposing a suite of CAMARA APIs via its Open Gateway
+            Network Capability Open Platform, including Number Verification, RegionDeviceCount,
+            OTP (One-Time Password), Device Identifier, Location Verification, and
+            Quality on Demand. These APIs are intended for diverse use cases such
+            as enhancing security in financial transactions, optimizing resource
+            deployment in emergency management, improving video streaming quality,
+            and enabling secure smart campus solutions. China Unicom hosts innovation
+            challenges to spur the development of such applications.
+          summary_business_use_case: Accelerating digital transformation across
+            various industries and fostering a vibrant developer ecosystem by opening
+            up its network capabilities through standardized CAMARA APIs. This strategy
+            aims to create new revenue opportunities, improve service delivery for
+            end-users (e.g., through enhanced video acceleration or network security
+            features), and enable partners to build high-value, scenario-specific
+            applications. This aligns with their broader goals of leveraging 5G
+            and AI for business growth and innovation.
+          summary_integrations: China Unicom's Open Gateway Network Capability Open
+            Platform (OGNCOP) serves as the primary integration point for CAMARA
+            APIs. They are actively involved in CAMARA and GSMA Open Gateway standardization
+            efforts and participate in TM Forum operations for these APIs. China
+            Unicom Global has also partnered with MAP Protocol to explore Web3 and
+            AI integration, leveraging network infrastructure. They have also been
+            involved in CAMARA API backlog discussions, for example, regarding
+            a Voice Verification Code API proposal related to number verification.
+          summary_intro_url: https://www.chinaunicom.com.hk/en/global/home.php
+          summary_tags: CAMARA, OperatorPlatform, OpenGateway, 5G, NetworkAPIs,
+            ChinaTelco, Innovation, DeveloperEcosystem
+      - item:
+        name: CINNOX
+        homepage_url: https://www.cinnox.com/
+        logo: cinnox.svg
+        linkedin: https://www.linkedin.com/company/cinnoxhq
+        description: CINNOX is an innovative omnichannel customer engagement and
+          analytics platform that unifies telephony, digital, and social media
+          channels. It enables businesses to humanize connections, streamline customer
+          service, automate workflows, and enhance team collaboration through a
+          single, cloud-based solution. CINNOX provides tools for live chat, voice
+          and video calls, and integrates with various third-party applications.
+        twitter: https://twitter.com/CINNOXHQ
+        crunchbase: ''
+        content: As a Communications Platform as a Service (CPaaS) provider, CINNOX
+          has the potential to significantly leverage CAMARA APIs to enrich its
+          comprehensive suite of communication offerings. For instance, integrating
+          CAMARA Number Verification or SIM Swap APIs could bolster the security
+          of customer interactions on the CINNOX platform. Similarly, the Quality
+          on Demand (QoD) API could be used to ensure superior voice and video call
+          quality, especially when communications traverse mobile networks. CINNOX's
+          existing support for API integration suggests a readiness to incorporate
+          such network-aware features, thereby providing more secure, reliable,
+          and intelligent communication experiences for its global clientele.
+        keywords: CPaaS, contact center, omnichannel, customer engagement, cloud
+          communications, API integration, UCaaS, collaboration tools
+        extra:
+          role_type: Hyperscaler, (CPaaS) Aggregators
+          blog_url: https://www.cinnox.com/blog
+          summary_use_case: Potentially integrating CAMARA APIs such as Number Verification
+            to enhance the security of its communication services (e.g., validating
+            user phone numbers during onboarding processes or for two-factor authentication
+            within its contact center solutions). Another key use case would be
+            leveraging the CAMARA Quality on Demand (QoD) API to ensure higher,
+            more consistent quality for voice and video calls conducted through
+            its platform, particularly for interactions occurring over mobile networks.
+          summary_business_use_case: Offering more secure, reliable, and feature-rich
+            omnichannel communication experiences by incorporating underlying network
+            intelligence exposed via CAMARA APIs. This could lead to increased customer
+            trust through enhanced fraud prevention, higher service quality for
+            real-time communications, and competitive differentiation in the CPaaS
+            market by providing unique network-aware features to enterprise clients.
+          summary_integrations: CINNOX provides open APIs and supports no-code automation
+            through Zapier for connecting with a wide array of business applications.
+            The platform can integrate with chatbot services like Microsoft QnA
+            Maker and Google Dialogflow. There is significant potential for CINNOX
+            to integrate various CAMARA APIs (e.g., Number Verification, SIM Swap,
+            Quality on Demand, Device Location) to add network-native intelligence
+            and security features to its existing CPaaS functionalities, enhancing
+            its value proposition for businesses requiring robust and context-aware
+            communication solutions.
+          summary_intro_url: https://www.cinnox.com/
+          summary_tags: CAMARA, CPaaS, CustomerEngagement, Omnichannel, APIIntegration,
+            ContactCenter, CloudCommunications
+      - item:
+        name: Cisco
+        homepage_url: https://www.cisco.com/
+        logo: cisco.svg
+        crunchbase: https://www.crunchbase.com/organization/cisco
+        twitter: https://twitter.com/Cisco
+        description: Cisco Systems, Inc. is an American multinational digital communications
+          technology conglomerate that develops, manufactures, and sells networking
+          hardware, software, telecommunications equipment, and other high-technology
+          services and products. Cisco specializes in specific tech markets, such
+          as the Internet of Things (IoT), domain security, videoconferencing (Webex),
+          and energy management, and provides solutions for service providers to
+          transform and program their networks.
+        content: Cisco is an active participant and supporter of the CAMARA project,
+          collaborating with service provider partners to enable robust API capabilities
+          through its platforms. The Cisco Mobility Services Platform, for example,
+          is designed to expose CAMARA APIs, facilitating use cases such as enhanced
+          IoT location services with Qualcomm's QPoint™ solution. Cisco views the
+          CAMARA initiative as a pivotal step towards delivering new and innovative
+          network functionalities at a global scale, empowering CSPs to monetize
+          their networks effectively and enabling a richer application ecosystem.
+        keywords: networking, telecom equipment, API platform, 5G, IoT, CAMARA,
+          Mobility Services, Service Provider, DevNet, programmable networks
+        extra:
+          role_type: Network Capability Solution Provider
+          blog_url: https://blogs.cisco.com/developer
+          summary_use_case: Enabling service providers to expose network services
+            and capabilities through CAMARA-compliant interfaces via platforms like
+            the Cisco Mobility Services Platform. A specific example is the exposure
+            of CAMARA APIs to support Qualcomm's QPoint™ IoT location solution,
+            providing enhanced positioning for businesses and developers. Cisco's
+            solutions also enable CSPs to offer Network-as-a-Service (NaaS) deployments
+            and advanced IoT solutions that can leverage CAMARA APIs for greater
+            functionality and interoperability.
+          summary_business_use_case: Empowering telecommunication operators to monetize
+            their substantial network investments and foster new application ecosystems
+            by leveraging CAMARA standards. Cisco's platforms, including the Programmable
+            Core and Mobility Services Platform, are designed to allow CSPs to rapidly
+            target high-growth opportunities by exposing network capabilities as
+            programmable APIs. This creates differentiated value from the network,
+            enabling new services and revenue streams for CSPs and their enterprise
+            customers.
+          summary_integrations: The Cisco Mobility Services Platform is architected
+            to integrate and expose CAMARA APIs. Cisco's Programmable Core provides
+            the underlying infrastructure for voice, messaging, and data services,
+            which can be the foundation for API exposure. The Cisco DevNet program
+            offers extensive resources, sandboxes, and tools for developers working
+            with Cisco APIs and network automation technologies. Additionally, Cisco's
+            Webex CPaaS (formerly imimobile) provides a platform for automating
+            customer interactions, which could potentially be enhanced by integrating
+            CAMARA network APIs for features like improved security or quality of
+            service.
+          summary_intro_url: https://developer.cisco.com/
+          summary_tags: CAMARA, Infrastructure, APIEnablement, NetworkAutomation,
+            ServiceProvider, IoT, 5GCore, DevNet
+      - item:
+        name: CK Hutchison Holdings
+        homepage_url: http://www.ckh.com.hk/
+        logo: ckh.svg
+        crunchbase: https://www.crunchbase.com/organization/ck-investments
+        twitter: ''
+        description: CK Hutchison Holdings Limited is a renowned multinational
+          conglomerate headquartered in Hong Kong, with diverse business operations
+          spanning ports and related services, retail, infrastructure, energy, and
+          telecommunications. Its telecommunications division is a leading global
+          operator of mobile telecommunications and data services, with operations
+          under the '3' (Three) brand in Europe (including the UK, Italy, Sweden,
+          Denmark, Austria, Ireland) and interests in Hutchison Telecommunications
+          Hong Kong Holdings (Hong Kong, Macau) and Hutchison Asia Telecom.
+        content: CK Hutchison Holdings, primarily through its European operating
+          companies like Three UK, is an active participant in the GSMA Open Gateway
+          initiative, which is closely aligned with CAMARA. Three UK is collaborating
+          with other major UK mobile operators on implementing CAMARA APIs, including
+          the already available SIM Swap API, and has committed to launching the
+          Tenure API and Age Verify API by the end of 2025. This involvement aims
+          to leverage standardized network APIs for purposes such as combating online
+          fraud and enhancing consumer safeguarding, contributing to a common framework
+          for API exposure across multiple networks.
+        keywords: telecom, MNO, global, 3 Group, Three UK, Wind Tre, CAMARA, Open
+          Gateway, API, mobile operator
+        extra:
+          role_type: Operator API Exposure Platform Solution Provider
+          blog_url: https://groupsolutions.three.com/insights/
+          summary_use_case: Through its UK operating company, Three UK, CK Hutchison
+            is actively collaborating on the implementation and launch of specific
+            CAMARA APIs. These include the SIM Swap API (currently available) for
+            fraud detection, and planned launches by the end of 2025 for the Tenure
+            API (to verify how long a mobile number has been associated with a user)
+            and the Age Verify API (to check customer eligibility for age-restricted
+            services). These initiatives are part of the GSMA Open Gateway framework
+            and focus on enhancing security and trust in digital interactions.
+          summary_business_use_case: Enhancing customer security, combating online
+            fraud, and meeting regulatory requirements (such as age verification
+            for specific services) by exposing standardized network capabilities
+            like SIM Swap, Tenure, and Age Verification through CAMARA APIs. Participation
+            in the GSMA Open Gateway initiative allows for the development of interoperable
+            solutions that can function across different operators, thereby increasing
+            the value proposition for businesses and developers seeking to integrate
+            these security and verification features.
+          summary_integrations: Three UK, a CK Hutchison company, is integrating
+            CAMARA APIs (SIM Swap, with Tenure and Age Verify APIs planned) as part
+            of a collaborative effort among UK operators under the GSMA Open Gateway
+            umbrella. These APIs, such as Call Forwarding Signal, Device Location,
+            Device Status, and Device Swap, are standardized through CAMARA to ensure
+            consistent functionality and facilitate their use by developers across
+            multiple networks. The broader CAMARA API portfolio offers further potential
+            integration points for enhancing services.
+          summary_intro_url: https://www.ckh.com.hk/en/businesses/telecommunications.php
+          summary_tags: CAMARA, OperatorPlatform, OpenGateway, GlobalTelco, ThreeGroup,
+            NetworkAPIs, SIMSwap, AgeVerification
+      - item:
+        name: CloudoniX
+        homepage_url: https://www.cloudonix.com/
+        logo: cloudonix.svg
+        crunchbase: https://www.crunchbase.com/organization/cloudonix-io
+        twitter: https://twitter.com/cloudonix
+        description: CloudoniX offers a programmable communications platform specializing
+          in voice and messaging APIs and SDKs. Their solutions enable businesses
+          and developers to integrate contextual voice calling, AI-powered voice
+          agents, simplified IVR, call tracking, and other real-time communication
+          features into mobile applications, web services, and wearable devices.
+          The platform supports connection to any SIP-compatible carrier and various
+          AI platforms.
+        content: As a Communications Platform as a Service (CPaaS) provider, CloudoniX
+          is well-positioned to leverage CAMARA APIs to significantly enhance its
+          programmable telecommunication services. For example, integrating CAMARA's
+          Number Verification API could add a robust layer of security for user
+          authentication within applications built on CloudoniX. The Quality on
+          Demand API could be utilized to ensure superior voice and video call quality
+          when calls are routed over mobile networks. Furthermore, CAMARA Device
+          Location APIs could enable the development of more context-aware and location-based
+          communication features within the CloudoniX ecosystem.
+        keywords: CPaaS, programmable voice, programmable messaging, voice API,
+          cloud communications, SDKs, AI voice agents, SIP trunking, IVR
+        extra:
+          role_type: Hyperscaler, (CPaaS) Aggregators
+          blog_url: https://www.cloudonix.com/blog/
+          summary_use_case: Potentially integrating CAMARA APIs to enhance its CPaaS
+            offerings. For instance, using CAMARA Number Verification for more secure
+            user authentication in applications built on its platform, employing
+            Quality on Demand (QoD) to guarantee stable and high-quality voice
+            communications over telco networks, or leveraging Location Verification
+            APIs to add geographical context and intelligence to its programmable
+            telecom solutions.
+          summary_business_use_case: Offering developers and enterprise clients
+            more robust, secure, and network-aware communication building blocks
+            by leveraging CAMARA APIs. This could lead to a differentiated CPaaS
+            platform with enhanced features such as improved call quality assurance,
+            stronger security against fraud (e.g., via number or SIM verification),
+            and the ability to create novel location-based communication services,
+            thereby attracting a broader customer base and increasing service value.
+          summary_integrations: CloudoniX provides a suite of its own Voice APIs,
+            Messaging APIs, Infrastructure APIs, and SDKs for mobile (Android/iOS)
+            and web development. The platform is designed to connect with any SIP-compatible
+            carrier and various AI platforms. There is a clear potential for CloudoniX
+            to integrate CAMARA APIs to augment its existing CPaaS features, thereby
+            adding network-native intelligence and capabilities to its communication
+            solutions.
+          summary_intro_url: https://www.cloudonix.com/
+          summary_tags: CAMARA, CPaaS, ProgrammableVoice, ProgrammableTelecom, APIPlatform,
+            VoiceAPI, MessagingAPI
+      - item:
+        name: 1NCE
+        homepage_url: https://1nce.com/
+        logo: 1nce.svg
+        description: '1NCE provides global IoT connectivity at a flat rate, offering
+          secure and reliable cellular network access for IoT devices worldwide:contentReference[oaicite:0]{index=0}.'
+        crunchbase: https://www.crunchbase.com/organization/1nce
+        twitter: https://twitter.com/1NCE_IoT
+        keywords:
+          - IoT
+          - Connectivity
+          - SIM
+        extra:
+          role_type: API Customers, ISV
+          blog_url: https://1nce.com/en-us/resources/news
+          summary_use_case: Global IoT deployments requiring long-term, low-cost
+            cellular connectivity.
+          summary_business_use_case: Enables enterprises to connect and manage IoT
+            devices across countries without high roaming fees.
+          summary_integrations: Integrated with multiple mobile operators for 2G/3G/4G/LTE-M/NB-IoT
+            coverage; works with IoT cloud platforms.
+          summary_intro_url: null
+          summary_tags: IoT connectivity, Flat-rate SIM
+      - item:
+        name: A1 Telekom Austria
+        homepage_url: https://www.a1.group/
+        logo: a1.svg
+        description: 'A1 Telekom Austria is the largest communications provider
+          in Austria, offering mobile, fixed, and ICT services across Central and
+          Eastern Europe:contentReference[oaicite:1]{index=1}.'
+        crunchbase: https://www.crunchbase.com/organization/a1-telekom-austria
+        twitter: https://twitter.com/A1Telekom
+        keywords:
+          - Mobile
+          - Operator
+          - ICT
+        extra:
+          role_type: API Customers, ISV
+          blog_url: null
+          summary_use_case: Implements CAMARA APIs to offer cross-operator services
+            (e.g., identity or messaging) to its subscribers.
+          summary_business_use_case: Enhances customer experience by providing standardized
+            network capabilities across its markets.
+          summary_integrations: Integrating CAMARA APIs into A1’s developer portal
+            and network platforms.
+          summary_intro_url: null
+          summary_tags: Telecom operator, Austria
+      - item:
+        name: ACL Digital
+        homepage_url: https://www.acldigital.com/
+        logo: acl_digital.svg
+        description: 'ACL Digital is a provider of digital engineering and product
+          development services, delivering solutions from semiconductor design to
+          cloud, and enabling digital transformation for enterprises:contentReference[oaicite:2]{index=2}.'
+        crunchbase: https://www.crunchbase.com/organization/acl-digital
+        twitter: https://twitter.com/ACLDigital
+        keywords:
+          - Digital Engineering
+          - Software Services
+          - Product Development
+        extra:
+          role_type: System Integrators
+          blog_url: null
+          summary_use_case: Provides engineering services to integrate CAMARA APIs
+            into telecom products and solutions.
+          summary_business_use_case: Assists operators and vendors in accelerating
+            API-driven transformation projects.
+          summary_integrations: Involved in projects spanning 5G, IoT, and cloud,
+            integrating network APIs with enterprise applications.
+          summary_intro_url: null
+          summary_tags: Engineering services, Integration
+      - item:
+        name: Amantya Technologies
+        homepage_url: https://www.amantyatech.com/
+        logo: amantya.svg
+        description: 'Amantya is a product engineering and systems integration
+          company specializing in wireless technologies (4G/5G), IoT, cloud, and
+          AI/ML solutions:contentReference[oaicite:3]{index=3}.'
+        crunchbase: https://www.crunchbase.com/organization/amantya-technologies
+        twitter: https://twitter.com/Amantyatech
+        keywords:
+          - 5G
+          - IoT
+          - Edge
+        extra:
+          role_type: System Integrators
+          blog_url: null
+          summary_use_case: Develops 5G and IoT solutions leveraging standardized
+            network APIs for enterprise deployments.
+          summary_business_use_case: Helps telecom operators and enterprises implement
+            and test CAMARA APIs for innovative services.
+          summary_integrations: Integrated edge computing platforms with telco network
+            API gateways for private 5G and IoT use cases.
+          summary_intro_url: null
+          summary_tags: 5G integration, IoT systems
+      - item:
+        name: Amdocs
+        homepage_url: https://www.amdocs.com/
+        logo: amdocs.svg
+        description: 'Amdocs is a leading software and services provider to communications
+          and media companies, delivering solutions for billing, customer experience,
+          network management, and digital services:contentReference[oaicite:4]{index=4}.'
+        crunchbase: https://www.crunchbase.com/organization/amdocs
+        twitter: https://twitter.com/Amdocs
+        keywords:
+          - BSS/OSS
+          - Telecom Software
+          - Customer Experience
+        extra:
+          role_type: Operator API Exposure Platform Solution Provider
+          blog_url: null
+          summary_use_case: Provides a digital enablement platform that can expose
+            operator network capabilities via standardized APIs.
+          summary_business_use_case: Enables telecom operators to monetize network
+            services by exposing them to developers through CAMARA-compliant APIs.
+          summary_integrations: Amdocs integrates CAMARA Open Gateway APIs into its
+            monetization and customer management solutions.
+          summary_intro_url: null
+          summary_tags: Telecom software, API monetization
+      - item:
+        name: América Móvil
+        homepage_url: https://www.americamovil.com/
+        logo: america_movil.svg
+        description: 'América Móvil is the leading telecommunications provider in
+          Latin America, operating across 17 countries and offering wireless, fixed,
+          broadband, and TV services to over 300 million customers:contentReference[oaicite:5]{index=5}.'
+        crunchbase: https://www.crunchbase.com/organization/america-movil
+        twitter: https://twitter.com/americamovil
+        keywords:
+          - Mobile Operator
+          - Latin America
+          - Telecom Group
+        extra:
+          role_type: API Customers, ISV
+          blog_url: null
+          summary_use_case: Adopts CAMARA APIs to provide consistent services (like
+            carrier billing or identity verification) across its operating companies.
+          summary_business_use_case: Streamlines partnerships with global developers
+            and platforms by using common network APIs for its Claro, Telcel, and
+            other brands.
+          summary_integrations: Testing CAMARA APIs (e.g., number verification,
+            billing) across multiple country networks within América Móvil’s footprint.
+          summary_intro_url: null
+          summary_tags: Mobile operator, Latin America
+      - item:
+        name: AND Digital
+        homepage_url: https://and.digital/
+        logo: and_digital.svg
+        description: 'AND Digital is a digital transformation consultancy that partners
+          with organizations to build digital products (apps, APIs, platforms) and
+          helps bridge their digital skills gap:contentReference[oaicite:6]{index=6}.'
+        crunchbase: https://www.crunchbase.com/organization/and-digital
+        twitter: https://twitter.com/AND_Digital
+        keywords:
+          - Digital Transformation
+          - Software Development
+          - Consultancy
+        extra:
+          role_type: Ecosystem Consultants
+          blog_url: null
+          summary_use_case: Coaches telecom companies on developing API-driven services
+            and building internal developer capabilities.
+          summary_business_use_case: Assists businesses in leveraging CAMARA APIs
+            and agile methodologies to accelerate digital product innovation.
+          summary_integrations: Collaborated on pilot projects implementing telco
+            network APIs into new mobile or web applications.
+          summary_intro_url: null
+          summary_tags: Consulting, Digital skills
+      - item:
+        name: Apis Training
+        homepage_url: https://apistraining.com/
+        logo: apistraining.svg
+        description: 'Apis Training provides specialized telecom API training and
+          education, offering courses on CAMARA, GSMA Open Gateway, and related
+          telecom API technologies:contentReference[oaicite:7]{index=7}.'
+        crunchbase: null
+        twitter: null
+        keywords:
+          - Training
+          - Telecom API
+          - Education
+        extra:
+          role_type: Ecosystem Consultants
+          blog_url: https://apistraining.com/news
+          summary_use_case: Trains developers and telecom professionals to effectively
+            utilize standardized network APIs.
+          summary_business_use_case: Helps telcos and enterprises upskill their
+            workforce for rapid adoption of CAMARA Open Gateway APIs.
+          summary_integrations: Curriculum covers integration of CAMARA APIs into
+            real-world applications and comparisons with other API frameworks.
+          summary_intro_url: https://apistraining.com/apis-in-telecom/
+          summary_tags: Telecom training, API education
+      - item:
+        name: BICS
+        homepage_url: https://www.bics.com/
+        logo: bics.svg
+        description: 'BICS (Belgacom International Carrier Services) is a leading
+          global communications platform provider that connects people, applications,
+          and devices worldwide, and is a top wholesale carrier for voice, roaming,
+          and messaging services:contentReference[oaicite:8]{index=8}.'
+        crunchbase: https://www.crunchbase.com/organization/bics
+        twitter: https://twitter.com/BICS_SA
+        keywords:
+          - Wholesale Carrier
+          - Roaming
+          - Messaging
+        extra:
+          role_type: Hyperscaler, (CPaaS) Aggregators
+          blog_url: null
+          summary_use_case: Uses CAMARA APIs to streamline inter-operator services
+            like SMS routing, number verification, and roaming data exchange.
+          summary_business_use_case: Enhances its wholesale offerings by providing
+            customers with API access to global telecom services (e.g., verify
+            phone numbers via a standard API).
+          summary_integrations: Integrating Open Gateway APIs for identity and authentication
+            into its global messaging and roaming hubs.
+          summary_intro_url: null
+          summary_tags: Wholesale telecom, Global connectivity
+      - item:
+        name: B-Yond
+        homepage_url: https://www.b-yond.com/
+        logo: b-yond.svg
+        description: 'B-Yond is a network AI company that develops automation software
+          for network intelligence and operations, delivering AI-powered network
+          analytics and diagnostics solutions to global telecom service providers:contentReference[oaicite:9]{index=9}.'
+        crunchbase: https://www.crunchbase.com/organization/b-yond
+        twitter: https://twitter.com/B_YondLabs
+        keywords:
+          - Network Automation
+          - AI/ML
+          - Telecom Analytics
+        extra:
+          role_type: Network Capability Solution Provider
+          blog_url: null
+          summary_use_case: Provides AI-driven tools that can leverage network data
+            exposed via CAMARA APIs for automated diagnostics and optimization.
+          summary_business_use_case: Helps operators monetize and improve network
+            performance by applying AI to the data accessible through standard APIs.
+          summary_integrations: B-Yond’s platform can integrate with network exposure
+            functions (NEFs) to analyze QoS and usage data across multi-vendor
+            APIs.
+          summary_intro_url: null
+          summary_tags: AI for networks, Automation
+      - item:
+        name: Infobip
+        homepage_url: https://www.infobip.com/
+        logo: infobip.svg
+        description: 'Infobip is a global cloud communications platform (CPaaS)
+          that enables businesses to build connected customer experiences across
+          multiple channels (SMS, voice, email, chat apps) via scalable APIs:contentReference[oaicite:10]{index=10}.'
+        crunchbase: https://www.crunchbase.com/organization/infobip
+        twitter: https://twitter.com/infobip
+        keywords:
+          - CPaaS
+          - Messaging
+          - Cloud Communications
+        extra:
+          role_type: Hyperscaler, (CPaaS) Aggregators
+          blog_url: https://www.infobip.com/blog
+          summary_use_case: 'Consumes CAMARA network APIs (e.g., carrier billing,
+            SIM swap) to enhance its omnichannel communication offerings for enterprises:contentReference[oaicite:11]{index=11}.'
+          summary_business_use_case: 'Collaborates with mobile operators to deliver
+            new services (like number verification or OTP) through standardized
+            APIs, creating new revenue streams:contentReference[oaicite:12]{index=12}.'
+          summary_integrations: 'Integrated CAMARA One Time Password SMS and Number
+            Verification APIs in partnership with regional operators:contentReference[oaicite:13]{index=13}.'
+          summary_intro_url: https://www.infobip.com/blog/the-power-of-network-apis-with-camara
+          summary_tags: CPaaS, Omnichannel, Network APIs
+      - item:
+        name: Mavenir
+        homepage_url: https://www.mavenir.com/
+        logo: mavenir.svg
+        description: 'Mavenir is a network software provider building the future
+          of networks with cloud-native solutions. It offers end-to-end 5G network
+          infrastructure (core, RAN) and digital enablement platforms for operators:contentReference[oaicite:14]{index=14}.'
+        crunchbase: https://www.crunchbase.com/organization/mavenir-systems
+        twitter: https://twitter.com/Mavenir
+        keywords:
+          - 5G
+          - Network Software
+          - Open RAN
+        extra:
+          role_type: Operator API Exposure Platform Solution Provider
+          blog_url: null
+          summary_use_case: 'Provides an API monetization and exposure platform
+            (Mavenir Digital Enablement) that, combined with its core network, allows
+            CSPs to expose 5G network capabilities via CAMARA APIs:contentReference[oaicite:15]{index=15}.'
+          summary_business_use_case: 'Enables operators to quickly launch and monetize
+            Open Gateway APIs (location, QoS, etc.) by offering pre-integrated
+            BSS/charging and API exposure functions:contentReference[oaicite:16]{index=16}:contentReference[oaicite:17]{index=17}.'
+          summary_integrations: 'Integrated its network exposure functions (NEF/SCEF)
+            with CAMARA-compliant API gateway (through partnership with Spry Fox
+            Networks) to accelerate API offerings:contentReference[oaicite:18]{index=18}:contentReference[oaicite:19]{index=19}.'
+          summary_intro_url: null
+          summary_tags: 5G core, API exposure, Monetization
+      - item:
+        name: Nearby Computing
+        homepage_url: https://www.nearbycomputing.com/
+        logo: nearby_computing.svg
+        description: 'Nearby Computing helps telcos and enterprises unlock the
+          potential of edge computing through orchestration and automation of multi-access
+          edge (MEC) and cloud resources:contentReference[oaicite:20]{index=20}.'
+        crunchbase: https://www.crunchbase.com/organization/nearby-computing
+        twitter: https://twitter.com/NearbyComputing
+        keywords:
+          - Edge Computing
+          - Orchestration
+          - MEC
+        extra:
+          role_type: Network Capability Solution Provider
+          blog_url: null
+          summary_use_case: Orchestrates edge cloud resources and network functions,
+            using standardized APIs to manage connectivity and compute across operator
+            networks.
+          summary_business_use_case: Enables service providers to offer edge computing
+            services by abstracting network and cloud complexities via a unified
+            platform.
+          summary_integrations: Its NearbyOne platform can integrate with CAMARA
+            APIs (e.g., for network slice management or QoS) to automate edge service
+            deployment across multiple operators.
+          summary_intro_url: null
+          summary_tags: Edge orchestration, MEC automation
+      - item:
+        name: Radisys
+        homepage_url: https://www.radisys.com/
+        logo: radisys.svg
+        description: 'Radisys is a global leader in open telecom solutions and services,
+          providing disaggregated network platforms (5G RAN, core) and integration
+          services that leverage open architectures and reference designs:contentReference[oaicite:21]{index=21}.'
+        crunchbase: https://www.crunchbase.com/organization/radisys
+        twitter: https://twitter.com/radisys
+        keywords:
+          - Open Telecom
+          - 5G Solutions
+          - Integration
+        extra:
+          role_type: Network Capability Solution Provider
+          blog_url: null
+          summary_use_case: Provides 5G and broadband network functions that expose
+            standardized interfaces, which can be wrapped by CAMARA APIs for external
+            use.
+          summary_business_use_case: Helps operators adopt open network architectures
+            and integrate CAMARA APIs into their networks to accelerate service
+            innovation.
+          summary_integrations: Participating in CAMARA to ensure its Open RAN, core,
+            and service platforms align with API standards for easier integration
+            and exposure.
+          summary_intro_url: null
+          summary_tags: Open RAN, 5G core, Integration services
+      - item:
+        name: Scenera
+        homepage_url: https://scenera.net/
+        logo: scenera.svg
+        description: 'Scenera is an AIoT data management company whose MAIstro platform
+          transforms real-time data from cameras, sensors, and IoT devices into
+          actionable insights through cloud-edge orchestration:contentReference[oaicite:22]{index=22}.'
+        crunchbase: https://www.crunchbase.com/organization/scenera
+        twitter: null
+        keywords:
+          - AIoT
+          - Video Analytics
+          - Cloud-Edge
+        extra:
+          role_type: API Customers, ISV
+          blog_url: null
+          summary_use_case: Utilizes network APIs (e.g., bandwidth on demand, edge
+            processing APIs) to optimize real-time video streaming and analytics
+            for smart surveillance.
+          summary_business_use_case: As a consumer of telco APIs, Scenera can enhance
+            its AI video services by requesting guaranteed QoS or location-based
+            data via CAMARA interfaces.
+          summary_integrations: Working with operators to integrate CAMARA Quality
+            on Demand and Edge Discovery APIs to improve performance of its camera
+            data services.
+          summary_intro_url: null
+          summary_tags: AI video, Edge computing
+      - item:
+        name: Sekura.id
+        homepage_url: https://sekura.id/
+        logo: sekura.svg
+        description: 'Sekura.id is a leading global provider of mobile identity
+          and verification services, delivering secure, real-time SIM-based authentication,
+          fraud prevention, and ID verification solutions by leveraging mobile operator
+          data:contentReference[oaicite:23]{index=23}.'
+        crunchbase: https://www.crunchbase.com/organization/sekura-mobile-intelligence
+        twitter: https://twitter.com/SekuraMobile
+        keywords:
+          - Mobile Identity
+          - Fraud Prevention
+          - Authentication
+        extra:
+          role_type: Hyperscaler, (CPaaS) Aggregators
+          blog_url: null
+          summary_use_case: Aggregates network-based authentication APIs (e.g., SIM
+            verification, number verify) from many operators into a single service
+            for banks and online services.
+          summary_business_use_case: Uses CAMARA standardized APIs to easily access
+            subscriber SIM info across carriers, enabling seamless Know-Your-Customer
+            and fraud detection checks for clients.
+          summary_integrations: Sekura’s platform connects to multiple MNOs globally;
+            CAMARA’s common API framework simplifies these integrations and accelerates
+            onboarding new operators.
+          summary_intro_url: null
+          summary_tags: Mobile authentication, SIM-based ID
+      - item:
+        name: Sensedia
+        homepage_url: https://www.sensedia.com/
+        logo: sensedia.svg
+        description: 'Sensedia provides API management and integration solutions,
+          offering a full-lifecycle API platform and expertise to help companies
+          build, secure, integrate, and expose services via APIs:contentReference[oaicite:24]{index=24}.'
+        crunchbase: https://www.crunchbase.com/organization/sensedia
+        twitter: https://twitter.com/Sensedia
+        keywords:
+          - API Management
+          - Integration
+          - Platform
+        extra:
+          role_type: Operator API Exposure Platform Solution Provider
+          blog_url: null
+          summary_use_case: Offers an API gateway and management platform that operators
+            can use to publish and govern CAMARA Open Gateway APIs.
+          summary_business_use_case: Helps telecoms rapidly expose network functions
+            as managed APIs (with security, rate-limiting, developer portal) to
+            partners and developers.
+          summary_integrations: Works with operators in Latin America to implement
+            CAMARA APIs on top of existing services, using Sensedia’s platform for
+            quick adoption of Open Gateway standards.
+          summary_intro_url: null
+          summary_tags: API gateway, Integration platform
+      - item:
+        name: Simptel
+        homepage_url: https://www.simptel.com/
+        logo: simptel.svg
+        description: 'Simptel is a communications platform provider focused on simplifying
+          business communications, enabling partners to launch new telecom services
+          with a security-centric, cloud-based CPaaS approach:contentReference[oaicite:25]{index=25}.'
+        crunchbase: https://www.crunchbase.com/organization/simptel
+        twitter: https://twitter.com/simptel
+        keywords:
+          - CPaaS
+          - Telecom Security
+          - Edge Cloud
+        extra:
+          role_type: Hyperscaler, (CPaaS) Aggregators
+          blog_url: null
+          summary_use_case: Utilizes operator APIs for voice, messaging, and mobile
+            identity to power its white-label communication solutions.
+          summary_business_use_case: Allows MVNOs and brands to quickly offer telecom
+            services (SMS, voice, verification) using Simptel’s platform integrated
+            with CAMARA APIs.
+          summary_integrations: Implementing CAMARA fraud prevention and authentication
+            APIs to enhance its communications security offerings at the network
+            edge.
+          summary_intro_url: null
+          summary_tags: CPaaS, Security
+      - item:
+        name: Sinch
+        homepage_url: https://www.sinch.com/
+        logo: sinch.svg
+        description: 'Sinch is a leading global cloud communications platform that
+          enables businesses to reach every mobile phone on the planet in seconds
+          via messaging, voice, video, and verification APIs:contentReference[oaicite:26]{index=26}.'
+        crunchbase: https://www.crunchbase.com/organization/sinch
+        twitter: https://twitter.com/Sinch
+        keywords:
+          - CPaaS
+          - Messaging
+          - Voice API
+        extra:
+          role_type: Hyperscaler, (CPaaS) Aggregators
+          blog_url: null
+          summary_use_case: Integrates CAMARA network APIs (e.g., carrier billing,
+            number lookup) into its communications platform to enrich enterprise
+            messaging and verification services.
+          summary_business_use_case: Provides its enterprise clients with higher
+            trust and reach by leveraging standardized telco APIs (for example,
+            verifying phone numbers or enhancing SMS delivery via CAMARA frameworks).
+          summary_integrations: Works with mobile operators through CAMARA to ensure
+            its SMS, RCS, and voice services can trigger network events (like QoS
+            or charging) in a uniform way across carriers.
+          summary_intro_url: null
+          summary_tags: Cloud communications, Messaging APIs
+      - item:
+        name: Singtel
+        homepage_url: https://www.singtel.com/
+        logo: singtel.svg
+        description: 'Singtel is Asia’s leading communications technology group,
+          providing a wide portfolio of services from next-gen connectivity and
+          5G networks to ICT and digital solutions across 21 countries:contentReference[oaicite:27]{index=27}.'
+        crunchbase: https://www.crunchbase.com/organization/singtel
+        twitter: https://twitter.com/Singtel
+        keywords:
+          - Mobile Operator
+          - Asia Pacific
+          - 5G
+        extra:
+          role_type: API Customers, ISV
+          blog_url: null
+          summary_use_case: Implements CAMARA APIs (e.g., network quality, location)
+            to offer cross-carrier services to enterprise customers and roamers.
+          summary_business_use_case: Through CAMARA, collaborates with global carriers
+            and hyperscalers to create new digital services (like edge computing
+            and cloud-connect) with standardized API access to its network.
+          summary_integrations: Active in trials where Singtel’s 5G network capabilities
+            (like slicing or edge discovery) are exposed to partners via CAMARA’s
+            intent-based APIs.
+          summary_intro_url: null
+          summary_tags: Telecom operator, 5G services
+      - item:
+        name: SK Telecom
+        homepage_url: https://www.sktelecom.com/
+        logo: sk_telecom.svg
+        description: 'SK Telecom is the largest mobile operator in South Korea (about
+          50% market share) and a pioneer in advanced mobile networks, having led
+          deployments from CDMA to LTE-A and 5G:contentReference[oaicite:28]{index=28}.'
+        crunchbase: https://www.crunchbase.com/organization/sk-telecom
+        twitter: https://twitter.com/SKtelecom
+        keywords:
+          - Mobile Operator
+          - South Korea
+          - 5G
+        extra:
+          role_type: API Customers, ISV
+          blog_url: null
+          summary_use_case: Explores CAMARA APIs to offer new services (e.g., AR/VR
+            applications requiring network slicing or QoS on-demand) in its 5G network.
+          summary_business_use_case: Collaborates with global partners (e.g., gaming,
+            streaming companies) by providing standardized network APIs (via CAMARA)
+            for ultra-low latency and other 5G features.
+          summary_integrations: SKT has trialed CAMARA Location and QoD (Quality
+            on Demand) APIs as part of the GSMA Open Gateway initiative to broaden
+            its digital service ecosystem.
+          summary_intro_url: null
+          summary_tags: Mobile operator, 5G pioneer
+      - item:
+        name: Spry Fox Networks
+        homepage_url: https://spryfoxnetworks.com/
+        logo: spry_fox_networks.svg
+        description: 'Spry Fox Networks (SFN) delivers comprehensive wireless network
+          solutions with a particular emphasis on network APIs that leverage the
+          GSMA Open Gateway framework, empowering mobile network operators to monetize
+          and expose their network services:contentReference[oaicite:29]{index=29}.'
+        crunchbase: https://www.crunchbase.com/organization/spry-fox-networks
+        twitter: https://www.twitter.com/spryfoxnetworks
+        keywords:
+          - Network API
+          - Monetization
+          - Telecom Software
+        extra:
+          role_type: CAMARA Transformation Function Solution Provider
+          blog_url: null
+          summary_use_case: 'Provides an API exposure and monetization platform
+            (QP Cloud MONET) that allows operators to quickly implement CAMARA APIs
+            and charge for their usage:contentReference[oaicite:30]{index=30}.'
+          summary_business_use_case: 'Enables CSPs to transform their networks into
+            platforms by exposing capabilities through CAMARA APIs and managing
+            the full API lifecycle (onboarding, analytics, billing) for new revenue:contentReference[oaicite:31]{index=31}:contentReference[oaicite:32]{index=32}.'
+          summary_integrations: 'Pre-integrated its Open Gateway-compliant API platform
+            with Mavenir’s digital enablement suite, demonstrating end-to-end CAMARA
+            API monetization solutions for operators:contentReference[oaicite:33]{index=33}:contentReference[oaicite:34]{index=34}.'
+          summary_intro_url: https://www.globenewswire.com/news-release/2024/12/18/2999103/0/en/Mavenir-and-Spry-Fox-Networks-SFN-Announce-Strategic-Partnership-to-Accelerate-API-Monetization-in-the-Telecom-Industry.html
+          summary_tags: Network exposure, API monetization
+      - item:
+        name: STC (Saudi Telecom Company)
+        homepage_url: https://www.stc.com.sa/
+        logo: stc.svg
+        description: 'STC (stc Group) is the leading digital communications operator
+          in Saudi Arabia, with international operations in 10+ markets and over
+          170 million customers. It provides mobile, fixed, broadband, and digital
+          services across the Middle East:contentReference[oaicite:35]{index=35}.'
+        crunchbase: https://www.crunchbase.com/organization/stc-saudi-telecom
+        twitter: https://twitter.com/stc
+        keywords:
+          - Mobile Operator
+          - Middle East
+          - Digital Services
+        extra:
+          role_type: API Customers, ISV
+          blog_url: null
+          summary_use_case: Implements CAMARA APIs to offer region-wide services
+            (e.g., mobile identity, carrier billing) in partnership with global
+            platforms.
+          summary_business_use_case: By adopting standardized APIs, STC accelerates
+            the rollout of new digital services and partnerships (cloud gaming,
+            fintech, etc.) across its markets in a consistent way.
+          summary_integrations: STC has participated in Open Gateway trials (e.g.,
+            SIM swap API) to ensure compatibility and easy integration for international
+            developers using its network.
+          summary_intro_url: null
+          summary_tags: Telecom operator, Middle East
+      - item:
+        name: Summit Tech
+        homepage_url: https://www.summit-tech.ca/
+        logo: summit_tech.svg
+        description: 'Summit Tech is a provider of innovative IMS/RCS, 5G MEC, and
+          Rich Communication solutions, offering cloud-native IMS, RCS-as-a-Service,
+          and immersive communication applications (AR/VR calling, vCommerce) for
+          carriers and enterprises:contentReference[oaicite:36]{index=36}:contentReference[oaicite:37]{index=37}.'
+        crunchbase: https://www.crunchbase.com/organization/summit-tech
+        twitter: https://twitter.com/summitRCS
+        keywords:
+          - RCS/IMS
+          - 5G MEC
+          - Applications
+        extra:
+          role_type: API Customers, ISV
+          blog_url: null
+          summary_use_case: Builds applications (like holographic calls, 5G VR streaming)
+            that consume telco APIs for QoS, edge processing, and location, to ensure
+            high-quality user experiences.
+          summary_business_use_case: Offers carriers pre-built, API-enabled services
+            (e.g., video calling over 5G) that leverage CAMARA APIs for capabilities
+            like network slicing or edge computing, driving new revenue.
+          summary_integrations: Integrated CAMARA-proposed Network Quality APIs
+            into its VR streaming demo to dynamically request enhanced QoS from
+            the network during MWC showcases.
+          summary_intro_url: null
+          summary_tags: IMS, RCS, AR/VR
+      - item:
+        name: Tech Mahindra
+        homepage_url: https://www.techmahindra.com/
+        logo: tech_mahindra.svg
+        description: 'Tech Mahindra is a leading global IT services and consulting
+          company that provides technology solutions and digital transformation
+          services to enterprises, including communications service providers:contentReference[oaicite:38]{index=38}.'
+        crunchbase: https://www.crunchbase.com/organization/tech-mahindra
+        twitter: https://twitter.com/techmahindra
+        keywords:
+          - IT Services
+          - Telecom BSS/OSS
+          - Consulting
+        extra:
+          role_type: System Integrators
+          blog_url: null
+          summary_use_case: Works with telecom operators to implement CAMARA API
+            frameworks within their OSS/BSS and network systems.
+          summary_business_use_case: As a systems integrator, Tech Mahindra helps
+            CSPs accelerate adoption of Open Gateway APIs, from consulting on use-cases
+            to integration and managed services.
+          summary_integrations: Integrated CAMARA APIs into operator sandbox environments
+            as part of digital transformation projects, ensuring legacy systems
+            can interface with new open API layers.
+          summary_intro_url: null
+          summary_tags: IT consulting, Telecom integration
+      - item:
+        name: VIRTUS – Research, Development and Innovation Center
+        homepage_url: https://virtus.ufcg.edu.br/
+        logo: virtus.svg
+        description: 'VIRTUS is a research, development, and innovation center
+          at Federal University of Campina Grande (Brazil) focused on information
+          and communication technologies and automation (Núcleo de PD&I em TIC e
+          Automação):contentReference[oaicite:39]{index=39}.'
+        crunchbase: null
+        twitter: null
+        keywords:
+          - Research Center
+          - Telecom R&D
+          - Innovation
+        extra:
+          role_type: Ecosystem Consultants
+          blog_url: null
+          summary_use_case: Conducts research on telecom network APIs and contributes
+            to CAMARA by prototyping new use cases (e.g., smart city applications
+            leveraging standard APIs).
+          summary_business_use_case: Provides thought leadership and technical validation
+            for CAMARA APIs, ensuring they address real-world needs in areas like
+            IoT, 5G, and automation.
+          summary_integrations: Collaborates with industry partners to test CAMARA
+            API implementations in academic testbeds and open innovation projects.
+          summary_intro_url: null
+          summary_tags: Academic, Telecom research
+      - item:
+        name: VROMBR
+        homepage_url: https://vrombr.games/
+        logo: vrombr.svg
+        description: 'VROMBR is a "remote reality" racing game platform that lets
+          players drive real, physical cars remotely in real time, using on-board
+          cameras and 5G connectivity to stream video and control vehicles from
+          anywhere:contentReference[oaicite:40]{index=40}.'
+        crunchbase: null
+        twitter: null
+        keywords:
+          - Remote Reality
+          - Gaming
+          - 5G
+        extra:
+          role_type: API Customers, ISV
+          blog_url: null
+          summary_use_case: Requires high-bandwidth, low-latency network capabilities;
+            uses CAMARA’s Quality on Demand and edge computing APIs to ensure smooth
+            remote control experiences.
+          summary_business_use_case: Demonstrates a novel consumer application of
+            telco APIs – partnering with operators to leverage 5G network slicing
+            and low-latency paths for immersive entertainment.
+          summary_integrations: Worked with an operator to utilize CAMARA Location
+            and QoS APIs during a trial, enabling remote race cars to be controlled
+            with minimal lag and real-time video.
+          summary_intro_url: null
+          summary_tags: 5G remote control, AR/VR entertainment
+      - item:
+        name: WCG
+        homepage_url: null
+        logo: wcg.svg
+        description: WCG is a participating organization in the CAMARA community,
+          involved in advancing open network API adoption. (WCG’s specific business
+          focus is under review.)
+        crunchbase: null
+        twitter: null
+        keywords: []
+        extra:
+          role_type: System Integrators
+          blog_url: null
+          summary_use_case: Contributes to CAMARA working groups, potentially providing
+            integration or consulting expertise for network API implementations.
+          summary_business_use_case: Supports ecosystem development by helping other
+            participants implement and test CAMARA APIs in real-world scenarios.
+          summary_integrations: Engaged in collaborative projects within CAMARA,
+            ensuring interoperability and smooth integration of the standardized
+            APIs across different platforms.
+          summary_intro_url: null
+          summary_tags: []
+      - item:
+        name: WSO2
+        homepage_url: https://wso2.com/
+        logo: wso2.svg
+        description: 'WSO2 provides a leading open-source API management and integration
+          platform, allowing organizations to design, secure, publish, and monetize
+          APIs and microservices across cloud and on-premises environments:contentReference[oaicite:41]{index=41}.'
+        crunchbase: https://www.crunchbase.com/organization/wso2
+        twitter: https://twitter.com/wso2
+        keywords:
+          - API Management
+          - Open Source
+          - Integration
+        extra:
+          role_type: Operator API Exposure Platform Solution Provider
+          blog_url: https://wso2.com/blog
+          summary_use_case: Offers telcos an open-source API gateway and management
+            suite to expose their network functions via CAMARA-defined APIs with
+            full governance.
+          summary_business_use_case: Enables telecom operators to quickly launch
+            developer portals and manage API products (throttle, monetize, secure)
+            in compliance with CAMARA best practices.
+          summary_integrations: WSO2’s platform has been used in multiple carrier
+            API initiatives; now aligning with CAMARA standards to ensure out-of-the-box
+            support for Open Gateway API specifications.
+          summary_intro_url: null
+          summary_tags: Open-source platform, API gateway
+      - item:
+        name: Xecurity Pulse
+        homepage_url: https://xecuritypulse.com
+        logo: xecurity-pulse.svg
+        description: Xecurity Pulse is a telecom security and cybersecurity solutions
+          provider offering cutting-edge 5G network security testing, AI-driven
+          threat intelligence, and hands-on training services for operators and
+          enterprises.
+        crunchbase: https://www.crunchbase.com/organization/xecurity-pulse
+        twitter: https://twitter.com/XecurityPulse
+        content: Xecurity Pulse joined the CAMARA Global API Alliance in 2024 to
+          contribute its telecom cybersecurity expertise and drive innovation in
+          secure 5G API use cases.
+        keywords:
+          - Telecom Security
+          - 5G Security
+          - Cybersecurity
+          - Network APIs
+          - Open Standards
+        extra:
+          linkedin_url: https://www.linkedin.com/company/xecurity-pulse
+          role_type: API Customers, ISV
+          summary_use_case: Accelerating advanced 5G network use cases (quality
+            monitoring, edge computing, IoT connectivity) through open telecom
+            APIs.
+          summary_business_use_case: Enabling more flexible, efficient, and secure
+            telecom networks by integrating cybersecurity solutions with standardized
+            APIs.
+          summary_integrations: Integrates telecom network APIs into its security
+            platform (e.g., X-SCAS) for automated threat testing and promotes interoperability
+            via CAMARA standards.
+          summary_intro_url: https://www.linkedin.com/posts/xecurity-pulse_5gsecurity-cybersecurity-telecomsecurity-activity-7258209108498034690-wfsg
+          summary_tags:
+            - 5G
+            - Cybersecurity
+            - Telecom
+            - API
+            - Standardization
+      - item:
+        name: XFlow Software Technology LLC
+        homepage_url: https://xflowresearch.com
+        logo: xflowresearch.svg
+        description: XFlow Software Technology LLC (xFlow Research) specializes
+          in network infrastructure R&D, providing software-defined networking (SDN),
+          network functions virtualization (NFV), and cloud networking solutions
+          for telecom operators.
+        crunchbase: https://www.crunchbase.com/organization/xflow-software-technology
+        twitter: null
+        content: XFlow is engaging in CAMARA to offer its SDN/NFV expertise and
+          help develop transformation functions and integration solutions for open
+          telecom APIs.
+        keywords:
+          - Software-Defined Networking
+          - Network Function Virtualization
+          - Cloud Networking
+          - Telecom R&D
+          - OpenStack
+        extra:
+          linkedin_url: https://www.linkedin.com/company/xflow-research-inc
+          role_type: System Integrators
+          summary_use_case: Network function virtualization and cloud network integration
+            use cases for telecom API platforms.
+          summary_business_use_case: Accelerating telco cloud adoption and network
+            innovation by delivering SDN/NFV solutions aligned with open API standards.
+          summary_integrations: Contributes to integrating telco network infrastructure
+            with CAMARA APIs, leveraging SDN controllers and NFV orchestration to
+            bridge legacy and modern systems.
+          summary_intro_url: https://xflowresearch.com/about-us
+          summary_tags:
+            - SDN
+            - NFV
+            - Cloud
+            - Networking
+            - Open-Source
+      - item:
+        name: Yaana
+        homepage_url: https://www.yaanatech.com
+        logo: yaana.svg
+        description: Yaana is a global provider of intelligent compliance solutions
+          for communications service providers, specializing in lawful interception,
+          data retention & disclosure, and advanced security analytics for telecom
+          networks.
+        crunchbase: https://www.crunchbase.com/organization/yaana-technologies
+        twitter: https://twitter.com/yaanainc
+        content: Yaana participates in CAMARA to ensure that telecom APIs and frameworks
+          address compliance and security requirements, contributing its expertise
+          in lawful intercept and data analytics.
+        keywords:
+          - Legal Compliance
+          - Lawful Interception
+          - Data Retention
+          - Security Analytics
+          - Telecom Regulations
+        extra:
+          linkedin_url: https://www.linkedin.com/company/yaana-technologies
+          role_type: Network Capability Solution Provider
+          summary_use_case: Lawful compliance and security analytics use cases (e.g.,
+            lawful intercept, accurate data retention) through standardized network
+            APIs.
+          summary_business_use_case: Helping operators meet regulatory compliance
+            obligations while leveraging big data insights, via cost-effective,
+            scalable compliance platforms.
+          summary_integrations: Provides an API aggregation layer (DataHub) integrating
+            diverse telco IT systems (SAP, billing, data stores) into a unified
+            interface for compliance and analytics solutions.
+          summary_intro_url: https://www.yaanatech.com/about-us/
+          summary_tags:
+            - Compliance
+            - Analytics
+            - Lawful Interception
+            - DataRetention
+            - Security
+      - item:
+        name: ZTE Corporation
+        homepage_url: https://www.zte.com.cn
+        logo: zte.svg
+        description: ZTE Corporation is a global leader in telecommunications and
+          information technology, providing integrated network infrastructure solutions,
+          5G wireless equipment, broadband systems, and mobile devices to operators
+          and enterprises worldwide.
+        crunchbase: https://www.crunchbase.com/organization/zte-corporation
+        twitter: https://twitter.com/ZTEPress
+        content: ZTE brings its broad telecom infrastructure expertise to CAMARA,
+          supporting the standardization of open network APIs for industry-wide
+          interoperability and innovation.
+        keywords:
+          - Telecommunications
+          - Network Infrastructure
+          - 5G
+          - Broadband
+          - Mobile Devices
+        extra:
+          linkedin_url: https://www.linkedin.com/company/zte
+          role_type: Network Capability Solution Provider
+          summary_use_case: End-to-end telecom network solutions (5G, wireless,
+            core, devices) enabling global connectivity and intelligent communication
+            services.
+          summary_business_use_case: Empowering operators and enterprises with next-generation
+            network technology to drive digital transformation and worldwide connectivity.
+          summary_integrations: Integrates comprehensive telecom systems from radio
+            access to cloud core, and supports standardized API frameworks (e.g.,
+            CAMARA/Open Gateway) for seamless interoperability across networks.
+          summary_intro_url: https://www.zte.com.cn/global/about/corporate_information.html
+          summary_tags:
+            - Telecom
+            - 5G
+            - Infrastructure
+            - Devices
+            - Global
+
   - category:
     name: CAMARA APIs
     subcategories:
