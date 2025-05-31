@@ -1763,102 +1763,608 @@ landscape:
                 Meeting (Every 3rd Tuesday, 15:00 CET): https://zoom-lfx.platform.linuxfoundation.org/meeting/98623615151?password=f925c48e-22d6-4f22-aba1-593fe4539f4e
                 Minutes: https://wiki.camaraproject.org/display/CAM/Outreach+Committee+Minutes
               key_deliverables_list: "Marketing Materials (https://github.com/camaraproject/Marketing/tree/main/documentation/MarketingMaterial); Event Strategy and Tracker (e.g., https://lf-camaraproject.atlassian.net/wiki/spaces/CAM/pages/14560862/2025+Event+Tracker); CAMARA Website Content and Promotion"
-  - category:
-    name: CAMARA Ecosystem Participants
-    subcategories:
-      - subcategory:
-        name: Network Capability Solution Provider
-        items:
-          - item:
-            name: Example Network Capability Provider Inc.
-            homepage_url: https://example-ncsp.com
-            logo: network_capability_provider.svg # Replace with actual logo file in hosted_logos
-            crunchbase: https://www.crunchbase.com/organization/example-ncsp # Replace with actual Crunchbase URL
-            description: "Provides foundational network capabilities essential for CAMARA APIs."
-            extra:
-              role_type: Network Capability Solution Provider
-        # Add more organizations here
-      - subcategory:
-        name: CAMARA Transformation Function Solution Provider
-        items:
-          - item:
-            name: Example CAMARA Transformation Provider Ltd.
-            homepage_url: https://example-ctfsp.com
-            logo: camara_transformation_provider.svg # Replace
-            crunchbase: https://www.crunchbase.com/organization/example-ctfsp # Replace
-            description: "Offers solutions that enable or adapt services for CAMARA transformation functions."
-            extra:
-              role_type: CAMARA Transformation Function Solution Provider
-        # Add more organizations here
-      - subcategory:
-        name: Operator API Exposure Platform Solution Provider
-        items:
-          - item:
-            name: Example API Exposure Platform Co.
-            homepage_url: https://example-oaepsp.com
-            logo: api_exposure_platform_provider.svg # Replace
-            crunchbase: https://www.crunchbase.com/organization/example-oaepsp # Replace
-            description: "Provides platforms for telecommunication operators to expose their APIs according to CAMARA standards."
-            extra:
-              role_type: Operator API Exposure Platform Solution Provider
-        # Add more organizations here
-      - subcategory:
-        name: "Hyperscaler, (CPaaS) Aggregators" # Quoted due to comma and parentheses
-        items:
-          - item:
-            name: Example Hyperscaler/CPaaS Aggregator
-            homepage_url: https://example-hyperscaler-cpaas.com
-            logo: hyperscaler_cpaas_aggregator.svg # Replace
-            crunchbase: https://www.crunchbase.com/organization/example-hcpaas # Replace
-            description: "Large-scale cloud providers or Communication Platform as a Service (CPaaS) aggregators integrating with CAMARA APIs."
-            extra:
-              role_type: "Hyperscaler, (CPaaS) Aggregators"
-        # Add more organizations here
-      - subcategory:
-        name: Operator Portal Solution Provider
-        items:
-          - item:
-            name: Example Operator Portal Provider
-            homepage_url: https://example-opp.com
-            logo: operator_portal_provider.svg # Replace
-            crunchbase: https://www.crunchbase.com/organization/example-opp # Replace
-            description: "Develops and provides portal solutions for operators to manage and offer CAMARA-compliant APIs."
-            extra:
-              role_type: Operator Portal Solution Provider
-        # Add more organizations here
-      - subcategory:
-        name: "API Customers, ISV" # Quoted due to comma
-        items:
-          - item:
-            name: Example API Customer/ISV
-            homepage_url: https://example-apicustomer-isv.com
-            logo: api_customer_isv.svg # Replace
-            crunchbase: https://www.crunchbase.com/organization/example-apicustomerisv # Replace
-            description: "Organizations or Independent Software Vendors (ISVs) that consume CAMARA APIs to build applications and services."
-            extra:
-              role_type: "API Customers, ISV"
-        # Add more organizations here
-      - subcategory:
-        name: System Integrators
-        items:
-          - item:
-            name: Example System Integrator Corp.
-            homepage_url: https://example-si.com
-            logo: system_integrator.svg # Replace
-            crunchbase: https://www.crunchbase.com/organization/example-si # Replace
-            description: "Specializes in integrating CAMARA-based solutions and other systems for end-users or operators."
-            extra:
-              role_type: System Integrators
-        # Add more organizations here
-      - subcategory:
-        name: Ecosystem Consultants
-        items:
-          - item:
-            name: Example Ecosystem Consultancy
-            homepage_url: https://example-consultancy.com
-            logo: ecosystem_consultant.svg # Replace
-            crunchbase: https://www.crunchbase.com/organization/example-consultancy # Replace
-            description: "Provides strategic and technical consultancy services for organizations participating in or adopting CAMARA."
-            extra:
-              role_type: Ecosystem Consultants
-        # Add more organizations here
+    - category:
+      name: CAMARA Ecosystem Participants
+      subcategories:
+        - name: Telecom Network Operators
+          items:
+            - item:
+              name: AIS (Advanced Info Service)
+              logo: ais.svg
+              homepage_url: https://www.ais.th
+              crunchbase: https://www.crunchbase.com/organization/advanced-info-service
+              twitter: https://twitter.com/AIS_Thailand
+              linkedin: https://www.linkedin.com/company/ais
+              github_organizations: []
+              description: "Thailand’s largest mobile network operator, providing 5G and digital services. AIS participates in CAMARA to expose network capabilities and was showcased in CAMARA demonstrations alongside global partners."
+              content: "Mobile network operator in Thailand (Advanced Info Service Public Co.)."
+              keywords: ["Operator", "Mobile", "5G", "Thailand"]
+              extra:
+                use_case_summary: "Demonstrated CAMARA-enabled broadcast services in partnership with other operators to drive new 5G applications."
+                integration_info: "Integrating CAMARA standard APIs to offer location, QoS, and other network capabilities to developers on its network."
+            - item:
+              name: AT&T
+              logo: att.svg
+              homepage_url: https://www.att.com
+              crunchbase: https://www.crunchbase.com/organization/at-t
+              twitter: https://twitter.com/ATT
+              linkedin: https://www.linkedin.com/company/att
+              github_organizations: []
+              description: "A leading American telecom provider and founding CAMARA participant, AT&T exposes network APIs (e.g., location, SIM swap) to developers. It collaborates on cross-carrier initiatives like the Aduna network API venture:contentReference[oaicite:2]{index=2}."
+              content: "U.S. telecommunications company (mobile, broadband, enterprise services)."
+              keywords: ["Operator", "Mobile", "5G", "USA", "Network API"]
+              extra:
+                use_case_summary: "AT&T offers CAMARA-compliant APIs (e.g., Number Verification) to enterprise developers and has trialed CAMARA Open Gateway APIs on its network:contentReference[oaicite:3]{index=3}."
+                integration_info: "Works with industry partners (e.g., cloud providers and the Aduna alliance) to integrate standardized network APIs into applications and services:contentReference[oaicite:4]{index=4}."
+            - item:
+              name: Axiata Group
+              logo: axiata.svg
+              homepage_url: https://www.axiata.com
+              crunchbase: https://www.crunchbase.com/organization/axiata
+              twitter: https://twitter.com/axiata
+              linkedin: https://www.linkedin.com/company/axiata
+              github_organizations: []
+              description: "Pan-Asian mobile telecommunications group (operating across multiple countries). Axiata is an initial CAMARA partner driving API standards to monetize network services across its regional operators:contentReference[oaicite:5]{index=5}."
+              content: "Telecom conglomerate with mobile operators in South and Southeast Asia."
+              keywords: ["Operator", "Mobile", "Asia", "APAC"]
+              extra:
+                use_case_summary: "Leverages CAMARA APIs across its OpCos (e.g., Dialog, Celcom) to deliver uniform services like identity and charging across markets."
+                integration_info: "Through its subsidiary Axiata Digital Labs, contributes to CAMARA API development and open-source reference implementations."
+            - item:
+              name: Bell Canada
+              logo: bell-canada.svg
+              homepage_url: https://www.bell.ca
+              crunchbase: https://www.crunchbase.com/organization/bell-canada
+              twitter: https://twitter.com/Bell
+              linkedin: https://www.linkedin.com/company/bell
+              github_organizations: []
+              description: "One of Canada’s largest communications companies (Bell). Bell is a CAMARA participant exploring standardized network APIs to offer new services and participated in CAMARA technical working groups:contentReference[oaicite:6]{index=6}:contentReference[oaicite:7]{index=7}."
+              content: "Canadian telecom operator (Bell Canada Enterprises)."
+              keywords: ["Operator", "Mobile", "Broadband", "Canada"]
+              extra:
+                use_case_summary: "Evaluating CAMARA Open Gateway APIs (e.g., device status, network quality) to enhance its enterprise and consumer services."
+                integration_info: "Bell experts contribute to CAMARA API design (e.g., End User Council representation) to ensure cross-operator interoperability."
+            - item:
+              name: Charter Communications
+              logo: charter-communications.svg
+              homepage_url: https://corporate.charter.com
+              crunchbase: https://www.crunchbase.com/organization/charter-communications
+              twitter: https://twitter.com/CharterCom
+              linkedin: https://www.linkedin.com/company/charter-communications
+              github_organizations: []
+              description: "US cable and broadband provider (Spectrum). Charter joined CAMARA as a General Member:contentReference[oaicite:8]{index=8} to extend standardized network API solutions (e.g., carrier billing, edge services) into the cable broadband domain."
+              content: "Cable broadband operator in the United States (Spectrum brand)."
+              keywords: ["Operator", "Cable", "Broadband", "USA"]
+              extra:
+                use_case_summary: "Exploring CAMARA APIs like Quality on Demand across its cable network to support enhanced video and gaming experiences."
+                integration_info: "Working via CableLabs and CAMARA to integrate telco-grade APIs into cable infrastructure for seamless developer access."
+            - item:
+              name: China Telecom
+              logo: china-telecom.svg
+              homepage_url: http://www.chinatelecomglobal.com
+              crunchbase: https://www.crunchbase.com/organization/china-telecom
+              twitter: https://twitter.com/ChinaTelecom
+              linkedin: https://www.linkedin.com/company/china-telecom
+              github_organizations: []
+              description: "Major Chinese telecommunications operator. China Telecom is involved in CAMARA to contribute use cases and ensure API standards address large-scale network operations (roaming, device info, etc.)."
+              content: "Telecommunications operator in China (mobile, broadband, enterprise services)."
+              keywords: ["Operator", "Mobile", "China", "5G"]
+              extra:
+                use_case_summary: "Focusing on CAMARA APIs for roaming status and device connectivity to enhance international services."
+                integration_info: "Engages via industry collaboration (e.g., Bridge Alliance, GSMA) to implement CAMARA’s globally harmonized APIs in its networks."
+            - item:
+              name: Deutsche Telekom
+              logo: deutsche-telekom.svg
+              homepage_url: https://www.telekom.com
+              crunchbase: https://www.crunchbase.com/organization/deutsche-telekom
+              twitter: https://twitter.com/deutschetelekom
+              linkedin: https://www.linkedin.com/company/deutsche-telekom
+              github_organizations: []
+              description: "Europe’s leading telecom (parent of T-Mobile). Deutsche Telekom is a founding CAMARA member and premier sponsor:contentReference[oaicite:9]{index=9} spearheading development of network APIs for identity, QoS, and other capabilities."
+              content: "International telecom operator (Germany-based, operating across EU and US)."
+              keywords: ["Operator", "Mobile", "Europe", "5G", "Open Gateway"]
+              extra:
+                use_case_summary: "Championing CAMARA APIs like Identity (OpenID Connect) and Quality on Demand, implemented in trials across its networks:contentReference[oaicite:10]{index=10}."
+                integration_info: "DT provides leadership in CAMARA’s Technical Steering Committee, aligning Open Gateway requirements with open-source implementation:contentReference[oaicite:11]{index=11}."
+            - item:
+              name: Dialog Axiata
+              logo: dialog-axiata.svg
+              homepage_url: https://www.dialog.lk
+              crunchbase: https://www.crunchbase.com/organization/dialog-axiata
+              twitter: https://twitter.com/DialogSriLanka
+              linkedin: https://www.linkedin.com/company/dialog-axiata-plc
+              github_organizations: []
+              description: "Sri Lanka’s largest mobile operator (part of Axiata Group). Dialog contributes to CAMARA as an early partner, leveraging standardized APIs to fast-track new services and interoperability with global platforms."
+              content: "Mobile network operator in Sri Lanka (Dialog Axiata PLC)."
+              keywords: ["Operator", "Mobile", "Sri Lanka", "Axiata"]
+              extra:
+                use_case_summary: "Using CAMARA’s Location and SMS One-Time Password APIs to enable local fintech and digital services with minimal integration effort."
+                integration_info: "Collaborates via Axiata Group and CAMARA to implement reference API code and share regional insights into API adoption."
+            - item:
+              name: Orange
+              logo: orange.svg
+              homepage_url: https://www.orange.com
+              crunchbase: https://www.crunchbase.com/organization/orange
+              twitter: https://twitter.com/Orange
+              linkedin: https://www.linkedin.com/company/orange
+              github_organizations: []
+              description: "Global telecom operator based in France. Orange is a founding member and premier sponsor of CAMARA:contentReference[oaicite:12]{index=12}, actively implementing CAMARA (GSMA Open Gateway) APIs across its networks to drive new revenue streams."
+              content: "Multinational telecommunications company (formerly France Télécom)."
+              keywords: ["Operator", "Mobile", "Europe", "Africa", "Open Gateway"]
+              extra:
+                use_case_summary: "Orange deploys CAMARA APIs (e.g., SIM Swap, Number Verification) and co-founded the Aduna global API marketplace to accelerate API adoption:contentReference[oaicite:13]{index=13}:contentReference[oaicite:14]{index=14}."
+                integration_info: "Integrating CAMARA standards into Orange’s network exposure platform, and co-leading industry initiatives (like Aduna) aligned with CAMARA to offer unified APIs worldwide:contentReference[oaicite:15]{index=15}."
+            - item:
+              name: Reliance Jio
+              logo: reliance-jio.svg
+              homepage_url: https://www.jio.com
+              crunchbase: https://www.crunchbase.com/organization/reliance-jio
+              twitter: https://twitter.com/reliancejio
+              linkedin: https://www.linkedin.com/company/reliance-jio-infocomm-limited
+              github_organizations: []
+              description: "India’s largest 4G/5G mobile operator (Jio). Reliance Jio joined CAMARA to standardize network APIs for its digital services. It contributes use cases in fintech, media, and developer platforms using CAMARA APIs."
+              content: "Indian telecommunications company (Reliance Jio Infocomm)."
+              keywords: ["Operator", "Mobile", "India", "5G"]
+              extra:
+                use_case_summary: "Implementing CAMARA APIs (e.g., Carrier Billing, Device Status) to streamline integration for its app ecosystem (Jio Platforms)."
+                integration_info: "Works within CAMARA to align its open API framework with global standards, ensuring Jio’s developer services are interoperable internationally."
+            - item:
+              name: Singtel
+              logo: singtel.svg
+              homepage_url: https://www.singtel.com
+              crunchbase: https://www.crunchbase.com/organization/singtel
+              twitter: https://twitter.com/Singtel
+              linkedin: https://www.linkedin.com/company/singtel
+              github_organizations: []
+              description: "Singapore’s leading communications group. Singtel is a CAMARA participant focusing on network APIs for roaming, edge compute, and 5G applications. It collaborates through regional alliances to promote API interoperability."
+              content: "Telecom operator in Singapore (SingTel)."
+              keywords: ["Operator", "Mobile", "Singapore", "Asia"]
+              extra:
+                use_case_summary: "Partnered in CAMARA showcases (e.g., broadcast & XR demos) to highlight multi-operator API use cases (with AIS, Summit Tech)."
+                integration_info: "Through Bridge Alliance and CAMARA, Singtel integrates standardized APIs (like Edge Discovery, QoS) to support cross-carrier services in the Asia-Pacific region."
+            - item:
+              name: STC (Saudi Telecom Co.)
+              logo: stc.svg
+              homepage_url: https://www.stc.com.sa
+              crunchbase: https://www.crunchbase.com/organization/saudi-telecom-company
+              twitter: https://twitter.com/STC
+              linkedin: https://www.linkedin.com/company/stc
+              github_organizations: []
+              description: "The leading telecom operator in Saudi Arabia. STC participates in CAMARA to contribute Middle East use cases and has been noted as a key partner in CAMARA’s blockchain and identity API initiatives:contentReference[oaicite:18]{index=18}."
+              content: "Telecommunications company in Saudi Arabia (STC)."
+              keywords: ["Operator", "Mobile", "Middle East", "5G"]
+              extra:
+                use_case_summary: "Active in CAMARA’s Blockchain Public Address API development, pairing phone numbers with blockchain wallets for new digital services:contentReference[oaicite:19]{index=19}."
+                integration_info: "Integrating CAMARA APIs into STC’s network exposure platform to offer developers services like identity verification and cross-operator connectivity."
+            - item:
+              name: Telefónica
+              logo: telefonica.svg
+              homepage_url: https://www.telefonica.com
+              crunchbase: https://www.crunchbase.com/organization/telefonica
+              twitter: https://twitter.com/Telefonica
+              linkedin: https://www.linkedin.com/company/telefonica
+              github_organizations: []
+              description: "Multinational telecom operator (Spain-based). Telefónica is a founding CAMARA member and premier sponsor:contentReference[oaicite:20]{index=20}. It co-launched CAMARA at MWC 2022 and uses CAMARA APIs to turn its networks into programmable platforms:contentReference[oaicite:21]{index=21}:contentReference[oaicite:22]{index=22}."
+              content: "Global telecom operator with presence in Europe and Latin America."
+              keywords: ["Operator", "Mobile", "Europe", "Latin America", "5G"]
+              extra:
+                use_case_summary: "Deploying CAMARA APIs (e.g., Network Quality, Edge Management) across Telefónica’s networks to enable new third-party services and revenue streams:contentReference[oaicite:23]{index=23}."
+                integration_info: "Telefónica’s technology leaders actively contribute to CAMARA’s working groups, ensuring alignment with GSMA Open Gateway requirements and rapid API adoption across its markets."
+            - item:
+              name: Telenor
+              logo: telenor.svg
+              homepage_url: https://www.telenor.com
+              crunchbase: https://www.crunchbase.com/organization/telenor
+              twitter: https://twitter.com/TelenorGroup
+              linkedin: https://www.linkedin.com/company/telenor
+              github_organizations: []
+              description: "Norwegian multinational operator with networks across Nordics & Asia. Telenor engages in CAMARA to standardize APIs for its mobile and IoT services, aiming to simplify partner integrations across its footprint."
+              content: "International telecom operator (Telenor Group)."
+              keywords: ["Operator", "Mobile", "Europe", "Asia"]
+              extra:
+                use_case_summary: "Evaluating CAMARA API use cases such as device location and authentication to offer unified services across Telenor’s markets."
+                integration_info: "Participates in CAMARA API design discussions to ensure support for multi-market operators and contributes code to reference implementations for IoT-related APIs."
+            - item:
+              name: Telstra
+              logo: telstra.svg
+              homepage_url: https://www.telstra.com
+              crunchbase: https://www.crunchbase.com/organization/telstra
+              twitter: https://twitter.com/Telstra
+              linkedin: https://www.linkedin.com/company/telstra
+              github_organizations: []
+              description: "Australia’s largest telecom provider. Telstra is involved in CAMARA to adopt globally standardized network APIs, particularly for 5G edge and connectivity services, and is partnering in global API initiatives like Aduna:contentReference[oaicite:24]{index=24}."
+              content: "Telecommunications and technology company in Australia."
+              keywords: ["Operator", "Mobile", "Australia", "5G"]
+              extra:
+                use_case_summary: "Focused on CAMARA APIs for edge discovery and network slicing to enable low-latency applications on its 5G network."
+                integration_info: "Telstra joined the Aduna alliance (global API platform) to ensure its network APIs align with CAMARA standards for worldwide developer access:contentReference[oaicite:25]{index=25}."
+            - item:
+              name: TIM (Telecom Italia)
+              logo: tim.svg
+              homepage_url: https://www.gruppotim.it
+              crunchbase: https://www.crunchbase.com/organization/telecom-italia
+              twitter: https://twitter.com/TIMnewsroom
+              linkedin: https://www.linkedin.com/company/telecom-italia
+              github_organizations: []
+              description: "Italy’s incumbent telecom operator (TIM). As a CAMARA participant, TIM leverages the project’s APIs to accelerate service innovation (e.g., digital identity, quality on demand) and align with industry standards."
+              content: "Telecom operator in Italy (TIM – Telecom Italia)."
+              keywords: ["Operator", "Mobile", "Italy", "5G"]
+              extra:
+                use_case_summary: "Trialing CAMARA APIs such as Verified Caller and Edge Cloud services to enhance enterprise offerings and roaming agreements."
+                integration_info: "TIM integrates outputs from CAMARA’s open-source code (e.g., reference API gateways) into its network infrastructure, in sync with GSMA Open Gateway pilots."
+            - item:
+              name: T-Mobile US
+              logo: t-mobile.svg
+              homepage_url: https://www.t-mobile.com
+              crunchbase: https://www.crunchbase.com/organization/t-mobile
+              twitter: https://twitter.com/TMobile
+              linkedin: https://www.linkedin.com/company/t-mobile
+              github_organizations: []
+              description: "U.S. wireless carrier (part of Deutsche Telekom). T-Mobile is a premier CAMARA member:contentReference[oaicite:26]{index=26} collaborating on standardized APIs. It joined forces with AT&T and Verizon in the Aduna venture to provide unified network API access in the US:contentReference[oaicite:27]{index=27}."
+              content: "Leading mobile network operator in the United States."
+              keywords: ["Operator", "Mobile", "USA", "5G"]
+              extra:
+                use_case_summary: "T-Mobile offers CAMARA APIs like SMS 2FA and device status, and through Aduna will expose common APIs (e.g., SIM Swap) across all major US carriers:contentReference[oaicite:28]{index=28}."
+                integration_info: "Integrating CAMARA’s API framework in its developer platform, and co-developing cross-carrier API solutions to ensure consistency and security nationwide."
+            - item:
+              name: Verizon
+              logo: verizon.svg
+              homepage_url: https://www.verizon.com
+              crunchbase: https://www.crunchbase.com/organization/verizon
+              twitter: https://twitter.com/Verizon
+              linkedin: https://www.linkedin.com/company/verizon
+              github_organizations: []
+              description: "U.S. telecom giant. Verizon is a founding CAMARA supporter and premier member:contentReference[oaicite:29]{index=29} bringing use cases in 5G MEC, IoT, and security. It has teamed with peers to launch standardized network API offerings in the U.S. market:contentReference[oaicite:30]{index=30}."
+              content: "American telecommunications company (wireless, broadband, media)."
+              keywords: ["Operator", "Mobile", "USA", "5G", "Edge"]
+              extra:
+                use_case_summary: "Verizon utilizes CAMARA APIs (e.g., Location Verification, QoD) to enhance its 5G Edge services and was instrumental in the first cross-carrier API trials in the US:contentReference[oaicite:31]{index=31}."
+                integration_info: "Verizon co-founded the Aduna network API platform to aggregate CAMARA-compliant APIs across operators, accelerating developer uptake of advanced network features:contentReference[oaicite:32]{index=32}."
+            - item:
+              name: Vodafone
+              logo: vodafone.svg
+              homepage_url: https://www.vodafone.com
+              crunchbase: https://www.crunchbase.com/organization/vodafone
+              twitter: https://twitter.com/VodafoneGroup
+              linkedin: https://www.linkedin.com/company/vodafone
+              github_organizations: []
+              description: "British multinational operator. Vodafone is a founding CAMARA member and premier sponsor:contentReference[oaicite:33]{index=33} implementing CAMARA APIs in its networks. It provides a CAMARA sandbox for developers:contentReference[oaicite:34]{index=34} and contributes to global API alignment through initiatives like Open Gateway."
+              content: "International mobile operator headquartered in the UK, with operations across Europe, Africa, and Asia."
+              keywords: ["Operator", "Mobile", "Europe", "IoT", "Open Gateway"]
+              extra:
+                use_case_summary: "Vodafone has launched a CAMARA API developer sandbox:contentReference[oaicite:35]{index=35} (via its Developer Marketplace) and supports APIs like Device Location and Network QoS to enable new apps."
+                integration_info: "Active in CAMARA’s governance, Vodafone ensures the open APIs meet real-world needs, and has partnered with other telcos (e.g., through Aduna and Bridge Alliance) to deliver unified API access globally:contentReference[oaicite:36]{index=36}."
+        - name: Cloud Service Providers
+          items:
+            - item:
+              name: Amazon Web Services (AWS)
+              logo: aws.svg
+              homepage_url: https://aws.amazon.com
+              crunchbase: https://www.crunchbase.com/organization/amazon-web-services
+              twitter: https://twitter.com/awscloud
+              linkedin: https://www.linkedin.com/company/amazon-web-services
+              github_organizations: ["aws"]
+              description: "Amazon’s cloud services division. AWS is a CAMARA participant aligning telco APIs with cloud services to enable network-aware cloud applications. AWS collaborates on CAMARA to integrate telecom APIs (e.g., QoS, Edge Discovery) with its cloud platform."
+              content: "Cloud computing platform (IaaS/PaaS) by Amazon."
+              keywords: ["Cloud", "Hyperscaler", "Edge", "5G"]
+              extra:
+                use_case_summary: "Working with carriers to host CAMARA API functions at the network edge (Wavelength), bringing telco capabilities (like network slicing) into AWS’s cloud ecosystem."
+                integration_info: "AWS contributes to CAMARA by providing feedback and infrastructure for API testing, ensuring that telco APIs can be easily consumed by cloud-native applications."
+            - item:
+              name: Microsoft Azure
+              logo: microsoft.svg
+              homepage_url: https://azure.microsoft.com
+              crunchbase: https://www.crunchbase.com/organization/microsoft
+              twitter: https://twitter.com/Azure
+              linkedin: https://www.linkedin.com/showcase/microsoft-azure
+              github_organizations: ["microsoft"]
+              description: "Microsoft’s cloud computing arm. Microsoft (Azure) is a premier CAMARA member:contentReference[oaicite:37]{index=37} integrating standardized network APIs into its Azure cloud and telecom solutions. Azure actively works with operators on CAMARA APIs for 5G edge, identity, and network quality."
+              content: "Cloud service provider (Microsoft Azure platform)."
+              keywords: ["Cloud", "Hyperscaler", "Edge", "Telecom"]
+              extra:
+                use_case_summary: "Azure implements CAMARA APIs (e.g., Operator OnDemand Quality) within Azure for Operators to support carrier-grade services for enterprise applications."
+                integration_info: "Microsoft collaborates with CAMARA and GSMA Open Gateway to ensure Azure’s telco network functions ( acquired from AT&T, etc.) use the common APIs, simplifying integration for developers and operators."
+        - name: Network & Infrastructure Vendors
+          items:
+            - item:
+              name: AsiaInfo
+              logo: asiainfo.svg
+              homepage_url: https://www.asiainfo.com
+              crunchbase: https://www.crunchbase.com/organization/asiainfo
+              twitter: https://twitter.com/AsiaInfo120
+              linkedin: https://www.linkedin.com/company/asiainfo
+              github_organizations: []
+              description: "Telecom software and IT solutions provider from China. AsiaInfo joined CAMARA as a technology vendor to contribute its expertise in BSS/OSS and ensure CAMARA APIs can integrate with carriers’ IT systems for charging, customer management, etc."
+              content: "Telecom software vendor (BSS/OSS solutions)."
+              keywords: ["Vendor", "Software", "BSS/OSS", "Telecom IT"]
+              extra:
+                use_case_summary: "Collaborating on CAMARA’s charging and billing API definitions to allow seamless integration into operators’ business systems."
+                integration_info: "Provides feedback and prototypes for how CAMARA APIs interact with legacy telco IT, helping operators adopt the new APIs without disrupting existing operations."
+            - item:
+              name: Ericsson
+              logo: ericsson.svg
+              homepage_url: https://www.ericsson.com
+              crunchbase: https://www.crunchbase.com/organization/ericsson
+              twitter: https://twitter.com/Ericsson
+              linkedin: https://www.linkedin.com/company/ericsson
+              github_organizations: ["Ericsson"]
+              description: "Global telecom equipment maker. Ericsson is a founding CAMARA member and premier sponsor:contentReference[oaicite:38]{index=38}. Ericsson contributes to CAMARA’s API development (notably through its Vonage acquisition) and is a key partner in the Aduna telco API platform:contentReference[oaicite:39]{index=39}."
+              content: "Telecommunications network equipment and solutions vendor."
+              keywords: ["Vendor", "5G", "Network Equipment", "API Platform"]
+              extra:
+                use_case_summary: "Provided reference implementations for CAMARA communication APIs (e.g., SMS, WebRTC) via its Vonage API platform, and co-founded Aduna to operationalize CAMARA standards:contentReference[oaicite:40]{index=40}."
+                integration_info: "Works closely with operators in CAMARA to ensure network APIs are vendor-agnostic and can be supported by Ericsson’s core network and OSS/BSS products."
+            - item:
+              name: Huawei
+              logo: huawei.svg
+              homepage_url: https://www.huawei.com
+              crunchbase: https://www.crunchbase.com/organization/huawei
+              twitter: https://twitter.com/Huawei
+              linkedin: https://www.linkedin.com/company/huawei
+              github_organizations: []
+              description: "Leading global ICT infrastructure provider from China. Huawei participates in CAMARA to align its network exposure and 5G core solutions with the standardized APIs, focusing on capabilities like device info, location, and network slicing."
+              content: "Telecom network equipment and mobile technology vendor."
+              keywords: ["Vendor", "5G", "Network Equipment", "China"]
+              extra:
+                use_case_summary: "Contributes to API design for advanced 5G features (Quality on Demand, Edge Discovery) ensuring compatibility with Huawei’s network products."
+                integration_info: "Engages in CAMARA discussions to facilitate integration of CAMARA APIs into Huawei’s operator solutions (e.g., API gateway in its 5G Core), promoting global interoperability."
+            - item:
+              name: Mavenir
+              logo: mavenir.svg
+              homepage_url: https://www.mavenir.com
+              crunchbase: https://www.crunchbase.com/organization/mavenir
+              twitter: https://twitter.com/Mavenir
+              linkedin: https://www.linkedin.com/company/mavenir
+              github_organizations: []
+              description: "US-based network software vendor (Open RAN and core solutions). Mavenir supports CAMARA to help monetize 5G through open APIs. It partners on CAMARA projects like network slicing and exposure, integrating them into its cloud-native core products:contentReference[oaicite:41]{index=41}."
+              content: "Telecom network software vendor (4G/5G core, Open RAN)."
+              keywords: ["Vendor", "5G Core", "Open RAN", "USA"]
+              extra:
+                use_case_summary: "Developed enterprise reference implementations for CAMARA Open Gateway APIs together with startups (e.g., Spry Fox) to fast-track API monetization:contentReference[oaicite:42]{index=42}."
+                integration_info: "Incorporating CAMARA-standard APIs into its Network Exposure Function, enabling operators using Mavenir’s core to expose services via CAMARA-compliant endpoints."
+            - item:
+              name: Nokia
+              logo: nokia.svg
+              homepage_url: https://www.nokia.com
+              crunchbase: https://www.crunchbase.com/organization/nokia
+              twitter: https://twitter.com/nokia
+              linkedin: https://www.linkedin.com/company/nokia
+              github_organizations: []
+              description: "Global telecom and networking vendor from Finland. Nokia is a premier CAMARA member:contentReference[oaicite:43]{index=43} focusing on the role of Operator Platform standards. Nokia contributes to CAMARA’s development of APIs for network slicing, QoS, and charging, ensuring its portfolio supports them:contentReference[oaicite:44]{index=44}."
+              content: "Telecom equipment and solutions provider (mobile networks, cloud, software)."
+              keywords: ["Vendor", "5G", "Networks", "Finland"]
+              extra:
+                use_case_summary: "Provided thought leadership on implementing CAMARA APIs via the operator platform concept, highlighting monetization opportunities for carriers:contentReference[oaicite:45]{index=45}."
+                integration_info: "Aligning its NEF (Network Exposure Function) and other software products with CAMARA API definitions so that operators using Nokia gear can easily adopt CAMARA standards."
+        - name: Software & Platform Providers
+          items:
+            - item:
+              name: Aleph Zero
+              logo: aleph-zero.svg
+              homepage_url: https://alephzero.org
+              crunchbase: https://www.crunchbase.com/organization/aleph-zero
+              twitter: https://twitter.com/Aleph__Zero
+              linkedin: https://www.linkedin.com/company/aleph-zero
+              github_organizations: []
+              description: "Layer-1 blockchain platform focused on privacy and speed. Aleph Zero is the first blockchain-focused member of CAMARA:contentReference[oaicite:46]{index=46}:contentReference[oaicite:47]{index=47}, collaborating on telecom blockchain APIs (e.g., Blockchain Public Address) to link mobile numbers with Web3 services."
+              content: "Blockchain technology company (public blockchain and DID solutions)."
+              keywords: ["Blockchain", "Web3", "DIDs", "General Member"]
+              extra:
+                use_case_summary: "Leading development of CAMARA’s Blockchain Public Address API, enabling phone numbers to function as Decentralized Identifiers (DIDs) for blockchain transactions:contentReference[oaicite:48]{index=48}."
+                integration_info: "Works with telcos like Deutsche Telekom and stc within CAMARA to integrate blockchain capabilities into network APIs, bringing Web3 functionality (wallet address binding) to mobile subscribers:contentReference[oaicite:49]{index=49}."
+            - item:
+              name: Axiata Digital Labs (ADL)
+              logo: axiata-digital-labs.svg
+              homepage_url: https://www.axiatadigitallabs.com
+              crunchbase: https://www.crunchbase.com/organization/axiata-digital-labs
+              twitter: https://twitter.com/ADL_atTheLab
+              linkedin: https://www.linkedin.com/company/axiatadigitallabs
+              github_organizations: []
+              description: "Software and IT services arm of Axiata Group (based in Sri Lanka). ADL brings development expertise to CAMARA, implementing and testing CAMARA API specifications (for charging, messaging, etc.) across Axiata’s operating companies to ensure real-world readiness."
+              content: "Telecom-focused software services provider (subsidiary of Axiata Group)."
+              keywords: ["Software", "Digital Transformation", "Telecom IT", "Asia"]
+              extra:
+                use_case_summary: "Built prototype implementations of CAMARA APIs (e.g., SIM Swap, Number Verification) for Axiata’s OpCos, demonstrating cross-market functionality."
+                integration_info: "ADL contributes code and feedback to CAMARA’s open-source repository, helping refine APIs and providing a bridge between CAMARA standards and Axiata’s network infrastructure."
+            - item:
+              name: Centillion
+              logo: centillion.svg
+              homepage_url: https://www.centillion.ai
+              crunchbase: https://www.crunchbase.com/organization/centillion
+              twitter: https://twitter.com/CentillionAI
+              linkedin: https://www.linkedin.com/company/centillion-ai
+              github_organizations: []
+              description: "US-based startup focusing on AI-driven network data monetization. A General Member of CAMARA:contentReference[oaicite:50]{index=50}, Centillion works on API solutions for consent management and analytics, ensuring CAMARA APIs can be used to expose telco data securely and profitably:contentReference[oaicite:51]{index=51}:contentReference[oaicite:52]{index=52}."
+              content: "Data and AI platform for telecom network data (start-up)."
+              keywords: ["Startup", "AI", "Consent", "Data Monetization"]
+              extra:
+                use_case_summary: "Developing a transparency and consent logging service to complement CAMARA APIs, so users and telcos can track API access and comply with data regulations:contentReference[oaicite:53]{index=53}:contentReference[oaicite:54]{index=54}."
+                integration_info: "Provides CAMARA community with tools and best practices for implementing consent and privacy controls when exposing network data via standardized APIs."
+            - item:
+              name: IndyKite
+              logo: indykite.svg
+              homepage_url: https://www.indykite.com
+              crunchbase: https://www.crunchbase.com/organization/indykite
+              twitter: https://twitter.com/indykite
+              linkedin: https://www.linkedin.com/company/indykite
+              github_organizations: []
+              description: "Digital identity and authentication platform (Norway/US). IndyKite joined CAMARA (General Member) to help shape identity and security APIs. Its expertise ensures CAMARA’s Identity & Consent APIs are developer-friendly and integrate with modern IAM systems."
+              content: "Startup offering cloud-based digital identity and access management solutions."
+              keywords: ["Startup", "Identity", "Security", "Consent"]
+              extra:
+                use_case_summary: "Contributes to CAMARA’s Identity and Consent Management workstream, e.g., defining an API for user identity verification aligned with OpenID standards."
+                integration_info: "Working with telcos in CAMARA to embed secure identity flows (OAuth/OpenID Connect) into network APIs, enabling operators to become identity providers for third-party applications."
+            - item:
+              name: Primforce Technologies
+              logo: primforce.svg
+              homepage_url: https://www.primforce.com
+              crunchbase: https://www.crunchbase.com/organization/primforce-technologies
+              twitter: https://twitter.com/PrimforceTech
+              linkedin: https://www.linkedin.com/company/primforce
+              github_organizations: []
+              description: "Network optimization and transmission technology startup (China). Primforce contributes to CAMARA to optimize API-driven services. It brings its AI-based network acceleration expertise to ensure CAMARA APIs (for QoS, edge) deliver superior user experiences:contentReference[oaicite:55]{index=55}:contentReference[oaicite:56]{index=56}."
+              content: "Startup focusing on AI-powered network transmission optimization."
+              keywords: ["Startup", "Network Optimization", "AI", "China"]
+              extra:
+                use_case_summary: "Engaged in CAMARA’s Quality on Demand API to allow dynamic network acceleration for applications (e.g., gaming, streaming) using Primforce’s AI models:contentReference[oaicite:57]{index=57}:contentReference[oaicite:58]{index=58}."
+                integration_info: "Testing CAMARA APIs on its intelligent transmission platform (AINA) to showcase how standardized APIs can trigger network acceleration and monitoring for improved service quality:contentReference[oaicite:59]{index=59}:contentReference[oaicite:60]{index=60}."
+            - item:
+              name: Scenera Inc.
+              logo: scenera-inc.svg
+              homepage_url: https://www.scenera.net
+              crunchbase: https://www.crunchbase.com/organization/scenera
+              twitter: https://twitter.com/SceneraInc
+              linkedin: https://www.linkedin.com/company/scenera
+              github_organizations: []
+              description: "US-based AIoT data management company. As a General Member of CAMARA:contentReference[oaicite:61]{index=61}, Scenera focuses on APIs for video analytics and IoT sensor data. It is exploring how CAMARA network APIs (like edge computing, slicing) can support distributed AI processing for cameras and sensors:contentReference[oaicite:62]{index=62}:contentReference[oaicite:63]{index=63}."
+              content: "Startup providing AI-powered IoT (AIoT) data orchestration and video analytics platforms."
+              keywords: ["Startup", "AIoT", "Edge AI", "Video Analytics"]
+              extra:
+                use_case_summary: "Using CAMARA’s Edge Application Management API to orchestrate camera video processing between cloud and 5G edge, optimizing cost and latency for AI analytics:contentReference[oaicite:64]{index=64}."
+                integration_info: "Collaborates with cloud providers (e.g., Microsoft) and telcos in CAMARA to ensure AI workloads can utilize network APIs (like network slice reservation) for better performance:contentReference[oaicite:65]{index=65}:contentReference[oaicite:66]{index=66}."
+            - item:
+              name: Shabodi
+              logo: shabodi.svg
+              homepage_url: https://www.shabodi.com
+              crunchbase: https://www.crunchbase.com/organization/shabodi
+              twitter: https://twitter.com/ShabodiInc
+              linkedin: https://www.linkedin.com/company/shabodi
+              github_organizations: []
+              description: "Canadian network software startup enabling network-aware applications. Shabodi is a General Member of CAMARA:contentReference[oaicite:67]{index=67} that delivered the first enterprise CAMARA API implementation:contentReference[oaicite:68]{index=68}. Shabodi helps bridge CAMARA APIs into private 5G and enterprise networks to accelerate Industry 4.0 solutions."
+              content: "Startup offering a platform for developers to leverage advanced 5G network features in applications."
+              keywords: ["Startup", "5G APIs", "Enterprise", "Canada"]
+              extra:
+                use_case_summary: "Built an enterprise reference implementation for CAMARA, proving that any CAMARA API-based app can run on a private network, extending CAMARA beyond public telcos:contentReference[oaicite:69]{index=69}."
+                integration_info: "Shabodi’s NetAware platform integrates CAMARA’s standardized APIs, allowing enterprise developers to tap into network features (like QoS, slicing) without deep telecom knowledge:contentReference[oaicite:70]{index=70}."
+        - name: System Integrators & Consultants
+          items:
+            - item:
+              name: Accenture
+              logo: accenture.svg
+              homepage_url: https://www.accenture.com
+              crunchbase: https://www.crunchbase.com/organization/accenture
+              twitter: https://twitter.com/Accenture
+              linkedin: https://www.linkedin.com/company/accenture
+              github_organizations: []
+              description: "Global consulting and integration firm. Accenture is a premier sponsor of CAMARA:contentReference[oaicite:71]{index=71}, supporting telcos in implementing CAMARA APIs and developing new services. It provides industry expertise to ensure CAMARA APIs enable monetizable solutions and participates in CAMARA marketing and requirements working groups."
+              content: "Multinational professional services and consulting company."
+              keywords: ["Consulting", "Integration", "Premier Member", "Global"]
+              extra:
+                use_case_summary: "Advises operators on CAMARA use cases (e.g., API-driven services in fintech, IoT), helping define business models and technical architectures."
+                integration_info: "Accenture’s teams integrate CAMARA APIs into client projects, building end-to-end solutions (like API gateways and developer portals) that leverage standardized telco APIs for enterprise customers."
+            - item:
+              name: NTT Data
+              logo: ntt-data.svg
+              homepage_url: https://www.nttdata.com
+              crunchbase: https://www.crunchbase.com/organization/ntt-data
+              twitter: https://twitter.com/NTTDATAofficial
+              linkedin: https://www.linkedin.com/company/ntt-data
+              github_organizations: []
+              description: "Global IT services provider (part of NTT Group). NTT Data is involved in CAMARA to bring its telecom IT integration expertise. It helps ensure CAMARA APIs can be adopted within complex OSS/BSS environments and is engaged in developing proof-of-concepts for CAMARA-based services with its telecom clients."
+              content: "IT services and consulting firm with telecom industry focus."
+              keywords: ["Integration", "IT Services", "OSS/BSS", "Global"]
+              extra:
+                use_case_summary: "Co-developing a CAMARA proof-of-concept with a mobile operator to integrate CAMARA’s customer insight and charging APIs into existing CRM and billing systems."
+                integration_info: "NTT Data contributes to CAMARA by mapping API specs to real-world telco IT workflows, guiding standardization to ease implementation and minimize customization for operators."
+        - name: API Marketplaces & Aggregators
+          items:
+            - item:
+              name: Aduna (Telco Global API Alliance)
+              logo: aduna.svg
+              homepage_url: https://adunaglobal.com
+              crunchbase: https://www.crunchbase.com/organization/aduna
+              twitter: https://twitter.com/AdunaGlobal
+              linkedin: https://www.linkedin.com/company/adunaglobal
+              github_organizations: []
+              description: "Global joint venture API marketplace founded by Ericsson and leading mobile operators (e.g., DT, Orange, Telefónica, Vodafone, Verizon, etc.):contentReference[oaicite:72]{index=72}. Aduna aggregates CAMARA-standard network APIs from multiple operators into a single portal, simplifying developer access across carriers."
+              content: "Telecom network API marketplace joint venture (launched 2024)."
+              keywords: ["Aggregator", "Marketplace", "Global", "Open Gateway"]
+              extra:
+                use_case_summary: "Launching with CAMARA-compliant Number Verification and SIM Swap APIs for the US market, accessible through one interface for apps across AT&T, T-Mobile, and Verizon networks:contentReference[oaicite:73]{index=73}."
+                integration_info: "Aduna aligns closely with CAMARA to ensure all APIs on its platform conform to CAMARA specs. It provides a centralized developer portal and SDK, so apps can call a single API and reach many operator networks:contentReference[oaicite:74]{index=74}."
+            - item:
+              name: Bridge Alliance
+              logo: bridge-alliance.svg
+              homepage_url: https://www.bridgealliance.com
+              crunchbase: https://www.crunchbase.com/organization/bridge-alliance
+              twitter: https://twitter.com/Bridge_Alliance
+              linkedin: https://www.linkedin.com/company/bridge-alliance
+              github_organizations: []
+              description: "Coalition of 34 mobile operators across Asia-Pacific, Middle East, and Africa. Bridge Alliance operates a federated platform for multi-country telco APIs. It partners with CAMARA to standardize APIs among its members, exemplified by Open Gateway demonstrations for cross-operator services."
+              content: "Mobile operator alliance providing unified services across member networks."
+              keywords: ["Aggregator", "Alliance", "APAC", "Roaming"]
+              extra:
+                use_case_summary: "Implemented a region-wide API exchange (WSO2-based) that uses CAMARA’s common APIs to let developers access multiple Asian networks with one integration."
+                integration_info: "Collaborating with CAMARA and GSMA Open Gateway, Bridge Alliance ensures its API platform (known as Bridge Marketplace) adopts CAMARA definitions, enabling use cases like regional QoS and device status queries across member operators."
+            - item:
+              name: Invia
+              logo: invia.svg
+              homepage_url: https://www.invia.com.au
+              crunchbase: https://www.crunchbase.com/organization/invia
+              twitter: https://twitter.com/InviaAu
+              linkedin: https://www.linkedin.com/company/invia-corporation
+              github_organizations: []
+              description: "Australian telecom API platform provider. Invia is a General Member of CAMARA:contentReference[oaicite:76]{index=76} offering developers access to CAMARA APIs with an unlimited free usage period:contentReference[oaicite:77]{index=77}. Invia integrates multiple carriers’ CAMARA APIs and provides a sandbox to accelerate app development."
+              content: "Startup providing a unified API platform for telco network services."
+              keywords: ["Aggregator", "Startup", "Developer Platform", "Australia"]
+              extra:
+                use_case_summary: "Providing a ‘telco API accelerator’ program where developers can try CAMARA standard APIs (e.g., SMS OTP, Device Location) on Invia’s portal free for 5 years:contentReference[oaicite:78]{index=78}."
+                integration_info: "Invia’s platform abstracts differences between operators by strictly using CAMARA-defined API contracts, allowing it to onboard new carrier partners quickly and offer a consistent API experience to developers."
+        - name: Industry Alliances & Organizations
+          items:
+            - item:
+              name: CableLabs
+              logo: cablelabs.svg
+              homepage_url: https://www.cablelabs.com
+              crunchbase: https://www.crunchbase.com/organization/cable-television-laboratories-inc
+              twitter: https://twitter.com/CableLabs
+              linkedin: https://www.linkedin.com/company/cablelabs
+              github_organizations: []
+              description: "Non-profit R&D consortium for the cable industry. CableLabs is a General Member of CAMARA:contentReference[oaicite:79]{index=79} bringing cable broadband use cases into the initiative. It contributes to CAMARA’s development of network APIs like Quality on Demand and location that are relevant to cable operators, ensuring the APIs work across wireless and cable networks."
+              content: "Cable industry research consortium (Cable Television Laboratories Inc.)."
+              keywords: ["Consortium", "Cable", "Broadband", "Research"]
+              extra:
+                use_case_summary: "Led efforts to include fixed broadband parameters in CAMARA’s QoS and device status APIs, so that cable operators can also expose these to developers."
+                integration_info: "CableLabs coordinated trials of CAMARA APIs among its members (e.g., Charter) to validate interoperability and performance on DOCSIS broadband networks, feeding results back to CAMARA for improvement:contentReference[oaicite:80]{index=80}."
+            - item:
+              name: GSMA (Operator Platform Group)
+              logo: gsma.svg
+              homepage_url: https://www.gsma.com
+              crunchbase: https://www.crunchbase.com/organization/gsm-association
+              twitter: https://twitter.com/GSMA
+              linkedin: https://www.linkedin.com/company/gsma
+              github_organizations: []
+              description: "Global mobile network operators’ association. GSMA’s Operator Platform initiative works closely with CAMARA:contentReference[oaicite:81]{index=81} to align requirements. GSMA provides industry alignment and promotion for CAMARA, ensuring the open-source APIs meet the needs of its 750+ mobile operators and are adopted through programs like Open Gateway."
+              content: "Telecom industry association (GSM Association)."
+              keywords: ["Industry Association", "Mobile", "Standards", "Open Gateway"]
+              extra:
+                use_case_summary: "Defined common requirements (security, billing, SLA) for network APIs which CAMARA used as input, leading to the launch of GSMA Open Gateway APIs that mirror CAMARA’s open-source implementations:contentReference[oaicite:82]{index=82}."
+                integration_info: "GSMA promotes CAMARA’s APIs to its member operators via the Open Gateway initiative, and hosts hackathons and showcases (e.g., at MWC) demonstrating CAMARA-enabled services to accelerate global adoption."
+            - item:
+              name: OpenID Foundation
+              logo: openid-foundation.svg
+              homepage_url: https://openid.net
+              crunchbase: https://www.crunchbase.com/organization/openid-foundation
+              twitter: https://twitter.com/openid
+              linkedin: https://www.linkedin.com/company/openid-foundation
+              github_organizations: []
+              description: "International non-profit standardization organization for digital identity (OpenID/OAuth). The OpenID Foundation joined CAMARA as an Associate Member in 2023:contentReference[oaicite:83]{index=83} to advise on identity and security aspects. It helps CAMARA incorporate secure authentication and user consent standards (OAuth 2.0, OpenID Connect) into the network APIs."
+              content: "Standards development organization for identity and authentication."
+              keywords: ["Standards", "Identity", "Authentication", "Associate Member"]
+              extra:
+                use_case_summary: "Guiding CAMARA’s Security & Interoperability Profile which uses OAuth 2.0 and OpenID Connect to secure network APIs for developer access:contentReference[oaicite:84]{index=84}."
+                integration_info: "Collaborates under a liaison agreement with CAMARA’s Identity & Consent working group:contentReference[oaicite:85]{index=85} to ensure alignment between telco APIs and global identity standards, enabling federated identity use cases across networks."
+            - item:
+              name: TM Forum
+              logo: tm-forum.svg
+              homepage_url: https://www.tmforum.org
+              crunchbase: https://www.crunchbase.com/organization/telemanagement-forum
+              twitter: https://twitter.com/TMForum
+              linkedin: https://www.linkedin.com/company/tm-forum
+              github_organizations: []
+              description: "Global telecom industry association for digital transformation (OSS/BSS standards). TM Forum collaborates with CAMARA to align its Open APIs with CAMARA’s network APIs:contentReference[oaicite:86]{index=86}. TMF ensures that business-level and management APIs (e.g., for service ordering, assurance) interoperate or complement CAMARA’s network-facing APIs, providing end-to-end solutions."
+              content: "Telecom industry forum for standards and collaboration (TeleManagement Forum)."
+              keywords: ["Industry Association", "OSS/BSS", "Open APIs", "Collaboration"]
+              extra:
+                use_case_summary: "Launched joint catalyst projects where CAMARA network APIs (connectivity, QoS) are integrated with TM Forum Open APIs (service ordering, billing) to demonstrate full-stack service deployment:contentReference[oaicite:87]{index=87}."
+                integration_info: "TM Forum and CAMARA share API schema and architecture best practices, ensuring that telcos can manage CAMARA-provided services using TMF’s frameworks (for example, mapping CAMARA APIs into TMF Open API components for unified service management)."
