@@ -1679,7 +1679,7 @@ landscape:
               key_deliverables_list: "Technical Charter (https://github.com/camaraproject/Governance/blob/main/ProjectCharter.md); API Subproject Approval; Technical Direction Setting; Promotion of APIs to different maturity stages"
           - name: End User Council
             homepage_url: https://camaraproject.org/end-user-council/
-            repo_url: "" # No specific repository
+            repo_url: "https://github.com/camaraproject/Governance" # No specific repository
             logo: camara_project_logo.svg
             description: "Composed of end users of CAMARA APIs, providing feedback and insights on API usability, functionality, and market relevance from an end-user perspective."
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
