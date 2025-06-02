@@ -304,6 +304,11 @@ landscape:
             logo: capgemini.svg
             crunchbase: https://www.crunchbase.com/organization/cap-gemini
           - item:
+            name: Centillion
+            homepage_url: https://centillion.ai
+            logo: centillion.svg
+            crunchbase: https://www.crunchbase.com/organization/centillion-group-inc
+          - item:
             name: Chenosis
             homepage_url: https://chenosis.io/
             logo: chenosis.svg
