@@ -206,9 +206,8 @@ landscape:
             name: 1NCE
             homepage_url: https://1nce.com/
             logo: 1nce.svg
-            crunchbase: https://tracxn.com/d/companies/1nce/__cZc93GJdiSOMps2VXLNGgKJA9ApDZ7YFz8NXw6RfSWU
-            twitter: Not Found
-            project_org: Not Found
+            crunchbase: https://www.crunchbase.com/organization/1nce-gmbh
+            twitter: #Not Found
             description: 1NCE is a global Tier-1 IoT carrier specializing in providing
               managed connectivity services and software for low-bandwidth IoT applications.
               Founded in 2017 in Cologne, Germany, as a joint venture with Deutsche
@@ -264,9 +263,8 @@ landscape:
             name: A1 Telekom Austria Group
             homepage_url: https://a1.group/
             logo: a1telekom.svg
-            crunchbase: https://tracxn.com/d/companies/a1-telekom-austria-group/__J3JNpXCiHlQ0poTieMGULbyd29ShJoge51HK6ETPkWs
+            crunchbase:  https://www.crunchbase.com/organization/a1-telekom-austria-ag
             twitter: https://twitter.com/TA_Group
-            project_org: Not Found
             description: A1 Telekom Austria Group is a prominent provider of digital
               services and communications solutions in Central and Eastern Europe (CEE),
               with operations in seven countries. As the European unit of América Móvil,
@@ -321,9 +319,8 @@ landscape:
             name: ACL Digital
             homepage_url: https://www.acldigital.com/
             logo: acldigital.svg
-            crunchbase: https://tracxn.com/d/companies/acl-digital/___ggnMDWSTgcT8pfIb9uxF8imcMnwXlSblGNdyl-V1SI
+            crunchbase: https://www.crunchbase.com/organization/alten-calsoft-labs
             twitter: https://twitter.com/ACL_Digital/
-            project_org: Not Found
             description: 'ACL Digital, a subsidiary of the ALTEN Group, is a digital
               engineering and transformation company. It specializes in delivering AI-driven
               solutions that span from Chip to Cloud, leveraging over three decades
@@ -377,7 +374,6 @@ landscape:
             logo: akross.svg
             crunchbase: https://www.crunchbase.com/organization/akross-inc
             twitter: https://twitter.com/AkrossInc
-            project_org: Not Found
             description: Akross is a technology company specializing in providing a
               platform for Communication Service Providers (CSPs) to expose, manage,
               and monetize their network APIs. They focus on enabling telcos to transform
@@ -525,9 +521,6 @@ landscape:
             name: America Movil
             homepage_url: https://www.americamovil.com/
             logo: americamovil.svg
-            crunchbase: https://tracxn.com/d/companies/america-movil/__fZ3XIg0mM_I3j-OS3kIp1LDLW4jPwjc8XGnYvqKZ6fM
-            twitter: Not Found
-            project_org: Not Found
             description: América Móvil is a leading integrated telecommunications services
               company primarily operating in Latin America, and is one of the largest
               mobile network operators globally by subscription numbers. Established
@@ -579,7 +572,6 @@ landscape:
             logo: anddigital.svg
             crunchbase: https://www.cbinsights.com/company/and-digital
             twitter: https://x.com/AND_Digital
-            project_org: Not Found
             description: Founded in 2014 and headquartered in London, AND Digital is
               a digital consulting agency dedicated to accelerating clients' digital
               transformation and capabilities. The company offers solutions including
@@ -630,9 +622,8 @@ landscape:
             name: ApisTraining
             homepage_url: https://apistraining.com/
             logo: apistraining.svg
-            crunchbase: Not Found
-            twitter: Not Found
-            project_org: Not Found
+            crunchbase: #Not Found
+            twitter: #Not Found
             description: Apis Training is a vendor-neutral knowledge partner with over
               30 years of experience, specializing in expert-led technical training
               for the telecommunications industry. They provide courses covering technologies
@@ -683,7 +674,6 @@ landscape:
             logo: argela.svg
             crunchbase: https://www.crunchbase.com/organization/argela
             twitter: https://twitter.com/ArgelaTech
-            project_org: Not Found
             description: Argela, a subsidiary of Türk Telekom, is a telecommunications
               solutions provider specializing in 5G technologies, programmable networks,
               and network performance management. They focus on developing innovative
