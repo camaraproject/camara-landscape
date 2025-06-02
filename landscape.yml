@@ -869,3 +869,790 @@ landscape:
             name: ZTE Corporation
             homepage_url: https://www.zte.com.cn/
             logo: zte.svg
+  - category:
+      name: CAMARA APIs
+      subcategories:
+        - subcategory:
+          name: Authentication and Fraud Prevention
+          items:
+            - item:
+              name: Call Forwarding Signal API
+              homepage_url: https://camaraproject.org/call-forwarding-signal/
+              repo_url: https://github.com/camaraproject/CallForwardingSignal
+              logo: call_forwarding_signal_api.svg
+              project: Mature
+              description: "Provides information about the status of the Call Forwarding Service on a specific phone number, primarily for anti-fraud purposes."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Authentication and Fraud Prevention
+                version: "v0.3.0"
+                camara_release_meta: "Spring25"
+                camara_status_detail: "Mature API as per Spring25 Release (06.03.2025)"
+            - item:
+              name: Customer Insights API
+              homepage_url: https://camaraproject.org/customer-insights/
+              repo_url: https://github.com/camaraproject/CustomerInsights
+              logo: customer_insights_api.svg
+              project: Mature
+              description: "Provides financial institutions with additional insights into their customers’ behavior based on their interactions with telecom operators."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Authentication and Fraud Prevention
+                version: "v0.1.1"
+                camara_release_meta: "Spring25"
+                camara_status_detail: "Mature API as per Spring25 Release (March 20, 2025)"
+            - item:
+              name: Device Swap API
+              homepage_url: https://camaraproject.org/device-swap/
+              repo_url: https://github.com/camaraproject/DeviceSwap
+              logo: device_swap_api.svg
+              project: Mature
+              description: "Provides real-time insights into whether a SIM card associated with a user’s phone number has been transferred to a different physical device."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Authentication and Fraud Prevention
+                version: "v0.2.0"
+                camara_release_meta: "Spring25"
+                camara_status_detail: "Mature API as per Spring25 Release (March 13, 2025)"
+            - item:
+              name: Know Your Customer Age Verification API
+              homepage_url: https://camaraproject.org/know-your-customer-age-verification/
+              repo_url: https://github.com/camaraproject/KnowYourCustomer
+              logo: kyc_age_verification_api.svg
+              project: Mature
+              description: "Verifies if a mobile subscriber is above a certain age, leveraging telecommunications operators' existing verified user data."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Authentication and Fraud Prevention
+                version: "v0.1.0" # Specific to Age Verification within KYC project
+                camara_release_meta: "Spring25"
+                camara_status_detail: "Mature API as per Spring25 Release (March 10, 2025)"
+            - item:
+              name: Know Your Customer Fill In API
+              homepage_url: https://github.com/camaraproject/KnowYourCustomer # Specific page was inaccessible
+              repo_url: https://github.com/camaraproject/KnowYourCustomer
+              logo: kyc_fill_in_api.svg
+              project: Mature
+              description: "Allows a Service Provider to request and receive information for a particular user that is on file (and verified) by the user's Operator."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Authentication and Fraud Prevention
+                version: "Part of KnowYourCustomer r2.2" # Check kyc-fill-in.yaml in repo for specific version if available
+                camara_release_meta: "Spring25"
+                camara_status_detail: "Mature API as per Spring25 Release (KnowYourCustomer project release March 10, 2025)"
+            - item:
+              name: Know Your Customer Match API
+              homepage_url: https://github.com/camaraproject/KnowYourCustomer # Specific page was inaccessible
+              repo_url: https://github.com/camaraproject/KnowYourCustomer
+              logo: kyc_match_api.svg
+              project: Mature
+              description: "Enables a Service Provider to compare information it possesses for a user with the information on file by the user's Operator."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Authentication and Fraud Prevention
+                version: "Part of KnowYourCustomer r2.2" # Check kyc-match.yaml in repo for specific version if available
+                camara_release_meta: "Spring25"
+                camara_status_detail: "Mature API as per Spring25 Release (KnowYourCustomer project release March 10, 2025)"
+            - item:
+              name: Know Your Customer Tenure API
+              homepage_url: https://camaraproject.org/know-your-customer-tenure/
+              repo_url: https://github.com/camaraproject/Tenure # Note: Repo is 'Tenure', but part of KYC family
+              logo: kyc_tenure_api.svg
+              project: Mature
+              description: "Verifies the length of time a phone number has been associated with a specific user and their current mobile operator."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Authentication and Fraud Prevention
+                version: "v0.1.0"
+                camara_release_meta: "Spring25"
+                camara_status_detail: "Mature API as per Spring25 Release (March 11, 2025)"
+            - item:
+              name: Number Recycling API
+              homepage_url: https://camaraproject.org/number-recycling/
+              repo_url: https://github.com/camaraproject/NumberRecycling
+              logo: number_recycling_api.svg
+              project: Mature
+              description: "Allows businesses to verify if a phone number's ownership has changed since a specified date."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Authentication and Fraud Prevention
+                version: "v0.1.1"
+                camara_release_meta: "Spring25" # Page mentions May 6, 2025 as release date
+                camara_status_detail: "Mature API as per Spring25 meta-release (May 6, 2025)"
+            - item:
+              name: Number Verification API
+              homepage_url: https://camaraproject.org/number-verification/
+              repo_url: https://github.com/camaraproject/NumberVerification
+              logo: number_verification_api.svg
+              project: Mature
+              description: "Confirms mobile phone number ownership and retrieves the number directly from a user's device."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Authentication and Fraud Prevention
+                version: "v2.0.0"
+                camara_release_meta: "Spring25"
+                camara_status_detail: "Mature API as per Spring25 Release (March 20, 2025)"
+            - item:
+              name: One Time Password SMS API
+              homepage_url: https://github.com/camaraproject/OTPValidation # Confluence page also exists, GitHub more direct for spec
+              repo_url: https://github.com/camaraproject/OTPValidation
+              logo: one_time_password_sms_api.svg
+              project: Mature
+              description: "Performs real-time checks to verify possession of a device by delivering an OTP via SMS and validating it."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Authentication and Fraud Prevention
+                version: "1.1.0" # From OTPValidation project release r2.3
+                camara_release_meta: "Spring25"
+                camara_status_detail: "Mature API, version 1.1.0 as per Spring25 Release (March 11, 2025)"
+            - item:
+              name: Sim Swap API
+              homepage_url: https://camaraproject.org/sim-swap/
+              repo_url: https://github.com/camaraproject/SimSwap
+              logo: sim_swap_api.svg
+              project: Mature
+              description: "Monitors and detects changes in the SIM card associated with a mobile number, providing insights into recent swaps."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Authentication and Fraud Prevention
+                version: "v2.0.0"
+                camara_release_meta: "Spring25"
+                camara_status_detail: "Mature API as per Spring25 Release (March 13, 2025)"
+            - item:
+              name: Sim Swap Subscriptions API
+              homepage_url: https://camaraproject.org/sim-swap-subscriptions/
+              repo_url: https://github.com/camaraproject/SimSwap
+              logo: sim_swap_subscriptions_api.svg
+              project: Mature
+              description: "Allows application developers to manage and monitor SIM card swaps by subscribing to real-time notifications."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Authentication and Fraud Prevention
+                version: "v0.2.0" # SimSwap project release r2.2
+                camara_release_meta: "Spring25"
+                camara_status_detail: "Mature API as per Spring25 Release (March 13, 2025)"
+        - subcategory:
+          name: Location Services
+          items:
+            - item:
+              name: Geofencing Subscriptions API
+              homepage_url: https://camaraproject.org/geofencing-subscriptions/
+              repo_url: https://github.com/camaraproject/DeviceLocation
+              logo: geofencing_subscriptions_api.svg
+              project: Mature
+              description: "Allows users to create subscriptions for 'mobile line – geographic area' pairs, enabling notifications when a line enters or exits the area."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Location Services
+                version: "v0.4.0" # DeviceLocation project release r2.2
+                camara_release_meta: "Spring25"
+                camara_status_detail: "Mature API as per Spring25 Release (March 10, 2025)"
+            - item:
+              name: Location Retrieval API
+              homepage_url: https://camaraproject.org/location-retrieval/
+              repo_url: https://github.com/camaraproject/DeviceLocation
+              logo: location_retrieval_api.svg
+              project: Mature
+              description: "Provides the location of a mobile line as detected by the mobile network operator."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Location Services
+                version: "0.4.0" # DeviceLocation project release r2.2
+                camara_release_meta: "Spring25"
+                camara_status_detail: "Mature API as per Spring25 Release (March 10, 2025)"
+            - item:
+              name: Location Verification API
+              homepage_url: https://camaraproject.org/location-verification/
+              repo_url: https://github.com/camaraproject/DeviceLocation
+              logo: location_verification_api.svg
+              project: Mature
+              description: "Determines whether a mobile device is within the proximity of a specified geographical area."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Location Services
+                version: "v2.0.0" # DeviceLocation project release r2.2
+                camara_release_meta: "Spring25"
+                camara_status_detail: "Mature API as per Spring25 Release (March 10, 2025)"
+            - item:
+              name: Population Density Data API
+              homepage_url: https://camaraproject.org/population-density-data/
+              repo_url: https://github.com/camaraproject/PopulationDensityData
+              logo: population_density_data_api.svg
+              project: Mature
+              description: "Provides population density estimations for a specified area and time interval."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Location Services
+                version: "v0.2.0"
+                camara_release_meta: "Spring25"
+                camara_status_detail: "Mature API as per Spring25 Release (March 14, 2025)"
+            - item:
+              name: Region Device Count API
+              homepage_url: https://camaraproject.org/region-user-count/ # URL slug is region-user-count
+              repo_url: https://github.com/camaraproject/RegionDeviceCount
+              logo: region_device_count_api.svg
+              project: Mature
+              description: "Enables API consumers to obtain the number of devices within a certain geographical area during a specific time interval."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Location Services
+                version: "v0.1.0"
+                camara_release_meta: "Spring25"
+                camara_status_detail: "Mature API as per Spring25 Release" # Date not specified on page, assume Spring25 timeframe
+        - subcategory:
+          name: Communication Services
+          items:
+            - item:
+              name: WebRTC Call Handling API
+              homepage_url: https://camaraproject.org/webrtc-apis/
+              repo_url: https://github.com/camaraproject/WebRTC
+              logo: webrtc_call_handling_api.svg
+              project: Mature
+              description: "Enables clients to manage live audio and video sessions over the operator’s telephony network (initiate, retrieve, update, terminate)."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Communication Services
+                version: "v0.2.0" # WebRTC project release r1.2
+                camara_release_meta: "Spring25"
+                camara_status_detail: "Mature API as per Spring25 Release (March 18, 2025)"
+            - item:
+              name: WebRTC Events API
+              homepage_url: https://camaraproject.org/webrtc-apis/
+              repo_url: https://github.com/camaraproject/WebRTC
+              logo: webrtc_events_api.svg # Name from repo is webrtc-events
+              project: Mature
+              description: "Enables customers to receive asynchronous cloud events related to active sessions or new session requests (e.g., incoming calls)."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Communication Services
+                version: "v0.1.0" # WebRTC project release r1.2
+                camara_release_meta: "Spring25"
+                camara_status_detail: "Mature API as per Spring25 Release (March 18, 2025)"
+            - item:
+              name: WebRTC Registration API
+              homepage_url: https://camaraproject.org/webrtc-apis/
+              repo_url: https://github.com/camaraproject/WebRTC
+              logo: webrtc_registration_api.svg
+              project: Mature
+              description: "Manages the registration and connectivity of clients to the operator’s IMS (telephony) network for audio/video sessions."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Communication Services
+                version: "v0.2.0" # WebRTC project release r1.2
+                camara_release_meta: "Spring25"
+                camara_status_detail: "Mature API as per Spring25 Release (March 18, 2025)"
+        - subcategory:
+          name: Communication Quality
+          items:
+            - item:
+              name: Application Profiles API
+              homepage_url: https://camaraproject.org/application-profiles/
+              repo_url: https://github.com/camaraproject/ConnectivityInsights # Repo for Spring25, new repo from Fall25
+              logo: application_profiles_api.svg
+              project: Mature
+              description: "Enables API consumers to define and manage application-specific profiles to optimize network connectivity."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Communication Quality
+                version: "v0.4.0" # ConnectivityInsights project release r2.3
+                camara_release_meta: "Spring25"
+                camara_status_detail: "Mature API as per Spring25 Release (March 14, 2025)"
+            - item:
+              name: Connectivity Insights API
+              homepage_url: https://camaraproject.org/connectivity-insights/
+              repo_url: https://github.com/camaraproject/ConnectivityInsights
+              logo: connectivity_insights_api.svg
+              project: Mature
+              description: "Provides real-time insights into the network connectivity status of a device or application."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Communication Quality
+                version: "v0.5.0" # ConnectivityInsights project release r2.3
+                camara_release_meta: "Spring25"
+                camara_status_detail: "Mature API as per Spring25 Release (March 14, 2025)"
+            - item:
+              name: Connectivity Insights Subscriptions API
+              homepage_url: https://camaraproject.org/connectivity-insights-subscriptions/
+              repo_url: https://github.com/camaraproject/ConnectivityInsights
+              logo: connectivity_insights_subscriptions_api.svg
+              project: Mature
+              description: "Allows API consumers to subscribe to notifications for changes in network connectivity status."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Communication Quality
+                version: "v0.5.0" # ConnectivityInsights project release r2.3
+                camara_release_meta: "Spring25"
+                camara_status_detail: "Mature API as per Spring25 Release (March 14, 2025)"
+            - item:
+              name: Home Devices QoD API
+              homepage_url: https://camaraproject.org/home-devices-qod/
+              repo_url: https://github.com/camaraproject/HomeDevicesQoD
+              logo: home_devices_qod_api.svg
+              project: Mature
+              description: "Provides Quality on Demand functionalities specifically for home network devices."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Communication Quality
+                version: "v0.4.0" # HomeDevicesQoD project release r1.2
+                camara_release_meta: "Fall24"
+                camara_status_detail: "Mature API as per Fall24 Release (September 6, 2024)"
+            - item:
+              name: QoD Provisioning API
+              homepage_url: https://camaraproject.org/qod-provisioning/
+              repo_url: https://github.com/camaraproject/QualityOnDemand
+              logo: qod_provisioning_api.svg
+              project: Mature
+              description: "Allows for the provisioning and management of Quality on Demand sessions."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Communication Quality
+                version: "v0.2.0" # QualityOnDemand project release r2.3
+                camara_release_meta: "Spring25"
+                camara_status_detail: "Mature API as per Spring25 Release (March 11, 2025)"
+            - item:
+              name: QoS Profiles API
+              homepage_url: https://camaraproject.org/qos-profiles/
+              repo_url: https://github.com/camaraproject/QualityOnDemand
+              logo: qos_profiles_api.svg
+              project: Mature
+              description: "Enables the management and retrieval of available Quality of Service profiles."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Communication Quality
+                version: "v1.0.0" # QualityOnDemand project release r2.3
+                camara_release_meta: "Spring25"
+                camara_status_detail: "Mature API as per Spring25 Release (March 11, 2025)"
+            - item:
+              name: Quality on Demand API
+              homepage_url: https://camaraproject.org/quality-on-demand/
+              repo_url: https://github.com/camaraproject/QualityOnDemand
+              logo: quality_on_demand_api.svg
+              project: Mature
+              description: "Allows applications to request enhanced Quality of Service (QoS) for specific network flows."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Communication Quality
+                version: "v1.0.0" # QualityOnDemand project release r2.3
+                camara_release_meta: "Spring25"
+                camara_status_detail: "Mature API as per Spring25 Release (March 11, 2025)"
+        - subcategory:
+          name: Device Information
+          items:
+            - item:
+              name: Connected Network Type API
+              homepage_url: https://camaraproject.org/connected-network-type/
+              repo_url: https://github.com/camaraproject/DeviceStatus
+              logo: connected_network_type_api.svg
+              project: Mature
+              description: "Allows API consumers to query the connectivity status of a device on a mobile network (2G, 3G, 4G, 5G)."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Device Information
+                version: "v0.1.0" # DeviceStatus project release r2.2
+                camara_release_meta: "Spring25"
+                camara_status_detail: "Mature API as per Spring25 Release (March 14, 2025)"
+            - item:
+              name: Connected Network Type Subscriptions API
+              homepage_url: https://camaraproject.org/connected-network-type-subscriptions/
+              repo_url: https://github.com/camaraproject/DeviceStatus
+              logo: connected_network_type_subscriptions_api.svg
+              project: Mature
+              description: "Enables API consumers to subscribe to real-time notifications regarding a device's connectivity status changes."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Device Information
+                version: "v0.1.0" # DeviceStatus project release r2.2
+                camara_release_meta: "Spring25"
+                camara_status_detail: "Mature API as per Spring25 Release (March 14, 2025)"
+            - item:
+              name: Device Identifier API
+              homepage_url: https://camaraproject.org/device-identifier/
+              repo_url: https://github.com/camaraproject/DeviceIdentifier
+              logo: device_identifier_api.svg
+              project: Mature
+              description: "Returns details of the physical mobile device currently being used by a given mobile subscriber (IMEI, model, manufacturer)."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Device Information
+                version: "v0.2.0" # DeviceIdentifier project release r1.3
+                camara_release_meta: "Spring25"
+                camara_status_detail: "Mature API as per Spring25 Release (March 13, 2025)"
+            - item:
+              name: Device Reachability Status API
+              homepage_url: https://camaraproject.org/device-reachability-status/
+              repo_url: https://github.com/camaraproject/DeviceStatus
+              logo: device_reachability_status_api.svg
+              project: Mature
+              description: "Enables API consumers to query a device's connectivity status on a mobile network (reachable via SMS, data, or both)."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Device Information
+                version: "v1.0.0" # From page, likely DeviceStatus project release r2.2
+                camara_release_meta: "Spring25"
+                camara_status_detail: "Mature API as per Spring25 Release (March 14, 2025)"
+            - item:
+              name: Device Reachability Status Subscriptions API
+              homepage_url: https://camaraproject.org/device-reachability-status-subscriptions/
+              repo_url: https://github.com/camaraproject/DeviceStatus
+              logo: device_reachability_status_subscriptions_api.svg
+              project: Mature
+              description: "Automatically notifies developers when the reachability status of a device changes on a mobile network."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Device Information
+                version: "v0.7.0" # DeviceStatus project release r2.2
+                camara_release_meta: "Spring25"
+                camara_status_detail: "Mature API as per Spring25 Release (March 14, 2025)"
+            - item:
+              name: Device Roaming Status API
+              homepage_url: https://camaraproject.org/device-roaming-status/
+              repo_url: https://github.com/camaraproject/DeviceStatus
+              logo: device_roaming_status_api.svg
+              project: Mature
+              description: "Allows developers to determine if a device is in a foreign network and its country location."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Device Information
+                version: "v1.0.0" # From page, likely DeviceStatus project release r2.2
+                camara_release_meta: "Spring25"
+                camara_status_detail: "Mature API as per Spring25 Release (March 14, 2025)"
+            - item:
+              name: Device Roaming Status Subscriptions API
+              homepage_url: https://camaraproject.org/device-roaming-status-subscriptions/
+              repo_url: https://github.com/camaraproject/DeviceStatus
+              logo: device_roaming_status_subscriptions_api.svg
+              project: Mature
+              description: "Enables developers to get real-time updates on a device's roaming status using a push-based subscription."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Device Information
+                version: "v0.7.0" # DeviceStatus project release r2.2
+                camara_release_meta: "Spring25"
+                camara_status_detail: "Mature API as per Spring25 Release (March 14, 2025)"
+        - subcategory:
+          name: Computing Services
+          items:
+            - item:
+              name: Simple Edge Discovery API
+              homepage_url: https://camaraproject.org/simple-edge-discovery/
+              repo_url: https://github.com/camaraproject/SimpleEdgeDiscovery
+              logo: simple_edge_discovery_api.svg
+              project: Mature
+              description: "Returns the name of the edge cloud zone that is closest to a given user device."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Computing Services
+                version: "v1.0.0"
+                camara_release_meta: "Fall24"
+                camara_status_detail: "Mature API as per Fall24 Release (November 9, 2024)"
+        - subcategory:
+          name: Payments and Charging
+          items:
+            - item:
+              name: Blockchain Public Address API
+              homepage_url: https://camaraproject.org/blockchain-public-address/
+              repo_url: https://github.com/camaraproject/BlockchainPublicAddress
+              logo: blockchain_public_address_api.svg
+              project: Mature
+              description: "Enables the management of blockchain public addresses (BPA) associated with phone numbers (retrieve, bind, unbind)."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Payments and Charging
+                version: "v0.2.0"
+                camara_release_meta: "Spring25"
+                camara_status_detail: "Mature API as per Spring25 Release (March 10, 2025)"
+            - item:
+              name: Carrier Billing API
+              homepage_url: https://camaraproject.org/carrier-billing/
+              repo_url: https://github.com/camaraproject/CarrierBillingCheckOut
+              logo: carrier_billing_api.svg
+              project: Mature
+              description: "Allows users to charge digital and physical purchases to their mobile phone bill or prepaid balance."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Payments and Charging
+                version: "v0.4.0" # CarrierBillingCheckOut project release r2.2
+                camara_release_meta: "Spring25"
+                camara_status_detail: "Mature API as per Spring25 Release (March 11, 2025)"
+            - item:
+              name: Carrier Billing Refund API
+              homepage_url: https://github.com/camaraproject/CarrierBillingCheckOut # Part of CarrierBillingCheckOut project
+              repo_url: https://github.com/camaraproject/CarrierBillingCheckOut
+              logo: carrier_billing_refund_api.svg
+              project: Mature
+              description: "Allows API consumers to ask for a total or partial return of the amount associated to a previous performed payment."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Payments and Charging
+                version: "v0.2.0" # CarrierBillingCheckOut project release r2.2
+                camara_release_meta: "Spring25"
+                camara_status_detail: "Mature API as per Spring25 Release (March 11, 2025)"
+        # Service Management has no Mature APIs as per camaraproject.org/api-overview/
+        - subcategory:
+          name: Authentication and Fraud Prevention (In Development)
+          items:
+            - item:
+              name: Verified Caller API
+              homepage_url: https://camaraproject.org/verified-caller/
+              repo_url: https://github.com/camaraproject/VerifiedCaller
+              logo: verified_caller_api.svg
+              project: Incubating
+              description: "Allows accurate operator certified 'business card' information including SMS and video clip to be displayed on the phone screen of the called user."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Authentication and Fraud Prevention
+                version: "In progress"
+                camara_release_meta: "Not specified"
+                camara_status_detail: "Upcoming API, In progress, Sandbox repository"
+        - subcategory:
+          name: Location Services (In Development)
+          items:
+            - item:
+              name: Device Visit Location API
+              homepage_url: https://camaraproject.org/device-visit-location/
+              repo_url: https://github.com/camaraproject/LocationInsights
+              logo: device_visit_location_api.svg
+              project: Incubating
+              description: "Enables developers to retrieve the geographical locations visited by a device within a specified time window."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Location Services
+                version: "In progress"
+                camara_release_meta: "Not specified"
+                camara_status_detail: "In progress API, Sandbox repository"
+            - item:
+              name: Most Frequent Location API
+              homepage_url: https://camaraproject.org/most-frequent-location/
+              repo_url: https://github.com/camaraproject/LocationInsights
+              logo: most_frequent_location_api.svg
+              project: WIP-RC # Initial Release/Release Candidate
+              description: "Verifies whether a mobile device is predominantly located in a specific area or retrieves its most frequent locations."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Location Services
+                version: "v0.1.0"
+                camara_release_meta: "Fall24"
+                camara_status_detail: "Release Candidate as per Fall24 Release"
+        - subcategory:
+          name: Communication Services (In Development)
+          items:
+            - item:
+              name: Click To Dial API
+              homepage_url: https://github.com/camaraproject/ClickToDial # Page was inaccessible
+              repo_url: https://github.com/camaraproject/ClickToDial
+              logo: click_to_dial_api.svg
+              project: Incubating
+              description: "Establish web-based communication by clicking an object to request an immediate connection via phone call, VoIP, or text."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Communication Services
+                version: "In progress" # Pre-releases available on GitHub
+                camara_release_meta: "Not specified"
+                camara_status_detail: "Work in progress/Upcoming, Sandbox repository, pre-releases available"
+            - item:
+              name: SMS API
+              homepage_url: https://camaraproject.org/sms/
+              repo_url: https://github.com/camaraproject/ShortMessageService
+              logo: sms_api.svg
+              project: Incubating
+              description: "Allows enterprises and applications to send SMS messages to one or more recipients."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Communication Services
+                version: "In progress"
+                camara_release_meta: "Not specified"
+                camara_status_detail: "In progress API, Sandbox repository"
+            - item:
+              name: SMS Delivery Notification Subscription API
+              homepage_url: https://camaraproject.org/sms-delivery-notification-subscription/
+              repo_url: https://github.com/camaraproject/ShortMessageService
+              logo: sms_delivery_notification_subscription_api.svg
+              project: Incubating
+              description: "Allows customers to create subscriptions for receiving delivery notifications for previously sent SMS messages."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Communication Services
+                version: "In progress"
+                camara_release_meta: "Not specified"
+                camara_status_detail: "In progress API, Sandbox repository"
+        - subcategory:
+          name: Communication Quality (In Development)
+          items:
+            - item:
+              name: Network Slice Booking API
+              homepage_url: https://camaraproject.org/network-slice-booking/
+              repo_url: https://github.com/camaraproject/NetworkSliceBooking
+              logo: network_slice_booking_api.svg
+              project: Incubating
+              description: "Provides a programmable interface for developers to reserve and manage network slice resources."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Communication Quality
+                version: "In progress"
+                camara_release_meta: "Not specified"
+                camara_status_detail: "In progress API, Sandbox repository"
+            - item:
+              name: Predictive Connectivity Data API
+              homepage_url: https://camaraproject.org/predictive-connectivity-data/
+              repo_url: https://github.com/camaraproject/PredictiveConnectivityData
+              logo: predictive_connectivity_data_api.svg
+              project: Incubating
+              description: "Provides the capability to get the estimation of connectivity delivered by 4/5G networks for a certain path, time, and UE."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Communication Quality
+                version: "In progress"
+                camara_release_meta: "Not specified"
+                camara_status_detail: "In progress API, Sandbox repository"
+            - item:
+              name: Session Insights API
+              homepage_url: https://camaraproject.org/session-insights/
+              repo_url: https://github.com/camaraproject/SessionInsights
+              logo: session_insights_api.svg
+              project: Incubating
+              description: "Allows an application developer to create a session with a network operator to monitor and potentially influence network parameters for that session."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Communication Quality
+                version: "In progress" # Page says "Initial" status
+                camara_release_meta: "Not specified"
+                camara_status_detail: "Initial API definition, In progress"
+        - subcategory:
+          name: Device Information (In Development)
+          items:
+            - item:
+              name: Device Data Volume API
+              homepage_url: https://camaraproject.org/device-data-volume/
+              repo_url: https://github.com/camaraproject/DeviceDataVolume
+              logo: device_data_volume_api.svg
+              project: WIP-RC # Initial Release/Release Candidate (targeting Fall25)
+              description: "Allows developers to query real-time information regarding the remaining contract data volume of a device."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Device Information
+                version: "v0.1.0-alpha.1"
+                camara_release_meta: "Targeting Fall25"
+                camara_status_detail: "Work in Progress - Alpha available, targeting Fall25 Release"
+            - item:
+              name: Device Data Volume Subscriptions API
+              homepage_url: https://camaraproject.org/device-data-volume-subscriptions/
+              repo_url: https://github.com/camaraproject/DeviceDataVolume
+              logo: device_data_volume_subscriptions_api.svg
+              project: WIP-RC # Initial Release/Release Candidate (targeting Fall25)
+              description: "Allows developers to receive real-time updates regarding the contract data volume of a device, including notifications for low balance."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Device Information
+                version: "v0.1.0-alpha.1"
+                camara_release_meta: "Targeting Fall25"
+                camara_status_detail: "Work in Progress - Alpha available, targeting Fall25 Release"
+            - item:
+              name: Device Quality Indicator API
+              homepage_url: https://camaraproject.org/device-quality-indicator/
+              repo_url: https://github.com/camaraproject/DeviceQualityIndicator
+              logo: device_quality_indicator_api.svg
+              project: Incubating
+              description: "Enables developers to access real-time insights about a mobile device’s network status and quality of experience."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Device Information
+                version: "In progress"
+                camara_release_meta: "Not specified"
+                camara_status_detail: "Upcoming API, requirements gathering phase"
+            - item:
+              name: Network Access Management API
+              homepage_url: https://camaraproject.org/network-access-management/
+              repo_url: https://github.com/camaraproject/NetworkAccessManagement
+              logo: network_access_management_api.svg
+              project: Incubating
+              description: "Enables developers to manage network operator-supplied devices and configurations, including functions like enabling/disabling SIMs or network access."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Device Information
+                version: "In progress"
+                camara_release_meta: "Targeting Fall25 (for initial scope)"
+                camara_status_detail: "In progress API, Sandbox repository, scoping for Fall25"
+        - subcategory:
+          name: Computing Services (In Development)
+          items:
+            - item:
+              name: Application Endpoint Discovery API
+              homepage_url: https://camaraproject.org/application-endpoint-discovery/
+              repo_url: https://github.com/camaraproject/EdgeCloud
+              logo: application_endpoint_discovery_api.svg
+              project: Incubating
+              description: "Intended for applications requiring high performance by discovering optimal application endpoints, particularly in edge environments."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Computing Services
+                version: "In progress" # Part of EdgeCloud project
+                camara_release_meta: "Not specified"
+                camara_status_detail: "In progress API, Sandbox repository (EdgeCloud project)"
+            - item:
+              name: Edge Application Management API
+              homepage_url: https://camaraproject.org/edge-application-management/
+              repo_url: https://github.com/camaraproject/EdgeCloud
+              logo: edge_application_management_api.svg
+              project: Incubating
+              description: "Provides capabilities for lifecycle management of applications, instances and Edge Cloud zone discovery."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Computing Services
+                version: "In progress" # Part of EdgeCloud project
+                camara_release_meta: "Not specified"
+                camara_status_detail: "In progress API, Sandbox repository (EdgeCloud project)"
+            - item:
+              name: Energy Footprint Notification API
+              homepage_url: https://camaraproject.org/energy-footprint-notification/
+              repo_url: https://github.com/camaraproject/EnergyFootprintNotification
+              logo: energy_footprint_notification_api.svg
+              project: Incubating
+              description: "Provides information about the E2E energy consumption and carbon footprint of a service for monitoring and optimization."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Computing Services
+                version: "In progress"
+                camara_release_meta: "No release yet"
+                camara_status_detail: "In progress API, Sandbox repository, no release yet"
+            - item:
+              name: Site To Cloud VPN API
+              homepage_url: https://camaraproject.org/site-to-cloud-vpn/
+              repo_url: https://github.com/camaraproject/SiteToCloudVPN
+              logo: site_to_cloud_vpn_api.svg
+              project: Incubating
+              description: "Allows users to create and configure site-to-cloud network service according to user requests with one click."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Computing Services
+                version: "In progress"
+                camara_release_meta: "Not specified"
+                camara_status_detail: "In progress API, Sandbox repository"
+            - item:
+              name: Traffic Influence API
+              homepage_url: https://github.com/camaraproject/TrafficInfluence # Page was inaccessible
+              repo_url: https://github.com/camaraproject/TrafficInfluence
+              logo: traffic_influence_api.svg
+              project: Incubating
+              description: "Provides intent-based interface to request optimal latency for edge-deployed services by influencing traffic flow."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Computing Services
+                version: "Pre-release via EdgeCloud v0.8.1"
+                camara_release_meta: "Not specified"
+                camara_status_detail: "Sandbox API, pre-release via EdgeCloud project"
+        - subcategory:
+          name: Service Management (In Development)
+          items:
+            - item:
+              name: Capabilities And Runtime Restrictions API
+              homepage_url: https://camaraproject.org/capabilities-and-runtime-restrictions/
+              repo_url: https://github.com/camaraproject/CapabilitiesAndRuntimeRestrictions
+              logo: capabilities_and_runtime_restrictions_api.svg
+              project: Incubating
+              description: "Allows adaptation to environment-specific differences in availability and support across CAMARA APIs."
+              crunchbase: https://www.crunchbase.com/organization/linux-foundation
+              extra:
+                api_family: Service Management
+                version: "In progress"
+                camara_release_meta: "No releases yet"
+                camara_status_detail: "Upcoming API, In progress, Sandbox repository, no releases yet"
