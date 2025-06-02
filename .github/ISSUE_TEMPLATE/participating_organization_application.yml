@@ -1,0 +1,102 @@
+name: CAMARA Participating Organization Application
+description: Application form for organizations to join the CAMARA Project as a Participating Organization.
+title: "Application: Participating Organization - [Organization Name]"
+labels: ["application", "pending-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for your interest in becoming a Participating Organization in the CAMARA Project!
+        Please complete the following form. All fields marked with an asterisk (*) are required.
+        Ensure that your organization's logo is provided in SVG format.
+
+  - type: input
+    id: org_name
+    attributes:
+      label: Organization Name *
+      description: The official name of your organization.
+      placeholder: "e.g., Example Corp"
+    validations:
+      required: true
+
+  - type: input
+    id: homepage_url
+    attributes:
+      label: Organization Homepage URL *
+      description: The main public website URL for your organization.
+      placeholder: "https://www.example.com"
+    validations:
+      required: true
+
+  - type: input
+    id: crunchbase_url
+    attributes:
+      label: Organization Crunchbase URL *
+      description: The URL to your organization's profile on Crunchbase. This is used to fetch additional public information.
+      placeholder: "https://www.crunchbase.com/organization/example"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: role_type
+    attributes:
+      label: Organization Role Type *
+      description: Select the primary role your organization will play in the CAMARA ecosystem.
+      options:
+        # Options will be populated from roles.txt [4]
+        - Network Capability Solution Provider
+        - CAMARA Transformation Function Solution Provider
+        - Operator API Exposure Platform Solution Provider
+        - Hyperscaler, (CPaaS) Aggregators
+        - Operator Portal Solution Provider
+        - API Customers, ISV
+        - System Integrators
+        - Ecosystem Consultants
+    validations:
+      required: true
+
+  - type: textarea
+    id: org_logo
+    attributes:
+      label: Organization Logo (SVG format) *
+      description: |
+        Please provide a direct, publicly accessible URL to your organization's logo in SVG format.
+        The logo will be downloaded and stored in the `hosted_logos` directory of the `camara-landscape` repository.
+        Ensure the SVG is optimized and does not contain embedded raster images or unnecessary metadata.
+        Example: https://example.com/path/to/logo.svg
+      placeholder: "https://example.com/logo.svg"
+    validations:
+      required: true
+
+  # Example:
+   - type: input
+     id: contact_name
+     attributes:
+       label: Primary Contact Name
+       description: (Not Required) Name of the primary contact person for this application.
+     validations:
+       required: false
+  
+   - type: input
+     id: contact_email
+     attributes:
+       label: Primary Contact Email
+       description: (Not Required) Email address of the primary contact person.
+       placeholder: "contact@example.com"
+     validations:
+       required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        **Submission Agreement**
+        By submitting this application, you confirm that you have the authority to represent the applying organization and agree to the CAMARA Project's participation guidelines and code of conduct, as outlined in the project's governance documentation. You also grant the CAMARA Project permission to display your organization's name and logo on its website and related materials as a Participating Organization.
+
+  - type: checkboxes
+    id: agreement
+    attributes:
+      label: Agreement *
+      description: Please confirm your agreement to the terms.
+      options:
+        - label: I agree to the terms stated above.
+          required: true
