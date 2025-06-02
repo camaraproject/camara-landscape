@@ -726,6 +726,11 @@ landscape:
             homepage_url: https://www.stc.com.sa/
             logo: stc.svg
           - item:
+            name: Scenera Inc
+            homepage_url: https://scenera.net
+            logo: scenera.svg
+            crunchbase: https://www.crunchbase.com/organization/scenera-inc
+          - item:
             name: Sekura
             homepage_url: https://www.sekura.com/
             logo: sekura.svg
