@@ -408,6 +408,10 @@ landscape:
             logo: eantc.svg
             crunchbase: https://www.crunchbase.com/organization/european-advanced-networking-test-center
           - item:
+            name: Ecosteer
+            homepage_url: https://ecosteer.com/
+            logo: ecosteer.svg
+          - item:
             name: EdgeContinuum
             homepage_url: https://www.edgecontinuum.com
             logo: edgecontinuum.svg
@@ -501,6 +505,10 @@ landscape:
             description: Intracom Telecom is a global technology systems and solutions provider operating for over 45 years in the market located in Peania, Greece.
             logo: intracom-telecom.svg
             crunchbase: https://www.crunchbase.com/organization/intracom-telecom
+          - item:
+            name: ION
+            homepage_url: https://www.ionsmart.eu/
+            logo: ion.svg
           - item:
             name: IPification
             homepage_url: https://www.ipification.com/
