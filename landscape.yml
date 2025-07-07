@@ -480,6 +480,10 @@ landscape:
             homepage_url: https://www.ibm.com/
             logo: ibm.svg
           - item:
+            name: ICCS
+            homepage_url: https://i-sense.iccs.gr/
+            logo: iccs.svg
+          - item:
             name: IEEE 5G6G Testbed
             homepage_url: https://testbed.ieee.org/
             logo: IEEE5G6GTestbed.svg.svg
