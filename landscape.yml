@@ -9,9 +9,9 @@ landscape:
             name: Accenture Global Solutions Limited
             homepage_url: https://accenture.com/
             logo: accenture_global_solutions_limited.svg
-            description: Founded in 1989 and headquartered in Dublin, Ireland, Accenture is a company that provides services and solutions in strategy, consulting, digital, technology,
-              and operations. The company serves customers in industries including communications, media and technology, financial services, health and public service, as well as products
-              and resources.
+            description: Founded in 1989 and headquartered in Dublin, Ireland, Accenture is a company that provides services and solutions in strategy, consulting, digital, 
+              technology, and operations. The company serves customers in industries including communications, media and technology, financial services, health and public service, 
+              as well as products and resources.
             crunchbase: https://www.crunchbase.com/organization/accenture
             twitter: https://twitter.com/Accenture
             extra:
@@ -20,8 +20,8 @@ landscape:
             name: Deutsche Telekom AG
             homepage_url: https://telekom.com/
             logo: deutsche_telekom_ag.svg
-            description: Founded in 1995, Deutsche Telekom AG is a Germany-based integrated telecommunications provider, offering its customers around the world a portfolio of services
-              in the areas of telecommunications and information technology.
+            description: Founded in 1995, Deutsche Telekom AG is a Germany-based integrated telecommunications provider, offering its customers around the world a portfolio of 
+              services in the areas of telecommunications and information technology.
             crunchbase: https://www.crunchbase.com/organization/deutsche-telekom
             twitter: https://twitter.com/deutschetelekom
             extra:
@@ -36,9 +36,9 @@ landscape:
             name: Microsoft Corporation
             homepage_url: https://microsoft.com/
             logo: microsoft_corporation.svg
-            description: The Microsoft Corporation is a publicly owned American software corporation headquartered in Redmond, Washington. Founded in 1975, the company develops, manufactures,
-              licenses and supports a variety of computing products used by consumers and businesses. Some of their popular products include Windows, Xbox, Microsoft HoloLens, Microsoft
-              Lumia, Outlook, Skype, OneDrive and Microsoft Band.
+            description: The Microsoft Corporation is a publicly owned American software corporation headquartered in Redmond, Washington. Founded in 1975, the company develops, 
+              manufactures, licenses and supports a variety of computing products used by consumers and businesses. Some of their popular products include Windows, Xbox, Microsoft 
+              HoloLens, Microsoft Lumia, Outlook, Skype, OneDrive and Microsoft Band.
             crunchbase: https://www.crunchbase.com/organization/microsoft
             twitter: https://twitter.com/Microsoft
             extra:
@@ -95,8 +95,8 @@ landscape:
             name: Verizon Corporate Services
             homepage_url: https://verizon.com/
             logo: verizon_corporate_services.svg
-            description: Verizon is a telecommunications company that offers broadband and other wireless and wireline communications services to consumer, business, government, and
-              wholesale customers. Verizon is headquartered in New York City, New York.
+            description: Verizon is a telecommunications company that offers broadband and other wireless and wireline communications services to consumer, business, government, 
+              and wholesale customers. Verizon is headquartered in New York City, New York.
             crunchbase: https://www.crunchbase.com/organization/verizon
             twitter: https://twitter.com/Verizon
             extra:
@@ -123,11 +123,17 @@ landscape:
         name: General
         items:
           - item:
+            name: Aduna Global LLC
+            homepage_url: https://adunaglobal.com/
+            logo: aduna_global_llc.svg
+            organization:
+              name: Aduna Global LLC
+          - item:
             name: Aleph Zero Foundation
             homepage_url: https://alephzero.org/
             logo: aleph_zero_foundation.svg
-            description: Aleph Zero is a non-profit organization dedicated to advancing decentralized technologies. They offer an enterprise-grade public blockchain with private smart
-              contracts powered by AZERO. Their mission is to create a secure blockchain ecosystem and deve...
+            description: Aleph Zero is a non-profit organization dedicated to advancing decentralized technologies. They offer an enterprise-grade public blockchain with private 
+              smart contracts powered by AZERO. Their mission is to create a secure blockchain ecosystem and deve...
             organization:
               name: Aleph Zero Foundation
               linkedin: https://www.linkedin.com/company/alephzero
@@ -137,9 +143,9 @@ landscape:
             name: Cable Television Laboratories Inc.
             homepage_url: https://cablelabs.com/
             logo: cable_television_laboratories_inc.svg
-            description: Founded in 1988, CableLabs is a non-profit research and development consortium that serves to define interoperable solutions among cable operator members and
-              their technology vendors in order to reduce costs, create competition in the supply chain, and drive scale.  CableLabs is dedicated to creating innovative ideas that significantly
-              impact their cable operator members' business. The company is headquartered in Louisville, Colorado.
+            description: Founded in 1988, CableLabs is a non-profit research and development consortium that serves to define interoperable solutions among cable operator members 
+              and their technology vendors in order to reduce costs, create competition in the supply chain, and drive scale.  CableLabs is dedicated to creating innovative ideas 
+              that significantly impact their cable operator members' business. The company is headquartered in Louisville, Colorado.
             crunchbase: https://www.crunchbase.com/organization/cablelabs
             twitter: https://twitter.com/CableLabs
             extra:
@@ -148,8 +154,8 @@ landscape:
             name: Charter Communications
             homepage_url: https://spectrum.com/
             logo: charter_communications.svg
-            description: Charter Communications, Inc., is an American telecommunications and mass media company that offers its services to consumers and businesses under the branding
-              of Spectrum.
+            description: Charter Communications, Inc., is an American telecommunications and mass media company that offers its services to consumers and businesses under the 
+              branding of Spectrum.
             crunchbase: https://www.crunchbase.com/organization/time-warner-cable
             twitter: https://twitter.com/GetSpectrum
             extra:
@@ -166,6 +172,12 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/indykite
           - item:
+            name: KYXSTART
+            homepage_url: https://kyxstart.com/
+            logo: kyxstart.svg
+            organization:
+              name: KYXSTART
+          - item:
             name: Shabodi
             homepage_url: https://shabodi.com/
             logo: shabodi.svg
@@ -175,15 +187,6 @@ landscape:
               linkedin: https://www.linkedin.com/company/shabodi
             extra:
               linkedin_url: https://www.linkedin.com/company/shabodi
-          - item:
-            name: Unryo Inc
-            homepage_url: https://unryo.com/
-            logo: unryo_inc.svg
-            description: Unryo is a leading provider of performance monitoring and observability solutions. Their platform allows users to monitor network, logs, servers, applications,
-              clouds, and databases with near zero maintenance and no vendor lock-in. Unryo's modern stack...
-            crunchbase: https://www.crunchbase.com/organization/unryo
-            extra:
-              linkedin_url: https://www.linkedin.com/company/unryo
       - subcategory:
         name: Associate
         items:
@@ -842,9 +845,9 @@ landscape:
             name: VIAVI Solutions
             homepage_url: https://www.viavisolutions.com/
             logo: viavi.svg
-            description: VIAVI is a global provider of network test, monitoring and assurance solutions for telecommunications, cloud, enterprises, first responders, military, aerospace
-              and railway. VIAVI is also a leader in light management technologies for 3D sensing, anti-counterfeiting, consumer electronics, industrial, automotive, government and aerospace
-              applications.
+            description: VIAVI is a global provider of network test, monitoring and assurance solutions for telecommunications, cloud, enterprises, first responders, military, 
+              aerospace and railway. VIAVI is also a leader in light management technologies for 3D sensing, anti-counterfeiting, consumer electronics, industrial, automotive, 
+              government and aerospace applications.
           - item:
             name: VIRTUS - Research, Development and Innovation Center
             homepage_url: https://www.virtus.ufcg.edu.br
