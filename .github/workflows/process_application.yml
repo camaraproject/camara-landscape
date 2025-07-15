@@ -1,0 +1,204 @@
+name: Process Participating Organization Application
+
+on:
+  issues:
+    types: [opened] # Or use 'labeled' if a specific label is applied by the template or a triage step
+
+jobs:
+  process_application:
+    runs-on: ubuntu-latest
+    # Only run if the issue title matches the application format or has a specific label
+    if: startsWith(github.event.issue.title, 'Application: Participating Organization -') |
+| contains(github.event.issue.labels.*.name, 'application')
+
+    permissions:
+      contents: write
+      issues: write
+      pull-requests: write
+
+    steps:
+      - name: Checkout Landscape Repository
+        uses: actions/checkout@v4
+        with:
+          repository: camaraproject/camara-landscape # Ensure this is the correct repository
+          # token: ${{ secrets.PAT_FOR_PR }} # Use a PAT if GITHUB_TOKEN lacks cross-repo PR creation rights or if pushing to a protected branch in a specific way. For same-repo, GITHUB_TOKEN is usually fine.
+
+      - name: Parse Issue Form Data
+        id: parse_issue
+        # This step would use a script (e.g., Python, Node.js, or shell with awk/sed)
+        # to parse github.event.issue.body and extract fields.
+        # For GitHub's native issue forms, the data is somewhat structured in the body.
+        # Example:
+        #   ORG_NAME=$(echo "${{ github.event.issue.body }}" | grep -A1 "### Organization Name" | tail -n1 | sed 's/^\s*//;s/\s*$//')
+        #   HOMEPAGE_URL=$(...)
+        #   CRUNCHBASE_URL=$(...)
+        #   ROLE_TYPE=$(...)
+        #   LOGO_URL=$(...)
+        #   AGREEMENT=$(echo "${{ github.event.issue.body }}" | grep -q "\[x\] I agree to the terms stated above." && echo "true" |
+| echo "false")
+        #   echo "org_name=${ORG_NAME}" >> $GITHUB_OUTPUT
+        #  ... etc. for other fields
+        run: |
+          echo "Parsing issue body..."
+          # Placeholder for actual parsing script. For brevity, we assume outputs are set.
+          # A more robust solution would use a dedicated script.
+          # Example of extracting one field (adapt for all fields):
+          ORG_NAME_RAW=$(echo "${{ github.event.issue.body }}" | awk -F'### Organization Name' '{print $2}' | awk 'NR==2' | xargs)
+          HOMEPAGE_URL_RAW=$(echo "${{ github.event.issue.body }}" | awk -F'### Organization Homepage URL' '{print $2}' | awk 'NR==2' | xargs)
+          CRUNCHBASE_URL_RAW=$(echo "${{ github.event.issue.body }}" | awk -F'### Organization Crunchbase URL' '{print $2}' | awk 'NR==2' | xargs)
+          # For dropdown, the selected value is usually present directly.
+          ROLE_TYPE_RAW=$(echo "${{ github.event.issue.body }}" | grep -A3 "### Organization Role Type" | awk 'NR==4 {gsub(/^[[:space:]]*- /, ""); print}' | xargs)
+          LOGO_URL_RAW=$(echo "${{ github.event.issue.body }}" | awk -F'### Organization Logo \(SVG format\)' '{print $2}' | awk 'NR==3' | xargs) # Assuming URL is on the 3rd line after the label block
+          AGREEMENT_CHECKED=$(echo "${{ github.event.issue.body }}" | grep -c "\[x\] I agree to the terms stated above.")
+
+          echo "org_name=$ORG_NAME_RAW" >> $GITHUB_OUTPUT
+          echo "homepage_url=$HOMEPAGE_URL_RAW" >> $GITHUB_OUTPUT
+          echo "crunchbase_url=$CRUNCHBASE_URL_RAW" >> $GITHUB_OUTPUT
+          echo "role_type=$ROLE_TYPE_RAW" >> $GITHUB_OUTPUT
+          echo "logo_url=$LOGO_URL_RAW" >> $GITHUB_OUTPUT
+          echo "agreement_checked=$AGREEMENT_CHECKED" >> $GITHUB_OUTPUT
+          echo "Issue body for debugging:"
+          echo "${{ github.event.issue.body }}"
+
+
+      - name: Validate Data
+        id: validate_data
+        # This step would use a script to validate the parsed data.
+        # Checks: required fields, URL formats, role_type in allowed list.
+        run: |
+          echo "Validating data..."
+          errors=""
+          # Required field checks
+          if [ -z "${{ steps.parse_issue.outputs.org_name }}" ]; then errors="$errors\n- Organization Name is missing."; fi
+          if [ -z "${{ steps.parse_issue.outputs.homepage_url }}" ]; then errors="$errors\n- Organization Homepage URL is missing."; fi
+          #... add all other required field checks...
+          if [ -z "${{ steps.parse_issue.outputs.logo_url }}" ]; then errors="$errors\n- Organization Logo URL is missing."; fi
+          if [ "${{ steps.parse_issue.outputs.agreement_checked }}"!= "1" ]; then errors="$errors\n- Agreement checkbox must be selected."; fi
+
+          # URL format checks (basic)
+          if [[! "${{ steps.parse_issue.outputs.homepage_url }}" =~ ^https?:// ]]; then errors="$errors\n- Homepage URL is invalid."; fi
+          #... add other URL checks...
+
+          # Role type validation
+          allowed_roles=("Network Capability Solution Provider" "CAMARA Transformation Function Solution Provider" "Operator API Exposure Platform Solution Provider" "Hyperscaler, (CPaaS) Aggregators" "Operator Portal Solution Provider" "API Customers, ISV" "System Integrators" "Ecosystem Consultants")
+          role_valid=false
+          for role in "${allowed_roles[@]}"; do
+            if [ "$role" == "${{ steps.parse_issue.outputs.role_type }}" ]; then
+              role_valid=true
+              break
+            fi
+          done
+          if [ "$role_valid" == false ]; then errors="$errors\n- Selected Role Type '${{ steps.parse_issue.outputs.role_type }}' is invalid."; fi
+
+          if [ -n "$errors" ]; then
+            echo "validation_errors<<EOF_ERRORS$errors\nEOF_ERRORS" >> $GITHUB_OUTPUT
+            echo "Validation failed: $errors"
+            exit 1 # Fail the step
+          else
+            echo "Validation successful."
+            echo "validation_errors=" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Handle Validation Failure
+        if: failure() && steps.validate_data.outputs.validation_errors!= ''
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const errors = `${{ steps.validate_data.outputs.validation_errors }}`;
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: `Application validation failed. Please correct the following errors and resubmit or update your application:\n${errors}`
+            });
+            github.rest.issues.addLabels({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              labels: ['application-needs-correction']
+            });
+
+      - name: Download SVG Logo
+        if: success() && steps.validate_data.outputs.validation_errors == ''
+        id: download_logo
+        run: |
+          echo "Downloading logo from ${{ steps.parse_issue.outputs.logo_url }}"
+          LOGO_FILENAME_BASE=$(echo "${{ steps.parse_issue.outputs.org_name }}" | tr '[:upper:]' '[:lower:]' | sed -e 's/[^a-z0-9]/-/g' -e 's/--\+/-/g' -e 's/^-//' -e 's/-$//')
+          LOGO_FILENAME="${LOGO_FILENAME_BASE}-logo.svg"
+          curl -L -o "hosted_logos/${LOGO_FILENAME}" "${{ steps.parse_issue.outputs.logo_url }}"
+          # Basic check if download was successful and file is SVG (by extension, can be improved)
+          if [! -f "hosted_logos/${LOGO_FILENAME}" ] |
+| [[! "${LOGO_FILENAME}" =~ \.svg$ ]]; then
+            echo "Failed to download logo or it is not an SVG."
+            # Set an output for error handling if needed, or comment on issue
+            echo "logo_error=Failed to download logo or not an SVG." >> $GITHUB_OUTPUT
+            exit 1
+          fi
+          echo "logo_filename=${LOGO_FILENAME}" >> $GITHUB_OUTPUT
+          echo "Logo downloaded as hosted_logos/${LOGO_FILENAME}"
+
+      - name: Update landscape.yml
+        if: success() && steps.validate_data.outputs.validation_errors == '' && steps.download_logo.outputs.logo_error == ''
+        # This step would ideally use a script (e.g., Python with ruamel.yaml)
+        # to parse landscape.yml, add the new entry alphabetically, and write back.
+        # For brevity, this is a conceptual placeholder.
+        # A robust script is required here to handle YAML structure and sorting.
+        run: |
+          echo "Updating landscape.yml with new organization: ${{ steps.parse_issue.outputs.org_name }}"
+          # Placeholder for script:
+          # 1. Read landscape.yml
+          # 2. Find 'Participating Organizations' section
+          # 3. Construct new item YAML:
+          #    name: ${{ steps.parse_issue.outputs.org_name }}
+          #    homepage_url: ${{ steps.parse_issue.outputs.homepage_url }}
+          #    crunchbase: ${{ steps.parse_issue.outputs.crunchbase_url }}
+          #    logo: ${{ steps.download_logo.outputs.logo_filename }}
+          #    extra:
+          #      role_type: ${{ steps.parse_issue.outputs.role_type }}
+          # 4. Insert item alphabetically
+          # 5. Write back to landscape.yml
+          # Example using yq (a command-line YAML processor) - this is simplified and might need refinement for ordering and structure preservation.
+          # Ensure yq is installed: sudo apt-get install yq
+          # yq eval '.landscape | select(.name == "Participating Organizations") |.subcategories | select(.name == "General") |.items += [{"name": "${{ steps.parse_issue.outputs.org_name }}", "homepage_url": "${{ steps.parse_issue.outputs.homepage_url }}", "crunchbase": "${{ steps.parse_issue.outputs.crunchbase_url }}", "logo": "${{ steps.download_logo.outputs.logo_filename }}", "extra": {"role_type": "${{ steps.parse_issue.outputs.role_type }}"}}] |.items |= sort_by(.name)' -i landscape.yml
+          echo "landscape.yml update script needs to be implemented here."
+          # Simulate a change for PR creation for now
+          echo "# Temp change for PR" >> landscape.yml
+
+
+      - name: Create Pull Request
+        if: success() && steps.validate_data.outputs.validation_errors == '' && steps.download_logo.outputs.logo_error == ''
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }} # Or a PAT if needed
+          commit-message: Add participating organization - ${{ steps.parse_issue.outputs.org_name }}
+          title: "feat: Add Participating Organization - ${{ steps.parse_issue.outputs.org_name }}"
+          body: |
+            Adds new Participating Organization: **${{ steps.parse_issue.outputs.org_name }}**
+
+            - Homepage: ${{ steps.parse_issue.outputs.homepage_url }}
+            - Crunchbase: ${{ steps.parse_issue.outputs.crunchbase_url }}
+            - Role: ${{ steps.parse_issue.outputs.role_type }}
+            - Logo: `${{ steps.download_logo.outputs.logo_filename }}`
+
+            Submitted via application issue: #${{ github.event.issue.number }}
+          branch: add-org-${{ steps.parse_issue.outputs.org_name }} # Create a unique branch name
+          delete-branch: true # Optional: delete branch after PR is merged/closed
+          labels: landscape-update, new-organization
+          assignees: ${{ github.actor }} # Assign PR to the person who triggered the issue (if desired)
+          # reviewers: # Comma-separated list of reviewers
+
+      - name: Notify on Success (Comment on Issue)
+        if: success() && steps.validate_data.outputs.validation_errors == '' && steps.download_logo.outputs.logo_error == ''
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: `Thank you for your application! A Pull Request has been created to add your organization to the CAMARA landscape. It will be reviewed shortly. You can track the PR here: ${ {PR_URL_FROM_PREVIOUS_STEP} }`
+              // Note: PR_URL_FROM_PREVIOUS_STEP needs to be obtained from the output of the create-pull-request action.
+              // The peter-evans/create-pull-request action outputs 'pull-request-url'.
+            });
+            // Example for getting PR URL:
+            // const pr_url = `${{ steps.cpr.outputs.pull-request-url }}` (assuming 'cpr' is the id of the create-pull-request step)
