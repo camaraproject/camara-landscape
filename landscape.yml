@@ -825,8 +825,7 @@ landscape:
             name: Unryo Inc
             homepage_url: https://unryo.com/
             logo: unryo_inc.svg
-            description: Unryo is a leading provider of performance monitoring and observability solutions. Their platform allows users to monitor network, logs, servers, applications,
-              clouds, and databases with near zero maintenance and no vendor lock-in. Unryo's modern stack...
+            description: Unryo is a leading provider of performance monitoring and observability solutions. Their platform allows users to monitor network, logs, servers, applications, clouds, and databases with near zero maintenance and no vendor lock-in. Unryo's modern stack...
             crunchbase: https://www.crunchbase.com/organization/unryo
             extra:
               linkedin_url: https://www.linkedin.com/company/unryo
