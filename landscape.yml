@@ -416,6 +416,10 @@ landscape:
             homepage_url: https://www.etiya.com/
             logo: etiya.svg
           - item:
+            name: Eureka
+            homepage_url: https://eureka.ai/
+            logo: eureka.svg
+          - item:
             name: Eviden
             homepage_url: https://eviden.com/
             logo: eviden.svg
