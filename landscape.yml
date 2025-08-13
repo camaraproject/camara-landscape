@@ -455,6 +455,10 @@ landscape:
             homepage_url: https://www.hpe.com/
             logo: hpe.svg
           - item:
+            name: Hexagon
+            homepage_url: https://www.hex-group.com/
+            logo: hexagon.svg
+          - item:
             name: HKT
             homepage_url: https://www.hkt.com/
             logo: hkt.svg
