@@ -664,6 +664,10 @@ landscape:
             homepage_url: https://www.nos.pt/
             logo: nos.svg
           - item:
+            name: NTT
+            homepage_url: https://www.ntt.com/
+            logo: ntt.svg
+          - item:
             name: NTT DATA
             homepage_url: https://www.nttdata.com/
             logo: nttdata.svg
