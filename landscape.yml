@@ -217,6 +217,10 @@ landscape:
             homepage_url: https://www.akross.com.br/pt/
             logo: akross.svg
             crunchbase: https://www.crunchbase.com/organization/akross
+           - item:
+            name: Almuqeet
+            homepage_url: https://almuqeet.net/
+            logo: almuqeet.svg
           - item:
             name: Amantya
             homepage_url: https://amantyatech.com/
