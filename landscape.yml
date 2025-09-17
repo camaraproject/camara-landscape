@@ -194,60 +194,86 @@ landscape:
             homepage_url: https://1nce.com/
             logo: 1nce.svg
             crunchbase: https://www.crunchbase.com/organization/1nce-gmbh
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: A1
             homepage_url: http://www.a1.net/
             logo: a1.svg
             crunchbase: https://www.crunchbase.com/organization/a1-telekom-austria-ag
+            second_path:
+              - "Run / Operators"
           - item:
             name: ACL Digital
             homepage_url: https://www.acldigital.com/
             logo: acldigital.svg
             crunchbase: https://www.crunchbase.com/organization/alten-calsoft-labs
+            second_path:
+              - "Plan / System Integrators"
           - item:
             name: America Movil
             homepage_url: https://www.americamovil.com/
             logo: americamovil.svg
+            second_path:
+              - "Run / Operators"
           - item:
             name: ANDdigital
             homepage_url: https://www.and.digital/
             logo: anddigital.svg
+            second_path:
+              - "Plan / System Integrators"
           - item:
             name: Akross
             homepage_url: https://www.akross.com.br/pt/
             logo: akross.svg
             crunchbase: https://www.crunchbase.com/organization/akross
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: Almuqeet
             homepage_url: https://almuqeet.net/
             logo: almuqeet.svg
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: Amantya
             homepage_url: https://amantyatech.com/
             logo: amantya.svg
             crunchbase: https://www.crunchbase.com/organization/amantya-technologies
+            second_path:
+              - "Plan / System Integrators"
           - item:
             name: Amdocs
             homepage_url: https://www.amdocs.com/
             logo: amdocs.svg
             crunchbase: https://www.crunchbase.com/organization/amdocs
+            second_path:
+              - "Build / Operator API Exposure Platform Solution Provider"
           - item:
             name: ApisTraining
             homepage_url: https://apistraining.com/
             logo: apistraining.svg
+            second_path: 
+              - "Plan / Ecosystem Consultants"
           - item:
             name: Argela
             homepage_url: https://www.argela.com.tr/en
             logo: argela.svg
+            second_path:
+              - "Build / Network Capability Solution Provider"
           - item:
             name: AT&T
             homepage_url: https://www.att.com/
             logo: att.svg
             crunchbase: https://www.crunchbase.com/organization/at-t
+            second_path:
+              - "Run / Operators"
           - item:
             name: AWS (Amazon Web Services)
             homepage_url: https://aws.amazon.com/
             logo: aws.svg
+            second_path:
+              - "Build / Hyperscaler, (CPaaS) Aggregators"
           - item:
             name: Axiata
             homepage_url: https://www.axiata.com/
@@ -257,269 +283,390 @@ landscape:
             name: Axiata Digital Labs
             homepage_url: https://www.axiatadigitallabs.com/
             logo: axiatadigitallabs.svg
-            crunchbase: https://www.crunchbase.com/organization/axiata-digital-labs
+            crunchbase: https://www.crunchbase.com/organization/axiata-digital-labs            
+            second_path:
+              - "Build / API Customers, ISV"
+              - "Run / Operators"
           - item:
             name: BCTI - A Network API Company
             homepage_url: https://www.brianchin.co
             logo: bcti.svg
+            second_path:
+              - "Build / Hyperscaler, (CPaaS) Aggregators"
           - item:
             name: BearingPoint
             homepage_url: https://www.bearingpoint.com/
             logo: bearingpoint.svg
             crunchbase: https://www.crunchbase.com/organization/bearingpoint
+            second_path: 
+              - "Plan / Ecosystem Consultants"
           - item:
             name: Bharti Airtel
             homepage_url: https://www.airtel.com/
             logo: airtel.svg
+            second_path:
+              - "Run / Operators"
           - item:
             name: Bouygues Telecom
             homepage_url: https://www.bouyguestelecom.fr/
             logo: bouygues.svg
+            second_path:
+              - "Run / Operators"
           - item:
             name: Bridge Alliance
             homepage_url: https://www.bridgealliance.us/
             logo: bridgealliance.svg
             crunchbase: https://www.crunchbase.com/organization/bridge
+            second_path:
+              - "Run / Operators"
           - item:
             name: British Telecom
             homepage_url: https://www.bt.com/
             logo: bt.svg
+            second_path:
+              - "Run / Operators"
           - item:
             name: Broadpeak
             homepage_url: https://broadpeak.tv/
             logo: broadpeak.svg
             crunchbase: https://www.crunchbase.com/organization/broadpeak
+            second_path:
+              - "Build / Network Capability Solution Provider"
           - item:
             name: Capgemini
             homepage_url: https://www.capgemini.com/
             logo: capgemini.svg
             crunchbase: https://www.crunchbase.com/organization/cap-gemini
+            second_path:
+              - "Plan / System Integrators"
           - item:
             name: Centillion
             homepage_url: https://centillion.ai
             logo: centillion.svg
             crunchbase: https://www.crunchbase.com/organization/centillion-group-inc
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: Chenosis
             homepage_url: https://chenosis.io/
             logo: chenosis.svg
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: China Mobile
             homepage_url: https://www.chinamobileltd.com/
             logo: chinamobile.svg
+            second_path:
+              - "Run / Operators"
           - item:
             name: China Telecom
             homepage_url: https://www.chinatelecomglobal.com/
             logo: chinatelecom.svg
             crunchbase: https://www.crunchbase.com/organization/china-telcom
+            second_path:
+              - "Run / Operators"
           - item:
             name: China Unicom
             homepage_url: https://www.chinaunicom.com.hk/
             logo: chinaunicom.svg
             crunchbase: https://www.crunchbase.com/organization/china-unicom
+            second_path:
+              - "Run / Operators"
           - item:
             name: CINNOX
             homepage_url: https://www.cinnox.com/
             linkedin: https://www.linkedin.com/company/cinnoxhq
             description: CINNOX is an all-in-one cloud contact center platform that enhances customer engagement through seamless voice, messaging, and AI-powered interactions.
             logo: cinnox.svg
+            second_path:
+              - "Build / Hyperscaler, (CPaaS) Aggregators"
           - item:
             name: Cisco
             homepage_url: https://www.cisco.com/
             logo: cisco.svg
             crunchbase: https://www.crunchbase.com/organization/cisco
+            second_path:
+              - "Build / Network Capability Solution Provider"
           - item:
             name: CK Hutchison Holdings
             homepage_url: http://www.ckh.com.hk/
             logo: ckh.svg
             crunchbase: https://www.crunchbase.com/organization/ck-investments
+            second_path:
+              - "Run / Operators"
           - item:
             name: CloudoniX
             homepage_url: https://www.cloudonix.com/
             logo: cloudonix.svg
             crunchbase: https://www.crunchbase.com/organization/cloudonix-io
+            second_path:
+              - "Build / Hyperscaler, (CPaaS) Aggregators"
           - item:
             name: CodeB
             homepage_url: https://www.codeb.io/
             logo: codeb.svg
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: Cognizant
             homepage_url: https://www.cognizant.com/
             logo: cognizant.svg
             crunchbase: https://www.crunchbase.com/organization/cognizant-technology-solutions
+            second_path:
+              - "Plan / System Integrators"
           - item:
             name: Colony
             homepage_url: https://www.colonynetworks.com/
             logo: colonynetworks.svg
             crunchbase: https://www.crunchbase.com/organization/colony-networks
+            second_path:
+              - "Build / Network Capability Solution Provider"
           - item:
             name: Comviva
             homepage_url: https://www.comviva.com/
             logo: comviva.svg
             crunchbase: https://www.crunchbase.com/organization/comviva
+            second_path:
+              - "Build / Operator API Exposure Platform Solution Provider"
           - item:
             name: Coure
             homepage_url: https://coure-tech.com/
             logo: coure.svg
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: CPaasAA
             homepage_url: https://cpaasaa.com/
             logo: cpaasaa.svg
+            second_path:
+              - "Build / Hyperscaler, (CPaaS) Aggregators"
           - item:
             name: CSL
             homepage_url: https://www.hkcsl.com/
             logo: csl.svg
             crunchbase: https://www.crunchbase.com/organization/csl
+            second_path:
+              - "Run / Operators"
           - item:
             name: CThingsCo
             homepage_url: https://www.cthings.co/
             logo: cthingsco.svg
             crunchbase: https://www.crunchbase.com/organization/cthings-co
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: DataCurve
             homepage_url: https://datacurve.io/
             logo: datacurve.svg
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: Detecon Consulting
             homepage_url: https://www.detecon.com/
             logo: detecon.svg
             crunchbase: https://www.crunchbase.com/organization/detecon-international-consulting
+            second_path: 
+              - "Plan / Ecosystem Consultants"
           - item:
             name: Domos
             homepage_url: https://www.joindomos.com/
             logo: domos.svg
             crunchbase: https://www.crunchbase.com/organization/domos-labs
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: DriveU.auto
             homepage_url: https://driveu.auto/
             logo: driveu.svg
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: EANTC
             homepage_url: https://eantc.de/
             logo: eantc.svg
             crunchbase: https://www.crunchbase.com/organization/european-advanced-networking-test-center
+            second_path: 
+              - "Plan / Ecosystem Consultants"
           - item:
             name: Ecosteer
             homepage_url: https://ecosteer.com/
             logo: ecosteer.svg
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: EdgeContinuum
             homepage_url: https://www.edgecontinuum.com
             logo: edgecontinuum.svg
+            second_path:
+              - "Build / Network Capability Solution Provider"
           - item:
             name: EdgeXR
             homepage_url: https://www.edgexr.net
             logo: edgexr.svg
+            second_path:
+              - "Build / Network Capability Solution Provider"
           - item:
             name: Etisalat
             homepage_url: https://www.etisalat.com/
             logo: etisalat.svg
             crunchbase: https://www.crunchbase.com/organization/etisalat
+            second_path:
+              - "Run / Operators"
           - item:
             name: Etiya
             homepage_url: https://www.etiya.com/
             logo: etiya.svg
+            second_path:
+              - "Build / Operator API Exposure Platform Solution Provider"
           - item:
             name: Eureka
             homepage_url: https://eureka.ai/
             logo: eureka.svg
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: Eviden
             homepage_url: https://eviden.com/
             logo: eviden.svg
             crunchbase: https://www.crunchbase.com/organization/eviden
+            second_path:
+              - "Plan / System Integrators"
           - item:
             name: F5
             homepage_url: https://www.f5.com/
             logo: f5.svg
             crunchbase: https://www.crunchbase.com/organization/f5-networks
+            second_path:
+              - "Build / Network Capability Solution Provider"
           - item:
             name: Fujitsu
             homepage_url: https://www.fujitsu.com/
             logo: fujitsu.svg
             crunchbase: https://www.crunchbase.com/organization/fujitsu
+            second_path:
+              - "Plan / System Integrators"
           - item:
             name: Gapask
             homepage_url: https://www.gapask.com
             logo: gapask.svg
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: Google Cloud
             homepage_url: https://cloud.google.com/
             logo: googlecloud.svg
+            second_path:
+              - "Build / Hyperscaler, (CPaaS) Aggregators"
           - item:
             name: GSMA
             homepage_url: https://www.gsma.com/
             logo: gsma.svg
+            second_path: 
+              - "Plan / Ecosystem Consultants"
           - item:
             name: HCL Software
             homepage_url: https://www.hcltechsw.com/
             logo: hcl.svg
+            second_path:
+              - "Plan / System Integrators"
           - item:
             name: Hewlett Packard Enterprise
             homepage_url: https://www.hpe.com/
             logo: hpe.svg
+            second_path:
+              - "Plan / System Integrators"
           - item:
             name: Hexagon
             homepage_url: https://www.hex-group.com/
             logo: hexagon.svg
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: HKT
             homepage_url: https://www.hkt.com/
             logo: hkt.svg
+            second_path:
+              - "Run / Operators"
           - item:
             name: Huawei
             homepage_url: https://www.huawei.com/
             logo: huawei.svg
+            second_path:
+              - "Build / Network Capability Solution Provider"
           - item:
             name: IamCrypto
             homepage_url: https://iamcrypto.com/
             logo: iamcrypto.svg
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: IBM
             homepage_url: https://www.ibm.com/
             logo: ibm.svg
+            second_path:
+              - "Build / Hyperscaler, (CPaaS) Aggregators"
           - item:
             name: ICCS
             homepage_url: https://i-sense.iccs.gr/
             logo: iccs.svg
+            second_path: 
+              - "Plan / Ecosystem Consultants"
           - item:
             name: IEEE 5G6G Testbed
             homepage_url: https://testbed.ieee.org/
             logo: IEEE5G6GTestbed.svg.svg
+            second_path: 
+              - "Plan / Ecosystem Consultants"
           - item:
             name: Infobip
             homepage_url: https://www.infobip.com/
             logo: infobip.svg
+            second_path:
+              - "Build / Hyperscaler, (CPaaS) Aggregators"
           - item:
             name: InfoLysis
             homepage_url: http://www.infolysis.com/
             logo: infolysis.svg
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: Infosys
             homepage_url: https://www.infosys.com/
             logo: infosys.svg
+            second_path:
+              - "Plan / System Integrators"
           - item:
             name: Intel
             homepage_url: https://www.intel.com/
             logo: intel.svg
+            second_path:
+              - "Build / Network Capability Solution Provider"
           - item:
             name: Intracom Single Member S. A. Telecom Solutions
             homepage_url: https://www.intracom-telecom.com/
             description: Intracom Telecom is a global technology systems and solutions provider operating for over 45 years in the market located in Peania, Greece.
             logo: intracom-telecom.svg
             crunchbase: https://www.crunchbase.com/organization/intracom-telecom
+            second_path:
+              - "Build / Network Capability Solution Provider"
           - item:
             name: ION
             homepage_url: https://www.ionsmart.eu/
             logo: ion.svg
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: IPification
             homepage_url: https://www.ipification.com/
             logo: ipification.svg
+            second_path:
+              - "Build / CAMARA Transformation Function Solution Provider"
           - item:
             name: Iquall Networks
             homepage_url: https://www.iquall.net/
             logo: iquall.svg
+            second_path:
+              - "Build / Network Capability Solution Provider"
           - item:
             name: Italtel
             homepage_url: http://www.italtel.com/
@@ -529,79 +676,115 @@ landscape:
             name: JIO Platforms
             homepage_url: https://www.jio.com/platforms/
             logo: jio.svg
+            second_path:
+              - "Run / Operators"
           - item:
             name: KDDI
             homepage_url: https://www.kt.com/
             logo: kddi.svg
+            second_path:
+              - "Run / Operators"
           - item:
             name: KPN
             homepage_url: https://www.kpn.com/
             logo: kpn.svg
+            second_path:
+              - "Run / Operators"
           - item:
             name: KT
             homepage_url: https://www.kt.com/
             logo: kt.svg
+            second_path:
+              - "Run / Operators"
           - item:
             name: Kubermatic
             homepage_url: https://kubermatic.com
             logo: kubermatic.svg
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: LatenceTech
             homepage_url: https://www.latencetech.com/
             logo: latencetech.svg
             crunchbase: https://www.crunchbase.com/organization/latence-technologies
+            second_path:
+              - "Build / Network Capability Solution Provider"
           - item:
             name: Lenovo
             homepage_url: https://www.lenovo.com/
             logo: lenovo.svg
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: LFOD
             homepage_url: https://lfod.io/
             logo: lfod.svg
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: LG U+
             homepage_url: https://www.lguplus.com/
             logo: lgu+.svg
+            second_path:
+              - "Run / Operators"
           - item:
             name: Linux Foundation
             homepage_url: https://www.linuxfoundation.org
             logo: lfcolor.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            second_path: 
+              - "Plan / Ecosystem Consultants"
           - item:
             name: LocationGuru
             homepage_url: https://locationguru.com/
             logo: locationguru.svg
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: LotusFlare
             homepage_url: https://www.lotusflare.com/
             logo: lotusflare.svg
+            second_path:
+              - "Build / Operator API Exposure Platform Solution Provider"
           - item:
             name: Lytn
             homepage_url: https://www.lytn.io/
             logo: lytn.svg
             crunchbase: https://www.crunchbase.com/organization/lytn
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: M1
             homepage_url: https://www.m1.com.sg/
             logo: m1.svg
+            second_path:
+              - "Run / Operators"
           - item:
             name: M800
             homepage_url: https://www.m800.com
             linkedin: https://www.linkedin.com/company/m800/
             description: M800 is a global telecommunication and cloud communications provider specializing in secure and reliable enterprise solutions.
             logo: m800.svg
+            second_path:
+              - "Build / Hyperscaler, (CPaaS) Aggregators"
           - item:
             name: Matrixx Software
             homepage_url: https://www.matrixx.com/
             logo: matrixx.svg
+            second_path:
+              - "Build / Operator API Exposure Platform Solution Provider"
           - item:
             name: MEO
             homepage_url: https://www.meo.pt/
             logo: meo.svg
+            second_path:
+              - "Run / Operators"
           - item:
             name: Mavenir
             homepage_url: https://www.mavenir.com/
             logo: mavenir.svg
+            second_path:
+              - "Build / Network Capability Solution Provider"
           - item:
             name: Microcks
             homepage_url: https://microcks.io
@@ -610,6 +793,8 @@ landscape:
             logo: microcks.svg
             twitter: https://twitter.com/microcksio
             crunchbase: https://www.crunchbase.com/organization/microcks
+            second_path:
+              - "Build / API Customers, ISV"
             extra:
               dev_stats_url: https://microcks.devstats.cncf.io/
               artwork_url: https://github.com/cncf/artwork/blob/master/examples/sandbox.md#microcks-logos
@@ -634,164 +819,242 @@ landscape:
             name: MojoAuth
             homepage_url: https://mojoauth.com
             logo: mojoauth.svg
+            second_path:
+              - "Build / CAMARA Transformation Function Solution Provider"
           - item:
             name: MQUEST Technologies
             homepage_url: https://mquest-technologies.com
             logo: mquest.svg
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: Nabstract.io
             homepage_url: https://nabstract.io
             logo: nabstract.svg
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: National Centre of Scientific Research - Demokritos
             homepage_url: https://www.demokritos.gr/
             logo: demokritos.svg
+            second_path: 
+              - "Plan / Ecosystem Consultants"
           - item:
             name: Nearby Computing
             homepage_url: https://nearbycomputing.com/
             logo: nearbycomputing.svg
             crunchbase: https://www.crunchbase.com/organization/nearby-computing
+            second_path:
+              - "Build / Network Capability Solution Provider"
           - item:
             name: Netcracker
             homepage_url: https://www.netcracker.com/
             logo: netcracker.svg
+            second_path:
+              - "Build / Operator API Exposure Platform Solution Provider"
           - item:
             name: NetoAI
             homepage_url: https://netoai.org/
             logo: netoai.svg
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: NGMN Alliance
             homepage_url: https://www.ngmn.org/
             logo: ngmn.svg
+            second_path: 
+              - "Plan / Ecosystem Consultants"
           - item:
             name: NOS
             homepage_url: https://www.nos.pt/
             logo: nos.svg
+            second_path:
+              - "Run / Operators"
           - item:
             name: NTT
             homepage_url: https://www.ntt.com/
             logo: ntt.svg
+            second_path:
+              - "Run / Operators"
           - item:
             name: NTT DATA
             homepage_url: https://www.nttdata.com/
             logo: nttdata.svg
+            second_path:
+              - "Plan / System Integrators"
           - item:
             name: Openexpand
             homepage_url: https://openxpand.com/
             logo: openexpand.svg
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: Open Sesame
             homepage_url: https://www.opensesame.com/
             logo: opensesame.svg
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: Optare Solutions
             homepage_url: https://optaresolutions.com/
             logo: optare.svg
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: Optiva
             homepage_url: https://www.optiva.com/
             logo: optiva.svg
             crunchbase: https://www.crunchbase.com/organization/optiva
+            second_path:
+              - "Build / Operator API Exposure Platform Solution Provider"
           - item:
             name: Oracle
             homepage_url: https://www.oracle.com/
             logo: oracle.svg
+            second_path:
+              - "Build / Hyperscaler, (CPaaS) Aggregators"
           - item:
             name: phine.tech GmbH
             homepage_url: https://phine.tech/
             logo: phinetech.svg
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: plusmo
             homepage_url: https://plusmo.com/
             logo: plusmo.svg
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: Proximus
             homepage_url: https://www.proximus.com/
             logo: proximus.svg
+            second_path:
+              - "Run / Operators"
           - item:
             name: Pryvx
             homepage_url: https://www.pryvx.com/
             logo: pryvx.svg
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: Quobis
             homepage_url: https://www.quobis.com/
             logo: quobis.svg
+            second_path:
+              - "Build / Hyperscaler, (CPaaS) Aggregators"
           - item:
             name: Radisys
             homepage_url: https://www.radisys.com/
             logo: radisys.svg
+            second_path:
+              - "Build / Network Capability Solution Provider"
           - item:
             name: Rakuten
             homepage_url: https://www.rakuten.com/
             logo: rakuten.svg
+            second_path:
+              - "Run / Operators"
           - item:
             name: Red Hat
             homepage_url: https://www.redhat.com/
             logo: redhat.svg
             crunchbase: https://www.crunchbase.com/organization/red-hat
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: Reevolute
             homepage_url: https://www.reevolute.com/
             logo: reevolute.svg
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: Reply
             homepage_url: https://www.reply.com/
             logo: replylive.svg
+            second_path:
+              - "Plan / System Integrators"
           - item:
             name: Rogers
             homepage_url: https://www.rogers.com/
             logo: rogers.svg
+            second_path:
+              - "Run / Operators"
           - item:
             name: Saudi Telecom Company (STC)
             homepage_url: https://www.stc.com.sa/
             logo: stc.svg
+            second_path:
+              - "Run / Operators"
           - item:
             name: Scenera Inc
             homepage_url: https://scenera.net
             logo: scenera.svg
             crunchbase: https://www.crunchbase.com/organization/scenera-inc
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: Sekura
             homepage_url: https://www.sekura.com/
             logo: sekura.svg
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: Simptel
             homepage_url: https://www.siptel.com.sg/
             logo: simptel.svg
+            second_path:
+              - "Build / Hyperscaler, (CPaaS) Aggregators"
           - item:
             name: Sinch
             homepage_url: https://sinch.com
             logo: sinch.svg
             crunchbase: https://www.crunchbase.com/organization/sinch
+            second_path:
+              - "Build / Hyperscaler, (CPaaS) Aggregators"
           - item:
             name: Singtel
             homepage_url: https://www.singtel.com/
             logo: singtel.svg
+            second_path:
+              - "Run / Operators"
           - item:
             name: SK Telecom
             homepage_url: https://www.sktelecom.com/
             logo: sktelecom.svg
+            second_path:
+              - "Run / Operators"
           - item:
             name: Spry Fox Networks
             homepage_url: https://www.spryfoxnetworks.com/
             logo: spryfox.svg
+            second_path:
+              - "Build / Network Capability Solution Provider"
           - item:
             name: StarHub
             homepage_url: https://www.starhub.com/
             logo: starhub.svg
+            second_path:
+              - "Run / Operators"
           - item:
             name: Startelelogic
             homepage_url: https://www.startelelogic.com/
             logo: startelelogic.svg
             crunchbase: https://www.crunchbase.com/organization/startele-logic
+            second_path:
+              - "Build / Operator API Exposure Platform Solution Provider"
           - item:
             name: Stechs
             homepage_url: https://www.stechs.io/
             logo: stechs.svg
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: Summit
             homepage_url: https://www.summit-tech.ca/
             logo: summit.svg
+            second_path:
+              - "Plan / System Integrators"
           - item:
             name: Swisscom
             homepage_url: https://www.swisscom.ch/
@@ -801,71 +1064,103 @@ landscape:
             name: Symponica
             homepage_url: https://symphonica.com/
             logo: symphonica.svg
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: Syniverse
             homepage_url: https://www.syniverse.com/
             logo: syniverse.svg
+            second_path:
+              - "Build / Hyperscaler, (CPaaS) Aggregators"
           - item:
             name: Tata Consultancy Services (TCS)
             homepage_url: https://www.tcs.com/
             logo: tata.svg
+            second_path:
+              - "Plan / System Integrators"
           - item:
             name: Tata Elxsi
             homepage_url: https://www.tataelxsi.com/
             logo: tata_elxsi.svg
+            second_path:
+              - "Plan / System Integrators"
           - item:
             name: Telenor
             homepage_url: https://www.telenor.com/
             logo: telenor.svg
+            second_path:
+              - "Run / Operators"
           - item:
             name: Telkomsel
             homepage_url: https://www.telkomsel.com/
             logo: telkomsel.svg
+            second_path:
+              - "Run / Operators"
           - item:
             name: Telqon
             homepage_url: https://www.telqon.com/
             logo: telqon.svg
+            second_path:
+              - "Build / Operator API Exposure Platform Solution Provider"
           - item:
             name: Telstra
             homepage_url: https://www.telstra.com.au/
             logo: telstra.svg
+            second_path:
+              - "Run / Operators"
           - item:
             name: TELUS
             homepage_url: https://www.telus.com/
             logo: telus.svg
+            second_path:
+              - "Run / Operators"
           - item:
             name: TIM
             homepage_url: https://www.tim.com.br/
             logo: tim.svg
+            second_path:
+              - "Run / Operators"
           - item:
             name: TruSense
             homepage_url: https://trusense.id/
             logo: trusense.svg
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: Unryo Inc
             homepage_url: https://unryo.com/
             logo: unryo_inc.svg
             description: Unryo is a leading provider of performance monitoring and observability solutions. Their platform allows users to monitor network, logs, servers, applications, clouds, and databases with near zero maintenance and no vendor lock-in. Unryo's modern stack...
             crunchbase: https://www.crunchbase.com/organization/unryo
+            second_path:
+              - "Build / API Customers, ISV"
             extra:
               linkedin_url: https://www.linkedin.com/company/unryo
           - item:
             name: UTH UK Limited
             homepage_url: https://www.uth-uk.com/
             logo: uth.svg
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: VIAVI Solutions
             homepage_url: https://www.viavisolutions.com/
             logo: viavi.svg
             description: VIAVI is a global provider of network test, monitoring and assurance solutions for telecommunications, cloud, enterprises, first responders, military, aerospace and railway. VIAVI is also a leader in light management technologies for 3D sensing, anti-counterfeiting, consumer electronics, industrial, automotive, government and aerospace applications.
+            second_path:
+              - "Build / Network Capability Solution Provider"
           - item:
             name: VIRTUS - Research, Development and Innovation Center
             homepage_url: https://www.virtus.ufcg.edu.br
             logo: virtus.svg
+            second_path: 
+              - "Plan / Ecosystem Consultants"
           - item:
             name: VROMBR
             homepage_url: https://vrombr.games
             logo: vrombr.svg
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: WCG
             homepage_url: https://www.wraycastle.com/
@@ -874,23 +1169,35 @@ landscape:
             name: Whale Cloud
             homepage_url: https://www.whalecloud.com/
             logo: whalecloud.svg
+            second_path:
+              - "Build / Operator API Exposure Platform Solution Provider"
           - item:
             name: Xacria
             homepage_url: https://www.xacria.com/
             logo: xacria.svg
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: Xecurity Pulse
             homepage_url: https://www.xecuritypulse.com/
             logo: xecurity-pulse.svg
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: XFlow Software Technology LLC
             homepage_url: https://www.xflowresearch.com/
             logo: xflow.svg
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: Yaana
             homepage_url: https://www.yaanatech.com/
             logo: yaana.svg
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: ZTE Corporation
             homepage_url: https://www.zte.com.cn/
             logo: zte.svg
+            second_path:
+              - "Build / Network Capability Solution Provider"
