@@ -12,6 +12,8 @@ landscape:
             description: Founded in 1989 and headquartered in Dublin, Ireland, Accenture is a company that provides services and solutions in strategy, consulting, digital, technology, and operations. The company serves customers in industries including communications, media and technology, financial services, health and public service, as well as products and resources.
             crunchbase: https://www.crunchbase.com/organization/accenture
             twitter: https://twitter.com/Accenture
+            second_path: 
+              - "Plan / System Integrators"
             extra:
               linkedin_url: https://www.linkedin.com/company/accenture
           - item:
@@ -21,6 +23,8 @@ landscape:
             description: Founded in 1995, Deutsche Telekom AG is a Germany-based integrated telecommunications provider, offering its customers around the world a portfolio of services in the areas of telecommunications and information technology.
             crunchbase: https://www.crunchbase.com/organization/deutsche-telekom
             twitter: https://twitter.com/deutschetelekom
+            second_path:
+              - "Run / Operators"
             extra:
               linkedin_url: https://www.linkedin.com/company/telekom
           - item:
@@ -29,6 +33,8 @@ landscape:
             logo: ericsson_ab.svg
             organization:
               name: Ericsson AB
+            second_path:
+              - "Build / Network Capability Solution Provider"
           - item:
             name: Microsoft Corporation
             homepage_url: https://microsoft.com/
@@ -36,6 +42,8 @@ landscape:
             description: The Microsoft Corporation is a publicly owned American software corporation headquartered in Redmond, Washington. Founded in 1975, the company develops, manufactures, licenses and supports a variety of computing products used by consumers and businesses. Some of their popular products include Windows, Xbox, Microsoft HoloLens, Microsoft Lumia, Outlook, Skype, OneDrive and Microsoft Band.
             crunchbase: https://www.crunchbase.com/organization/microsoft
             twitter: https://twitter.com/Microsoft
+            second_path:
+              - "Build / Hyperscaler, (CPaaS) Aggregators"
             extra:
               linkedin_url: https://www.linkedin.com/company/microsoft
           - item:
@@ -45,6 +53,8 @@ landscape:
             description: 'Nokia Corporation is a Finland-based company that invests in technologies. The company operates through three business segments: Nokia Networks, HERE and Nokia Technologies. Nokia Networks offers network infrastructure software, hardware, and services. Nokia Networks has two segments: Mobile Broadband and Global Services. HERE offers maps, a location platform, and location experiences across different screens and operating systems. HERE offer maps for around 190 countries, voice guided navigation for 99 countries in around 50 languages and live traffic information for around 44 countries. Nokia Technologies develops and licenses technologies. Nokia Technologies manages an Intellectual Property (IP) portfolio of approximately 10,000 patent families consisted of approximately 30,000 individual patents and patent applications.'
             crunchbase: https://www.crunchbase.com/organization/nokia
             twitter: https://twitter.com/nokia
+            second_path:
+              - "Build / Hyperscaler, (CPaaS) Aggregators"
             extra:
               linkedin_url: https://www.linkedin.com/company/nokianet
           - item:
@@ -60,6 +70,8 @@ landscape:
               Orange and any other Orange product or service names included in this material are trademarks of Orange or Orange Brand Services Limited.
             crunchbase: https://www.crunchbase.com/organization/orange
             twitter: https://twitter.com/orange
+            second_path:
+              - "Run / Operators"
             extra:
               linkedin_url: https://www.linkedin.com/company/orange-services
           - item:
@@ -69,6 +81,8 @@ landscape:
             description: Telefónica, SA is a Spanish multinational telecommunications company headquartered in Madrid, Spain.
             crunchbase: https://www.crunchbase.com/organization/telefonica
             twitter: https://twitter.com/Telefonica
+            second_path:
+              - "Run / Operators"
             extra:
               linkedin_url: https://www.linkedin.com/company/telefonica-global-solutions
           - item:
@@ -78,6 +92,8 @@ landscape:
             description: "As America's Un-carrier, T-Mobile US, Inc. (NASDAQ: TMUS) is redefining the way consumers and businesses buy wireless services through leading product and service innovation. The Company's advanced nationwide 4G LTE network delivers outstanding wireless experiences to 67.4 million customers who are unwilling to compromise on quality and value. Based in Bellevue, Washington, T-Mobile US provides services through its subsidiaries and operates its flagship brands, T-Mobile and MetroPCS."
             crunchbase: https://www.crunchbase.com/organization/t-mobile
             twitter: https://twitter.com/TMobile
+            second_path:
+              - "Run / Operators"
             extra:
               linkedin_url: https://www.linkedin.com/company/metropcs
           - item:
@@ -87,6 +103,8 @@ landscape:
             description: Verizon is a telecommunications company that offers broadband and other wireless and wireline communications services to consumer, business, government, and wholesale customers. Verizon is headquartered in New York City, New York.
             crunchbase: https://www.crunchbase.com/organization/verizon
             twitter: https://twitter.com/Verizon
+            second_path:
+              - "Run / Operators"
             extra:
               linkedin_url: https://www.linkedin.com/company/verizon
           - item:
@@ -105,6 +123,8 @@ landscape:
               Vodafone Group plc /ˈvoʊdəfoʊn/ is a British multinational telecommunications company.
             crunchbase: https://www.crunchbase.com/organization/vodafone
             twitter: https://twitter.com/VodafoneGroup
+            second_path:
+              - "Run / Operators"
             extra:
               linkedin_url: https://www.linkedin.com/company/vodafone
       - subcategory:
@@ -116,6 +136,8 @@ landscape:
             logo: aduna_global_llc.svg
             organization:
               name: Aduna Global LLC
+            second_path:
+              - "Build / Hyperscaler, (CPaaS) Aggregators"
           - item:
             name: Aleph Zero Foundation
             homepage_url: https://alephzero.org/
@@ -124,6 +146,8 @@ landscape:
             organization:
               name: Aleph Zero Foundation
               linkedin: https://www.linkedin.com/company/alephzero
+            second_path:
+              - "Build / API Customers, ISV"
             extra:
               linkedin_url: https://www.linkedin.com/company/alephzero
           - item:
@@ -133,6 +157,8 @@ landscape:
             description: Founded in 1988, CableLabs is a non-profit research and development consortium that serves to define interoperable solutions among cable operator members and their technology vendors in order to reduce costs, create competition in the supply chain, and drive scale.  CableLabs is dedicated to creating innovative ideas that significantly impact their cable operator members' business. The company is headquartered in Louisville, Colorado.
             crunchbase: https://www.crunchbase.com/organization/cablelabs
             twitter: https://twitter.com/CableLabs
+            second_path:
+              - "Plan / Ecosystem Consultants"
             extra:
               linkedin_url: https://www.linkedin.com/company/cablelabs
           - item:
@@ -142,6 +168,8 @@ landscape:
             description: Charter Communications, Inc., is an American telecommunications and mass media company that offers its services to consumers and businesses under the branding of Spectrum.
             crunchbase: https://www.crunchbase.com/organization/time-warner-cable
             twitter: https://twitter.com/GetSpectrum
+            second_path:
+              - "Run / Operators"
             extra:
               linkedin_url: https://www.linkedin.com/company/spectrum
           - item:
@@ -153,6 +181,8 @@ landscape:
             organization:
               name: IndyKite Inc.
               linkedin: https://www.linkedin.com/company/indykite
+            second_path:
+              - "Build / API Customers, ISV"
             extra:
               linkedin_url: https://www.linkedin.com/company/indykite
           - item:
@@ -161,6 +191,8 @@ landscape:
             logo: kyxstart.svg
             organization:
               name: KYXSTART
+            second_path:
+              - "Build / API Customers, ISV"
           - item:
             name: Shabodi
             homepage_url: https://shabodi.com/
@@ -169,6 +201,8 @@ landscape:
             organization:
               name: Shabodi
               linkedin: https://www.linkedin.com/company/shabodi
+            second_path:
+              - "Plan / System Integrators"
             extra:
               linkedin_url: https://www.linkedin.com/company/shabodi
       - subcategory:
@@ -181,8 +215,46 @@ landscape:
             description: OpenID Foundation promotes "Open and Safe Identity Layer" in the Cyberspace.
             crunchbase: https://www.crunchbase.com/organization/openid-foundation
             twitter: https://twitter.com/openid
+            second_path:
+              - "Build / CAMARA Transformation Function Solution Provider
             extra:
               linkedin_url: https://www.linkedin.com/company/openid-foundation
+  - category:
+    name: Plan
+    subcategories:
+      - subcategory:
+        name: Ecosystem Consultants
+        items: []
+      - subcategory:
+        name: System Integrators
+        items: []
+  - category:
+    name: Build
+    subcategories:
+      - subcategory:
+        name: API Customers, ISV
+        items: []
+      - subcategory:
+        name: Hyperscaler, (CPaaS) Aggregators
+        items: []
+      - subcategory:
+        name: Operator Portal Solution Provider
+        items: []
+      - subcategory:
+        name: Operator API Exposure Platform Solution Provider
+        items: []
+      - subcategory:
+        name: CAMARA Transformation Function Solution Provider
+        items: []
+      - subcategory:
+        name: Network Capability Solution Provider
+        items: []
+  - category:
+    name: Run
+    subcategories:
+      - subcategory:
+        name: Operators
+        items: []
   - category:
     name: Participating Organizations
     subcategories:
