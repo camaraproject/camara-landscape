@@ -162,6 +162,12 @@ landscape:
             organization:
               name: KYXSTART
           - item:
+            name: Sent, Inc.
+            homepage_url: https://sent.dm/
+            logo: sent_inc.svg
+            organization:
+              name: Sent, Inc.
+          - item:
             name: Shabodi
             homepage_url: https://shabodi.com/
             logo: shabodi.svg
