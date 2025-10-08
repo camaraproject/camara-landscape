@@ -820,6 +820,10 @@ landscape:
             homepage_url: https://www.tataelxsi.com/
             logo: tata_elxsi.svg
           - item:
+            name: Telcoflo
+            homepage_url: https://telcoflo.dev/
+            logo: telcoflo.svg
+          - item:
             name: Telenor
             homepage_url: https://www.telenor.com/
             logo: telenor.svg
