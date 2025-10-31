@@ -30,15 +30,6 @@ landscape:
             organization:
               name: Ericsson AB
           - item:
-            name: Microsoft Corporation
-            homepage_url: https://microsoft.com/
-            logo: microsoft_corporation.svg
-            description: The Microsoft Corporation is a publicly owned American software corporation headquartered in Redmond, Washington. Founded in 1975, the company develops, manufactures, licenses and supports a variety of computing products used by consumers and businesses. Some of their popular products include Windows, Xbox, Microsoft HoloLens, Microsoft Lumia, Outlook, Skype, OneDrive and Microsoft Band.
-            crunchbase: https://www.crunchbase.com/organization/microsoft
-            twitter: https://twitter.com/Microsoft
-            extra:
-              linkedin_url: https://www.linkedin.com/company/microsoft
-          - item:
             name: Nokia Corporation
             homepage_url: https://nokia.com/
             logo: nokia_corporation.svg
@@ -180,10 +171,6 @@ landscape:
       - subcategory:
         name: Associate
         items:
-          - item:
-            name: Open Mobile Alliance
-            homepage_url: https://www.openmobilealliance.org/
-            logo: oma.svg
           - item:
             name: OpenID Foundation
             homepage_url: https://openid.org/
