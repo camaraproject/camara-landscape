@@ -159,6 +159,7 @@ landscape:
             description: 'Nearby Computing: Revolutionizing network management with cutting-edge automation for Telcos & Enterprises.'
             organization:
               name: Nearby Computing
+            crunchbase: https://www.crunchbase.com/organization/nearby-computing
           - item:
             name: Sent, Inc.
             homepage_url: https://sent.dm/
@@ -662,6 +663,15 @@ landscape:
               summary_intro_url: https://www.youtube.com/watch?v=E8rjUwznO-Q
               clomonitor_name: microcks
           - item:
+            name: Microsoft Corporation
+            homepage_url: https://microsoft.com/
+            logo: microsoft_corporation.svg
+            description: The Microsoft Corporation is a publicly owned American software corporation headquartered in Redmond, Washington. Founded in 1975, the company develops, manufactures, licenses and supports a variety of computing products used by consumers and businesses. Some of their popular products include Windows, Xbox, Microsoft HoloLens, Microsoft Lumia, Outlook, Skype, OneDrive and Microsoft Band.
+            crunchbase: https://www.crunchbase.com/organization/microsoft
+            twitter: https://twitter.com/Microsoft
+            extra:
+              linkedin_url: https://www.linkedin.com/company/microsoft             
+          - item:
             name: MojoAuth
             homepage_url: https://mojoauth.com
             logo: mojoauth.svg
@@ -677,11 +687,6 @@ landscape:
             name: National Centre of Scientific Research - Demokritos
             homepage_url: https://www.demokritos.gr/
             logo: demokritos.svg
-          - item:
-            name: Nearby Computing
-            homepage_url: https://nearbycomputing.com/
-            logo: nearbycomputing.svg
-            crunchbase: https://www.crunchbase.com/organization/nearby-computing
           - item:
             name: Netcracker
             homepage_url: https://www.netcracker.com/
