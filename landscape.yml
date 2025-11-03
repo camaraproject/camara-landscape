@@ -30,15 +30,6 @@ landscape:
             organization:
               name: Ericsson AB
           - item:
-            name: Microsoft Corporation
-            homepage_url: https://microsoft.com/
-            logo: microsoft_corporation.svg
-            description: The Microsoft Corporation is a publicly owned American software corporation headquartered in Redmond, Washington. Founded in 1975, the company develops, manufactures, licenses and supports a variety of computing products used by consumers and businesses. Some of their popular products include Windows, Xbox, Microsoft HoloLens, Microsoft Lumia, Outlook, Skype, OneDrive and Microsoft Band.
-            crunchbase: https://www.crunchbase.com/organization/microsoft
-            twitter: https://twitter.com/Microsoft
-            extra:
-              linkedin_url: https://www.linkedin.com/company/microsoft
-          - item:
             name: Nokia Corporation
             homepage_url: https://nokia.com/
             logo: nokia_corporation.svg
@@ -162,6 +153,13 @@ landscape:
             organization:
               name: KYXSTART
           - item:
+            name: Nearby Computing
+            homepage_url: https://nearbycomputing.com/
+            logo: nearby_computing.svg
+            description: 'Nearby Computing: Revolutionizing network management with cutting-edge automation for Telcos & Enterprises.'
+            organization:
+              name: Nearby Computing
+          - item:
             name: Sent, Inc.
             homepage_url: https://sent.dm/
             logo: sent_inc.svg
@@ -189,6 +187,33 @@ landscape:
             twitter: https://twitter.com/openid
             extra:
               linkedin_url: https://www.linkedin.com/company/openid-foundation
+          - item:
+            name: Open Mobile Alliance (OMA)
+            homepage_url: https://openmobilealliance.org/
+            logo: open_mobile_alliance_oma.svg
+            description: OMA SpecWorks – a new approach to standards development  Streamlined processes and expertise from across the wireless industry focused on delivering specifications at the services layer that support the billions of new and existing fixed and mobile ter...
+            twitter: https://twitter.com/OMASpecWorks
+            organization:
+              name: Open Mobile Alliance (OMA)
+              linkedin: https://www.linkedin.com/company/open-mobile-alliance
+            extra:
+              linkedin_url: https://www.linkedin.com/company/open-mobile-alliance
+          - item:
+            name: UFRN
+            homepage_url: https://ufrn.br/
+            logo: ufrn.svg
+            description: The Federal University of Rio Grande do Norte (UFRN) is a prestigious public Brazilian university located in Natal, Brazil. Established in 1960, UFRN offers a wide range of undergraduate and graduate programs across 60 departments. Known for its resear...
+            organization:
+              name: UFRN
+          - item:
+            name: University of California, Berkeley
+            homepage_url: https://berkeley.edu/
+            logo: university_of_california_berkeley.svg
+            description: University of California Berkeley is the oldest of the campuses under the University of California umbrella. The university has made its mark as one of the premier research institutions in the country. The student body consists of an estimated 25,000+ undergraduates and 10,000+ graduate students.
+            crunchbase: https://www.crunchbase.com/organization/university-of-california-berkeley
+            twitter: https://twitter.com/UCBerkeley
+            extra:
+              linkedin_url: https://www.linkedin.com/company/uc-berkeley
   - category:
     name: Participating Organizations
     subcategories:
