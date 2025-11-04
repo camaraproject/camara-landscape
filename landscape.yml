@@ -159,7 +159,6 @@ landscape:
             description: 'Nearby Computing: Revolutionizing network management with cutting-edge automation for Telcos & Enterprises.'
             organization:
               name: Nearby Computing
-            crunchbase: https://www.crunchbase.com/organization/nearby-computing
           - item:
             name: Sent, Inc.
             homepage_url: https://sent.dm/
@@ -215,6 +214,15 @@ landscape:
             twitter: https://twitter.com/UCBerkeley
             extra:
               linkedin_url: https://www.linkedin.com/company/uc-berkeley
+          - item:
+            name: University of Colorado Boulder
+            homepage_url: https://colorado.edu/
+            logo: university_of_colorado_boulder.svg
+            description: The University of Colorado at Boulder is a public research university located in Boulder, Colorado. It is the flagship university of the University of Colorado system and was founded five months before Colorado was admitted to the union in 1876. It is comprised of nine colleges and schools.
+            crunchbase: https://www.crunchbase.com/organization/university-of-colorado-boulder
+            twitter: https://twitter.com/CUBoulder
+            extra:
+              linkedin_url: https://www.linkedin.com/company/university-of-colorado
   - category:
     name: Participating Organizations
     subcategories:
@@ -670,7 +678,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/microsoft
             twitter: https://twitter.com/Microsoft
             extra:
-              linkedin_url: https://www.linkedin.com/company/microsoft             
+              linkedin_url: https://www.linkedin.com/company/microsoft
           - item:
             name: MojoAuth
             homepage_url: https://mojoauth.com
