@@ -870,6 +870,10 @@ landscape:
             homepage_url: https://www.telkomsel.com/
             logo: telkomsel.svg
           - item:
+            name: TelliSIM
+            homepage_url: https://tellisim.com/
+            logo: TelliSIM.svg
+          - item:
             name: Telqon
             homepage_url: https://www.telqon.com/
             logo: telqon.svg
