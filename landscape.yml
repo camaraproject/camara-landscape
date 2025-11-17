@@ -1237,9 +1237,7 @@ landscape:
           - item:
             name: TruSense
             homepage_url: https://trusense.id/
-            logo: trusense.svg
-            second_path:
-              - "Solution Provider / Network Capability Solution Providers"
+            logo: trusense.svg            
             second_path:
               - "Operation / API Customers"
               - "Solution Provider / Network Capability Solution Providers"
