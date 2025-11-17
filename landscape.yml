@@ -12,6 +12,8 @@ landscape:
             description: Founded in 1989 and headquartered in Dublin, Ireland, Accenture is a company that provides services and solutions in strategy, consulting, digital, technology, and operations. The company serves customers in industries including communications, media and technology, financial services, health and public service, as well as products and resources.
             crunchbase: https://www.crunchbase.com/organization/accenture
             twitter: https://twitter.com/Accenture
+            second_path: 
+              - "Planning / Ecosystem Consultants & Training Partners"
             extra:
               linkedin_url: https://www.linkedin.com/company/accenture
           - item:
@@ -21,12 +23,18 @@ landscape:
             description: Founded in 1995, Deutsche Telekom AG is a Germany-based integrated telecommunications provider, offering its customers around the world a portfolio of services in the areas of telecommunications and information technology.
             crunchbase: https://www.crunchbase.com/organization/deutsche-telekom
             twitter: https://twitter.com/deutschetelekom
+            second_path:
+              - "Operation / Operators"
             extra:
               linkedin_url: https://www.linkedin.com/company/telekom
           - item:
             name: Ericsson AB
             homepage_url: https://ericsson.com/en
             logo: ericsson_ab.svg
+            second_path:
+              - "Solution Provider / API Exposure Platform Solution Providers"
+              - "Solution Provider / Network Capability Solution Providers"
+              - "Solution Provider / Transformation Function Solution Providers"
             organization:
               name: Ericsson AB
           - item:
@@ -36,6 +44,11 @@ landscape:
             description: 'Nokia Corporation is a Finland-based company that invests in technologies. The company operates through three business segments: Nokia Networks, HERE and Nokia Technologies. Nokia Networks offers network infrastructure software, hardware, and services. Nokia Networks has two segments: Mobile Broadband and Global Services. HERE offers maps, a location platform, and location experiences across different screens and operating systems. HERE offer maps for around 190 countries, voice guided navigation for 99 countries in around 50 languages and live traffic information for around 44 countries. Nokia Technologies develops and licenses technologies. Nokia Technologies manages an Intellectual Property (IP) portfolio of approximately 10,000 patent families consisted of approximately 30,000 individual patents and patent applications.'
             crunchbase: https://www.crunchbase.com/organization/nokia
             twitter: https://twitter.com/nokia
+            second_path:
+              - "Solution Provider / API Exposure Platform Solution Providers"
+              - "Solution Provider / Network Capability Solution Providers"
+              - "Solution Provider / Transformation Function Solution Providers"
+              - "Solution Provider / Portal Solution Providers"
             extra:
               linkedin_url: https://www.linkedin.com/company/nokianet
           - item:
@@ -51,6 +64,8 @@ landscape:
               Orange and any other Orange product or service names included in this material are trademarks of Orange or Orange Brand Services Limited.
             crunchbase: https://www.crunchbase.com/organization/orange
             twitter: https://twitter.com/orange
+            second_path:
+              - "Operation / Operators"
             extra:
               linkedin_url: https://www.linkedin.com/company/orange-services
           - item:
@@ -60,6 +75,8 @@ landscape:
             description: Telefónica, SA is a Spanish multinational telecommunications company headquartered in Madrid, Spain.
             crunchbase: https://www.crunchbase.com/organization/telefonica
             twitter: https://twitter.com/Telefonica
+            second_path:
+              - "Operation / Operators"
             extra:
               linkedin_url: https://www.linkedin.com/company/telefonica-global-solutions
           - item:
@@ -69,6 +86,8 @@ landscape:
             description: "As America's Un-carrier, T-Mobile US, Inc. (NASDAQ: TMUS) is redefining the way consumers and businesses buy wireless services through leading product and service innovation. The Company's advanced nationwide 4G LTE network delivers outstanding wireless experiences to 67.4 million customers who are unwilling to compromise on quality and value. Based in Bellevue, Washington, T-Mobile US provides services through its subsidiaries and operates its flagship brands, T-Mobile and MetroPCS."
             crunchbase: https://www.crunchbase.com/organization/t-mobile
             twitter: https://twitter.com/TMobile
+            second_path:
+              - "Operation / Operators"
             extra:
               linkedin_url: https://www.linkedin.com/company/metropcs
           - item:
@@ -78,6 +97,8 @@ landscape:
             description: Verizon is a telecommunications company that offers broadband and other wireless and wireline communications services to consumer, business, government, and wholesale customers. Verizon is headquartered in New York City, New York.
             crunchbase: https://www.crunchbase.com/organization/verizon
             twitter: https://twitter.com/Verizon
+            second_path:
+              - "Operation / Operators"
             extra:
               linkedin_url: https://www.linkedin.com/company/verizon
           - item:
@@ -96,6 +117,8 @@ landscape:
               Vodafone Group plc /ˈvoʊdəfoʊn/ is a British multinational telecommunications company.
             crunchbase: https://www.crunchbase.com/organization/vodafone
             twitter: https://twitter.com/VodafoneGroup
+            second_path:
+              - "Operation / Operators"
             extra:
               linkedin_url: https://www.linkedin.com/company/vodafone
       - subcategory:
@@ -105,12 +128,14 @@ landscape:
             name: Aduna Global LLC
             homepage_url: https://adunaglobal.com/
             logo: aduna_global_llc.svg
-            organization:
-              name: Aduna Global LLC
+            second_path:
+              - "Operation / Hyperscalers, CPaaS Providers, Aggregators"
           - item:
             name: Aleph Zero Foundation
             homepage_url: https://alephzero.org/
             logo: aleph_zero_foundation.svg
+            second_path:
+              - "Solution Provider / Independent Software Vendors"
             description: Aleph Zero is a non-profit organization dedicated to advancing decentralized technologies. They offer an enterprise-grade public blockchain with private smart contracts powered by AZERO. Their mission is to create a secure blockchain ecosystem and deve...
             organization:
               name: Aleph Zero Foundation
@@ -124,6 +149,8 @@ landscape:
             description: Founded in 1988, CableLabs is a non-profit research and development consortium that serves to define interoperable solutions among cable operator members and their technology vendors in order to reduce costs, create competition in the supply chain, and drive scale.  CableLabs is dedicated to creating innovative ideas that significantly impact their cable operator members' business. The company is headquartered in Louisville, Colorado.
             crunchbase: https://www.crunchbase.com/organization/cablelabs
             twitter: https://twitter.com/CableLabs
+            second_path:
+              - "Operation / Operators"
             extra:
               linkedin_url: https://www.linkedin.com/company/cablelabs
           - item:
@@ -133,6 +160,8 @@ landscape:
             description: Charter Communications, Inc., is an American telecommunications and mass media company that offers its services to consumers and businesses under the branding of Spectrum.
             crunchbase: https://www.crunchbase.com/organization/time-warner-cable
             twitter: https://twitter.com/GetSpectrum
+            second_path:
+              - "Operation / Operators"
             extra:
               linkedin_url: https://www.linkedin.com/company/spectrum
           - item:
@@ -141,6 +170,8 @@ landscape:
             logo: indykite_inc.svg
             description: Sky is blue - 4IR is here. Curious to know what will be announced Apr 20, 2020 – subscribe here.
             twitter: https://twitter.com/indykiteone
+            second_path:
+              - "Operation / API Customers"
             organization:
               name: IndyKite Inc.
               linkedin: https://www.linkedin.com/company/indykite
@@ -150,12 +181,16 @@ landscape:
             name: KYXSTART
             homepage_url: https://kyxstart.com/
             logo: kyxstart.svg
+            second_path:
+              - "Operation / API Customers"
             organization:
               name: KYXSTART
           - item:
             name: Nearby Computing
             homepage_url: https://nearbycomputing.com/
             logo: nearby_computing.svg
+            second_path:
+              - "Operation / API Customers"
             description: 'Nearby Computing: Revolutionizing network management with cutting-edge automation for Telcos & Enterprises.'
             organization:
               name: Nearby Computing
@@ -163,12 +198,14 @@ landscape:
             name: Sent, Inc.
             homepage_url: https://sent.dm/
             logo: sent_inc.svg
-            organization:
-              name: Sent, Inc.
+            second_path:
+              - "Operation / Hyperscalers, CPaaS Providers, Aggregators"
           - item:
             name: Shabodi
             homepage_url: https://shabodi.com/
             logo: shabodi.svg
+            second_path:
+              - "Solution Provider / API Exposure Platform Solution Providers"
             description: Shabodi is a company that empowers enterprises, system integrators, and telcos to build high-performance enterprise applications on advanced networks.
             organization:
               name: Shabodi
@@ -185,12 +222,16 @@ landscape:
             description: OpenID Foundation promotes "Open and Safe Identity Layer" in the Cyberspace.
             crunchbase: https://www.crunchbase.com/organization/openid-foundation
             twitter: https://twitter.com/openid
+            second_path:
+              - "Planning / Associations"
             extra:
               linkedin_url: https://www.linkedin.com/company/openid-foundation
           - item:
             name: Open Mobile Alliance (OMA)
             homepage_url: https://openmobilealliance.org/
             logo: open_mobile_alliance_oma.svg
+            second_path:
+              - "Planning / Associations"
             description: OMA SpecWorks – a new approach to standards development  Streamlined processes and expertise from across the wireless industry focused on delivering specifications at the services layer that support the billions of new and existing fixed and mobile ter...
             twitter: https://twitter.com/OMASpecWorks
             organization:
@@ -202,6 +243,8 @@ landscape:
             name: UFRN
             homepage_url: https://ufrn.br/
             logo: ufrn.svg
+            second_path: 
+              - "Planning / Research Partners"
             description: The Federal University of Rio Grande do Norte (UFRN) is a prestigious public Brazilian university located in Natal, Brazil. Established in 1960, UFRN offers a wide range of undergraduate and graduate programs across 60 departments. Known for its resear...
             organization:
               name: UFRN
@@ -212,6 +255,8 @@ landscape:
             description: University of California Berkeley is the oldest of the campuses under the University of California umbrella. The university has made its mark as one of the premier research institutions in the country. The student body consists of an estimated 25,000+ undergraduates and 10,000+ graduate students.
             crunchbase: https://www.crunchbase.com/organization/university-of-california-berkeley
             twitter: https://twitter.com/UCBerkeley
+            second_path: 
+              - "Planning / Research Partners"
             extra:
               linkedin_url: https://www.linkedin.com/company/uc-berkeley
           - item:
@@ -221,6 +266,8 @@ landscape:
             description: The University of Colorado at Boulder is a public research university located in Boulder, Colorado. It is the flagship university of the University of Colorado system and was founded five months before Colorado was admitted to the union in 1876. It is comprised of nine colleges and schools.
             crunchbase: https://www.crunchbase.com/organization/university-of-colorado-boulder
             twitter: https://twitter.com/CUBoulder
+            second_path: 
+              - "Planning / Research Partners"
             extra:
               linkedin_url: https://www.linkedin.com/company/university-of-colorado
   - category:
@@ -234,222 +281,323 @@ landscape:
             homepage_url: https://1nce.com/
             logo: 1nce.svg
             crunchbase: https://www.crunchbase.com/organization/1nce-gmbh
+            second_path:
+              - "Operation / Operators"
           - item:
             name: A1
             homepage_url: http://www.a1.net/
             logo: a1.svg
             crunchbase: https://www.crunchbase.com/organization/a1-telekom-austria-ag
+            second_path:
+              - "Operation / Operators"
           - item:
             name: ACL Digital
             homepage_url: https://www.acldigital.com/
             logo: acldigital.svg
             crunchbase: https://www.crunchbase.com/organization/alten-calsoft-labs
+            second_path:
+              - "Integration / System Integrators"
           - item:
             name: America Movil
             homepage_url: https://www.americamovil.com/
             logo: americamovil.svg
+            second_path:
+              - "Operation / Operators"
           - item:
             name: ANDdigital
             homepage_url: https://www.and.digital/
             logo: anddigital.svg
+            second_path:
+              - "Integration / System Integrators"
           - item:
             name: Akross
             homepage_url: https://www.akross.com.br/pt/
             logo: akross.svg
             crunchbase: https://www.crunchbase.com/organization/akross
+            second_path:
+              - "Integration / System Integrators"
           - item:
             name: Almuqeet
             homepage_url: https://almuqeet.net/
             logo: almuqeet.svg
+            second_path:
+              - "Operation / Hyperscalers, CPaaS Providers, Aggregators"
           - item:
             name: Amantya
             homepage_url: https://amantyatech.com/
             logo: amantya.svg
             crunchbase: https://www.crunchbase.com/organization/amantya-technologies
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
           - item:
             name: Amdocs
             homepage_url: https://www.amdocs.com/
             logo: amdocs.svg
             crunchbase: https://www.crunchbase.com/organization/amdocs
+            second_path:
+              - "Solution Provider / API Exposure Platform Solution Providers"
+              - "Solution Provider / Network Capability Solution Providers"
+              - "Solution Provider / Transformation Function Solution Providers"
           - item:
             name: ApisTraining
             homepage_url: https://apistraining.com/
             logo: apistraining.svg
+            second_path: 
+              - "Planning / Ecosystem Consultants & Training Partners"
           - item:
             name: Argela
             homepage_url: https://www.argela.com.tr/en
             logo: argela.svg
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
           - item:
             name: AT&T
             homepage_url: https://www.att.com/
             logo: att.svg
             crunchbase: https://www.crunchbase.com/organization/at-t
+            second_path:
+              - "Operation / Operators"
           - item:
             name: AWS (Amazon Web Services)
             homepage_url: https://aws.amazon.com/
             logo: aws.svg
+            second_path:
+              - "Operation / Hyperscalers, CPaaS Providers, Aggregators"
           - item:
             name: Axiata
             homepage_url: https://www.axiata.com/
             logo: axiata.svg
             crunchbase: https://www.crunchbase.com/organization/axiata
+            second_path:
+              - "Operation / Operators"
           - item:
             name: Axiata Digital Labs
             homepage_url: https://www.axiatadigitallabs.com/
             logo: axiatadigitallabs.svg
             crunchbase: https://www.crunchbase.com/organization/axiata-digital-labs
+            second_path:
+              - "Operation / Operators"
           - item:
             name: BCTI - A Network API Company
             homepage_url: https://www.brianchin.co
             logo: bcti.svg
+            second_path:
+              - "Integration / System Integrators"
           - item:
             name: BearingPoint
             homepage_url: https://www.bearingpoint.com/
             logo: bearingpoint.svg
             crunchbase: https://www.crunchbase.com/organization/bearingpoint
+            second_path: 
+              - "Planning / Ecosystem Consultants & Training Partners"
           - item:
             name: Bharti Airtel
             homepage_url: https://www.airtel.com/
             logo: airtel.svg
+            second_path:
+              - "Operation / Operators"
           - item:
             name: Bouygues Telecom
             homepage_url: https://www.bouyguestelecom.fr/
             logo: bouygues.svg
+            second_path:
+              - "Operation / Operators"
           - item:
             name: Bridge Alliance
             homepage_url: https://www.bridgealliance.us/
             logo: bridgealliance.svg
             crunchbase: https://www.crunchbase.com/organization/bridge
+            second_path:
+              - "Operation / Hyperscalers, CPaaS Providers, Aggregators"
           - item:
             name: British Telecom
             homepage_url: https://www.bt.com/
             logo: bt.svg
+            second_path:
+              - "Operation / Operators"
           - item:
             name: Broadpeak
             homepage_url: https://broadpeak.tv/
             logo: broadpeak.svg
             crunchbase: https://www.crunchbase.com/organization/broadpeak
+            second_path:
+              - "Operation / API Customers"
           - item:
             name: Capgemini
             homepage_url: https://www.capgemini.com/
             logo: capgemini.svg
             crunchbase: https://www.crunchbase.com/organization/cap-gemini
+            second_path:
+              - "Integration / System Integrators"
           - item:
             name: Centillion
             homepage_url: https://centillion.ai
             logo: centillion.svg
             crunchbase: https://www.crunchbase.com/organization/centillion-group-inc
+            second_path:
+              - "Operation / API Customers"
           - item:
             name: Chenosis
             homepage_url: https://chenosis.io/
             logo: chenosis.svg
+            second_path:
+              - "Operation / Operators"
+              - "Operation / Hyperscalers, CPaaS, Providers, Aggregators"
           - item:
             name: China Mobile
             homepage_url: https://www.chinamobileltd.com/
             logo: chinamobile.svg
+            second_path:
+              - "Operation / Operators"
           - item:
             name: China Telecom
             homepage_url: https://www.chinatelecomglobal.com/
             logo: chinatelecom.svg
             crunchbase: https://www.crunchbase.com/organization/china-telcom
+            second_path:
+              - "Operation / Operators"
           - item:
             name: China Unicom
             homepage_url: https://www.chinaunicom.com.hk/
             logo: chinaunicom.svg
             crunchbase: https://www.crunchbase.com/organization/china-unicom
+            second_path:
+              - "Operation / Operators"
           - item:
             name: CINNOX
             homepage_url: https://www.cinnox.com/
             linkedin: https://www.linkedin.com/company/cinnoxhq
             description: CINNOX is an all-in-one cloud contact center platform that enhances customer engagement through seamless voice, messaging, and AI-powered interactions.
             logo: cinnox.svg
+            second_path:
+              - "Operation / API Customers"
           - item:
             name: Cisco
             homepage_url: https://www.cisco.com/
             logo: cisco.svg
             crunchbase: https://www.crunchbase.com/organization/cisco
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
           - item:
             name: CK Hutchison Holdings
             homepage_url: http://www.ckh.com.hk/
             logo: ckh.svg
             crunchbase: https://www.crunchbase.com/organization/ck-investments
+            second_path:
+              - "Operation / Operators"
           - item:
             name: CloudoniX
             homepage_url: https://www.cloudonix.com/
             logo: cloudonix.svg
             crunchbase: https://www.crunchbase.com/organization/cloudonix-io
+            second_path:
+              - "Operation / Hyperscalers, CPaaS Providers, Aggregators"
           - item:
             name: CodeB
             homepage_url: https://www.codeb.io/
             logo: codeb.svg
+            second_path:
+              - "Integration / System Integrators"
           - item:
             name: Cognizant
             homepage_url: https://www.cognizant.com/
             logo: cognizant.svg
             crunchbase: https://www.crunchbase.com/organization/cognizant-technology-solutions
+            second_path:
+              - "Integration / System Integrators"
+              - "Solution Provider / Network Capability Solution Providers"
+              - "Solution Provider / Transformation Function Solution Providers"
           - item:
             name: Colony
             homepage_url: https://www.colonynetworks.com/
             logo: colonynetworks.svg
             crunchbase: https://www.crunchbase.com/organization/colony-networks
+            second_path:
+              - "Operation / Hyperscalers, CPaaS Providers, Aggregators"
           - item:
             name: Comviva
             homepage_url: https://www.comviva.com/
             logo: comviva.svg
             crunchbase: https://www.crunchbase.com/organization/comviva
+            second_path:
+              - "Operation / API Customers"
           - item:
             name: Coure
             homepage_url: https://coure-tech.com/
             logo: coure.svg
+            second_path:
+              - "Operation / API Customers"
           - item:
             name: CPaasAA
             homepage_url: https://cpaasaa.com/
             logo: cpaasaa.svg
+            second_path:
+              - "Planning / Associations"
           - item:
             name: CSL
             homepage_url: https://www.hkcsl.com/
             logo: csl.svg
             crunchbase: https://www.crunchbase.com/organization/csl
+            second_path:
+              - "Operation / Operators"
           - item:
             name: CThingsCo
             homepage_url: https://www.cthings.co/
             logo: cthingsco.svg
             crunchbase: https://www.crunchbase.com/organization/cthings-co
+            second_path:
+              - "Operation / API Customers"
           - item:
             name: DataCurve
             homepage_url: https://datacurve.io/
             logo: datacurve.svg
+            second_path:
+              - "Operation / API Customers"
           - item:
             name: Detecon Consulting
             homepage_url: https://www.detecon.com/
             logo: detecon.svg
             crunchbase: https://www.crunchbase.com/organization/detecon-international-consulting
+            second_path: 
+              - "Planning / Ecosystem Consultants & Training Partners"
           - item:
             name: Domos
             homepage_url: https://www.joindomos.com/
             logo: domos.svg
             crunchbase: https://www.crunchbase.com/organization/domos-labs
+            second_path:
+              - "Operation / API Customers"
           - item:
             name: DriveU.auto
             homepage_url: https://driveu.auto/
             logo: driveu.svg
+            second_path:
+              - "Operation / API Customers"
           - item:
             name: EANTC
             homepage_url: https://eantc.de/
             logo: eantc.svg
             crunchbase: https://www.crunchbase.com/organization/european-advanced-networking-test-center
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
           - item:
             name: Ecosteer
             homepage_url: https://ecosteer.com/
             logo: ecosteer.svg
+            second_path:
+              - "Solution Provider / API Exposure Platform Solution Providers"              
           - item:
             name: EdgeContinuum
             homepage_url: https://www.edgecontinuum.com
             logo: edgecontinuum.svg
+            second_path:
+              - "Operation / API Customers"
           - item:
             name: EdgeXR
             homepage_url: https://www.edgexr.net
             logo: edgexr.svg
+            second_path:
+              - "Operation / API Customers"
           - item:
             name: Etisalat
             homepage_url: https://www.etisalat.com/
@@ -459,189 +607,279 @@ landscape:
             name: Etiya
             homepage_url: https://www.etiya.com/
             logo: etiya.svg
+            second_path:
+              - "Integration / System Integrators"
           - item:
             name: Eureka
             homepage_url: https://eureka.ai/
             logo: eureka.svg
+            second_path:
+              - "Operation / API Customers"
           - item:
             name: Eviden
             homepage_url: https://eviden.com/
             logo: eviden.svg
             crunchbase: https://www.crunchbase.com/organization/eviden
+            second_path:
+              - "Operation / API Customers"
           - item:
             name: F5
             homepage_url: https://www.f5.com/
             logo: f5.svg
             crunchbase: https://www.crunchbase.com/organization/f5-networks
+            second_path:
+              - "Integration / System Integrators"
           - item:
             name: Fujitsu
             homepage_url: https://www.fujitsu.com/
             logo: fujitsu.svg
             crunchbase: https://www.crunchbase.com/organization/fujitsu
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
           - item:
             name: Gapask
             homepage_url: https://www.gapask.com
             logo: gapask.svg
+            second_path:
+              - "Integration / System Integrators"
           - item:
             name: Google Cloud
             homepage_url: https://cloud.google.com/
             logo: googlecloud.svg
+            second_path:
+              - "Operation / Hyperscalers, CPaaS Providers, Aggregators"
           - item:
             name: GSMA
             homepage_url: https://www.gsma.com/
             logo: gsma.svg
+            second_path:
+              - "Planning / Associations"
           - item:
             name: HCL Software
             homepage_url: https://www.hcltechsw.com/
             logo: hcl.svg
+            second_path:
+              - "Solution Provider / Independent Software Vendors"
           - item:
             name: Hewlett Packard Enterprise
             homepage_url: https://www.hpe.com/
             logo: hpe.svg
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
           - item:
             name: Hexagon
             homepage_url: https://www.hex-group.com/
             logo: hexagon.svg
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
           - item:
             name: HKT
             homepage_url: https://www.hkt.com/
             logo: hkt.svg
+            second_path:
+              - "Operation / Operators"
           - item:
             name: Huawei
             homepage_url: https://www.huawei.com/
             logo: huawei.svg
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
+              - "Solution Provider / Transformation Function Solution Providers"
           - item:
             name: IamCrypto
             homepage_url: https://iamcrypto.com/
             logo: iamcrypto.svg
+            second_path:
+              - "Operation / API Customers"
           - item:
             name: IBM
             homepage_url: https://www.ibm.com/
             logo: ibm.svg
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
           - item:
             name: ICCS
             homepage_url: https://i-sense.iccs.gr/
             logo: iccs.svg
+            second_path: 
+              - "Planning / Research Partners"
           - item:
             name: IEEE 5G6G Testbed
             homepage_url: https://testbed.ieee.org/
             logo: IEEE5G6GTestbed.svg.svg
+            second_path: 
+              - "Planning / Research Partners"
           - item:
             name: Infobip
             homepage_url: https://www.infobip.com/
             logo: infobip.svg
+            second_path:
+              - "Operation / Hyperscalers, CPaaS Providers, Aggregators"
+              - 'Solution Provider / Portal Solution Providers"
           - item:
             name: InfoLysis
             homepage_url: http://www.infolysis.com/
             logo: infolysis.svg
+            second_path:
+              - "Operation / API Customers"
           - item:
             name: Infosys
             homepage_url: https://www.infosys.com/
             logo: infosys.svg
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
           - item:
             name: Intel
             homepage_url: https://www.intel.com/
             logo: intel.svg
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
           - item:
             name: Intracom Single Member S. A. Telecom Solutions
             homepage_url: https://www.intracom-telecom.com/
             description: Intracom Telecom is a global technology systems and solutions provider operating for over 45 years in the market located in Peania, Greece.
             logo: intracom-telecom.svg
             crunchbase: https://www.crunchbase.com/organization/intracom-telecom
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
           - item:
             name: ION
             homepage_url: https://www.ionsmart.eu/
             logo: ion.svg
+            second_path:
+              - "Operation / API Customers"
           - item:
             name: IPification
             homepage_url: https://www.ipification.com/
             logo: ipification.svg
+            second_path:
+              - "Operation / API Customers"
           - item:
             name: Iquall Networks
             homepage_url: https://www.iquall.net/
             logo: iquall.svg
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
           - item:
             name: Italtel
             homepage_url: http://www.italtel.com/
             logo: italtel.svg
             crunchbase: https://www.crunchbase.com/organization/italtel
+            second_path:
+              - "Integration / System Integrators"
           - item:
             name: JIO Platforms
             homepage_url: https://www.jio.com/platforms/
             logo: jio.svg
+            second_path:
+              - "Operation / Operators"
           - item:
             name: KDDI
             homepage_url: https://www.kt.com/
             logo: kddi.svg
+            second_path:
+              - "Operation / Operators"
           - item:
             name: KPN
             homepage_url: https://www.kpn.com/
             logo: kpn.svg
+            second_path:
+              - "Operation / Operators"
           - item:
             name: KT
             homepage_url: https://www.kt.com/
             logo: kt.svg
+            second_path:
+              - "Operation / Operators"
           - item:
             name: Kubermatic
             homepage_url: https://kubermatic.com
             logo: kubermatic.svg
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
           - item:
             name: LatenceTech
             homepage_url: https://www.latencetech.com/
             logo: latencetech.svg
             crunchbase: https://www.crunchbase.com/organization/latence-technologies
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
           - item:
             name: Lenovo
             homepage_url: https://www.lenovo.com/
             logo: lenovo.svg
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
           - item:
             name: LFOD
             homepage_url: https://lfod.io/
             logo: lfod.svg
+            second_path:
+              - "Integration / System Integrators"
           - item:
             name: LG U+
             homepage_url: https://www.lguplus.com/
             logo: lgu+.svg
+            second_path:
+              - "Operation / Operators"
           - item:
             name: Linux Foundation
             homepage_url: https://www.linuxfoundation.org
             logo: lfcolor.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            second_path:
+              - "Planning / Associations"
           - item:
             name: LocationGuru
             homepage_url: https://locationguru.com/
             logo: locationguru.svg
+            second_path:
+              - "Operation / API Customers"
           - item:
             name: LotusFlare
             homepage_url: https://www.lotusflare.com/
             logo: lotusflare.svg
+            second_path:
+              - "Solution Provider / API Exposure Platform Solution Providers"
           - item:
             name: Lytn
             homepage_url: https://www.lytn.io/
             logo: lytn.svg
             crunchbase: https://www.crunchbase.com/organization/lytn
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
           - item:
             name: M1
             homepage_url: https://www.m1.com.sg/
             logo: m1.svg
+            second_path:
+              - "Operation / Operators"
           - item:
             name: M800
             homepage_url: https://www.m800.com
             linkedin: https://www.linkedin.com/company/m800/
             description: M800 is a global telecommunication and cloud communications provider specializing in secure and reliable enterprise solutions.
             logo: m800.svg
+            second_path:
+              - "Operation / Hyperscalers, CPaaS Providers, Aggregators"
           - item:
             name: Matrixx Software
             homepage_url: https://www.matrixx.com/
             logo: matrixx.svg
+            second_path:
+              - "Solution Provider / API Exposure Platform Solution Providers"
           - item:
             name: MEO
             homepage_url: https://www.meo.pt/
             logo: meo.svg
+            second_path:
+              - "Operation / Operators"
           - item:
             name: Mavenir
             homepage_url: https://www.mavenir.com/
             logo: mavenir.svg
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
           - item:
             name: Microcks
             homepage_url: https://microcks.io
@@ -650,6 +888,8 @@ landscape:
             logo: microcks.svg
             twitter: https://twitter.com/microcksio
             crunchbase: https://www.crunchbase.com/organization/microcks
+            second_path:
+              - "Integration / System Integrators"
             extra:
               dev_stats_url: https://microcks.devstats.cncf.io/
               artwork_url: https://github.com/cncf/artwork/blob/master/examples/sandbox.md#microcks-logos
@@ -677,73 +917,110 @@ landscape:
             description: The Microsoft Corporation is a publicly owned American software corporation headquartered in Redmond, Washington. Founded in 1975, the company develops, manufactures, licenses and supports a variety of computing products used by consumers and businesses. Some of their popular products include Windows, Xbox, Microsoft HoloLens, Microsoft Lumia, Outlook, Skype, OneDrive and Microsoft Band.
             crunchbase: https://www.crunchbase.com/organization/microsoft
             twitter: https://twitter.com/Microsoft
+            second_path:
+              - "Operation / Hyperscalers, CPaaS Providers, Aggregators"
             extra:
               linkedin_url: https://www.linkedin.com/company/microsoft
           - item:
             name: MojoAuth
             homepage_url: https://mojoauth.com
             logo: mojoauth.svg
+            second_path:
+              - "Operation / API Customers"
           - item:
             name: MQUEST Technologies
             homepage_url: https://mquest-technologies.com
             logo: mquest.svg
+            second_path:
+              - "Operation / API Customers"
           - item:
             name: Nabstract.io
             homepage_url: https://nabstract.io
             logo: nabstract.svg
+            second_path:
+              - "Solution Provider / API Exposure Platform Solution Providers"
           - item:
             name: National Centre of Scientific Research - Demokritos
             homepage_url: https://www.demokritos.gr/
             logo: demokritos.svg
+            second_path: 
+              - "Planning / Research Partners"
           - item:
             name: Netcracker
             homepage_url: https://www.netcracker.com/
             logo: netcracker.svg
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
           - item:
             name: NetoAI
             homepage_url: https://netoai.org/
             logo: netoai.svg
+            second_path:
+              - "Operation / API Customers"
           - item:
             name: NGMN Alliance
             homepage_url: https://www.ngmn.org/
             logo: ngmn.svg
+            second_path:
+              - "Planning / Associations"
           - item:
             name: NOS
             homepage_url: https://www.nos.pt/
             logo: nos.svg
+            second_path:
+              - "Operation / Operators"
           - item:
             name: NTT
             homepage_url: https://www.ntt.com/
             logo: ntt.svg
+            second_path:
+              - "Operation / Operators"
           - item:
             name: NTT DATA
             homepage_url: https://www.nttdata.com/
             logo: nttdata.svg
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
           - item:
             name: Openexpand
             homepage_url: https://openxpand.com/
             logo: openexpand.svg
+            second_path:
+              - "Solution Provider / API Exposure Platform Solution Providers"
+              - "Solution Provider / Transformation Function Solution Providers"
+              - "Solution Provider / Portal Solution Providers"
           - item:
             name: Open Sesame
             homepage_url: https://www.opensesame.com/
             logo: opensesame.svg
+            second_path:
+              - "Operation / API Customers"
           - item:
             name: Optare Solutions
             homepage_url: https://optaresolutions.com/
             logo: optare.svg
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
           - item:
             name: Optiva
             homepage_url: https://www.optiva.com/
             logo: optiva.svg
             crunchbase: https://www.crunchbase.com/organization/optiva
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
           - item:
             name: Oracle
             homepage_url: https://www.oracle.com/
             logo: oracle.svg
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
           - item:
             name: phine.tech GmbH
             homepage_url: https://phine.tech/
-            logo: phinetech.svg
+            logo: phinetech.svg            
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
+              - "Integration / System Integrators"
           - item:
             name: plusmo
             homepage_url: https://plusmo.com/
@@ -752,111 +1029,165 @@ landscape:
             name: Proximus
             homepage_url: https://www.proximus.com/
             logo: proximus.svg
+            second_path:
+              - "Operation / Operators"
           - item:
             name: Pryvx
             homepage_url: https://www.pryvx.com/
             logo: pryvx.svg
+            second_path:
+              - "Operation / API Customers"            
           - item:
             name: Quobis
             homepage_url: https://www.quobis.com/
             logo: quobis.svg
+            second_path:
+              - "Operation / Hyperscalers, CPaaS Providers, Aggregators"
           - item:
             name: Radisys
             homepage_url: https://www.radisys.com/
             logo: radisys.svg
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
           - item:
             name: Rakuten
             homepage_url: https://www.rakuten.com/
             logo: rakuten.svg
+            second_path:
+              - "Operation / Operators"
           - item:
             name: Red Hat
             homepage_url: https://www.redhat.com/
             logo: redhat.svg
             crunchbase: https://www.crunchbase.com/organization/red-hat
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
           - item:
             name: Reevolute
             homepage_url: https://www.reevolute.com/
             logo: reevolute.svg
+            second_path:
+              - "Operation / API Customers"
           - item:
             name: Reply
             homepage_url: https://www.reply.com/
             logo: replylive.svg
+            second_path:
+              - "Integration / System Integrators"
           - item:
             name: Rogers
             homepage_url: https://www.rogers.com/
             logo: rogers.svg
+            second_path:
+              - "Operation / Operators"
           - item:
             name: Saudi Telecom Company (STC)
             homepage_url: https://www.stc.com.sa/
             logo: stc.svg
+            second_path:
+              - "Operation / Operators"
           - item:
             name: Scenera Inc
             homepage_url: https://scenera.net
             logo: scenera.svg
             crunchbase: https://www.crunchbase.com/organization/scenera-inc
+            second_path:
+              - "Operation / API Customers"
           - item:
             name: Sekura
             homepage_url: https://www.sekura.com/
             logo: sekura.svg
+            second_path:
+              - "Operation / API Customers"
           - item:
             name: Simptel
             homepage_url: https://www.siptel.com.sg/
             logo: simptel.svg
+            second_path:
+              - "Operation / API Customers"
           - item:
             name: Sinch
             homepage_url: https://sinch.com
             logo: sinch.svg
             crunchbase: https://www.crunchbase.com/organization/sinch
+            second_path:
+              - "Operation / Hyperscalers, CPaaS Providers, Aggregators"
           - item:
             name: Singtel
             homepage_url: https://www.singtel.com/
             logo: singtel.svg
+            second_path:
+              - "Operation / Operators"
           - item:
             name: SK Telecom
             homepage_url: https://www.sktelecom.com/
             logo: sktelecom.svg
+            second_path:
+              - "Operation / Operators"
           - item:
             name: Spry Fox Networks
             homepage_url: https://www.spryfoxnetworks.com/
             logo: spryfox.svg
+            second_path:
+              - "Solution Provider / API Exposure Platform Solution Providers"
+              - "Solution Provider / Network Capability Solution Providers"
+              - "Solution Provider / Transformation Function Solution Providers"
           - item:
             name: StarHub
             homepage_url: https://www.starhub.com/
             logo: starhub.svg
+            second_path:
+              - "Operation / Operators"
           - item:
             name: Startelelogic
             homepage_url: https://www.startelelogic.com/
             logo: startelelogic.svg
             crunchbase: https://www.crunchbase.com/organization/startele-logic
+            second_path:
+              - "Integration / System Integrators"
           - item:
             name: Stechs
             homepage_url: https://www.stechs.io/
             logo: stechs.svg
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
           - item:
             name: Summit
             homepage_url: https://www.summit-tech.ca/
             logo: summit.svg
+            second_path:
+              - "Operation / API Customers"
           - item:
             name: Swisscom
             homepage_url: https://www.swisscom.ch/
             logo: swisscom.svg
             crunchbase: https://www.crunchbase.com/organization/swisscom
+            second_path:
+              - "Operation / Operators"
           - item:
             name: Symponica
             homepage_url: https://symphonica.com/
             logo: symphonica.svg
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
           - item:
             name: Syniverse
             homepage_url: https://www.syniverse.com/
             logo: syniverse.svg
+            second_path:
+              - "Operation / Hyperscalers, CPaaS Providers, Aggregators"
           - item:
             name: Tata Consultancy Services (TCS)
             homepage_url: https://www.tcs.com/
             logo: tata.svg
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
           - item:
             name: Tata Elxsi
             homepage_url: https://www.tataelxsi.com/
             logo: tata_elxsi.svg
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
           - item:
             name: Telcoflo
             homepage_url: https://telcoflo.dev/
@@ -865,84 +1196,127 @@ landscape:
             name: Telenor
             homepage_url: https://www.telenor.com/
             logo: telenor.svg
+            second_path:
+              - "Operation / Operators"
           - item:
             name: Telkomsel
             homepage_url: https://www.telkomsel.com/
             logo: telkomsel.svg
+            second_path:
+              - "Operation / Operators"
           - item:
             name: TelliSIM
             homepage_url: https://tellisim.com/
             logo: TelliSIM.svg
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
           - item:
             name: Telqon
             homepage_url: https://www.telqon.com/
             logo: telqon.svg
+            second_path:
+              - "Operation / Hyperscalers, CPaaS Providers, Aggregators"
           - item:
             name: Telstra
             homepage_url: https://www.telstra.com.au/
             logo: telstra.svg
+            second_path:
+              - "Operation / Operators"
           - item:
             name: TELUS
             homepage_url: https://www.telus.com/
             logo: telus.svg
+            second_path:
+              - "Operation / Operators"
           - item:
             name: TIM
             homepage_url: https://www.tim.com.br/
             logo: tim.svg
+            second_path:
+              - "Operation / Operators"
           - item:
             name: TruSense
             homepage_url: https://trusense.id/
             logo: trusense.svg
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
+            second_path:
+              - "Operation / API Customers"
+              - "Solution Provider / Network Capability Solution Providers"
           - item:
             name: Unryo Inc
             homepage_url: https://unryo.com/
             logo: unryo_inc.svg
             description: Unryo is a leading provider of performance monitoring and observability solutions. Their platform allows users to monitor network, logs, servers, applications, clouds, and databases with near zero maintenance and no vendor lock-in. Unryo's modern stack...
             crunchbase: https://www.crunchbase.com/organization/unryo
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
             extra:
               linkedin_url: https://www.linkedin.com/company/unryo
           - item:
             name: UTH UK Limited
             homepage_url: https://www.uth-uk.com/
             logo: uth.svg
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
           - item:
             name: VIAVI Solutions
             homepage_url: https://www.viavisolutions.com/
             logo: viavi.svg
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
             description: VIAVI is a global provider of network test, monitoring and assurance solutions for telecommunications, cloud, enterprises, first responders, military, aerospace and railway. VIAVI is also a leader in light management technologies for 3D sensing, anti-counterfeiting, consumer electronics, industrial, automotive, government and aerospace applications.
           - item:
             name: VIRTUS - Research, Development and Innovation Center
             homepage_url: https://www.virtus.ufcg.edu.br
             logo: virtus.svg
+            second_path: 
+              - "Planning / Research Partners"
           - item:
             name: VROMBR
             homepage_url: https://vrombr.games
             logo: vrombr.svg
+            second_path:
+              - "Operation / API Customers"
           - item:
             name: WCG
             homepage_url: https://www.wraycastle.com/
             logo: wcg.svg
+            second_path: 
+              - "Planning / Ecosystem Consultants & Training Partners"
           - item:
             name: Whale Cloud
             homepage_url: https://www.whalecloud.com/
             logo: whalecloud.svg
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
           - item:
             name: Xacria
             homepage_url: https://www.xacria.com/
             logo: xacria.svg
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
           - item:
             name: Xecurity Pulse
             homepage_url: https://www.xecuritypulse.com/
             logo: xecurity-pulse.svg
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
           - item:
             name: XFlow Software Technology LLC
             homepage_url: https://www.xflowresearch.com/
             logo: xflow.svg
+            second_path:
+              - "Planning / Associations"
           - item:
             name: Yaana
             homepage_url: https://www.yaanatech.com/
             logo: yaana.svg
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
           - item:
             name: ZTE Corporation
             homepage_url: https://www.zte.com.cn/
             logo: zte.svg
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
