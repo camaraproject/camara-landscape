@@ -715,7 +715,7 @@ landscape:
             logo: infobip.svg
             second_path:
               - "Operation / Hyperscalers, CPaaS Providers, Aggregators"
-              - 'Solution Provider / Portal Solution Providers"
+              - "Solution Provider / Portal Solution Providers"
           - item:
             name: InfoLysis
             homepage_url: http://www.infolysis.com/
