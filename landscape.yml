@@ -483,6 +483,12 @@ landscape:
             homepage_url: https://www.gapask.com
             logo: gapask.svg
           - item:
+            name: GMS
+            homepage_url: https://gms.net/
+            logo: gms.svg
+            second_path:
+              - "Operation / Hyperscalers, CPaaS Providers, Aggregators"            
+          - item:
             name: Google Cloud
             homepage_url: https://cloud.google.com/
             logo: googlecloud.svg
