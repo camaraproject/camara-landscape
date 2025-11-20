@@ -743,6 +743,13 @@ landscape:
             second_path:
               - "Solution Provider / Network Capability Solution Providers"
           - item:
+            name: Intersec
+            homepage_url: https://intersec.com/
+            logo: intersec.svg
+            second_path:
+              - "Solution Provider / Network Capability Solution Providers"
+              - "Solution Provider / Transformation Function Solution Providers"
+          - item:
             name: Intracom Single Member S. A. Telecom Solutions
             homepage_url: https://www.intracom-telecom.com/
             description: Intracom Telecom is a global technology systems and solutions provider operating for over 45 years in the market located in Peania, Greece.
