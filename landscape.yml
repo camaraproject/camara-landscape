@@ -603,6 +603,8 @@ landscape:
             homepage_url: https://www.etisalat.com/
             logo: etisalat.svg
             crunchbase: https://www.crunchbase.com/organization/etisalat
+            second_path:
+              - "Operation / Operators"
           - item:
             name: Etiya
             homepage_url: https://www.etiya.com/
@@ -1031,6 +1033,8 @@ landscape:
             name: plusmo
             homepage_url: https://plusmo.com/
             logo: plusmo.svg
+            second_path:
+              - "Operation / Hyperscalers, CPaaS Providers, Aggregators"
           - item:
             name: Proximus
             homepage_url: https://www.proximus.com/
@@ -1198,6 +1202,8 @@ landscape:
             name: Telcoflo
             homepage_url: https://telcoflo.dev/
             logo: telcoflo.svg
+            second_path:
+              - "Operation / Hyperscalers, CPaaS Providers, Aggregators"
           - item:
             name: Telenor
             homepage_url: https://www.telenor.com/
