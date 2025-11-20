@@ -487,7 +487,7 @@ landscape:
             homepage_url: https://gms.net/
             logo: gms.svg
             second_path:
-              - "Operation / Hyperscalers, CPaaS Providers, Aggregators"            
+              - Operation / Hyperscalers, CPaaS Providers, Aggregators
           - item:
             name: Google Cloud
             homepage_url: https://cloud.google.com/
