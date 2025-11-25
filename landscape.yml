@@ -220,6 +220,42 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/university-of-colorado
   - category:
+    name: Planning
+    subcategories:
+      - subcategory:
+        name: Associations
+      - subcategory:
+        name: Ecosystem Consultants & Training Partners
+      - subcategory:
+        name: Research Partners
+  - category:
+    name: Integration
+    subcategories:
+      - subcategory:
+        name: System Integrators
+  - category:
+    name: Solution Provider
+    subcategories:
+      - subcategory:
+        name: Independent Software Vendors
+      - subcategory:
+        name: Portal Solution Providers
+      - subcategory:
+        name: API Exposure Platform Solution Providers
+      - subcategory:
+        name: Transformation Function Solution Providers
+      - subcategory:
+        name: Network Capability Solution Providers
+  - category:
+    name: Operation
+    subcategories:
+      - subcategory:
+        name: API Customers
+      - subcategory:
+        name: Hyperscalers, CPaaS Providers, Aggregators
+      - subcategory:
+        name: Operators
+  - category:
     name: Participating Organizations
     subcategories:
       - subcategory:
