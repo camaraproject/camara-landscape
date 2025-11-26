@@ -965,6 +965,7 @@ landscape:
           - item:
             name: Intersec
             homepage_url: https://intersec.com/
+            description: Intersec combines market-leading location intelligence with secure CAMARA API enablement for telecom operators.
             logo: intersec.svg
             second_path:
               - Solution Provider / Network Capability Solution Providers
