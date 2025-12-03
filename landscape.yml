@@ -11,7 +11,7 @@ landscape:
             logo: accenture_global_solutions_limited.svg
             description: Founded in 1989 and headquartered in Dublin, Ireland, Accenture is a company that provides services and solutions in strategy, consulting, digital, technology, and operations. The company serves customers in industries including communications, media and technology, financial services, health and public service, as well as products and resources.
             crunchbase: https://www.crunchbase.com/organization/accenture
-            twitter: https://twitter.com/Accenture            
+            twitter: https://twitter.com/Accenture
             extra:
               linkedin_url: https://www.linkedin.com/company/accenture
           - item:
@@ -264,8 +264,6 @@ landscape:
             name: UFRN
             homepage_url: https://ufrn.br/
             logo: ufrn.svg
-            second_path: 
-              - Planning / Research Partners
             description: The Federal University of Rio Grande do Norte (UFRN) is a prestigious public Brazilian university located in Natal, Brazil. Established in 1960, UFRN offers a wide range of undergraduate and graduate programs across 60 departments. Known for its resear...
             organization:
               name: UFRN
@@ -276,8 +274,6 @@ landscape:
             description: University of California Berkeley is the oldest of the campuses under the University of California umbrella. The university has made its mark as one of the premier research institutions in the country. The student body consists of an estimated 25,000+ undergraduates and 10,000+ graduate students.
             crunchbase: https://www.crunchbase.com/organization/university-of-california-berkeley
             twitter: https://twitter.com/UCBerkeley
-            second_path: 
-              - Planning / Research Partners
             extra:
               linkedin_url: https://www.linkedin.com/company/uc-berkeley
           - item:
@@ -287,8 +283,6 @@ landscape:
             description: The University of Colorado at Boulder is a public research university located in Boulder, Colorado. It is the flagship university of the University of Colorado system and was founded five months before Colorado was admitted to the union in 1876. It is comprised of nine colleges and schools.
             crunchbase: https://www.crunchbase.com/organization/university-of-colorado-boulder
             twitter: https://twitter.com/CUBoulder
-            second_path: 
-              - Planning / Research Partners
             extra:
               linkedin_url: https://www.linkedin.com/company/university-of-colorado
   - category:
@@ -326,7 +320,7 @@ landscape:
             second_path:
               - Solution Provider / API Exposure Platform Solution Providers
               - Solution Provider / Network Capability Solution Providers
-              - Solution Provider / Transformation Function Solution Providers              
+              - Solution Provider / Transformation Function Solution Providers
             extra:
               linkedin_url: https://www.linkedin.com/company/nokianet
       - subcategory:
@@ -336,7 +330,7 @@ landscape:
             name: Ericsson AB
             homepage_url: https://ericsson.com/en
             logo: ericsson_ab.svg
-            second_path:              
+            second_path:
               - Solution Provider / Network Capability Solution Providers
               - Solution Provider / Transformation Function Solution Providers
             organization:
@@ -486,8 +480,6 @@ landscape:
               Vodafone Group plc /ˈvoʊdəfoʊn/ is a British multinational telecommunications company.
             crunchbase: https://www.crunchbase.com/organization/vodafone
             twitter: https://twitter.com/VodafoneGroup
-            second_path:
-              - Operation / Operators
             extra:
               linkedin_url: https://www.linkedin.com/company/vodafone
   - category:
@@ -509,14 +501,14 @@ landscape:
             logo: a1.svg
             crunchbase: https://www.crunchbase.com/organization/a1-telekom-austria-ag
             second_path:
-              - Operation / Operators          
+              - Operation / Operators
           - item:
             name: ACL Digital
             homepage_url: https://www.acldigital.com/
             logo: acldigital.svg
             crunchbase: https://www.crunchbase.com/organization/alten-calsoft-labs
             second_path:
-              - Integration / System Integrators          
+              - Integration / System Integrators
           - item:
             name: America Movil
             homepage_url: https://www.americamovil.com/
@@ -535,7 +527,7 @@ landscape:
             logo: akross.svg
             crunchbase: https://www.crunchbase.com/organization/akross
             second_path:
-              - Integration / System Integrators          
+              - Integration / System Integrators
           - item:
             name: Almuqeet
             homepage_url: https://almuqeet.net/
@@ -562,7 +554,7 @@ landscape:
             name: ApisTraining
             homepage_url: https://apistraining.com/
             logo: apistraining.svg
-            second_path: 
+            second_path:
               - Planning / Ecosystem Consultants & Training Partners
           - item:
             name: Argela
@@ -608,7 +600,7 @@ landscape:
             homepage_url: https://www.bearingpoint.com/
             logo: bearingpoint.svg
             crunchbase: https://www.crunchbase.com/organization/bearingpoint
-            second_path: 
+            second_path:
               - Planning / Ecosystem Consultants & Training Partners
           - item:
             name: Bharti Airtel
@@ -641,7 +633,7 @@ landscape:
             logo: broadpeak.svg
             crunchbase: https://www.crunchbase.com/organization/broadpeak
             second_path:
-              - Operation / API Customers          
+              - Operation / API Customers
           - item:
             name: Capgemini
             homepage_url: https://www.capgemini.com/
@@ -655,14 +647,14 @@ landscape:
             logo: centillion.svg
             crunchbase: https://www.crunchbase.com/organization/centillion-group-inc
             second_path:
-              - Operation / API Customers          
+              - Operation / API Customers
           - item:
             name: Chenosis
             homepage_url: https://chenosis.io/
             logo: chenosis.svg
             second_path:
               - Operation / Operators
-              - Operation / Hyperscalers, CPaaS, Providers, Aggregators
+              - Operation / Hyperscalers, CPaaS Providers, Aggregators
           - item:
             name: China Mobile
             homepage_url: https://www.chinamobileltd.com/
@@ -778,8 +770,8 @@ landscape:
             homepage_url: https://www.detecon.com/
             logo: detecon.svg
             crunchbase: https://www.crunchbase.com/organization/detecon-international-consulting
-            second_path: 
-              - Planning / Ecosystem Consultants & Training Partners          
+            second_path:
+              - Planning / Ecosystem Consultants & Training Partners
           - item:
             name: Domos
             homepage_url: https://www.joindomos.com/
@@ -805,7 +797,7 @@ landscape:
             homepage_url: https://ecosteer.com/
             logo: ecosteer.svg
             second_path:
-              - "Solution Provider / API Exposure Platform Solution Providers"              
+              - "Solution Provider / API Exposure Platform Solution Providers"
           - item:
             name: EdgeContinuum
             homepage_url: https://www.edgecontinuum.com
@@ -817,7 +809,7 @@ landscape:
             homepage_url: https://www.edgexr.net
             logo: edgexr.svg
             second_path:
-              - Operation / API Customers          
+              - Operation / API Customers
           - item:
             name: Etisalat
             homepage_url: https://www.etisalat.com/
@@ -929,14 +921,14 @@ landscape:
             name: ICCS
             homepage_url: https://i-sense.iccs.gr/
             logo: iccs.svg
-            second_path: 
+            second_path:
               - Planning / Research Partners
           - item:
             name: IEEE 5G6G Testbed
             homepage_url: https://testbed.ieee.org/
-            logo: IEEE5G6GTestbed.svg.svg
-            second_path: 
-              - Planning / Research Partners          
+            logo: IEEE5G6GTestbed.svg
+            second_path:
+              - Planning / Research Partners
           - item:
             name: Infobip
             homepage_url: https://www.infobip.com/
@@ -1179,8 +1171,8 @@ landscape:
             name: National Centre of Scientific Research - Demokritos
             homepage_url: https://www.demokritos.gr/
             logo: demokritos.svg
-            second_path: 
-              - Planning / Research Partners          
+            second_path:
+              - Planning / Research Partners
           - item:
             name: Netcracker
             homepage_url: https://www.netcracker.com/
@@ -1198,7 +1190,7 @@ landscape:
             homepage_url: https://www.ngmn.org/
             logo: ngmn.svg
             second_path:
-              - Planning / Associations          
+              - Planning / Associations
           - item:
             name: NOS
             homepage_url: https://www.nos.pt/
@@ -1216,7 +1208,7 @@ landscape:
             homepage_url: https://www.nttdata.com/
             logo: nttdata.svg
             second_path:
-              - Solution Provider / Network Capability Solution Providers          
+              - Solution Provider / Network Capability Solution Providers
           - item:
             name: Openexpand
             homepage_url: https://openxpand.com/
@@ -1249,11 +1241,11 @@ landscape:
             homepage_url: https://www.oracle.com/
             logo: oracle.svg
             second_path:
-              - Solution Provider / Network Capability Solution Providers          
+              - Solution Provider / Network Capability Solution Providers
           - item:
             name: phine.tech GmbH
             homepage_url: https://phine.tech/
-            logo: phinetech.svg            
+            logo: phinetech.svg
             second_path:
               - Solution Provider / Network Capability Solution Providers
               - Integration / System Integrators
@@ -1274,7 +1266,7 @@ landscape:
             homepage_url: https://www.pryvx.com/
             logo: pryvx.svg
             second_path:
-              - "Operation / API Customers"            
+              - "Operation / API Customers"
           - item:
             name: Quobis
             homepage_url: https://www.quobis.com/
@@ -1336,7 +1328,7 @@ landscape:
             homepage_url: https://www.sekura.com/
             logo: sekura.svg
             second_path:
-              - Operation / API Customers          
+              - Operation / API Customers
           - item:
             name: Simptel
             homepage_url: https://www.siptel.com.sg/
@@ -1413,7 +1405,7 @@ landscape:
             homepage_url: https://www.syniverse.com/
             logo: syniverse.svg
             second_path:
-              - Operation / Hyperscalers, CPaaS Providers, Aggregators          
+              - Operation / Hyperscalers, CPaaS Providers, Aggregators
           - item:
             name: Tata Consultancy Services (TCS)
             homepage_url: https://www.tcs.com/
@@ -1431,7 +1423,7 @@ landscape:
             homepage_url: https://telcoflo.dev/
             logo: telcoflo.svg
             second_path:
-              - Operation / Hyperscalers, CPaaS Providers, Aggregators          
+              - Operation / Hyperscalers, CPaaS Providers, Aggregators
           - item:
             name: Telenor
             homepage_url: https://www.telenor.com/
@@ -1477,10 +1469,10 @@ landscape:
           - item:
             name: TruSense
             homepage_url: https://trusense.id/
-            logo: trusense.svg            
+            logo: trusense.svg
             second_path:
               - Operation / API Customers
-              - Solution Provider / Network Capability Solution Providers          
+              - Solution Provider / Network Capability Solution Providers
           - item:
             name: Unryo Inc
             homepage_url: https://unryo.com/
@@ -1496,7 +1488,7 @@ landscape:
             homepage_url: https://www.uth-uk.com/
             logo: uth.svg
             second_path:
-              - Solution Provider / Network Capability Solution Providers          
+              - Solution Provider / Network Capability Solution Providers
           - item:
             name: VIAVI Solutions
             homepage_url: https://www.viavisolutions.com/
@@ -1508,8 +1500,8 @@ landscape:
             name: VIRTUS - Research, Development and Innovation Center
             homepage_url: https://www.virtus.ufcg.edu.br
             logo: virtus.svg
-            second_path: 
-              - Planning / Research Partners          
+            second_path:
+              - Planning / Research Partners
           - item:
             name: VROMBR
             homepage_url: https://vrombr.games
@@ -1520,7 +1512,7 @@ landscape:
             name: WCG
             homepage_url: https://www.wraycastle.com/
             logo: wcg.svg
-            second_path: 
+            second_path:
               - Planning / Ecosystem Consultants & Training Partners
           - item:
             name: Whale Cloud
