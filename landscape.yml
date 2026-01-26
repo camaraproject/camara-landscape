@@ -887,9 +887,9 @@ landscape:
             second_path:
               - Solution Provider / Network Capability Solution Providers
           - item:
-            name: Hexagon
+            name: Heksagon
             homepage_url: https://www.hex-group.com/
-            logo: hexagon.svg
+            logo: heksagon.svg
             second_path:
               - Solution Provider / Network Capability Solution Providers
           - item:
