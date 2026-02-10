@@ -359,6 +359,12 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/indykite
           - item:
+            name: JLinc
+            homepage_url: https://www.jlinc.com/
+            logo: jlinc.svg
+            organization:
+              name: JLinc
+          - item:
             name: KYXSTART
             homepage_url: https://kyxstart.com/
             logo: kyxstart.svg
