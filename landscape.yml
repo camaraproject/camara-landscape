@@ -1008,6 +1008,12 @@ landscape:
             second_path:
               - Operation / Operators
           - item:
+            name: JLinc
+            homepage_url: https://www.jlinc.com/
+            logo: jlinc.svg
+            second_path:
+              - Operation / API Customers
+          - item:
             name: KDDI
             homepage_url: https://www.kt.com/
             logo: kddi.svg
