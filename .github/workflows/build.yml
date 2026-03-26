@@ -3,16 +3,19 @@ name: Build Landscape from LFX
 on:
   workflow_dispatch:
   schedule:
-  - cron: "0 4 * * *"
+    - cron: "0 4 * * *"
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-24.04
     steps:
-      - uses: jmertic/lfx-landscape-tools@20a188cdc3f2ee0318047b50de7e9b75b8f48268 # 20250528
+      - uses: jmertic/lfx-landscape-tools@main
         with:
-          project_processing: skip # see options in action.yml
+          project_processing: skip
         env:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT }}
           repository: ${{ github.repository }}
           ref: ${{ github.ref }}
