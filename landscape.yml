@@ -105,21 +105,13 @@ landscape:
             name: Aduna Global LLC
             homepage_url: https://adunaglobal.com/
             logo: aduna_global_llc.svg
-          - item:
-            name: Aleph Zero Foundation
-            homepage_url: https://alephzero.org/
-            logo: aleph_zero_foundation.svg
-            description: Aleph Zero is a non-profit organization dedicated to advancing decentralized technologies. They offer an enterprise-grade public blockchain with private smart contracts powered by AZERO. Their mission is to create a secure blockchain ecosystem and deve...
             organization:
-              name: Aleph Zero Foundation
-              linkedin: https://www.linkedin.com/company/alephzero
-            extra:
-              linkedin_url: https://www.linkedin.com/company/alephzero
+              name: Aduna Global LLC
           - item:
             name: Cable Television Laboratories Inc.
             homepage_url: https://cablelabs.com/
             logo: cable_television_laboratories_inc.svg
-            description: Founded in 1988, CableLabs is a non-profit research and development consortium that serves to define interoperable solutions among cable operator members and their technology vendors in order to reduce costs, create competition in the supply chain, and drive scale.  CableLabs is dedicated to creating innovative ideas that significantly impact their cable operator members' business. The company is headquartered in Louisville, Colorado.
+            description: As the leading innovation and R&D lab for the cable industry, CableLabs is a nonprofit organization that creates global impact through its member companies around the world and its subsidiaries, Kyrio and SCTE. With a state-of-the-art research and innovation facility and collaborative ecosystem with thousands of vendors, CableLabs delivers impactful network technologies for the entire industry.
             crunchbase: https://www.crunchbase.com/organization/cablelabs
             twitter: https://twitter.com/CableLabs
             extra:
@@ -134,17 +126,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/spectrum
           - item:
-            name: IndyKite Inc.
-            homepage_url: https://indykite.com/
-            logo: indykite_inc.svg
-            description: Sky is blue - 4IR is here. Curious to know what will be announced Apr 20, 2020 – subscribe here.
-            twitter: https://twitter.com/indykiteone
-            organization:
-              name: IndyKite Inc.
-              linkedin: https://www.linkedin.com/company/indykite
-            extra:
-              linkedin_url: https://www.linkedin.com/company/indykite
-          - item:
             name: KYXSTART
             homepage_url: https://kyxstart.com/
             logo: kyxstart.svg
@@ -158,9 +139,18 @@ landscape:
             organization:
               name: Nearby Computing
           - item:
+            name: Persona Identities, Inc.
+            homepage_url: https://withpersona.com/
+            logo: persona_identities_inc.svg
+            description: Persona offers online ID verification services for businesses, simplifying identity management with configurable infrastructure for KYC, AML, and fraud detection. Automate processes, fight fraud, and build trust globally with Persona's secure solutions.
+            organization:
+              name: Persona Identities, Inc.
+          - item:
             name: Sent, Inc.
             homepage_url: https://sent.dm/
             logo: sent_inc.svg
+            organization:
+              name: Sent, Inc.
           - item:
             name: Shabodi
             homepage_url: https://shabodi.com/
@@ -803,7 +793,7 @@ landscape:
             homepage_url: https://ecosteer.com/
             logo: ecosteer.svg
             second_path:
-              - "Solution Provider / API Exposure Platform Solution Providers"
+              - Solution Provider / API Exposure Platform Solution Providers
           - item:
             name: EdgeContinuum
             homepage_url: https://www.edgecontinuum.com
@@ -1278,7 +1268,7 @@ landscape:
             homepage_url: https://www.pryvx.com/
             logo: pryvx.svg
             second_path:
-              - "Operation / API Customers"
+              - Operation / API Customers
           - item:
             name: Quobis
             homepage_url: https://www.quobis.com/
