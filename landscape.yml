@@ -290,7 +290,7 @@ landscape:
     subcategories:
       - subcategory:
         name: System Integrators
-        items:
+        items: []
   - category:
     name: Solution Provider
     subcategories:
