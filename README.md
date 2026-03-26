@@ -1,3 +1,5 @@
+[![Build Landscape from LFX](https://github.com/camaraproject/camara-landscape/actions/workflows/build.yml/badge.svg)](https://github.com/camaraproject/camara-landscape/actions/workflows/build.yml)
+
 ## Quick Info:
 
 + Landscape is used to maintain Member and project information on our [website](https://camaraproject.org)
