@@ -337,10 +337,10 @@ landscape:
               name: Ericsson AB
       - subcategory:
         name: Transformation Function Solution Providers
-        items:
+        items: []
       - subcategory:
         name: Network Capability Solution Providers
-        items:
+        items: []
   - category:
     name: Operation
     subcategories:
