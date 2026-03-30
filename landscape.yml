@@ -276,17 +276,7 @@ landscape:
     subcategories:
       - subcategory:
         name: Independent Software Vendors
-        items:
-          - item:
-            name: Aleph Zero Foundation
-            homepage_url: https://alephzero.org/
-            logo: aleph_zero_foundation.svg
-            description: Aleph Zero is a non-profit organization dedicated to advancing decentralized technologies. They offer an enterprise-grade public blockchain with private smart contracts powered by AZERO. Their mission is to create a secure blockchain ecosystem and deve...
-            organization:
-              name: Aleph Zero Foundation
-              linkedin: https://www.linkedin.com/company/alephzero
-            extra:
-              linkedin_url: https://www.linkedin.com/company/alephzero
+        items: []
       - subcategory:
         name: Portal Solution Providers
         items:
@@ -504,6 +494,18 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/akross
             second_path:
               - Integration / System Integrators
+          - item:
+            name: Aleph Zero Foundation
+            homepage_url: https://alephzero.org/
+            logo: aleph_zero_foundation.svg
+            description: Aleph Zero is a non-profit organization dedicated to advancing decentralized technologies. They offer an enterprise-grade public blockchain with private smart contracts powered by AZERO. Their mission is to create a secure blockchain ecosystem and deve...
+            organization:
+              name: Aleph Zero Foundation
+              linkedin: https://www.linkedin.com/company/alephzero
+            extra:
+              linkedin_url: https://www.linkedin.com/company/alephzero
+            second_path:
+              - Solution Provider / Independent Software Vendors
           - item:
             name: Almuqeet
             homepage_url: https://almuqeet.net/
