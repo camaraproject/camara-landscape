@@ -336,6 +336,13 @@ landscape:
             description: 'Nearby Computing: Revolutionizing network management with cutting-edge automation for Telcos & Enterprises.'
             organization:
               name: Nearby Computing
+          - item:
+            name: Persona Identities, Inc.
+            homepage_url: https://withpersona.com/
+            logo: persona_identities_inc.svg
+            description: Persona offers online ID verification services for businesses, simplifying identity management with configurable infrastructure for KYC, AML, and fraud detection. Automate processes, fight fraud, and build trust globally with Persona's secure solutions.
+            organization:
+              name: Persona Identities, Inc.
       - subcategory:
         name: Hyperscalers, CPaaS Providers, Aggregators
         items:
