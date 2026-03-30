@@ -318,17 +318,6 @@ landscape:
         name: API Customers
         items:
           - item:
-            name: IndyKite Inc.
-            homepage_url: https://indykite.com/
-            logo: indykite_inc.svg
-            description: Sky is blue - 4IR is here. Curious to know what will be announced Apr 20, 2020 – subscribe here.
-            twitter: https://twitter.com/indykiteone
-            organization:
-              name: IndyKite Inc.
-              linkedin: https://www.linkedin.com/company/indykite
-            extra:
-              linkedin_url: https://www.linkedin.com/company/indykite
-          - item:
             name: JLinc
             homepage_url: https://www.jlinc.com/
             logo: jlinc.svg
@@ -907,6 +896,19 @@ landscape:
             logo: IEEE5G6GTestbed.svg
             second_path:
               - Planning / Research Partners
+          - item:
+            name: IndyKite Inc.
+            homepage_url: https://indykite.com/
+            logo: indykite_inc.svg
+            description: Sky is blue - 4IR is here. Curious to know what will be announced Apr 20, 2020 – subscribe here.
+            twitter: https://twitter.com/indykiteone
+            organization:
+              name: IndyKite Inc.
+              linkedin: https://www.linkedin.com/company/indykite
+            extra:
+              linkedin_url: https://www.linkedin.com/company/indykite
+            second_path:
+              - Operation / API Customers
           - item:
             name: Infobip
             homepage_url: https://www.infobip.com/
