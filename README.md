@@ -68,4 +68,10 @@ If your organization does not have a Crunchbase entry, you may use the following
 
 ### Logo Requirements
 
-Logos must be in **SVG format**. SVGs must not contain embedded text -- all text elements must be converted to paths before submission, otherwise the build will fail. Most vector graphics tools such as Inkscape or Adobe Illustrator include an option to convert text to paths before export.
+Logos must be in **SVG format** (PNG and JPG are not accepted) and placed in the `hosted_logos/` directory. Use a filename that clearly identifies your organization (e.g., `mycompany.svg`) and reference it by filename only (no path) in the `logo` field of `landscape.yml`.
+
+SVG files must not contain embedded text elements -- this means any text in your logo (such as your company name or tagline) must be converted to paths/outlines before saving, rather than remaining as editable text. If this step is skipped, the build will fail. Most vector graphics tools handle this automatically or with a simple menu option:
+
+- **Inkscape:** Path > Object to Path
+- **Adobe Illustrator:** Type > Create Outlines
+- **Sketch/Figma:** Use "Outline Stroke" or export as "Flatten" SVG
