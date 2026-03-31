@@ -18,11 +18,13 @@ landscape:
             name: Deutsche Telekom AG
             homepage_url: https://telekom.com/
             logo: deutsche_telekom_ag.svg
-            description: Founded in 1995, Deutsche Telekom AG is a Germany-based integrated telecommunications provider, offering its customers around the world a portfolio of services in the areas of telecommunications and information technology.
+            description: Founded in 1895, Deutsche Telekom AG is a Germany-based integrated telecommunications provider, offering its customers around the world a portfolio of services in the areas of telecommunications and information technology.
             crunchbase: https://www.crunchbase.com/organization/deutsche-telekom
             twitter: https://twitter.com/deutschetelekom
             extra:
               linkedin_url: https://www.linkedin.com/company/telekom
+            second_path:
+              - Operation / Operators
           - item:
             name: Ericsson AB
             homepage_url: https://ericsson.com/en
@@ -383,15 +385,6 @@ landscape:
             twitter: https://twitter.com/GetSpectrum
             extra:
               linkedin_url: https://www.linkedin.com/company/spectrum
-          - item:
-            name: Deutsche Telekom AG
-            homepage_url: https://telekom.com/
-            logo: deutsche_telekom_ag.svg
-            description: Founded in 1995, Deutsche Telekom AG is a Germany-based integrated telecommunications provider, offering its customers around the world a portfolio of services in the areas of telecommunications and information technology.
-            crunchbase: https://www.crunchbase.com/organization/deutsche-telekom
-            twitter: https://twitter.com/deutschetelekom
-            extra:
-              linkedin_url: https://www.linkedin.com/company/telekom
           - item:
             name: Orange SA
             homepage_url: https://orange.com/
