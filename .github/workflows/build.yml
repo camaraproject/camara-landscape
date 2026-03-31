@@ -9,9 +9,10 @@ jobs:
   build:
     runs-on: ubuntu-24.04
     steps:
-      - uses: jmertic/lfx-landscape-tools@4a1b2a68b4110e5528b1df83bf41bdf9ac8413f1 # 20260330
+      - uses: jmertic/lfx-landscape-tools@29c3da5bc185f8b7118c50607bf4d58b8b73c0e4 # 20260331
         with:
           project_processing: skip
+          member_processing: sync
         env:
           token: ${{ secrets.GITHUB_TOKEN }}
           repository: ${{ github.repository }}
