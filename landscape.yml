@@ -1542,8 +1542,11 @@ landscape:
             name: XFlow Software Technology LLC
             homepage_url: https://www.xflowresearch.com/
             logo: xflow.svg
+            description: A network infrastructure services and solutions provider specializing in advanced telecom and cloud infrastructure, custom software development, and data analytics.
             second_path:
-              - Planning / Associations
+              - Solution Provider / Network Capability Solution Providers
+            extra:
+              contact: camara@xflowresearch.com
           - item:
             name: Yaana
             homepage_url: https://www.yaanatech.com/
