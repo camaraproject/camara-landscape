@@ -43,11 +43,9 @@ landscape:
             homepage_url: https://orange.com/
             logo: orange_sa.svg
             description: |-
-              Orange is one of the world’s leading telecommunications operators with revenues of 39.7 billion euros in 2023 and 128,000 employees worldwide at 30 June 2024, including 72,000 employees in France. The Group has a total customer base of 285 million customers worldwide at 30 June 2024, including 246 million mobile customers and 21 million fixed broadband customers. These figures have been restated to account for the deconsolidation of certain activities in Spain following the creation of MASORANGE. The Group is present in 26 countries (including non-consolidated countries).
-              Orange is also a leading provider of global IT and telecommunication services to multinational companies under the brand Orange Business. In February 2023, the Group presented its strategic plan 'Lead the Future', built on a new business model and guided by responsibility and efficiency. 'Lead the Future' capitalizes on network excellence to reinforce Orange's leadership in service quality.
-              Orange is listed on Euronext Paris (symbol ORA) and on the New York Stock Exchange (symbol ORAN).
-              For more information on the internet and on your mobile: www.orange.com, www.orange-business.com and the Orange News app or to follow us on X: @presseorange.
-              Orange and any other Orange product or service names included in this material are trademarks of Orange or Orange Brand Services Limited.
+              Orange is one of the world’s leading telecommunications operators. The Group aims to be the trusted partner for everyday digital life by providing individuals, businesses and communities with reliable connectivity and innovative services. As of the end of 2025, Orange connects 340 million customers (including MasOrange) across 26 countries and generated 40.4 billion euros in revenues.
+              As a trusted player, Orange leverages the excellence of its very high-speed broadband networks to deploy digital infrastructure in Europe, Africa and the Middle East. The Group is a European leader in fiber, with 100 million connectable households, and convergent offers. In France, Orange connects 34 million customers and was ranked No. 1 by the regulator Arcep for the quality of its mobile network for the 15th consecutive year. In Africa and the Middle East, the Group’s growth engine, Orange serves nearly 180 million customers and promotes digital and financial inclusion through its connected solutions.
+              Under the Orange Business brand, the Group supports companies in transforming their networks as well as in AI, trusted cloud and cybersecurity. Orange is also a major player in the wholesale market, where it has a leading global telecom infrastructure and significant capabilities for deploying and operating submarine cables. A committed innovator, Orange relies on 700 researchers and holds a portfolio of 11,000 patents.
             crunchbase: https://www.crunchbase.com/organization/orange
             twitter: https://twitter.com/orange
             extra:
@@ -83,7 +81,7 @@ landscape:
             name: Vodafone Group Plc.
             homepage_url: https://vodafone.com/
             logo: vodafone_group_plc.svg
-            description: Vodafone is one of the worlds largest telecommunications companies and provides a range of services including voice, messaging, data and fixed communications. Vodafone has mobile operations in 26 countries, partners with mobile networks in 51 more, and fixed broadband operations in 17 markets. As of June 2016, Vodafone had 465 million mobile customers and 13.7 million fixed broadband customers.
+            description: Vodafone is one of the worlds largest telecommunications companies and provides a range of services including voice, messaging, data and fixed communications. Vodafone has mobile operations in 26 countries, partners with mobile networks in 51 more, and fixed broadband operations in 17 markets. As of June 2016, Vodafone had 465 million mobile customers and 13.7 million fixed broadband customers. Vodafone Group plc /ˈvoʊdəfoʊn/ is a British multinational telecommunications company.
             crunchbase: https://www.crunchbase.com/organization/vodafone
             twitter: https://twitter.com/VodafoneGroup
             extra:
