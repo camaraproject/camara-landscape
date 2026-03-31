@@ -6,7 +6,7 @@ Add one of the following kinds:
 * enhancement/feature
 * cleanup
 * documentation
-* subproject management
+* repository management
 
 
 #### What this PR does / why we need it:
