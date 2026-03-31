@@ -1220,8 +1220,12 @@ landscape:
             name: Optare Solutions
             homepage_url: https://optaresolutions.com/
             logo: optare.svg
+            description: As an active participant in the CAMARA Project, Optare Solutions is at the forefront of driving telecom transformation through standardized API-based service enablement. With over 20 years of exclusive focus on OSS excellence and systems integration architectures, we empower CSPs to seamlessly expose their 5G and network capabilities to the global developer community. Leveraging our deep expertise in Digital Services Enablement, TM Forum Open APIs, and Telco-as-a-Service (TaaS) models, we actively contribute to the CAMARA ecosystem. We help operators decouple legacy environments, implement standardized Network APIs, and unlock new monetization opportunities through secure, agile, and automated digital service delivery.
             second_path:
               - Solution Provider / Network Capability Solution Providers
+              - Integration / System Integrators
+            extra:
+              contact: imasd@optaresolutions.com
           - item:
             name: Optiva
             homepage_url: https://www.optiva.com/
