@@ -1243,9 +1243,14 @@ landscape:
             name: phine.tech GmbH
             homepage_url: https://phine.tech/
             logo: phinetech.svg
+            description: phine.tech specializes in bridging the gap between 5G networks and industrial applications through development tools, connectivity solutions, and specialized R&D services for 5G/6G use cases. We provide the Virtual 5G Lab (V5GL) for testing and development, alongside a CAMARA-aligned Application Function (AF) that simplifies the integration of industrial use cases into open-source 5G networks.
             second_path:
               - Solution Provider / Network Capability Solution Providers
               - Integration / System Integrators
+            extra:
+              contact: contact@phine.tech
+              demo_url: https://phine.tech/services/gigabot
+              demo_url2: https://phine.tech/products/ros-gateway/
           - item:
             name: plusmo
             homepage_url: https://plusmo.com/
