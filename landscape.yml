@@ -18,13 +18,13 @@ landscape:
             name: Deutsche Telekom AG
             homepage_url: https://telekom.com/
             logo: deutsche_telekom_ag.svg
-            description: Founded in 1895, Deutsche Telekom AG is a Germany-based integrated telecommunications provider, offering its customers around the world a portfolio of services in the areas of telecommunications and information technology.
+            description: Founded in 1995, Deutsche Telekom AG is a Germany-based integrated telecommunications provider, offering its customers around the world a portfolio of services in the areas of telecommunications and information technology.
+            second_path:
+              - Operation / Operators
             crunchbase: https://www.crunchbase.com/organization/deutsche-telekom
             twitter: https://twitter.com/deutschetelekom
             extra:
               linkedin_url: https://www.linkedin.com/company/telekom
-            second_path:
-              - Operation / Operators
           - item:
             name: Ericsson AB
             homepage_url: https://ericsson.com/en
@@ -146,11 +146,11 @@ landscape:
             homepage_url: https://shabodi.com/
             logo: shabodi.svg
             description: Shabodi is a company that empowers enterprises, system integrators, and telcos to build high-performance enterprise applications on advanced networks.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/shabodi
             organization:
               name: Shabodi
               linkedin: https://www.linkedin.com/company/shabodi
-            extra:
-              linkedin_url: https://www.linkedin.com/company/shabodi
       - subcategory:
         name: Associate
         items:
@@ -169,11 +169,11 @@ landscape:
             logo: open_mobile_alliance_oma.svg
             description: OMA SpecWorks – a new approach to standards development  Streamlined processes and expertise from across the wireless industry focused on delivering specifications at the services layer that support the billions of new and existing fixed and mobile ter...
             twitter: https://twitter.com/OMASpecWorks
+            extra:
+              linkedin_url: https://www.linkedin.com/company/open-mobile-alliance
             organization:
               name: Open Mobile Alliance (OMA)
               linkedin: https://www.linkedin.com/company/open-mobile-alliance
-            extra:
-              linkedin_url: https://www.linkedin.com/company/open-mobile-alliance
           - item:
             name: UFRN
             homepage_url: https://ufrn.br/
