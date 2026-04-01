@@ -1147,8 +1147,13 @@ landscape:
             name: Nabstract.io
             homepage_url: https://nabstract.io
             logo: nabstract.svg
+            crunchbase: https://www.crunchbase.com/organization/nabstract
+            extra:
+              demo_url: https://camaraproject.org/resources/
             second_path:
               - Solution Provider / API Exposure Platform Solution Providers
+              - Solution Provider / Transformation Function Solution Providers
+              - Solution Provider / Network Capability Solution Providers
           - item:
             name: National Centre of Scientific Research - Demokritos
             homepage_url: https://www.demokritos.gr/
