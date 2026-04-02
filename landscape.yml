@@ -243,6 +243,15 @@ landscape:
               linkedin: https://www.linkedin.com/company/open-mobile-alliance
             extra:
               linkedin_url: https://www.linkedin.com/company/open-mobile-alliance
+          - item:
+            name: TNO, the Netherlands Organisation for Applied Scientific Research
+            homepage_url: https://tno.nl/
+            logo: tno_the_netherlands_organisation_for_applied_scientific_research.svg
+            description: TNO connects people and knowledge to create innovations that boost the competitive strength of industry and the well-being of society in a sustainable way.
+            crunchbase: https://www.crunchbase.com/organization/tno
+            twitter: https://twitter.com/TNO_nieuws
+            extra:
+              linkedin_url: https://www.linkedin.com/company/tno
       - subcategory:
         name: Ecosystem Consultants & Training Partners
         items:
@@ -385,6 +394,15 @@ landscape:
       - subcategory:
         name: Operators
         items:
+          - item:
+            name: AT&T Services, Inc.
+            homepage_url: https://att.com/
+            logo: at_t_services_inc.svg
+            description: Founded in 1983 and headquartered in Dallas, TX, AT&T Corp. is a business services communications provider, offering a variety of global communications services to customers, including large domestic and multinational businesses, small and medium-sized businesses and government agencies. The Company operates a telecommunications networks in the United States and, through the Global Network Services, provides an array of services, and customized solutions.
+            crunchbase: https://www.crunchbase.com/organization/at-t
+            twitter: https://twitter.com/ATT
+            extra:
+              linkedin_url: https://www.linkedin.com/company/att
           - item:
             name: Cable Television Laboratories Inc.
             homepage_url: https://cablelabs.com/
