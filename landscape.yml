@@ -378,8 +378,14 @@ landscape:
             name: Almuqeet
             homepage_url: https://almuqeet.net/
             logo: almuqeet.svg
+            description: Almuqeet Systems is a GSMA Open Gateway and CAMARA-compliant platform provider enabling mobile network operators, aggregators, and enterprises to deploy and monetize standardized Network APIs at scale. Our product suite, CAMARA Core, CAMARA Hub, and aCPaaS-Net API, bridges operator core networks and the global API economy through open, commercially ready integrations. We empower operators to move from technical readiness to live, revenue-generating Network API use cases with built-in policy management, billing, and multi-operator interoperability.
             second_path:
+              - Solution Provider / Network Capability Solution Providers
+              - Solution Provider / API Exposure Platform Solution Providers
+              - Solution Provider / Portal Solution Providers
               - Operation / Hyperscalers, CPaaS Providers, Aggregators
+            extra:
+              contact: networkapi@almuqeet.net
           - item:
             name: Amantya
             homepage_url: https://amantyatech.com/
