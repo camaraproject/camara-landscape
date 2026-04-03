@@ -1205,8 +1205,12 @@ landscape:
             name: Simptel
             homepage_url: https://www.siptel.com.sg/
             logo: simptel.svg
+            description: Simptel is a Netherlands-based software development and publishing company focused on building scalable communication and identity infrastructure. The company develops platforms and products that leverage telecom and network APIs, particularly across voice, authentication, and identity, to enable developers and enterprises to build secure, programmable communication services.
             second_path:
               - Operation / API Customers
+            extra:
+              contact: camara@simptel.com
+              demo_url: https://demo.simptellabs.com/
           - item:
             name: Sinch
             homepage_url: https://sinch.com
