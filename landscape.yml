@@ -10,6 +10,8 @@ landscape:
             homepage_url: https://accenture.com/
             logo: accenture_global_solutions_limited.svg
             description: Founded in 1989 and headquartered in Dublin, Ireland, Accenture is a company that provides services and solutions in strategy, consulting, digital, technology, and operations. The company serves customers in industries including communications, media and technology, financial services, health and public service, as well as products and resources.
+            second_path:
+              - Planning / Ecosystem Consultants & Training Partners
             crunchbase: https://www.crunchbase.com/organization/accenture
             twitter: https://twitter.com/Accenture
             extra:
@@ -40,6 +42,10 @@ landscape:
             name: Ericsson AB
             homepage_url: https://ericsson.com/en
             logo: ericsson_ab.svg
+            second_path:
+              - Solution Provider / API Exposure Platform Solution Providers
+              - Solution Provider / Network Capability Solution Providers
+              - Solution Provider / Transformation Function Solution Providers
             organization:
               name: Ericsson AB
           - item:
@@ -47,6 +53,11 @@ landscape:
             homepage_url: https://nokia.com/
             logo: nokia_corporation.svg
             description: 'Nokia Corporation is a Finland-based company that invests in technologies. The company operates through three business segments: Nokia Networks, HERE and Nokia Technologies. Nokia Networks offers network infrastructure software, hardware, and services. Nokia Networks has two segments: Mobile Broadband and Global Services. HERE offers maps, a location platform, and location experiences across different screens and operating systems. HERE offer maps for around 190 countries, voice guided navigation for 99 countries in around 50 languages and live traffic information for around 44 countries. Nokia Technologies develops and licenses technologies. Nokia Technologies manages an Intellectual Property (IP) portfolio of approximately 10,000 patent families consisted of approximately 30,000 individual patents and patent applications.'
+            second_path:
+              - Solution Provider / Portal Solution Providers
+              - Solution Provider / API Exposure Platform Solution Providers
+              - Solution Provider / Network Capability Solution Providers
+              - Solution Provider / Transformation Function Solution Providers
             crunchbase: https://www.crunchbase.com/organization/nokia
             twitter: https://twitter.com/nokia
             extra:
@@ -59,6 +70,8 @@ landscape:
               Orange is one of the world’s leading telecommunications operators. The Group aims to be the trusted partner for everyday digital life by providing individuals, businesses and communities with reliable connectivity and innovative services. As of the end of 2025, Orange connects 340 million customers (including MasOrange) across 26 countries and generated 40.4 billion euros in revenues.
               As a trusted player, Orange leverages the excellence of its very high-speed broadband networks to deploy digital infrastructure in Europe, Africa and the Middle East. The Group is a European leader in fiber, with 100 million connectable households, and convergent offers. In France, Orange connects 34 million customers and was ranked No. 1 by the regulator Arcep for the quality of its mobile network for the 15th consecutive year. In Africa and the Middle East, the Group’s growth engine, Orange serves nearly 180 million customers and promotes digital and financial inclusion through its connected solutions.
               Under the Orange Business brand, the Group supports companies in transforming their networks as well as in AI, trusted cloud and cybersecurity. Orange is also a major player in the wholesale market, where it has a leading global telecom infrastructure and significant capabilities for deploying and operating submarine cables. A committed innovator, Orange relies on 700 researchers and holds a portfolio of 11,000 patents.
+            second_path:
+              - Operation / Operators
             crunchbase: https://www.crunchbase.com/organization/orange
             twitter: https://twitter.com/orange
             extra:
@@ -68,6 +81,8 @@ landscape:
             homepage_url: https://telefonica.com/
             logo: telefonica_s_a.svg
             description: Telefónica, SA is a Spanish multinational telecommunications company headquartered in Madrid, Spain.
+            second_path:
+              - Operation / Operators
             crunchbase: https://www.crunchbase.com/organization/telefonica
             twitter: https://twitter.com/Telefonica
             extra:
@@ -77,6 +92,8 @@ landscape:
             homepage_url: https://t-mobile.com/
             logo: t_mobile_pcs_holdings_llc.svg
             description: "As America's Un-carrier, T-Mobile US, Inc. (NASDAQ: TMUS) is redefining the way consumers and businesses buy wireless services through leading product and service innovation. The Company's advanced nationwide 4G LTE network delivers outstanding wireless experiences to 67.4 million customers who are unwilling to compromise on quality and value. Based in Bellevue, Washington, T-Mobile US provides services through its subsidiaries and operates its flagship brands, T-Mobile and MetroPCS."
+            second_path:
+              - Operation / Operators
             crunchbase: https://www.crunchbase.com/organization/t-mobile
             twitter: https://twitter.com/TMobile
             extra:
@@ -86,6 +103,8 @@ landscape:
             homepage_url: https://verizon.com/
             logo: verizon_corporate_services.svg
             description: Verizon is a telecommunications company that offers broadband and other wireless and wireline communications services to consumer, business, government, and wholesale customers. Verizon is headquartered in New York City, New York.
+            second_path:
+              - Operation / Operators
             crunchbase: https://www.crunchbase.com/organization/verizon
             twitter: https://twitter.com/Verizon
             extra:
@@ -95,6 +114,8 @@ landscape:
             homepage_url: https://vodafone.com/
             logo: vodafone_group_plc.svg
             description: Vodafone Group Plc is a leading British multinational telecommunications company providing mobile, fixed-line, satellite, and IoT services to over 330 million customers across Europe and Africa. Headquartered in Newbury, UK, it specializes in 5G, consumer, and business solutions, alongside M-PESA financial services.
+            second_path:
+              - Operation / Operators
             crunchbase: https://www.crunchbase.com/organization/vodafone
             twitter: https://twitter.com/VodafoneGroup
             extra:
@@ -106,6 +127,8 @@ landscape:
             name: Aduna Global LLC
             homepage_url: https://adunaglobal.com/
             logo: aduna_global_llc.svg
+            second_path:
+              - Operation / Hyperscalers, CPaaS Providers, Aggregators
             organization:
               name: Aduna Global LLC
           - item:
@@ -113,6 +136,8 @@ landscape:
             homepage_url: https://cablelabs.com/
             logo: cable_television_laboratories_inc.svg
             description: As the leading innovation and R&D lab for the cable industry, CableLabs is a nonprofit organization that creates global impact through its member companies around the world and its subsidiaries, Kyrio and SCTE. With a state-of-the-art research and innovation facility and collaborative ecosystem with thousands of vendors, CableLabs delivers impactful network technologies for the entire industry.
+            second_path:
+              - Operation / Operators
             crunchbase: https://www.crunchbase.com/organization/cablelabs
             twitter: https://twitter.com/CableLabs
             extra:
@@ -122,6 +147,8 @@ landscape:
             homepage_url: https://spectrum.com/
             logo: charter_communications.svg
             description: Charter Communications, Inc., is an American telecommunications and mass media company that offers its services to consumers and businesses under the branding of Spectrum.
+            second_path:
+              - Operation / Operators
             crunchbase: https://www.crunchbase.com/organization/time-warner-cable
             twitter: https://twitter.com/GetSpectrum
             extra:
@@ -130,6 +157,8 @@ landscape:
             name: KYXSTART
             homepage_url: https://kyxstart.com/
             logo: kyxstart.svg
+            second_path:
+              - Operation / API Customers
             organization:
               name: KYXSTART
           - item:
@@ -137,6 +166,8 @@ landscape:
             homepage_url: https://nearbycomputing.com/
             logo: nearby_computing.svg
             description: 'Nearby Computing: Revolutionizing network management with cutting-edge automation for Telcos & Enterprises.'
+            second_path:
+              - Operation / API Customers
             organization:
               name: Nearby Computing
           - item:
@@ -144,12 +175,16 @@ landscape:
             homepage_url: https://withpersona.com/
             logo: persona_identities_inc.svg
             description: Persona offers online ID verification services for businesses, simplifying identity management with configurable infrastructure for KYC, AML, and fraud detection. Automate processes, fight fraud, and build trust globally with Persona's secure solutions.
+            second_path:
+              - Operation / API Customers
             organization:
               name: Persona Identities, Inc.
           - item:
             name: Sent, Inc.
             homepage_url: https://sent.dm/
             logo: sent_inc.svg
+            second_path:
+              - Operation / Hyperscalers, CPaaS Providers, Aggregators
             organization:
               name: Sent, Inc.
           - item:
@@ -157,6 +192,8 @@ landscape:
             homepage_url: https://shabodi.com/
             logo: shabodi.svg
             description: Shabodi is a company that empowers enterprises, system integrators, and telcos to build high-performance enterprise applications on advanced networks.
+            second_path:
+              - Operation / Hyperscalers, CPaaS Providers, Aggregators
             extra:
               linkedin_url: https://www.linkedin.com/company/shabodi
             organization:
@@ -170,6 +207,8 @@ landscape:
             homepage_url: https://openid.org/
             logo: openid_foundation.svg
             description: OpenID Foundation promotes "Open and Safe Identity Layer" in the Cyberspace.
+            second_path:
+              - Planning / Associations
             crunchbase: https://www.crunchbase.com/organization/openid-foundation
             twitter: https://twitter.com/openid
             extra:
@@ -179,6 +218,8 @@ landscape:
             homepage_url: https://openmobilealliance.org/
             logo: open_mobile_alliance_oma.svg
             description: OMA SpecWorks – a new approach to standards development  Streamlined processes and expertise from across the wireless industry focused on delivering specifications at the services layer that support the billions of new and existing fixed and mobile ter...
+            second_path:
+              - Planning / Associations
             twitter: https://twitter.com/OMASpecWorks
             extra:
               linkedin_url: https://www.linkedin.com/company/open-mobile-alliance
@@ -201,6 +242,8 @@ landscape:
             homepage_url: https://ufrn.br/
             logo: ufrn.svg
             description: The Federal University of Rio Grande do Norte (UFRN) is a prestigious public Brazilian university located in Natal, Brazil. Established in 1960, UFRN offers a wide range of undergraduate and graduate programs across 60 departments. Known for its resear...
+            second_path:
+              - Planning / Research Partners
             organization:
               name: UFRN
           - item:
@@ -208,6 +251,8 @@ landscape:
             homepage_url: https://berkeley.edu/
             logo: university_of_california_berkeley.svg
             description: University of California Berkeley is the oldest of the campuses under the University of California umbrella. The university has made its mark as one of the premier research institutions in the country. The student body consists of an estimated 25,000+ undergraduates and 10,000+ graduate students.
+            second_path:
+              - Planning / Research Partners
             crunchbase: https://www.crunchbase.com/organization/university-of-california-berkeley
             twitter: https://twitter.com/UCBerkeley
             extra:
@@ -217,6 +262,8 @@ landscape:
             homepage_url: https://colorado.edu/
             logo: university_of_colorado_boulder.svg
             description: The University of Colorado at Boulder is a public research university located in Boulder, Colorado. It is the flagship university of the University of Colorado system and was founded five months before Colorado was admitted to the union in 1876. It is comprised of nine colleges and schools.
+            second_path:
+              - Planning / Research Partners
             crunchbase: https://www.crunchbase.com/organization/university-of-colorado-boulder
             twitter: https://twitter.com/CUBoulder
             extra:
@@ -226,67 +273,13 @@ landscape:
     subcategories:
       - subcategory:
         name: Associations
-        items:
-          - item:
-            name: OpenID Foundation
-            homepage_url: https://openid.org/
-            logo: openid_foundation.svg
-            description: OpenID Foundation promotes "Open and Safe Identity Layer" in the Cyberspace.
-            crunchbase: https://www.crunchbase.com/organization/openid-foundation
-            twitter: https://twitter.com/openid
-            extra:
-              linkedin_url: https://www.linkedin.com/company/openid-foundation
-          - item:
-            name: Open Mobile Alliance (OMA)
-            homepage_url: https://openmobilealliance.org/
-            logo: open_mobile_alliance_oma.svg
-            description: OMA SpecWorks – a new approach to standards development  Streamlined processes and expertise from across the wireless industry focused on delivering specifications at the services layer that support the billions of new and existing fixed and mobile ter...
-            twitter: https://twitter.com/OMASpecWorks
-            organization:
-              name: Open Mobile Alliance (OMA)
-              linkedin: https://www.linkedin.com/company/open-mobile-alliance
-            extra:
-              linkedin_url: https://www.linkedin.com/company/open-mobile-alliance
+        items: []
       - subcategory:
         name: Ecosystem Consultants & Training Partners
-        items:
-          - item:
-            name: Accenture Global Solutions Limited
-            homepage_url: https://accenture.com/
-            logo: accenture_global_solutions_limited.svg
-            description: Founded in 1989 and headquartered in Dublin, Ireland, Accenture is a company that provides services and solutions in strategy, consulting, digital, technology, and operations. The company serves customers in industries including communications, media and technology, financial services, health and public service, as well as products and resources.
-            crunchbase: https://www.crunchbase.com/organization/accenture
-            twitter: https://twitter.com/Accenture
-            extra:
-              linkedin_url: https://www.linkedin.com/company/accenture
+        items: []
       - subcategory:
         name: Research Partners
-        items:
-          - item:
-            name: UFRN
-            homepage_url: https://ufrn.br/
-            logo: ufrn.svg
-            description: The Federal University of Rio Grande do Norte (UFRN) is a prestigious public Brazilian university located in Natal, Brazil. Established in 1960, UFRN offers a wide range of undergraduate and graduate programs across 60 departments. Known for its resear...
-            organization:
-              name: UFRN
-          - item:
-            name: University of California, Berkeley
-            homepage_url: https://berkeley.edu/
-            logo: university_of_california_berkeley.svg
-            description: University of California Berkeley is the oldest of the campuses under the University of California umbrella. The university has made its mark as one of the premier research institutions in the country. The student body consists of an estimated 25,000+ undergraduates and 10,000+ graduate students.
-            crunchbase: https://www.crunchbase.com/organization/university-of-california-berkeley
-            twitter: https://twitter.com/UCBerkeley
-            extra:
-              linkedin_url: https://www.linkedin.com/company/uc-berkeley
-          - item:
-            name: University of Colorado Boulder
-            homepage_url: https://colorado.edu/
-            logo: university_of_colorado_boulder.svg
-            description: The University of Colorado at Boulder is a public research university located in Boulder, Colorado. It is the flagship university of the University of Colorado system and was founded five months before Colorado was admitted to the union in 1876. It is comprised of nine colleges and schools.
-            crunchbase: https://www.crunchbase.com/organization/university-of-colorado-boulder
-            twitter: https://twitter.com/CUBoulder
-            extra:
-              linkedin_url: https://www.linkedin.com/company/university-of-colorado
+        items: []
   - category:
     name: Integration
     subcategories:
@@ -301,32 +294,10 @@ landscape:
         items: []
       - subcategory:
         name: Portal Solution Providers
-        items:
-          - item:
-            name: Nokia Corporation
-            homepage_url: https://nokia.com/
-            logo: nokia_corporation.svg
-            description: 'Nokia Corporation is a Finland-based company that invests in technologies. The company operates through three business segments: Nokia Networks, HERE and Nokia Technologies. Nokia Networks offers network infrastructure software, hardware, and services. Nokia Networks has two segments: Mobile Broadband and Global Services. HERE offers maps, a location platform, and location experiences across different screens and operating systems. HERE offer maps for around 190 countries, voice guided navigation for 99 countries in around 50 languages and live traffic information for around 44 countries. Nokia Technologies develops and licenses technologies. Nokia Technologies manages an Intellectual Property (IP) portfolio of approximately 10,000 patent families consisted of approximately 30,000 individual patents and patent applications.'
-            crunchbase: https://www.crunchbase.com/organization/nokia
-            twitter: https://twitter.com/nokia
-            second_path:
-              - Solution Provider / API Exposure Platform Solution Providers
-              - Solution Provider / Network Capability Solution Providers
-              - Solution Provider / Transformation Function Solution Providers
-            extra:
-              linkedin_url: https://www.linkedin.com/company/nokianet
+        items: []
       - subcategory:
         name: API Exposure Platform Solution Providers
-        items:
-          - item:
-            name: Ericsson AB
-            homepage_url: https://ericsson.com/en
-            logo: ericsson_ab.svg
-            second_path:
-              - Solution Provider / Network Capability Solution Providers
-              - Solution Provider / Transformation Function Solution Providers
-            organization:
-              name: Ericsson AB
+        items: []
       - subcategory:
         name: Transformation Function Solution Providers
         items: []
@@ -338,123 +309,13 @@ landscape:
     subcategories:
       - subcategory:
         name: API Customers
-        items:
-          - item:
-            name: JLinc
-            homepage_url: https://www.jlinc.com/
-            logo: jlinc.svg
-            organization:
-              name: JLinc
-          - item:
-            name: KYXSTART
-            homepage_url: https://kyxstart.com/
-            logo: kyxstart.svg
-            organization:
-              name: KYXSTART
-          - item:
-            name: Nearby Computing
-            homepage_url: https://nearbycomputing.com/
-            logo: nearby_computing.svg
-            description: 'Nearby Computing: Revolutionizing network management with cutting-edge automation for Telcos & Enterprises.'
-            organization:
-              name: Nearby Computing
-          - item:
-            name: Persona Identities, Inc.
-            homepage_url: https://withpersona.com/
-            logo: persona_identities_inc.svg
-            description: Persona offers online ID verification services for businesses, simplifying identity management with configurable infrastructure for KYC, AML, and fraud detection. Automate processes, fight fraud, and build trust globally with Persona's secure solutions.
-            organization:
-              name: Persona Identities, Inc.
+        items: []
       - subcategory:
         name: Hyperscalers, CPaaS Providers, Aggregators
-        items:
-          - item:
-            name: Aduna Global LLC
-            homepage_url: https://adunaglobal.com/
-            logo: aduna_global_llc.svg
-          - item:
-            name: Sent, Inc.
-            homepage_url: https://sent.dm/
-            logo: sent_inc.svg
-          - item:
-            name: Shabodi
-            homepage_url: https://shabodi.com/
-            logo: shabodi.svg
-            description: Shabodi is a company that empowers enterprises, system integrators, and telcos to build high-performance enterprise applications on advanced networks.
-            organization:
-              name: Shabodi
-              linkedin: https://www.linkedin.com/company/shabodi
-            extra:
-              linkedin_url: https://www.linkedin.com/company/shabodi
+        items: []
       - subcategory:
         name: Operators
-        items:
-          - item:
-            name: Cable Television Laboratories Inc.
-            homepage_url: https://cablelabs.com/
-            logo: cable_television_laboratories_inc.svg
-            description: Founded in 1988, CableLabs is a non-profit research and development consortium that serves to define interoperable solutions among cable operator members and their technology vendors in order to reduce costs, create competition in the supply chain, and drive scale.  CableLabs is dedicated to creating innovative ideas that significantly impact their cable operator members' business. The company is headquartered in Louisville, Colorado.
-            crunchbase: https://www.crunchbase.com/organization/cablelabs
-            twitter: https://twitter.com/CableLabs
-            extra:
-              linkedin_url: https://www.linkedin.com/company/cablelabs
-          - item:
-            name: Charter Communications
-            homepage_url: https://spectrum.com/
-            logo: charter_communications.svg
-            description: Charter Communications, Inc., is an American telecommunications and mass media company that offers its services to consumers and businesses under the branding of Spectrum.
-            crunchbase: https://www.crunchbase.com/organization/time-warner-cable
-            twitter: https://twitter.com/GetSpectrum
-            extra:
-              linkedin_url: https://www.linkedin.com/company/spectrum
-          - item:
-            name: Orange SA
-            homepage_url: https://orange.com/
-            logo: orange_sa.svg
-            description: |-
-              Orange is one of the world’s leading telecommunications operators. The Group aims to be the trusted partner for everyday digital life by providing individuals, businesses and communities with reliable connectivity and innovative services. As of the end of 2025, Orange connects 340 million customers (including MasOrange) across 26 countries and generated 40.4 billion euros in revenues.
-              As a trusted player, Orange leverages the excellence of its very high-speed broadband networks to deploy digital infrastructure in Europe, Africa and the Middle East. The Group is a European leader in fiber, with 100 million connectable households, and convergent offers. In France, Orange connects 34 million customers and was ranked No. 1 by the regulator Arcep for the quality of its mobile network for the 15th consecutive year. In Africa and the Middle East, the Group’s growth engine, Orange serves nearly 180 million customers and promotes digital and financial inclusion through its connected solutions.
-              Under the Orange Business brand, the Group supports companies in transforming their networks as well as in AI, trusted cloud and cybersecurity. Orange is also a major player in the wholesale market, where it has a leading global telecom infrastructure and significant capabilities for deploying and operating submarine cables. A committed innovator, Orange relies on 700 researchers and holds a portfolio of 11,000 patents.
-            crunchbase: https://www.crunchbase.com/organization/orange
-            twitter: https://twitter.com/orange
-            extra:
-              linkedin_url: https://www.linkedin.com/company/orange-services
-          - item:
-            name: Telefonica, S.A.
-            homepage_url: https://telefonica.com/
-            logo: telefonica_s_a.svg
-            description: Telefónica, SA is a Spanish multinational telecommunications company headquartered in Madrid, Spain.
-            crunchbase: https://www.crunchbase.com/organization/telefonica
-            twitter: https://twitter.com/Telefonica
-            extra:
-              linkedin_url: https://www.linkedin.com/company/telefonica-global-solutions
-          - item:
-            name: T-Mobile PCS Holdings LLC
-            homepage_url: https://t-mobile.com/
-            logo: t_mobile_pcs_holdings_llc.svg
-            description: "As America's Un-carrier, T-Mobile US, Inc. (NASDAQ: TMUS) is redefining the way consumers and businesses buy wireless services through leading product and service innovation. The Company's advanced nationwide 4G LTE network delivers outstanding wireless experiences to 67.4 million customers who are unwilling to compromise on quality and value. Based in Bellevue, Washington, T-Mobile US provides services through its subsidiaries and operates its flagship brands, T-Mobile and MetroPCS."
-            crunchbase: https://www.crunchbase.com/organization/t-mobile
-            twitter: https://twitter.com/TMobile
-            extra:
-              linkedin_url: https://www.linkedin.com/company/metropcs
-          - item:
-            name: Verizon Corporate Services
-            homepage_url: https://verizon.com/
-            logo: verizon_corporate_services.svg
-            description: Verizon is a telecommunications company that offers broadband and other wireless and wireline communications services to consumer, business, government, and wholesale customers. Verizon is headquartered in New York City, New York.
-            crunchbase: https://www.crunchbase.com/organization/verizon
-            twitter: https://twitter.com/Verizon
-            extra:
-              linkedin_url: https://www.linkedin.com/company/verizon
-          - item:
-            name: Vodafone Group Plc.
-            homepage_url: https://vodafone.com/
-            logo: vodafone_group_plc.svg
-            description: Vodafone is one of the worlds largest telecommunications companies and provides a range of services including voice, messaging, data and fixed communications. Vodafone has mobile operations in 26 countries, partners with mobile networks in 51 more, and fixed broadband operations in 17 markets. As of June 2016, Vodafone had 465 million mobile customers and 13.7 million fixed broadband customers. Vodafone Group plc /ˈvoʊdəfoʊn/ is a British multinational telecommunications company.
-            crunchbase: https://www.crunchbase.com/organization/vodafone
-            twitter: https://twitter.com/VodafoneGroup
-            extra:
-              linkedin_url: https://www.linkedin.com/company/vodafone
+        items: []
   - category:
     name: Participating Organizations
     subcategories:
