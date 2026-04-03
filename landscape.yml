@@ -869,8 +869,11 @@ landscape:
       name: KPN
       homepage_url: https://www.kpn.com/
       logo: kpn.svg
+      description: KPN is a leading telecommunications and IT provider and market leader in the Netherlands. With our fixed and mobile networks for telephony, data and television we serve customers at home and abroad. KPN focuses on both private customers and business users, from small to large. In addition, we offer telecom providers access to our widespread networks.
       second_path:
       - Operation / Operators
+      extra:
+        demo_url: https://www.kpn-wholesale.com/en/contactformulier
     - item:
       name: KT
       homepage_url: https://www.kt.com/
