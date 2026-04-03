@@ -766,8 +766,13 @@ landscape:
             name: IEEE 5G6G Testbed
             homepage_url: https://testbed.ieee.org/
             logo: IEEE5G6GTestbed.svg
+            description: The IEEE 5G/6G Innovation Testbed is a cloud-based, end-to-end network testing and development platform composed of integrated open-source components, enabling holistic validation of advanced features like network slicing, edge computing, and AI-native control loops. The testbed actively supports the CAMARA initiative by providing a practical 5G network environment where users can test and experiment with CAMARA APIs, currently including the Device Identifier, Device Status, and Home Devices Quality on Demand APIs.
             second_path:
               - Planning / Research Partners
+              - Solution Provider / API Exposure Platform Solution Providers
+            extra:
+              contact: testbed@ieee.org
+              demo_url: https://testbed.ieee.org/introducing-camara-apis-to-the-ieee-5g-6g-innovation-testbed/
           - item:
             name: IndyKite Inc.
             homepage_url: https://indykite.com/
