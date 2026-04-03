@@ -191,11 +191,13 @@ landscape:
             name: Shabodi
             homepage_url: https://shabodi.com/
             logo: shabodi.svg
-            description: Shabodi is a company that empowers enterprises, system integrators, and telcos to build high-performance enterprise applications on advanced networks.
+            description: Shabodi's NetAware platform accelerates the commercialization of GSMA Open Gateway/CAMARA APIs by providing technology to operators and aggregators. By exposing real-time network intelligence (including Number Verification, SIM/Device status, Location, and Quality of Service, among other APIs) NetAware bridges telecom infrastructure with digital innovation.
             second_path:
               - Operation / Hyperscalers, CPaaS Providers, Aggregators
             extra:
               linkedin_url: https://www.linkedin.com/company/shabodi
+              contact: info@shabodi.com
+              demo_url: https://www.youtube.com/@shabodicorp
             organization:
               name: Shabodi
               linkedin: https://www.linkedin.com/company/shabodi
