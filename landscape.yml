@@ -772,13 +772,15 @@ landscape:
       name: IndyKite Inc.
       homepage_url: https://indykite.com/
       logo: indykite_inc.svg
-      description: Sky is blue - 4IR is here. Curious to know what will be announced Apr 20, 2020 – subscribe here.
+      description: IndyKite is the first System of Intelligence built on a live context graph. As AI agents and users execute work, IndyKite continuously captures context, relationships, trust signals, and actions. This becomes the point of decision, pulling signals from multiple systems and applying them at runtime, with full traceability. The result is agentic AI that can operate across platforms with precision and deliver an entirely new class of intelligent services. Learn more at IndyKite.ai
       twitter: https://twitter.com/indykiteone
       organization:
         name: IndyKite Inc.
         linkedin: https://www.linkedin.com/company/indykite
       extra:
         linkedin_url: https://www.linkedin.com/company/indykite
+        contact: Info@indykite.com
+        demo_url: https://www.youtube.com/watch?v=yHbc557CVXc&list=PLaoukyQx6HIrb3P4IbSUthOQnLDXWMlcd
       second_path:
       - Operation / API Customers
     - item:
