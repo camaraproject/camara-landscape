@@ -148,11 +148,13 @@ landscape:
             logo: charter_communications.svg
             description: Charter Communications, Inc., is an American telecommunications and mass media company that offers its services to consumers and businesses under the branding of Spectrum.
             second_path:
-              - Operation / Operators
+            - Operation / Operators
             crunchbase: https://www.crunchbase.com/organization/time-warner-cable
             twitter: https://twitter.com/GetSpectrum
             extra:
               linkedin_url: https://www.linkedin.com/company/spectrum
+              contact: bryteiqsupport@charter.com
+              demo_url: https://www.bryteiq.com
           - item:
             name: KYXSTART
             homepage_url: https://kyxstart.com/
