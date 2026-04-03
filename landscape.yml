@@ -774,7 +774,7 @@ landscape:
             logo: indykite_inc.svg
             description: IndyKite is the first System of Intelligence built on a live context graph. As AI agents and users execute work, IndyKite continuously captures context, relationships, trust signals, and actions. This becomes the point of decision, pulling signals from multiple systems and applying them at runtime, with full traceability. The result is agentic AI that can operate across platforms with precision and deliver an entirely new class of intelligent services. Learn more at IndyKite.ai
             second_path:
-            - Operation / API Customers
+             - Operation / API Customers
             twitter: https://twitter.com/indykiteone
             extra:
               linkedin_url: https://www.linkedin.com/company/indykite
