@@ -573,10 +573,10 @@ landscape:
             logo: bcti.svg
             description: BCTI helps operators, aggregators, and enterprises turn CAMARA-compliant network APIs into deployable identity and fraud solutions. We focus on commercializing and integrating capabilities such as Number Verification and SIM Swap to reduce friction in onboarding, strengthen account security, and support cross-operator adoption of network APIs.
             second_path:
-            - Planning / Ecosystem Consultants & Training Partners
-            - Integration / System Integrators
-            - Solution Provider / Independent Software Vendors
-            - Operation / Hyperscalers, CPaaS Providers, Aggregators
+              - Planning / Ecosystem Consultants & Training Partners
+              - Integration / System Integrators
+              - Solution Provider / Independent Software Vendors
+              - Operation / Hyperscalers, CPaaS Providers, Aggregators
             extra:
               contact: information@brianchin.co
           - item:
