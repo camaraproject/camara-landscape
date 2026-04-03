@@ -713,6 +713,8 @@ landscape:
             logo: gsma.svg
             second_path:
               - Planning / Associations
+            extra:
+              demo_url: https://www.gsma.com/solutions-and-impact/gsma-open-gateway/gsma-open-gateway-case-studies/
           - item:
             name: HCL Software
             homepage_url: https://www.hcltechsw.com/
