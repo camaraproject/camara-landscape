@@ -194,10 +194,12 @@ landscape:
             description: Shabodi's NetAware platform accelerates the commercialization of GSMA Open Gateway/CAMARA APIs by providing technology to operators and aggregators. By exposing real-time network intelligence (including Number Verification, SIM/Device status, Location, and Quality of Service, among other APIs) NetAware bridges telecom infrastructure with digital innovation.
             second_path:
               - Operation / Hyperscalers, CPaaS Providers, Aggregators
+              - Solution Provider / API Exposure Platform Solution Providers
             extra:
               linkedin_url: https://www.linkedin.com/company/shabodi
               contact: info@shabodi.com
-              demo_url: https://www.youtube.com/@shabodicorp
+              demo_url: https://www.youtube.com/watch?v=eh8us2AChrw
+              demo_url2: https://www.youtube.com/watch?v=YCj7Vo5RDek
             organization:
               name: Shabodi
               linkedin: https://www.linkedin.com/company/shabodi
