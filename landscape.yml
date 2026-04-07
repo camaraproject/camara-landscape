@@ -1024,8 +1024,11 @@ landscape:
             name: MojoAuth
             homepage_url: https://mojoauth.com
             logo: mojoauth.svg
+            description: MojoAuth is a passwordless authentication and customer identity management (CIAM) platform that enables secure, frictionless login through magic links, email OTP, WebAuthn, and passkeys. MojoAuth also supports silent mobile network-based authentication, helping businesses leverage standardized, privacy-friendly telco APIs for seamless consumer identity verification.
             second_path:
-              - Operation / API Customers
+              - Operation / Hyperscalers, CPaaS Providers, Aggregators
+            extra:
+              contact: support@mojoauth.com
           - item:
             name: MQUEST Technologies
             homepage_url: https://mquest-technologies.com
