@@ -1072,6 +1072,7 @@ landscape:
             name: NetoAI
             homepage_url: https://netoai.org/
             logo: netoai.svg
+            description: NetoAI is an AI company focused on the telecom domain. We specialize in solving underlying network data retrieval and consolidation with our Digital-Twin to present the true network state to AI agents, enabling Autonomous Network Operations (ANO).
             second_path:
               - Operation / API Customers
           - item:
