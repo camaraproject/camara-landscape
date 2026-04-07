@@ -113,13 +113,15 @@ landscape:
             name: Vodafone Group Plc.
             homepage_url: https://vodafone.com/
             logo: vodafone_group_plc.svg
-            description: Vodafone Group Plc is a leading British multinational telecommunications company providing mobile, fixed-line, satellite, and IoT services to over 330 million customers across Europe and Africa. Headquartered in Newbury, UK, it specializes in 5G, consumer, and business solutions, alongside M-PESA financial services.
+            description: Vodafone Group Plc is a leading British multinational telecommunications company providing mobile, fixed-line, satellite, and IoT services to over 330 million customers across Europe and Africa. Headquartered in Newbury, UK, it specialises in 5G, consumer, and business solutions, alongside M-PESA financial services.
             second_path:
               - Operation / Operators
             crunchbase: https://www.crunchbase.com/organization/vodafone
             twitter: https://twitter.com/VodafoneGroup
             extra:
               linkedin_url: https://www.linkedin.com/company/vodafone
+              contact: networkapi@vodafone.com
+              demo_url: https://developer.vodafone.com/
       - subcategory:
         name: General
         items:
