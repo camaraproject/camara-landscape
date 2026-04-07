@@ -1290,10 +1290,13 @@ landscape:
           - item:
             name: Startelelogic
             homepage_url: https://www.startelelogic.com/
+            description: startelelogic is an AI-first, cloud-native CX platform that enables real-time, omnichannel customer engagement. Powered by Agentic AI, it delivers autonomous agents that understand context, automate workflows, and drive scalable, personalized experiences.
             logo: startelelogic.svg
             crunchbase: https://www.crunchbase.com/organization/startele-logic
             second_path:
               - Integration / System Integrators
+            extra:
+             contact: info@startelelogic.com
           - item:
             name: Stechs
             homepage_url: https://www.stechs.io/
