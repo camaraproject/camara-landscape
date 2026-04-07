@@ -944,9 +944,13 @@ landscape:
             name: Lytn
             homepage_url: https://www.lytn.io/
             logo: lytn.svg
-            crunchbase: https://www.crunchbase.com/organization/lytn
+            description: Lytn shifts network reliability from reactive monitoring to proactive, prediction-driven action, turning technical signals and business context into clear foresight and automated responses that protect user experience and maximize network performance.
             second_path:
-              - Solution Provider / Network Capability Solution Providers
+              - Solution Provider / Independent Software Vendors
+            crunchbase: https://www.crunchbase.com/organization/lytn
+            extra:
+              contact: info@lytn.io
+              demo_url: https://www.youtube.com/watch?v=mZnILq1oYkw
           - item:
             name: M1
             homepage_url: https://www.m1.com.sg/
