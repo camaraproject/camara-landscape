@@ -67,18 +67,19 @@ landscape:
             homepage_url: https://orange.com/
             logo: orange_sa.svg
             description: |-
-              Orange is one of the world's leading telecommunications operators. The Group aims to be the trusted partner for everyday digital life by providing individuals, businesses and communities with reliable connectivity and innovative services. As of the end of 2025, Orange connects 340 million customers (including MasOrange) across 26 countries and generated 40.4 billion euros in revenues.
-              As a trusted player, Orange leverages the excellence of its very high-speed broadband networks to deploy digital infrastructure in Europe, Africa and the Middle East. The Group is a European leader in fiber, with 100 million connectable households, and convergent offers. In France, Orange connects 34 million customers and was ranked No. 1 by the regulator Arcep for the quality of its mobile network for the 15th consecutive year. In Africa and the Middle East, the Group's growth engine, Orange serves nearly 180 million customers and promotes digital and financial inclusion through its connected solutions.
+              Orange is one of the world’s leading telecommunications operators. The Group aims to be the trusted partner for everyday digital life by providing individuals, businesses and communities with reliable connectivity and innovative services. As of the end of 2025, Orange connects 340 million customers (including MasOrange) across 26 countries and generated 40.4 billion euros in revenues.
+              As a trusted player, Orange leverages the excellence of its very high-speed broadband networks to deploy digital infrastructure in Europe, Africa and the Middle East. The Group is a European leader in fiber, with 100 million connectable households, and convergent offers. In France, Orange connects 34 million customers and was ranked No. 1 by the regulator Arcep for the quality of its mobile network for the 15th consecutive year. In Africa and the Middle East, the Group’s growth engine, Orange serves nearly 180 million customers and promotes digital and financial inclusion through its connected solutions.
               Under the Orange Business brand, the Group supports companies in transforming their networks as well as in AI, trusted cloud and cybersecurity. Orange is also a major player in the wholesale market, where it has a leading global telecom infrastructure and significant capabilities for deploying and operating submarine cables. A committed innovator, Orange relies on 700 researchers and holds a portfolio of 11,000 patents.
             second_path:
               - Operation / Operators
             crunchbase: https://www.crunchbase.com/organization/orange
             twitter: https://twitter.com/orange
             extra:
+              annotations:
+                contact: sales.livenet@orange.com
+                demo_url: https://docs.developer.orange.com/
+                demo_url2: https://docs.developer.orange.com/network-apis/api-catalog/playground-admin/playground/1.0/getting-started
               linkedin_url: https://www.linkedin.com/company/orange-services
-              contact: sales.livenet@orange.com
-              demo_url: https://docs.developer.orange.com/
-              demo_url2: https://docs.developer.orange.com/network-apis/api-catalog/playground-admin/playground/1.0/getting-started
           - item:
             name: Telefonica, S.A.
             homepage_url: https://telefonica.com/
@@ -116,15 +117,16 @@ landscape:
             name: Vodafone Group Plc.
             homepage_url: https://vodafone.com/
             logo: vodafone_group_plc.svg
-            description: Vodafone Group Plc is a leading British multinational telecommunications company providing mobile, fixed-line, satellite, and IoT services to over 330 million customers across Europe and Africa. Headquartered in Newbury, UK, it specialises in 5G, consumer, and business solutions, alongside M-PESA financial services.
+            description: Vodafone Group Plc is a leading British multinational telecommunications company providing mobile, fixed-line, satellite, and IoT services to over 330 million customers across Europe and Africa. Headquartered in Newbury, UK, it specializes in 5G, consumer, and business solutions, alongside M-PESA financial services.
             second_path:
               - Operation / Operators
             crunchbase: https://www.crunchbase.com/organization/vodafone
             twitter: https://twitter.com/VodafoneGroup
             extra:
+              annotations:
+                contact: networkapi@vodafone.com
+                demo_url: https://developer.vodafone.com/
               linkedin_url: https://www.linkedin.com/company/vodafone
-              contact: networkapi@vodafone.com
-              demo_url: https://developer.vodafone.com/
       - subcategory:
         name: General
         items:
@@ -157,9 +159,10 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/time-warner-cable
             twitter: https://twitter.com/GetSpectrum
             extra:
+              annotations:
+                contact: bryteiqsupport@charter.com
+                demo_url: https://www.bryteiq.com
               linkedin_url: https://www.linkedin.com/company/spectrum
-              contact: bryteiqsupport@charter.com
-              demo_url: https://www.bryteiq.com
           - item:
             name: KYXSTART
             homepage_url: https://kyxstart.com/
@@ -198,15 +201,16 @@ landscape:
             name: Shabodi
             homepage_url: https://shabodi.com/
             logo: shabodi.svg
-            description: Shabodi's NetAware platform accelerates the commercialization of GSMA Open Gateway/CAMARA APIs by providing technology to operators and aggregators. By exposing real-time network intelligence (including Number Verification, SIM/Device status, Location, and Quality of Service, among other APIs) NetAware bridges telecom infrastructure with digital innovation.
+            description: Shabodi is a company that empowers enterprises, system integrators, and telcos to build high-performance enterprise applications on advanced networks.
             second_path:
               - Operation / Hyperscalers, CPaaS Providers, Aggregators
               - Solution Provider / API Exposure Platform Solution Providers
             extra:
+              annotations:
+                contact: info@shabodi.com
+                demo_url: https://www.youtube.com/watch?v=eh8us2AChrw
+                demo_url2: https://www.youtube.com/watch?v=YCj7Vo5RDek
               linkedin_url: https://www.linkedin.com/company/shabodi
-              contact: info@shabodi.com
-              demo_url: https://www.youtube.com/watch?v=eh8us2AChrw
-              demo_url2: https://www.youtube.com/watch?v=YCj7Vo5RDek
             organization:
               name: Shabodi
               linkedin: https://www.linkedin.com/company/shabodi
@@ -1296,7 +1300,7 @@ landscape:
             second_path:
               - Integration / System Integrators
             extra:
-             contact: info@startelelogic.com
+              contact: info@startelelogic.com
           - item:
             name: Stechs
             homepage_url: https://www.stechs.io/
