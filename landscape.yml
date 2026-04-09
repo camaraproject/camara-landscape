@@ -662,8 +662,10 @@ landscape:
             name: Ecosteer
             homepage_url: https://ecosteer.com/
             logo: ecosteer.svg
+            description: Ecosteer shifts data control to the edge, enabling digital sovereignty through cryptographically autonomous devices and transforming telecom networks into zero-trust architectures.
             second_path:
               - Solution Provider / API Exposure Platform Solution Providers
+              - Solution Provider / Independent Software Vendors
           - item:
             name: EdgeContinuum
             homepage_url: https://www.edgecontinuum.com
