@@ -870,8 +870,21 @@ landscape:
             name: IPification
             homepage_url: https://www.ipification.com/
             logo: ipification.svg
+            description: IPification is a telecom-based authentication technology built on years of IT security expertise and a deep understanding of user behavior. It enables a seamless user experience while ensuring top-level security, offering mobile authentication, phone verification, and fraud prevention solutions. By leveraging direct carrier signals combined with smart OTP fallbacks, IPification delivers over 99% authentication success, eliminates login friction, stops account takeovers, and reduces global authentication costs while keeping users online data safe and private.
             second_path:
-              - Operation / API Customers
+              - Solution Provider / API Exposure Platform Solution Providers
+              - Operation / Hyperscalers, CPaaS Providers, Aggregators
+            extra:
+              contact: info@ipification.com
+              demo_url: https://www.ipification.com/media/RaiffeisenBank.mp4
+              demo_url2: https://www.ipification.com/media/WingBank.mp4
+              demo_url3: https://www.ipification.com/media/IPification_Telkomsel_TS43.mp4
+              demo_url4: https://www.gsma.com/solutions-and-impact/gsma-open-gateway/wp-content/uploads/2026/03/ENPay-Case-Study.pdf
+              demo_url5: https://www.gsma.com/solutions-and-impact/gsma-open-gateway/wp-content/uploads/2025/07/ABA-Bank-Case-Study.pdf
+              demo_url6: https://www.gsma.com/solutions-and-impact/gsma-open-gateway/wp-content/uploads/2025/08/BRI-Bank-Case-Study.pdf
+            organization:
+              name: IPification
+              linkedin: https://www.linkedin.com/company/ipification/
           - item:
             name: Iquall Networks
             homepage_url: https://www.iquall.net/
