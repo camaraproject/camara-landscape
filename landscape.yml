@@ -15,6 +15,10 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/accenture
             twitter: https://twitter.com/Accenture
             extra:
+              annotations:
+                contact: networkapi@vodafone.com
+                demo_url: https://developer.vodafone.com/
+                demo_url2: https://www.youtube.com/watch?v=YCj7Vo5RDek
               linkedin_url: https://www.linkedin.com/company/accenture
           - item:
             name: AT&T Services, Inc.
@@ -26,6 +30,10 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/at-t
             twitter: https://twitter.com/ATT
             extra:
+              annotations:
+                contact: networkapi@vodafone.com
+                demo_url: https://developer.vodafone.com/
+                demo_url2: https://www.youtube.com/watch?v=YCj7Vo5RDek
               linkedin_url: https://www.linkedin.com/company/att
           - item:
             name: Deutsche Telekom AG
@@ -37,6 +45,10 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/deutsche-telekom
             twitter: https://twitter.com/deutschetelekom
             extra:
+              annotations:
+                contact: networkapi@vodafone.com
+                demo_url: https://developer.vodafone.com/
+                demo_url2: https://www.youtube.com/watch?v=YCj7Vo5RDek
               linkedin_url: https://www.linkedin.com/company/telekom
           - item:
             name: Ericsson AB
@@ -46,6 +58,12 @@ landscape:
               - Solution Provider / API Exposure Platform Solution Providers
               - Solution Provider / Network Capability Solution Providers
               - Solution Provider / Transformation Function Solution Providers
+            extra:
+              annotations:
+                contact: networkapi@vodafone.com
+                demo_url: https://developer.vodafone.com/
+                demo_url2: https://www.youtube.com/watch?v=YCj7Vo5RDek
+              linkedin_url: https://www.linkedin.com/company/vodafone
             organization:
               name: Ericsson AB
           - item:
@@ -61,6 +79,10 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/nokia
             twitter: https://twitter.com/nokia
             extra:
+              annotations:
+                contact: networkapi@vodafone.com
+                demo_url: https://developer.vodafone.com/
+                demo_url2: https://www.youtube.com/watch?v=YCj7Vo5RDek
               linkedin_url: https://www.linkedin.com/company/nokianet
           - item:
             name: Orange SA
@@ -76,9 +98,9 @@ landscape:
             twitter: https://twitter.com/orange
             extra:
               annotations:
-                contact: sales.livenet@orange.com
-                demo_url: https://docs.developer.orange.com/
-                demo_url2: https://docs.developer.orange.com/network-apis/api-catalog/playground-admin/playground/1.0/getting-started
+                contact: networkapi@vodafone.com
+                demo_url: https://developer.vodafone.com/
+                demo_url2: https://www.youtube.com/watch?v=YCj7Vo5RDek
               linkedin_url: https://www.linkedin.com/company/orange-services
           - item:
             name: Telefonica, S.A.
@@ -90,6 +112,10 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/telefonica
             twitter: https://twitter.com/Telefonica
             extra:
+              annotations:
+                contact: networkapi@vodafone.com
+                demo_url: https://developer.vodafone.com/
+                demo_url2: https://www.youtube.com/watch?v=YCj7Vo5RDek
               linkedin_url: https://www.linkedin.com/company/telefonica-global-solutions
           - item:
             name: T-Mobile PCS Holdings LLC
@@ -101,6 +127,10 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/t-mobile
             twitter: https://twitter.com/TMobile
             extra:
+              annotations:
+                contact: networkapi@vodafone.com
+                demo_url: https://developer.vodafone.com/
+                demo_url2: https://www.youtube.com/watch?v=YCj7Vo5RDek
               linkedin_url: https://www.linkedin.com/company/metropcs
           - item:
             name: Verizon Corporate Services
@@ -112,6 +142,10 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/verizon
             twitter: https://twitter.com/Verizon
             extra:
+              annotations:
+                contact: networkapi@vodafone.com
+                demo_url: https://developer.vodafone.com/
+                demo_url2: https://www.youtube.com/watch?v=YCj7Vo5RDek
               linkedin_url: https://www.linkedin.com/company/verizon
           - item:
             name: Vodafone Group Plc.
@@ -126,6 +160,7 @@ landscape:
               annotations:
                 contact: networkapi@vodafone.com
                 demo_url: https://developer.vodafone.com/
+                demo_url2: https://www.youtube.com/watch?v=YCj7Vo5RDek
               linkedin_url: https://www.linkedin.com/company/vodafone
       - subcategory:
         name: General
@@ -136,6 +171,12 @@ landscape:
             logo: aduna_global_llc.svg
             second_path:
               - Operation / Hyperscalers, CPaaS Providers, Aggregators
+            extra:
+              annotations:
+                contact: networkapi@vodafone.com
+                demo_url: https://developer.vodafone.com/
+                demo_url2: https://www.youtube.com/watch?v=YCj7Vo5RDek
+              linkedin_url: https://www.linkedin.com/company/vodafone
             organization:
               name: Aduna Global LLC
           - item:
@@ -148,6 +189,10 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/cablelabs
             twitter: https://twitter.com/CableLabs
             extra:
+              annotations:
+                contact: networkapi@vodafone.com
+                demo_url: https://developer.vodafone.com/
+                demo_url2: https://www.youtube.com/watch?v=YCj7Vo5RDek
               linkedin_url: https://www.linkedin.com/company/cablelabs
           - item:
             name: Charter Communications
@@ -160,15 +205,39 @@ landscape:
             twitter: https://twitter.com/GetSpectrum
             extra:
               annotations:
-                contact: bryteiqsupport@charter.com
-                demo_url: https://www.bryteiq.com
+                contact: networkapi@vodafone.com
+                demo_url: https://developer.vodafone.com/
+                demo_url2: https://www.youtube.com/watch?v=YCj7Vo5RDek
               linkedin_url: https://www.linkedin.com/company/spectrum
+          - item:
+            name: HAYO TELECOM
+            homepage_url: https://hayo.net/
+            logo: hayo_telecom.svg
+            description: |-
+              Hayo is a global digital service provider that combines networking, 
+                technologies and digital solutions to deliver on-the-ground innovation. IoT 
+                & AI, Voice & Messaging, CPaaS & CCaaS, Security, National Mobile 
+                Registries and Digital Convergenc...
+            extra:
+              annotations:
+                contact: networkapi@vodafone.com
+                demo_url: https://developer.vodafone.com/
+                demo_url2: https://www.youtube.com/watch?v=YCj7Vo5RDek
+              linkedin_url: https://www.linkedin.com/company/vodafone
+            organization:
+              name: HAYO TELECOM
           - item:
             name: KYXSTART
             homepage_url: https://kyxstart.com/
             logo: kyxstart.svg
             second_path:
               - Operation / API Customers
+            extra:
+              annotations:
+                contact: networkapi@vodafone.com
+                demo_url: https://developer.vodafone.com/
+                demo_url2: https://www.youtube.com/watch?v=YCj7Vo5RDek
+              linkedin_url: https://www.linkedin.com/company/vodafone
             organization:
               name: KYXSTART
           - item:
@@ -178,6 +247,12 @@ landscape:
             description: 'Nearby Computing: Revolutionizing network management with cutting-edge automation for Telcos & Enterprises.'
             second_path:
               - Operation / API Customers
+            extra:
+              annotations:
+                contact: networkapi@vodafone.com
+                demo_url: https://developer.vodafone.com/
+                demo_url2: https://www.youtube.com/watch?v=YCj7Vo5RDek
+              linkedin_url: https://www.linkedin.com/company/vodafone
             organization:
               name: Nearby Computing
           - item:
@@ -187,6 +262,12 @@ landscape:
             description: Persona offers online ID verification services for businesses, simplifying identity management with configurable infrastructure for KYC, AML, and fraud detection. Automate processes, fight fraud, and build trust globally with Persona's secure solutions.
             second_path:
               - Operation / API Customers
+            extra:
+              annotations:
+                contact: networkapi@vodafone.com
+                demo_url: https://developer.vodafone.com/
+                demo_url2: https://www.youtube.com/watch?v=YCj7Vo5RDek
+              linkedin_url: https://www.linkedin.com/company/vodafone
             organization:
               name: Persona Identities, Inc.
           - item:
@@ -195,6 +276,12 @@ landscape:
             logo: sent_inc.svg
             second_path:
               - Operation / Hyperscalers, CPaaS Providers, Aggregators
+            extra:
+              annotations:
+                contact: networkapi@vodafone.com
+                demo_url: https://developer.vodafone.com/
+                demo_url2: https://www.youtube.com/watch?v=YCj7Vo5RDek
+              linkedin_url: https://www.linkedin.com/company/vodafone
             organization:
               name: Sent, Inc.
           - item:
@@ -207,8 +294,8 @@ landscape:
               - Solution Provider / API Exposure Platform Solution Providers
             extra:
               annotations:
-                contact: info@shabodi.com
-                demo_url: https://www.youtube.com/watch?v=eh8us2AChrw
+                contact: networkapi@vodafone.com
+                demo_url: https://developer.vodafone.com/
                 demo_url2: https://www.youtube.com/watch?v=YCj7Vo5RDek
               linkedin_url: https://www.linkedin.com/company/shabodi
             organization:
@@ -227,6 +314,10 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/openid-foundation
             twitter: https://twitter.com/openid
             extra:
+              annotations:
+                contact: networkapi@vodafone.com
+                demo_url: https://developer.vodafone.com/
+                demo_url2: https://www.youtube.com/watch?v=YCj7Vo5RDek
               linkedin_url: https://www.linkedin.com/company/openid-foundation
           - item:
             name: Open Mobile Alliance (OMA)
@@ -237,6 +328,10 @@ landscape:
               - Planning / Associations
             twitter: https://twitter.com/OMASpecWorks
             extra:
+              annotations:
+                contact: networkapi@vodafone.com
+                demo_url: https://developer.vodafone.com/
+                demo_url2: https://www.youtube.com/watch?v=YCj7Vo5RDek
               linkedin_url: https://www.linkedin.com/company/open-mobile-alliance
             organization:
               name: Open Mobile Alliance (OMA)
@@ -251,6 +346,10 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/tno
             twitter: https://twitter.com/TNO_nieuws
             extra:
+              annotations:
+                contact: networkapi@vodafone.com
+                demo_url: https://developer.vodafone.com/
+                demo_url2: https://www.youtube.com/watch?v=YCj7Vo5RDek
               linkedin_url: https://www.linkedin.com/company/tno
           - item:
             name: UFRN
@@ -259,6 +358,12 @@ landscape:
             description: The Federal University of Rio Grande do Norte (UFRN) is a prestigious public Brazilian university located in Natal, Brazil. Established in 1960, UFRN offers a wide range of undergraduate and graduate programs across 60 departments. Known for its resear...
             second_path:
               - Planning / Research Partners
+            extra:
+              annotations:
+                contact: networkapi@vodafone.com
+                demo_url: https://developer.vodafone.com/
+                demo_url2: https://www.youtube.com/watch?v=YCj7Vo5RDek
+              linkedin_url: https://www.linkedin.com/company/vodafone
             organization:
               name: UFRN
           - item:
@@ -271,6 +376,10 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/university-of-california-berkeley
             twitter: https://twitter.com/UCBerkeley
             extra:
+              annotations:
+                contact: networkapi@vodafone.com
+                demo_url: https://developer.vodafone.com/
+                demo_url2: https://www.youtube.com/watch?v=YCj7Vo5RDek
               linkedin_url: https://www.linkedin.com/company/uc-berkeley
           - item:
             name: University of Colorado Boulder
@@ -282,6 +391,10 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/university-of-colorado-boulder
             twitter: https://twitter.com/CUBoulder
             extra:
+              annotations:
+                contact: networkapi@vodafone.com
+                demo_url: https://developer.vodafone.com/
+                demo_url2: https://www.youtube.com/watch?v=YCj7Vo5RDek
               linkedin_url: https://www.linkedin.com/company/university-of-colorado
   - category:
     name: Planning
