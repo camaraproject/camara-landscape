@@ -162,9 +162,9 @@ landscape:
                   url: https://www.cablelabs.com/blog/context-aware-networks-ushering-in-the-experience-era-of-connectivity
                 - name: Edge Compute Blog
                   url: https://www.cablelabs.com/blog/edge-compute-broadband-infrastructure-intelligence
-                - name: Demo: Quality on Demand & Zero Touch Onboarding
+                - name: "Demo: Quality on Demand & Zero Touch Onboarding"
                   url: https://next.frame.io/share/294c5a51-d0ff-43d3-8223-9ef4bcff1cc6/view/77977fa2-2e6b-4fa7-9ef1-b0069e993331
-                - name: Video: LLMs in the Network Ecosystem
+                - name: "Video: LLMs in the Network Ecosystem"
                   url: https://techexpo.scte.org/2025/10/operationalizing-llms-in-the-network-ecosystem/
           - item:
             name: Charter Communications
