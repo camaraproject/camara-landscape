@@ -77,8 +77,10 @@ landscape:
             extra:
               annotations:
                 contact: sales.livenet@orange.com
-                demo_url: https://docs.developer.orange.com/
-                demo_url2: https://docs.developer.orange.com/network-apis/api-catalog/playground-admin/playground/1.0/getting-started
+              documentation_url: https://docs.developer.orange.com/
+              other_links:
+                - name: Getting Started
+                  url: https://docs.developer.orange.com/network-apis/api-catalog/playground-admin/playground/1.0/getting-started
               linkedin_url: https://www.linkedin.com/company/orange-services
           - item:
             name: Telefonica, S.A.
@@ -125,7 +127,9 @@ landscape:
             extra:
               annotations:
                 contact: networkapi@vodafone.com
-                demo_url: https://developer.vodafone.com/
+              other_links:
+                - name: Developer Portal
+                  url: https://developer.vodafone.com/
               linkedin_url: https://www.linkedin.com/company/vodafone
       - subcategory:
         name: General
@@ -161,7 +165,9 @@ landscape:
             extra:
               annotations:
                 contact: bryteiqsupport@charter.com
-                demo_url: https://www.bryteiq.com
+              other_links:
+                - name: BryteIQ Platform
+                  url: https://www.bryteiq.com
               linkedin_url: https://www.linkedin.com/company/spectrum
           - item:
             name: HAYO TELECOM
@@ -221,12 +227,14 @@ landscape:
             extra:
               annotations:
                 contact: info@shabodi.com
-                demo_url: https://www.youtube.com/watch?v=eh8us2AChrw
-                demo_url2: https://www.youtube.com/watch?v=YCj7Vo5RDek
+              other_links:
+                - name: Demo Video
+                  url: https://www.youtube.com/watch?v=eh8us2AChrw
+                - name: Demo Video 2
+                  url: https://www.youtube.com/watch?v=YCj7Vo5RDek
               linkedin_url: https://www.linkedin.com/company/shabodi
             organization:
               name: Shabodi
-              linkedin: https://www.linkedin.com/company/shabodi
       - subcategory:
         name: Associate
         items:
@@ -253,7 +261,6 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/open-mobile-alliance
             organization:
               name: Open Mobile Alliance (OMA)
-              linkedin: https://www.linkedin.com/company/open-mobile-alliance
           - item:
             name: TNO, the Netherlands Organisation for Applied Scientific Research
             homepage_url: https://tno.nl/
@@ -397,7 +404,6 @@ landscape:
             description: Aleph Zero is a non-profit organization dedicated to advancing decentralized technologies. They offer an enterprise-grade public blockchain with private smart contracts powered by AZERO. Their mission is to create a secure blockchain ecosystem and deve...
             organization:
               name: Aleph Zero Foundation
-              linkedin: https://www.linkedin.com/company/alephzero
             extra:
               linkedin_url: https://www.linkedin.com/company/alephzero
             second_path:
@@ -413,7 +419,8 @@ landscape:
               - Solution Provider / Portal Solution Providers
               - Operation / Hyperscalers, CPaaS Providers, Aggregators
             extra:
-              contact: networkapi@almuqeet.net
+              annotations:
+                contact: networkapi@almuqeet.net
           - item:
             name: Amantya
             homepage_url: https://amantyatech.com/
@@ -473,7 +480,8 @@ landscape:
               - Solution Provider / Independent Software Vendors
               - Operation / Hyperscalers, CPaaS Providers, Aggregators
             extra:
-              contact: information@brianchin.co
+              annotations:
+                contact: information@brianchin.co
           - item:
             name: BearingPoint
             homepage_url: https://www.bearingpoint.com/
@@ -557,11 +565,12 @@ landscape:
           - item:
             name: CINNOX
             homepage_url: https://www.cinnox.com/
-            linkedin: https://www.linkedin.com/company/cinnoxhq
             description: CINNOX is an all-in-one cloud contact center platform that enhances customer engagement through seamless voice, messaging, and AI-powered interactions.
             logo: cinnox.svg
             second_path:
               - Operation / API Customers
+            extra:
+              linkedin_url: https://www.linkedin.com/company/cinnoxhq
           - item:
             name: Cisco
             homepage_url: https://www.cisco.com/
@@ -756,7 +765,9 @@ landscape:
             second_path:
               - Planning / Associations
             extra:
-              demo_url: https://www.gsma.com/solutions-and-impact/gsma-open-gateway/gsma-open-gateway-case-studies/
+              other_links:
+                - name: Open Gateway Case Studies
+                  url: https://www.gsma.com/solutions-and-impact/gsma-open-gateway/gsma-open-gateway-case-studies/
           - item:
             name: HCL Software
             homepage_url: https://www.hcltechsw.com/
@@ -815,8 +826,11 @@ landscape:
               - Planning / Research Partners
               - Solution Provider / API Exposure Platform Solution Providers
             extra:
-              contact: testbed@ieee.org
-              demo_url: https://testbed.ieee.org/introducing-camara-apis-to-the-ieee-5g-6g-innovation-testbed/
+              annotations:
+                contact: testbed@ieee.org
+              other_links:
+                - name: CAMARA APIs on Testbed
+                  url: https://testbed.ieee.org/introducing-camara-apis-to-the-ieee-5g-6g-innovation-testbed/
           - item:
             name: IndyKite Inc.
             homepage_url: https://indykite.com/
@@ -826,12 +840,14 @@ landscape:
               - Operation / API Customers
             twitter: https://twitter.com/indykiteone
             extra:
+              annotations:
+                contact: Info@indykite.com
               linkedin_url: https://www.linkedin.com/company/indykite
-              contact: Info@indykite.com
-              demo_url: https://www.youtube.com/watch?v=yHbc557CVXc&list=PLaoukyQx6HIrb3P4IbSUthOQnLDXWMlcd
+              other_links:
+                - name: Demo Videos
+                  url: https://www.youtube.com/watch?v=yHbc557CVXc&list=PLaoukyQx6HIrb3P4IbSUthOQnLDXWMlcd
             organization:
               name: IndyKite Inc.
-              linkedin: https://www.linkedin.com/company/indykite
           - item:
             name: Infobip
             homepage_url: https://www.infobip.com/
@@ -888,16 +904,23 @@ landscape:
               - Solution Provider / API Exposure Platform Solution Providers
               - Operation / Hyperscalers, CPaaS Providers, Aggregators
             extra:
-              contact: info@ipification.com
-              demo_url: https://www.ipification.com/media/RaiffeisenBank.mp4
-              demo_url2: https://www.ipification.com/media/WingBank.mp4
-              demo_url3: https://www.ipification.com/media/IPification_Telkomsel_TS43.mp4
-              demo_url4: https://www.gsma.com/solutions-and-impact/gsma-open-gateway/wp-content/uploads/2026/03/ENPay-Case-Study.pdf
-              demo_url5: https://www.gsma.com/solutions-and-impact/gsma-open-gateway/wp-content/uploads/2025/07/ABA-Bank-Case-Study.pdf
-              demo_url6: https://www.gsma.com/solutions-and-impact/gsma-open-gateway/wp-content/uploads/2025/08/BRI-Bank-Case-Study.pdf
+              annotations:
+                contact: info@ipification.com
+              other_links:
+                - name: RaiffeisenBank Demo
+                  url: https://www.ipification.com/media/RaiffeisenBank.mp4
+                - name: Wing Bank Demo
+                  url: https://www.ipification.com/media/WingBank.mp4
+                - name: Telkomsel Demo
+                  url: https://www.ipification.com/media/IPification_Telkomsel_TS43.mp4
+                - name: ENPay Case Study
+                  url: https://www.gsma.com/solutions-and-impact/gsma-open-gateway/wp-content/uploads/2026/03/ENPay-Case-Study.pdf
+                - name: ABA Bank Case Study
+                  url: https://www.gsma.com/solutions-and-impact/gsma-open-gateway/wp-content/uploads/2025/07/ABA-Bank-Case-Study.pdf
+                - name: BRI Bank Case Study
+                  url: https://www.gsma.com/solutions-and-impact/gsma-open-gateway/wp-content/uploads/2025/08/BRI-Bank-Case-Study.pdf
             organization:
               name: IPification
-              linkedin: https://www.linkedin.com/company/ipification/
           - item:
             name: Iquall Networks
             homepage_url: https://www.iquall.net/
@@ -937,7 +960,9 @@ landscape:
             second_path:
               - Operation / Operators
             extra:
-              demo_url: https://www.kpn-wholesale.com/en/contactformulier
+              other_links:
+                - name: Contact Form
+                  url: https://www.kpn-wholesale.com/en/contactformulier
           - item:
             name: KT
             homepage_url: https://www.kt.com/
@@ -1003,8 +1028,11 @@ landscape:
               - Solution Provider / Independent Software Vendors
             crunchbase: https://www.crunchbase.com/organization/lytn
             extra:
-              contact: info@lytn.io
-              demo_url: https://www.youtube.com/watch?v=mZnILq1oYkw
+              annotations:
+                contact: info@lytn.io
+              other_links:
+                - name: Demo Video
+                  url: https://www.youtube.com/watch?v=mZnILq1oYkw
           - item:
             name: M1
             homepage_url: https://www.m1.com.sg/
@@ -1014,11 +1042,12 @@ landscape:
           - item:
             name: M800
             homepage_url: https://www.m800.com
-            linkedin: https://www.linkedin.com/company/m800/
             description: M800 is a global telecommunication and cloud communications provider specializing in secure and reliable enterprise solutions.
             logo: m800.svg
             second_path:
               - Operation / Hyperscalers, CPaaS Providers, Aggregators
+            extra:
+              linkedin_url: https://www.linkedin.com/company/m800/
           - item:
             name: Matrixx Software
             homepage_url: https://www.matrixx.com/
@@ -1040,7 +1069,6 @@ landscape:
           - item:
             name: Microcks
             homepage_url: https://microcks.io
-            project_org: https://github.com/microcks
             repo_url: https://github.com/microcks/microcks
             logo: microcks.svg
             twitter: https://twitter.com/microcksio
@@ -1049,6 +1077,9 @@ landscape:
               - Integration / System Integrators
             extra:
               dev_stats_url: https://microcks.devstats.cncf.io/
+              other_links:
+                - name: GitHub Organization
+                  url: https://github.com/microcks
               artwork_url: https://github.com/cncf/artwork/blob/master/examples/sandbox.md#microcks-logos
               blog_url: https://microcks.io/blog/
               mailing_list_url: https://github.com/orgs/microcks/discussions
@@ -1086,7 +1117,8 @@ landscape:
             second_path:
               - Operation / Hyperscalers, CPaaS Providers, Aggregators
             extra:
-              contact: support@mojoauth.com
+              annotations:
+                contact: support@mojoauth.com
           - item:
             name: MQUEST Technologies
             homepage_url: https://mquest-technologies.com
@@ -1099,7 +1131,9 @@ landscape:
             logo: nabstract.svg
             crunchbase: https://www.crunchbase.com/organization/nabstract
             extra:
-              demo_url: https://camaraproject.org/resources/
+              other_links:
+                - name: CAMARA Resources
+                  url: https://camaraproject.org/resources/
             second_path:
               - Solution Provider / API Exposure Platform Solution Providers
               - Solution Provider / Transformation Function Solution Providers
@@ -1170,7 +1204,8 @@ landscape:
               - Solution Provider / Network Capability Solution Providers
               - Integration / System Integrators
             extra:
-              contact: imasd@optaresolutions.com
+              annotations:
+                contact: imasd@optaresolutions.com
           - item:
             name: Optiva
             homepage_url: https://www.optiva.com/
@@ -1193,9 +1228,13 @@ landscape:
               - Solution Provider / Network Capability Solution Providers
               - Integration / System Integrators
             extra:
-              contact: contact@phine.tech
-              demo_url: https://phine.tech/services/gigabot
-              demo_url2: https://phine.tech/products/ros-gateway/
+              annotations:
+                contact: contact@phine.tech
+              other_links:
+                - name: GigaBot Service
+                  url: https://phine.tech/services/gigabot
+                - name: ROS Gateway Product
+                  url: https://phine.tech/products/ros-gateway/
           - item:
             name: plusmo
             homepage_url: https://plusmo.com/
@@ -1284,8 +1323,11 @@ landscape:
             second_path:
               - Operation / API Customers
             extra:
-              contact: camara@simptel.com
-              demo_url: https://demo.simptellabs.com/
+              annotations:
+                contact: camara@simptel.com
+              other_links:
+                - name: Live Demo
+                  url: https://demo.simptellabs.com/
           - item:
             name: Sinch
             homepage_url: https://sinch.com
@@ -1328,7 +1370,8 @@ landscape:
             second_path:
               - Integration / System Integrators
             extra:
-              contact: info@startelelogic.com
+              annotations:
+                contact: info@startelelogic.com
           - item:
             name: Stechs
             homepage_url: https://www.stechs.io/
@@ -1482,8 +1525,11 @@ landscape:
             second_path:
               - Solution Provider / Network Capability Solution Providers
             extra:
-              contact: info@xacria.com
-              demo_url: https://www.tmforum.org/catalysts/projects/M25.0.795/Monetizing-federated-connectivity-for-automotive-OEMs
+              annotations:
+                contact: info@xacria.com
+              other_links:
+                - name: TM Forum Catalyst Project
+                  url: https://www.tmforum.org/catalysts/projects/M25.0.795/Monetizing-federated-connectivity-for-automotive-OEMs
           - item:
             name: Xecurity Pulse
             homepage_url: https://www.xecuritypulse.com/
@@ -1498,7 +1544,8 @@ landscape:
             second_path:
               - Solution Provider / Network Capability Solution Providers
             extra:
-              contact: camara@xflowresearch.com
+              annotations:
+                contact: camara@xflowresearch.com
           - item:
             name: Yaana
             homepage_url: https://www.yaanatech.com/
