@@ -8,7 +8,7 @@
 
 ## How It Works
 
-The Landscape is generated nightly from the data in this repository using the [Landscape2](https://github.com/cncf/landscape2) tool. Member data is pulled automatically from LFX each night. LFX-managed fields (name, logo, description, homepage) will be overwritten; project-specific fields (second\_path, extra) are preserved.
+The Landscape is generated nightly from the data in this repository using the [Landscape2](https://github.com/cncf/landscape2) tool. Member data is pulled automatically from LFX each night. LFX-managed fields (name, logo, description, homepage) will be overwritten; project-specific fields (second_path, extra) are preserved.
 
 **Members:** To update your organization's name, logo, or description, please do so through your organization's LFX dashboard at `https://myorg.lfx.dev`. Changes will be reflected in the Landscape automatically on the next automatic build.
 
