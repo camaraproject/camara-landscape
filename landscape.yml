@@ -75,10 +75,10 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/orange
             twitter: https://twitter.com/orange
             extra:
+              annotations:
+                contact: sales.livenet@orange.com
               documentation_url: https://docs.developer.orange.com/
               other_links:
-                - name: Contact
-                  url: mailto:sales.livenet@orange.com
                 - name: Getting Started
                   url: https://docs.developer.orange.com/network-apis/api-catalog/playground-admin/playground/1.0/getting-started
               linkedin_url: https://www.linkedin.com/company/orange-services
@@ -125,9 +125,9 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/vodafone
             twitter: https://twitter.com/VodafoneGroup
             extra:
+              annotations:
+                contact: networkapi@vodafone.com
               other_links:
-                - name: Contact
-                  url: mailto:networkapi@vodafone.com
                 - name: Developer Portal
                   url: https://developer.vodafone.com/
               linkedin_url: https://www.linkedin.com/company/vodafone
@@ -163,9 +163,9 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/time-warner-cable
             twitter: https://twitter.com/GetSpectrum
             extra:
+              annotations:
+                contact: bryteiqsupport@charter.com
               other_links:
-                - name: Contact
-                  url: mailto:bryteiqsupport@charter.com
                 - name: BryteIQ Platform
                   url: https://www.bryteiq.com
               linkedin_url: https://www.linkedin.com/company/spectrum
@@ -225,9 +225,9 @@ landscape:
               - Operation / Hyperscalers, CPaaS Providers, Aggregators
               - Solution Provider / API Exposure Platform Solution Providers
             extra:
+              annotations:
+                contact: info@shabodi.com
               other_links:
-                - name: Contact
-                  url: mailto:info@shabodi.com
                 - name: Demo Video
                   url: https://www.youtube.com/watch?v=eh8us2AChrw
                 - name: Demo Video 2
@@ -419,9 +419,8 @@ landscape:
               - Solution Provider / Portal Solution Providers
               - Operation / Hyperscalers, CPaaS Providers, Aggregators
             extra:
-              other_links:
-                - name: Contact
-                  url: mailto:networkapi@almuqeet.net
+              annotations:
+                contact: networkapi@almuqeet.net
           - item:
             name: Amantya
             homepage_url: https://amantyatech.com/
@@ -481,9 +480,8 @@ landscape:
               - Solution Provider / Independent Software Vendors
               - Operation / Hyperscalers, CPaaS Providers, Aggregators
             extra:
-              other_links:
-                - name: Contact
-                  url: mailto:information@brianchin.co
+              annotations:
+                contact: information@brianchin.co
           - item:
             name: BearingPoint
             homepage_url: https://www.bearingpoint.com/
@@ -828,9 +826,9 @@ landscape:
               - Planning / Research Partners
               - Solution Provider / API Exposure Platform Solution Providers
             extra:
+              annotations:
+                contact: testbed@ieee.org
               other_links:
-                - name: Contact
-                  url: mailto:testbed@ieee.org
                 - name: CAMARA APIs on Testbed
                   url: https://testbed.ieee.org/introducing-camara-apis-to-the-ieee-5g-6g-innovation-testbed/
           - item:
@@ -842,10 +840,10 @@ landscape:
               - Operation / API Customers
             twitter: https://twitter.com/indykiteone
             extra:
+              annotations:
+                contact: Info@indykite.com
               linkedin_url: https://www.linkedin.com/company/indykite
               other_links:
-                - name: Contact
-                  url: mailto:Info@indykite.com
                 - name: Demo Videos
                   url: https://www.youtube.com/watch?v=yHbc557CVXc&list=PLaoukyQx6HIrb3P4IbSUthOQnLDXWMlcd
             organization:
@@ -906,9 +904,9 @@ landscape:
               - Solution Provider / API Exposure Platform Solution Providers
               - Operation / Hyperscalers, CPaaS Providers, Aggregators
             extra:
+              annotations:
+                contact: info@ipification.com
               other_links:
-                - name: Contact
-                  url: mailto:info@ipification.com
                 - name: RaiffeisenBank Demo
                   url: https://www.ipification.com/media/RaiffeisenBank.mp4
                 - name: Wing Bank Demo
@@ -1030,9 +1028,9 @@ landscape:
               - Solution Provider / Independent Software Vendors
             crunchbase: https://www.crunchbase.com/organization/lytn
             extra:
+              annotations:
+                contact: info@lytn.io
               other_links:
-                - name: Contact
-                  url: mailto:info@lytn.io
                 - name: Demo Video
                   url: https://www.youtube.com/watch?v=mZnILq1oYkw
           - item:
@@ -1119,9 +1117,8 @@ landscape:
             second_path:
               - Operation / Hyperscalers, CPaaS Providers, Aggregators
             extra:
-              other_links:
-                - name: Contact
-                  url: mailto:support@mojoauth.com
+              annotations:
+                contact: support@mojoauth.com
           - item:
             name: MQUEST Technologies
             homepage_url: https://mquest-technologies.com
@@ -1207,9 +1204,8 @@ landscape:
               - Solution Provider / Network Capability Solution Providers
               - Integration / System Integrators
             extra:
-              other_links:
-                - name: Contact
-                  url: mailto:imasd@optaresolutions.com
+              annotations:
+                contact: imasd@optaresolutions.com
           - item:
             name: Optiva
             homepage_url: https://www.optiva.com/
@@ -1232,9 +1228,9 @@ landscape:
               - Solution Provider / Network Capability Solution Providers
               - Integration / System Integrators
             extra:
+              annotations:
+                contact: contact@phine.tech
               other_links:
-                - name: Contact
-                  url: mailto:contact@phine.tech
                 - name: GigaBot Service
                   url: https://phine.tech/services/gigabot
                 - name: ROS Gateway Product
@@ -1327,9 +1323,9 @@ landscape:
             second_path:
               - Operation / API Customers
             extra:
+              annotations:
+                contact: camara@simptel.com
               other_links:
-                - name: Contact
-                  url: mailto:camara@simptel.com
                 - name: Live Demo
                   url: https://demo.simptellabs.com/
           - item:
@@ -1374,9 +1370,8 @@ landscape:
             second_path:
               - Integration / System Integrators
             extra:
-              other_links:
-                - name: Contact
-                  url: mailto:info@startelelogic.com
+              annotations:
+                contact: info@startelelogic.com
           - item:
             name: Stechs
             homepage_url: https://www.stechs.io/
@@ -1530,9 +1525,9 @@ landscape:
             second_path:
               - Solution Provider / Network Capability Solution Providers
             extra:
+              annotations:
+                contact: info@xacria.com
               other_links:
-                - name: Contact
-                  url: mailto:info@xacria.com
                 - name: TM Forum Catalyst Project
                   url: https://www.tmforum.org/catalysts/projects/M25.0.795/Monetizing-federated-connectivity-for-automotive-OEMs
           - item:
@@ -1549,9 +1544,8 @@ landscape:
             second_path:
               - Solution Provider / Network Capability Solution Providers
             extra:
-              other_links:
-                - name: Contact
-                  url: mailto:camara@xflowresearch.com
+              annotations:
+                contact: camara@xflowresearch.com
           - item:
             name: Yaana
             homepage_url: https://www.yaanatech.com/
