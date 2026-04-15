@@ -149,6 +149,23 @@ landscape:
             twitter: https://twitter.com/CableLabs
             extra:
               linkedin_url: https://www.linkedin.com/company/cablelabs
+              other_links:
+                - name: NaaS Initiative
+                  url: https://www.cablelabs.com/technologies/naas
+                - name: Open Network APIs Blog
+                  url: https://www.cablelabs.com/blog/transforming-networks-open-source-api-solutions
+                - name: Quality on Demand Blog
+                  url: https://www.cablelabs.com/blog/revolutionizing-telecommunications-with-intent-based-quality-on-demand-apis
+                - name: Zoom Pilot Case Study
+                  url: https://www.cablelabs.com/blog/quality-by-design-zoom-pilot
+                - name: Network Access Management Blog
+                  url: https://www.cablelabs.com/blog/context-aware-networks-ushering-in-the-experience-era-of-connectivity
+                - name: Edge Compute Blog
+                  url: https://www.cablelabs.com/blog/edge-compute-broadband-infrastructure-intelligence
+                - name: Demo: Quality on Demand & Zero Touch Onboarding
+                  url: https://next.frame.io/share/294c5a51-d0ff-43d3-8223-9ef4bcff1cc6/view/77977fa2-2e6b-4fa7-9ef1-b0069e993331
+                - name: Video: LLMs in the Network Ecosystem
+                  url: https://techexpo.scte.org/2025/10/operationalizing-llms-in-the-network-ecosystem/
           - item:
             name: Charter Communications
             homepage_url: https://spectrum.com/
