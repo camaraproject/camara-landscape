@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-24.04
     steps:
-      - uses: jmertic/lfx-landscape-tools@beb983679eda9283caf216efdeea56ca6b8f83fe # 20260414
+      - uses: jmertic/lfx-landscape-tools@removeorganization
         with:
           project_processing: skip
           member_processing: sync
