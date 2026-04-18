@@ -78,10 +78,10 @@ landscape:
               annotations:
                 contact: sales.livenet@orange.com
               documentation_url: https://docs.developer.orange.com/
+              linkedin_url: https://www.linkedin.com/company/orange-services
               other_links:
                 - name: Getting Started
                   url: https://docs.developer.orange.com/network-apis/api-catalog/playground-admin/playground/1.0/getting-started
-              linkedin_url: https://www.linkedin.com/company/orange-services
           - item:
             name: Telefonica, S.A.
             homepage_url: https://telefonica.com/
@@ -127,10 +127,10 @@ landscape:
             extra:
               annotations:
                 contact: networkapi@vodafone.com
+              linkedin_url: https://www.linkedin.com/company/vodafone
               other_links:
                 - name: Developer Portal
                   url: https://developer.vodafone.com/
-              linkedin_url: https://www.linkedin.com/company/vodafone
       - subcategory:
         name: General
         items:
@@ -166,9 +166,9 @@ landscape:
                   url: https://www.cablelabs.com/blog/context-aware-networks-ushering-in-the-experience-era-of-connectivity
                 - name: Edge Compute Blog
                   url: https://www.cablelabs.com/blog/edge-compute-broadband-infrastructure-intelligence
-                - name: "Demo: Quality on Demand & Zero Touch Onboarding"
+                - name: 'Demo: Quality on Demand & Zero Touch Onboarding'
                   url: https://next.frame.io/share/294c5a51-d0ff-43d3-8223-9ef4bcff1cc6/view/77977fa2-2e6b-4fa7-9ef1-b0069e993331
-                - name: "Video: LLMs in the Network Ecosystem"
+                - name: 'Video: LLMs in the Network Ecosystem'
                   url: https://techexpo.scte.org/2025/10/operationalizing-llms-in-the-network-ecosystem/
           - item:
             name: Charter Communications
@@ -182,21 +182,21 @@ landscape:
             extra:
               annotations:
                 contact: bryteiqsupport@charter.com
+              linkedin_url: https://www.linkedin.com/company/spectrum
               other_links:
                 - name: BryteIQ Platform
                   url: https://www.bryteiq.com
-              linkedin_url: https://www.linkedin.com/company/spectrum
           - item:
             name: HAYO TELECOM
             homepage_url: https://hayo.net/
             logo: hayo_telecom.svg
-            second_path:
-              - Operation / Hyperscalers, CPaaS Providers, Aggregators
             description: |-
               Hayo is a global digital service provider that combines networking, 
                 technologies and digital solutions to deliver on-the-ground innovation. IoT 
                 & AI, Voice & Messaging, CPaaS & CCaaS, Security, National Mobile 
                 Registries and Digital Convergenc...
+            second_path:
+              - Operation / Hyperscalers, CPaaS Providers, Aggregators
             organization:
               name: HAYO TELECOM
           - item:
@@ -244,14 +244,15 @@ landscape:
             extra:
               annotations:
                 contact: info@shabodi.com
+              linkedin_url: https://www.linkedin.com/company/shabodi
               other_links:
                 - name: Demo Video
                   url: https://www.youtube.com/watch?v=eh8us2AChrw
                 - name: Demo Video 2
                   url: https://www.youtube.com/watch?v=YCj7Vo5RDek
-              linkedin_url: https://www.linkedin.com/company/shabodi
             organization:
               name: Shabodi
+              linkedin: https://www.linkedin.com/company/shabodi
       - subcategory:
         name: Associate
         items:
@@ -278,6 +279,7 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/open-mobile-alliance
             organization:
               name: Open Mobile Alliance (OMA)
+              linkedin: https://www.linkedin.com/company/open-mobile-alliance
           - item:
             name: TNO, the Netherlands Organisation for Applied Scientific Research
             homepage_url: https://tno.nl/
