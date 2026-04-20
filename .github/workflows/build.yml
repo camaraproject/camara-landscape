@@ -5,11 +5,17 @@ on:
   schedule:
     - cron: "0 4 * * *"
 
+permissions: {}
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+  
 jobs:
   build:
     runs-on: ubuntu-24.04
     steps:
-      - uses: jmertic/lfx-landscape-tools@beb983679eda9283caf216efdeea56ca6b8f83fe # 20260414
+      - uses: jmertic/lfx-landscape-tools@1e618658f433f7ffd6320630fc528ad683ef9530 # 20260418
         with:
           project_processing: skip
           member_processing: sync
