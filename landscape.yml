@@ -64,10 +64,7 @@ landscape:
             name: Orange SA
             homepage_url: https://orange.com/
             logo: orange_sa.svg
-            description: |-
-              Orange is one of the world’s leading telecommunications operators. The Group aims to be the trusted partner for everyday digital life by providing individuals, businesses and communities with reliable connectivity and innovative services. As of the end of 2025, Orange connects 340 million customers (including MasOrange) across 26 countries and generated 40.4 billion euros in revenues.
-              As a trusted player, Orange leverages the excellence of its very high-speed broadband networks to deploy digital infrastructure in Europe, Africa and the Middle East. The Group is a European leader in fiber, with 100 million connectable households, and convergent offers. In France, Orange connects 34 million customers and was ranked No. 1 by the regulator Arcep for the quality of its mobile network for the 15th consecutive year. In Africa and the Middle East, the Group’s growth engine, Orange serves nearly 180 million customers and promotes digital and financial inclusion through its connected solutions.
-              Under the Orange Business brand, the Group supports companies in transforming their networks as well as in AI, trusted cloud and cybersecurity. Orange is also a major player in the wholesale market, where it has a leading global telecom infrastructure and significant capabilities for deploying and operating submarine cables. A committed innovator, Orange relies on 700 researchers and holds a portfolio of 11,000 patents.
+            description: "Orange is one of the world’s leading telecommunications operators. The Group aims to be the trusted partner for everyday digital life by providing individuals, businesses and communities with reliable connectivity and innovative services. As of the end of 2025, Orange connects 340 million customers (including MasOrange) across 26 countries and generated 40.4 billion euros in revenues.\nAs a trusted player, Orange leverages the excellence of its very high-speed broadband networks to deploy digital infrastructure in Europe, Africa and the Middle East. The Group is a European leader in fiber, with 100 million connectable households, and convergent offers. In France, Orange connects 34 million customers and was ranked No. 1 by the regulator Arcep for the quality of its mobile network for the 15th consecutive year. In Africa and the Middle East, the Group’s growth engine, Orange serves nearly 180 million customers and promotes digital and financial inclusion through its connected solutions.\nUnder the Orange Business brand, the Group supports companies in transforming their networks as well as in AI, trusted cloud and cybersecurity. Orange is also a major player in the wholesale market, where it has a leading global telecom infrastructure and significant capabilities for deploying and operating submarine cables. A committed innovator, Orange relies on 700 researchers and holds a portfolio of 11,000 patents."
             second_path:
               - Operation / Operators
             crunchbase: https://www.crunchbase.com/organization/orange
@@ -186,11 +183,7 @@ landscape:
             name: HAYO TELECOM
             homepage_url: https://hayo.net/
             logo: hayo_telecom.svg
-            description: |-
-              Hayo is a global digital service provider that combines networking, 
-                technologies and digital solutions to deliver on-the-ground innovation. IoT 
-                & AI, Voice & Messaging, CPaaS & CCaaS, Security, National Mobile 
-                Registries and Digital Convergenc...
+            description: "Hayo is a global digital service provider that combines networking, \n  technologies and digital solutions to deliver on-the-ground innovation. IoT \n  & AI, Voice & Messaging, CPaaS & CCaaS, Security, National Mobile \n  Registries and Digital Convergenc..."
             second_path:
               - Operation / Hyperscalers, CPaaS Providers, Aggregators
           - item:
