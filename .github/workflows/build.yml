@@ -3,15 +3,24 @@ name: Build Landscape from LFX
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 4 * * *"
+  - cron: "0 4 * * *"
+
+permissions: {} # workflow default: deny-all
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   build:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
     steps:
-      - uses: jmertic/lfx-landscape-tools@beb983679eda9283caf216efdeea56ca6b8f83fe # 20260414
+      - uses: jmertic/lfx-landscape-tools@1e618658f433f7ffd6320630fc528ad683ef9530 # 20260418
         with:
-          project_processing: skip
+          project_processing: skip # see options in action.yml
           member_processing: sync
         env:
           token: ${{ secrets.GITHUB_TOKEN }}
