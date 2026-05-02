@@ -187,6 +187,8 @@ landscape:
             homepage_url: https://focus112.com/
             logo: focus_data_services_limited.svg
             description: Focus Data 112 provides compliance software for law enforcement and telcos, streamlining the process of managing communications data to provide insights and intelligence efficiently.
+            second_path:
+              - Operation / API Customers
           - item:
             name: HAYO TELECOM
             homepage_url: https://hayo.net/
