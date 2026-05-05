@@ -221,12 +221,6 @@ landscape:
             second_path:
               - Operation / API Customers
           - item:
-            name: Sent, Inc.
-            homepage_url: https://sent.dm/
-            logo: sent_inc.svg
-            second_path:
-              - Operation / Hyperscalers, CPaaS Providers, Aggregators
-          - item:
             name: Shabodi
             homepage_url: https://shabodi.com/
             logo: shabodi.svg
