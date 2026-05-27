@@ -193,11 +193,7 @@ landscape:
             name: HAYO TELECOM
             homepage_url: https://hayo.net/
             logo: hayo_telecom.svg
-            description: |-
-              Hayo is a global digital service provider that combines networking, 
-                technologies and digital solutions to deliver on-the-ground innovation. IoT 
-                & AI, Voice & Messaging, CPaaS & CCaaS, Security, National Mobile 
-                Registries and Digital Convergenc...
+            description: Hayo is a global digital service provider that combines networking, technologies and digital solutions to deliver on-the-ground innovation. IoT & AI, Voice & Messaging, CPaaS & CCaaS, Security, National Mobile Registries and Digital Convergence Hubs
             second_path:
               - Operation / Hyperscalers, CPaaS Providers, Aggregators
           - item:
