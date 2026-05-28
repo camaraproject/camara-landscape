@@ -1500,6 +1500,12 @@ landscape:
             second_path:
               - Operation / API Customers
           - item:
+            name: Vonage
+            homepage_url: https://www.vonage.com/
+            logo: Vonage_Logo.svg
+            second_path:
+              - Operation / Hyperscalers, CPaaS Providers, Aggregators
+          - item:
             name: WCG
             homepage_url: https://www.wraycastle.com/
             logo: wcg.svg
