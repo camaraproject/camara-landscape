@@ -625,8 +625,15 @@ landscape:
             name: CPaasAA
             homepage_url: https://cpaasaa.com/
             logo: cpaasaa.svg
+            description: CPaaSAA exists to bring together the telcos, CPaaS platforms, AI innovators, contact center leaders, CRM vendors, voice AI builders, hyperscalers and enterprises who will shape the next era of communications. As the home of the Intelligent Engagement ecosystem, CPaaSAA provides a space for the industry to think together, build together, and move together through this generational inflection point in the communications stack.
             second_path:
               - Planning / Associations
+            extra:
+              other_links:
+                - name: Contact
+                  url: mailto:info@cpaasaa.com
+                - name: Case Directory
+                  url: https://cpaasaa.com/case-directory
           - item:
             name: CSL
             homepage_url: https://www.hkcsl.com/
