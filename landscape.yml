@@ -942,8 +942,9 @@ landscape:
               - Operation / API Customers
           - item:
             name: KDDI
-            homepage_url: https://www.kt.com/
+            homepage_url: https://www.kddi.com/
             logo: kddi.svg
+            description: KDDI Corporation is one of Japan's leading telecommunications companies, providing mobile communications, fixed-line broadband, and digital solutions. Headquartered in Tokyo, KDDI operates its primary mobile brand au, serving more than 70 million mobile subscribers across Japan. Beyond traditional telecom services, KDDI is actively expanding into cloud computing, IoT, data platforms, and digital transformation support for enterprises, and is a key participant in global industry initiatives including the GSMA Open Gateway and the CAMARA project.
             second_path:
               - Operation / Operators
           - item:
