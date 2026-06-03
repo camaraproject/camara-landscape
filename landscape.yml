@@ -887,7 +887,7 @@ landscape:
             name: ION
             homepage_url: https://www.ionsmart.eu/
             logo: ion.svg
-            description: ION SMART transforms any video source into operational intelligence capable of understanding, remembering and analyzing what is happening in real time. We turn video into an actionable visual memory that allows us to anticipate incidents, guarantee traceability, act autonomously and make decisions with advantage.
+            description: IONSMART transforms any video source into operational intelligence capable of understanding, remembering and analyzing what is happening in real time. We turn video into an actionable visual memory that allows us to anticipate incidents, guarantee traceability, act autonomously and make decisions with advantage.
             second_path:
               - Operation / API Customers
               - Solution Provider / Independent Software Vendors
