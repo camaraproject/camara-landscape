@@ -976,8 +976,15 @@ landscape:
             name: Kubermatic
             homepage_url: https://kubermatic.com
             logo: kubermatic.svg
+            description: Kubermatic automates Kubernetes and cloud-native infrastructure management for network operators and enterprises across multi-cloud, edge, and on-premises environments, enabling reliable deployment of the services that power modern network capabilities.
             second_path:
-              - Solution Provider / Network Capability Solution Providers
+              - Solution Provider / Independent Software Vendors
+            extra:
+              other_links:
+                - name: Contact
+                  url: mailto:marketing@kubermatic.com
+                - name: Telecommunications Case Studies
+                  url: https://www.kubermatic.com/customers/telecommunications/
           - item:
             name: LatenceTech
             homepage_url: https://www.latencetech.com/
