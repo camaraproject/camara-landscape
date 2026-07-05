@@ -6,17 +6,6 @@ landscape:
         name: Premier
         items:
           - item:
-            name: Accenture Global Solutions Limited
-            homepage_url: https://accenture.com/
-            logo: accenture_global_solutions_limited.svg
-            description: Founded in 1989 and headquartered in Dublin, Ireland, Accenture is a company that provides services and solutions in strategy, consulting, digital, technology, and operations. The company serves customers in industries including communications, media and technology, financial services, health and public service, as well as products and resources.
-            second_path:
-              - Planning / Ecosystem Consultants & Training Partners
-            crunchbase: https://www.crunchbase.com/organization/accenture
-            twitter: https://twitter.com/Accenture
-            extra:
-              linkedin_url: https://www.linkedin.com/company/accenture
-          - item:
             name: AT&T Services, Inc.
             homepage_url: https://att.com/
             logo: at_t_services_inc.svg
@@ -196,12 +185,6 @@ landscape:
             description: Hayo is a global digital service provider that combines networking, technologies and digital solutions to deliver on-the-ground innovation. IoT & AI, Voice & Messaging, CPaaS & CCaaS, Security, National Mobile Registries and Digital Convergence Hubs
             second_path:
               - Operation / Hyperscalers, CPaaS Providers, Aggregators
-          - item:
-            name: KYXSTART
-            homepage_url: https://kyxstart.com/
-            logo: kyxstart.svg
-            second_path:
-              - Operation / API Customers
           - item:
             name: Nearby Computing
             homepage_url: https://nearbycomputing.com/
