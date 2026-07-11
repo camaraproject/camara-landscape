@@ -976,6 +976,12 @@ landscape:
                 - name: Telecommunications Case Studies
                   url: https://www.kubermatic.com/customers/telecommunications/
           - item:
+            name: KYXSTART
+            homepage_url: https://kyxstart.com/
+            logo: kyxstart.svg
+            second_path:
+              - Operation / API Customers
+          - item:
             name: LatenceTech
             homepage_url: https://www.latencetech.com/
             logo: latencetech.svg
