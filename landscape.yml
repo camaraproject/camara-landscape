@@ -1073,6 +1073,12 @@ landscape:
             second_path:
               - Solution Provider / Network Capability Solution Providers
           - item:
+            name: Metricell
+            homepage_url: https://www.metricell.com/
+            logo: metricell.svg
+            second_path:
+              - Solution Provider / Network Capability Solution Providers
+          - item:
             name: Microcks
             homepage_url: https://microcks.io
             repo_url: https://github.com/microcks/microcks
