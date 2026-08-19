@@ -1284,6 +1284,12 @@ landscape:
             second_path:
               - Operation / Operators
           - item:
+            name: Randra
+            homepage_url: https://randra.net/
+            logo: randra.svg
+            second_path:
+              - Operation / Hyperscalers, CPaaS Providers, Aggregators
+          - item:
             name: Red Hat
             homepage_url: https://www.redhat.com/
             logo: redhat.svg
