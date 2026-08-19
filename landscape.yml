@@ -1577,3 +1577,10 @@ landscape:
             logo: zte.svg
             second_path:
               - Solution Provider / Network Capability Solution Providers
+          - item:
+            name: Zumigo
+            homepage_url: https://zumigo.com/
+            logo: zumigo.svg
+            description: Zumigo is a digital identity intelligence and fraud prevention company that helps businesses verify users and stop fraud in real time using mobile carrier data, device intelligence, and behavioral signals. Our core capabilities — including phone number risk scoring, SIM-based authentication, and identity verification — enable frictionless, high-assurance trust decisions across account opening, authentication, and transaction monitoring. Zumigo partners with mobile network operators globally to turn network-level signals into actionable fraud and identity insights for banks, fintechs, and enterprises.
+            second_path:
+              - Operation / API Customers
