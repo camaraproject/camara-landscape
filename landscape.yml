@@ -285,6 +285,8 @@ landscape:
             homepage_url: https://utsa.edu/
             logo: university_of_texas_at_san_antonio.svg
             description: The University of Texas at San Antonio is a state research university in San Antonio, Texas, United States. UTSA offers a wide array of academic studies, with 133 undergraduate, 51 graduate and 24 doctoral programs. UTSA is a member of the Oak Ridge Associated Universities, a consortium of the nation's major doctorate-level universities dedicated to collaboration and scientific advancement. It is an institutional member of the Hispanic Association of Colleges and Universities, recognizing its influence and role as a Hispanic-serving institution. UTSA is also a member of the American Association of State Colleges and Universities, an organization of public institutions that seek to both offer educational excellence and opportunities to historically under-served populations.
+            second_path:
+              - Planning / Research Partners
             crunchbase: https://www.crunchbase.com/organization/the-university-of-texas-at-san-antonio
             twitter: https://twitter.com/UTSA
             extra:
