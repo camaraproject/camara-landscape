@@ -92,6 +92,17 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/telefonica-global-solutions
           - item:
+            name: TELUS Corporation
+            homepage_url: https://telus.com/
+            logo: telus_corporation.svg
+            description: Telus Communications Inc. is a subsidiary of Telus Corporation.
+            second_path:
+              - Operation / Operators
+            crunchbase: https://www.crunchbase.com/organization/telus
+            twitter: https://twitter.com/TELUS
+            extra:
+              linkedin_url: https://www.linkedin.com/company/telus
+          - item:
             name: T-Mobile PCS Holdings LLC
             homepage_url: https://t-mobile.com/
             logo: t_mobile_pcs_holdings_llc.svg
@@ -1500,12 +1511,6 @@ landscape:
             name: Telstra
             homepage_url: https://www.telstra.com.au/
             logo: telstra.svg
-            second_path:
-              - Operation / Operators
-          - item:
-            name: TELUS
-            homepage_url: https://www.telus.com/
-            logo: telus.svg
             second_path:
               - Operation / Operators
           - item:
