@@ -1514,12 +1514,6 @@ landscape:
             second_path:
               - Operation / Operators
           - item:
-            name: TELUS
-            homepage_url: https://www.telus.com/
-            logo: telus.svg
-            second_path:
-              - Operation / Operators
-          - item:
             name: TIM
             homepage_url: https://www.tim.com.br/
             logo: tim.svg
