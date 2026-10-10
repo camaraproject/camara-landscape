@@ -96,6 +96,8 @@ landscape:
             homepage_url: https://telus.com/
             logo: telus_corporation.svg
             description: Telus Communications Inc. is a subsidiary of Telus Corporation.
+            second_path:
+              - Operation / Operators
             crunchbase: https://www.crunchbase.com/organization/telus
             twitter: https://twitter.com/TELUS
             extra:
