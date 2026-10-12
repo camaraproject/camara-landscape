@@ -1058,11 +1058,13 @@ landscape:
             second_path:
               - Planning / Associations
           - item:
-            name: LocationGuru
+            name: LocationGuru Solutions FZCO
             homepage_url: https://locationguru.com/
             logo: locationguru.svg
             second_path:
-              - Operation / API Customers
+              - Solution Provider / API Exposure Platform Solution Providers
+              - Solution Provider / Transformation Function Solution Providers
+              - Solution Provider / Network Capability Solution Providers
           - item:
             name: LotusFlare
             homepage_url: https://www.lotusflare.com/
