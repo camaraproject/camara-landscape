@@ -10,7 +10,7 @@
 
 The Landscape is generated nightly from the data in this repository using the [Landscape2](https://github.com/cncf/landscape2) tool. Member data is pulled automatically from LFX each night. LFX-managed fields (name, logo, description, homepage) will be overwritten; project-specific fields (second_path, extra) are preserved.
 
-**Members:** To update your organization's name, logo, or description, please do so through your organization's LFX dashboard at `https://myorg.lfx.dev`. Changes will be reflected in the Landscape automatically on the next automatic build.
+   **Members:** To update your organization's name, logo, or description, please do so in LFX at [https://app.lfx.dev](https://app.lfx.dev). Changes will be reflected in the Landscape automatically on the next automatic build.
 
 **Participating Organizations:** To add or update your entry, please open a pull request as described below, or send a request to [adm@lists.camaraproject.org](mailto:adm@lists.camaraproject.org).
 
