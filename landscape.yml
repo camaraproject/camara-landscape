@@ -198,6 +198,8 @@ landscape:
             homepage_url: https://courzad.com/
             logo: courzad.svg
             description: Courzad offers comprehensive 5G network solutions, telecom services, and IoT consulting globally, driving innovation and connectivity for businesses worldwide.
+            second_path:
+              - Solution Provider / Network Capability Solution Providers
           - item:
             name: Focus Data Services Limited
             homepage_url: https://focus112.com/
