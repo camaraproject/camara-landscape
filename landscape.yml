@@ -194,6 +194,13 @@ landscape:
                 - name: BryteIQ Platform
                   url: https://www.bryteiq.com
           - item:
+            name: Courzad
+            homepage_url: https://courzad.com/
+            logo: courzad.svg
+            description: Courzad offers comprehensive 5G network solutions, telecom services, and IoT consulting globally, driving innovation and connectivity for businesses worldwide.
+            second_path:
+              - Solution Provider / Network Capability Solution Providers
+          - item:
             name: Focus Data Services Limited
             homepage_url: https://focus112.com/
             logo: focus_data_services_limited.svg
@@ -207,6 +214,13 @@ landscape:
             description: Hayo is a global digital service provider that combines networking, technologies and digital solutions to deliver on-the-ground innovation. IoT & AI, Voice & Messaging, CPaaS & CCaaS, Security, National Mobile Registries and Digital Convergence Hubs
             second_path:
               - Operation / Hyperscalers, CPaaS Providers, Aggregators
+          - item:
+            name: Monty UK Global Ltd
+            homepage_url: https://montyholding.com/
+            logo: monty_uk_global_ltd.svg
+            description: Monty Holding, established in 1998, is a telecom powerhouse with global connections and a focus on cutting-edge solutions for partners in diverse sectors.
+            second_path:
+              - Solution Provider / Network Capability Solution Providers
           - item:
             name: Nearby Computing
             homepage_url: https://nearbycomputing.com/
