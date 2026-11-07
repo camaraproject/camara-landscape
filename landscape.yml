@@ -92,6 +92,42 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/telefonica-global-solutions
           - item:
+            name: Telstra Limited
+            homepage_url: https://telstra.com/
+            logo: telstra_limited.svg
+            description: |-
+              Telstra is Australia��_��_s leading telecommunications and information services company, offering a full range of communications services and competing in all telecommunications markets. In Australia we provide 16.4 million mobile services, 7.4 million fixed voice services and 3 million retail fixed broadband services. We believe the more connected people are, the more opportunities they have. That's why we help create a brilliant connected future for everyone, everyday. That��_��_s why we build technology and content solutions that are simple and easy to use, including Australia��_��_s largest and fastest national mobile network. That��_��_s why we strive to serve and know our customers better than anyone else ��_��_��_ offering a choice of not just digital connection, but digital content as well. And that��_��_s why we have an international presence spanning 15 countries, including China. In the 21st century, opportunity belongs to connected businesses, governments, communities and individuals. As Australia��_��_s leading telecommunications and information services company, Telstra is proud to be helping our customers improve the ways in which they live and work through connection.
+
+
+
+
+
+              Website
+
+              http://www.telstra.com
+
+              Industry
+
+              Telecommunications
+
+              Type
+
+              Public Company
+
+              Company Size
+
+              10,001+ employees
+
+              Founded
+
+              1901
+            second_path:
+              - Operation / Operators
+            crunchbase: https://www.crunchbase.com/organization/telstra-ventures
+            twitter: https://twitter.com/Telstra
+            extra:
+              linkedin_url: https://www.linkedin.com/company/telstra
+          - item:
             name: TELUS Corporation
             homepage_url: https://telus.com/
             logo: telus_corporation.svg
@@ -1523,12 +1559,6 @@ landscape:
             logo: telqon.svg
             second_path:
               - Operation / Hyperscalers, CPaaS Providers, Aggregators
-          - item:
-            name: Telstra
-            homepage_url: https://www.telstra.com.au/
-            logo: telstra.svg
-            second_path:
-              - Operation / Operators
           - item:
             name: TIM
             homepage_url: https://www.tim.com.br/
