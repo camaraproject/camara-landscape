@@ -121,6 +121,8 @@ landscape:
               Founded
 
               1901
+            second_path:
+              - Operation / Operators
             crunchbase: https://www.crunchbase.com/organization/telstra-ventures
             twitter: https://twitter.com/Telstra
             extra:
