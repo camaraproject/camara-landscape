@@ -1560,12 +1560,6 @@ landscape:
             second_path:
               - Operation / Hyperscalers, CPaaS Providers, Aggregators
           - item:
-            name: Telstra
-            homepage_url: https://www.telstra.com.au/
-            logo: telstra.svg
-            second_path:
-              - Operation / Operators
-          - item:
             name: TIM
             homepage_url: https://www.tim.com.br/
             logo: tim.svg
